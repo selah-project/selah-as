@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "তাপ্পুৱাখৰ ৰজা এজন; হেফেৰৰ ৰজা এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "তাপ্পুৱাখৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "হেফেৰৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:26.933875746Z",
+  "model": "glm-5.3"
+}

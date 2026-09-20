@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "ভালৰ সলনি বেয়া ঘূৰাই দিয়াজনৰ ঘৰৰ পৰা বেয়া আঁতৰি নাযায়।",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "ঘূৰাই দিয়াজনে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "সলনি"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "আঁতৰি যায়"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "তেওঁৰ ঘৰৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:11.544999703Z",
+  "model": "glm-5.3"
+}

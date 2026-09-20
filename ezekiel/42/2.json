@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 42,
+  "translation": "শত কিউবিট দৈৰ্ঘ্যৰ সন্মুখত আছিল উত্তৰৰ দুৱাৰ, আৰু প্ৰস্থ আছিল পঞ্চাশ কিউবিট।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "פני",
+      "gloss": "সন্মুখ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "দৈৰ্ঘ্য"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "কিউবিট"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "শত"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "দুৱাৰ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "উত্তৰৰ"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "আৰু প্ৰস্থ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "কিউবিট"
+    }
+  ],
+  "timestamp": "2026-09-20T01:56:14.426675237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু আভ্‌দোন, আৰু জিখৰি, আৰু হানান।",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "আৰু আভ্‌দোন"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "আৰু জিখৰি"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "আৰু হানান"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:36.104297480Z",
+  "model": "glm-5.3"
+}

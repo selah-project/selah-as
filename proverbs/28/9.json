@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "যি মানুহে তোৰা শুনাৰ পৰা নিজৰ কাণ আঁতৰায়, তেওঁৰ প্ৰাৰ্থনাও ⟨অতি⟩ ঘৃণিত।",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "আঁতৰায়"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "নিজৰ কাণ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "শুনাৰ পৰা"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "তোৰা"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…ও"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "তেওঁৰ প্ৰাৰ্থনা"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ঘৃণিত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:18.764315710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 92,
+  "translation": "সংগীত-সংহত এটা গীত, শ্বাব্বাত ⟨জিৰণিৰ দিন⟩-ৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "সংগীত-সংহত"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "দিনটোৰ বাবে"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "শ্বাব্বাতৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:57:19.428032841Z",
+  "model": "glm-5.3"
+}

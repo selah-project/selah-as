@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "এইবোৰ গতত হাৰাপালৈ জন্মিছিল, আৰু দাৱিদৰ হাতত আৰু তেওঁৰ দাসসকলৰ হাতত পতিত হ'ল।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "জন্মিছিল"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "হাৰাপালৈ"
+    },
+    {
+      "surface": "বגת",
+      "gloss": "গতত"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "আৰু পতিত হ'ল"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতত"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "আৰু হাতত"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "তেওঁৰ দাসসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:34:19.520566279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "য়োএল নাতানৰ ভায়েক, মিবখাৰ হাগ্ৰীৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "য়োএল"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ভায়েক"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতানৰ"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "মিবখাৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "হাগ্ৰীৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:14.853925053Z",
+  "model": "glm-5.3"
+}

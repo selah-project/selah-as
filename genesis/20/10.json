@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "আৰু আভিমেলেখে আভ্ৰাহামক ক'লে, “কি দেখালে, যে আপুনি ⟨את⟩ এই কথাষাৰ কৰিলে?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "আভিমেলেখে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ক"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্ৰাহাম"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "দেখালে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "কৰিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই কথাষাৰ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথাষাৰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T21:35:15.757493686Z",
+  "model": "glm-5.3"
+}

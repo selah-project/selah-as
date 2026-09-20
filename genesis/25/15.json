@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "হাদাদ, আৰু তেমা, য়েতুৰ, নাফিশ, আৰু কেদেমাহ।",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "হাদাদ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "আৰু তেমা"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "য়েতুৰ"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "নাফিশ"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "আৰু কেদেমাহ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:37:27.716612756Z",
+  "model": "glm-5.3"
+}

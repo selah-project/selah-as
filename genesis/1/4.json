@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু এলোহিমে ⟨את⟩ পোহৰ দেখিলে যে ই ভাল; আৰু এলোহিমে পোহৰ আৰু আন্ধাৰৰ মাজত পৃথক কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "আৰু দেখিলে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পোহৰ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "পোহৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "আৰু পৃথক কৰিলে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…ৰ মাজত"
+    },
+    {
+      "surface": "האור",
+      "gloss": "পোহৰ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "আৰু …ৰ মাজত"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "আন্ধাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:37.186470722Z",
+  "model": "glm-5.3"
+}

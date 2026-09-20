@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "যদি মাটিত তাৰ শিপা বুঢ়া হয়, আৰু ধূলিত তাৰ গুৰি মৰে —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "বুঢ়া হয়"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "মাটিত"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "তাৰ শিপা"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "আৰু ধূলিত"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "মৰে"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "তাৰ গুৰি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:34:30.223186001Z",
+  "model": "glm-5.3"
+}

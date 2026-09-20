@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "কেহাতৰ পুতেকসকল — আমৰাম, ইৎচহাৰ, হেব্ৰোন আৰু বউজ্জিয়েল, চাৰিজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কেহাতৰ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "আমৰাম"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ইৎচহাৰ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "হেব্ৰোন"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "আৰু বউজ্জিয়েল"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চাৰিজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:43.320559549Z",
+  "model": "glm-5.3"
+}

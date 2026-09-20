@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু জিজা — শিফিৰ পুত্ৰ, আল্লোনৰ পুত্ৰ, য়েদায়াহৰ পুত্ৰ, শিমৰিৰ পুত্ৰ, শ্বেমায়াহৰ পুত্ৰ।",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "আৰু জিজা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "শিফি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "আল্লোন"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "য়েদায়াহ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "শিমৰি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "শ্বেমায়াহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:41.731605439Z",
+  "model": "glm-5.3"
+}

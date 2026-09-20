@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "হিলকিয়াহৰ — হাশাব্যাহ; য়িদায়াহৰ — নেতানেল।",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "হিলকিয়াহৰ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "হাশাব্যাহ"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "য়িদায়াহৰ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "নেতানেল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:23:44.365682780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "চকুবোৰ মদৰ পৰা উজলি উঠে, আৰু দাঁতবোৰ গাখীৰৰ পৰা ধোঁৱা-বগা।",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "উজলি উঠে"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "চকুবোৰ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "মদৰ পৰা"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "আৰু ধোঁৱা-বগা"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দাঁতবোৰ"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "গাখীৰৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:51:48.871766030Z",
+  "model": "glm-5.3"
+}

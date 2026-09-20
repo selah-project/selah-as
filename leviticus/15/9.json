@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু যি কোনো জিন অসুস্থ জনে তাৰ ওপৰত ব্যৱহাৰ কৰে, সেয়া অশুদ্ধ হ'ব।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আৰু যি কোনো"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "জিন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "ব্যৱহাৰ কৰে"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তাৰ ওপৰত"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "অসুস্থ জনে"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "অশুদ্ধ হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:21:17.526420380Z",
+  "model": "glm-5.3"
+}

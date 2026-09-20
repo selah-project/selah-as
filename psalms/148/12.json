@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 148,
+  "translation": "ডেকা সকল আৰু কুমাৰীসকলো, বুঢ়াসকল লগত ল'ৰা-ছোৱালী,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ডেকা সকল"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "আৰু …ও"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "কুমাৰীসকল"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "বুঢ়াসকল"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ল'ৰা-ছোৱালী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:11:34.349669179Z",
+  "model": "glm-5.3"
+}

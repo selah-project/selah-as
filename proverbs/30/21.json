@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "তিনিটা কাৰণে পৃথিৱী কঁপে, আৰু চাৰিটা কাৰণে ⟨সেয়া⟩ বহন কৰিব নোৱাৰে:",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "তিনিটা কাৰণে — তলত"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "কঁপে"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিৱী"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "আৰু তলত"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নোৱাৰে"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "সক্ষম"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "বহন কৰিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:07.929279827Z",
+  "model": "glm-5.3"
+}

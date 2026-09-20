@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু য়ৰ্দেনৰ সিপাৰে, পূব দিশত, আৰবাৰ সকলো ভাগ, আৰু আৰবাৰ সাগৰলৈকে, পিচগাৰ ঢালবোৰৰ তলত।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "আৰবাৰ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "সিপাৰে"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "য়ৰ্দেনৰ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "পূব দিশত"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "আৰু … লৈকে"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সাগৰ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "আৰবাৰ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "ঢালবোৰৰ"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "পিচগাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:50:44.794047275Z",
+  "model": "glm-5.3"
+}

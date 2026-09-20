@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আন এলামৰ সন্তানসকল এহেজাৰ দুশ চুৱান্ন জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "এলামৰ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "আন"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুশ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাচ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "আৰু চাৰি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:13.525176305Z",
+  "model": "glm-5.3"
+}

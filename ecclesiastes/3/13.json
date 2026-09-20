@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু প্ৰতিজন মানুহে যে খায় আৰু পান কৰে আৰু নিজৰ সকলো পৰিশ্ৰমত ভাল দেখে — সেয়া এলোহিমৰ দান।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "আৰু লগতে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্ৰতিজন"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "যে খায়"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "আৰু পান কৰে"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "আৰু দেখে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সকলোতে"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "তাৰ পৰিশ্ৰমত"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "দান"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সেয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:37.888282439Z",
+  "model": "glm-5.3"
+}

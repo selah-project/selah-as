@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "আৰু সেই দিনা ইয়াহৱেহৰ ক্ৰোধ জ্বলিল, আৰু তেওঁ শপত খাই ক'লে —",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "জ্বলিল"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ক্ৰোধ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "শপত খালে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:22.530817310Z",
+  "model": "glm-5.3"
+}

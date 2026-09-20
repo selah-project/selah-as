@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "ৰূবেন জীয়াই থাকক আৰু নমৰাই কি, আৰু তেওঁৰ মানুহসকল সংখ্যাত থাকক।",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "জীয়াই থাকক"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ৰূবেন"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "নমৰাই কি"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হওক"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "তেওঁৰ মানুহসকল"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "সংখ্যাত"
+    }
+  ],
+  "timestamp": "2026-09-19T23:05:41.411045058Z",
+  "model": "glm-5.3"
+}

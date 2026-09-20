@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু তোমালোকে মোক ⟨אתי⟩ উত্তৰ দিলে আৰু ক'লে, তুমি কৰিবলৈ কোৱা কথাষাৰ ভাল।",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "আৰু তোমালোকে উত্তৰ দিলে"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "মোক"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথাষাৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "তুমি ক'লা"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "কৰিবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:58.969546495Z",
+  "model": "glm-5.3"
+}

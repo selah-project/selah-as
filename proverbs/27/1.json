@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "আগলৈ অহা দিনৰ বিষয়ে গৰ্ব নকৰিবা, কিয়নো এটা দিনে কি জন্ম দিব তুমি নাজানা।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "গৰ্ব"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনৰ বিষয়ে"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "আগলৈ অহা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাজানা"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "তুমি নাজানা"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিব"
+    },
+    {
+      "surface": "יום",
+      "gloss": "এটা দিনে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:35.116657361Z",
+  "model": "glm-5.3"
+}

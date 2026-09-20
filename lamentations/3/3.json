@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "নিশ্চয়ে মোৰ বিৰুদ্ধেই তেওঁ ঘূৰি আহিছে; গোটেই দিনটো তেওঁ তেওঁৰ হাত ওলোটাই থাকে।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "নিশ্চয়ে"
+    },
+    {
+      "surface": "בי",
+      "gloss": "মোৰ বিৰুদ্ধে"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ঘূৰি আহিছে"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ওলোটাই থাকে"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "তেওঁৰ হাত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "গোটেই"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিনটো"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:18.188626292Z",
+  "model": "glm-5.3"
+}

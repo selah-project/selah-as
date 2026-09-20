@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "চেলেক ⟨the⟩ আম্মোনীয়া, নাৰাই ⟨the⟩ বেৰোতীয়া — য়োৱাব চৰুয়াহৰ পুতেকৰ অস্ত্ৰ-বাহক।",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "চেলেক"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "⟨the⟩ আম্মোনীয়া"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "নাৰাই"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "⟨the⟩ বেৰোতীয়া"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "বাহক"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "অস্ত্ৰ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "য়োৱাব"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "চৰুয়াহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:14.854058530Z",
+  "model": "glm-5.3"
+}

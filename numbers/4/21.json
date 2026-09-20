@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক ক'লে, কৈ ⟨ক'বলৈ⟩,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ৰ প্ৰতি"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:29:30.759622816Z",
+  "model": "glm-5.3"
+}

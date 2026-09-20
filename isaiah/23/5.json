@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "মিৎচৰায়িমত খবৰ পোৱাৰ দৰে, চোৰৰ খবৰ শুনাত তেওঁলোক মৰ্মাহত হ'ব।",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "খবৰ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "মিৎচৰায়িমত"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "মৰ্মাহত হ'ব"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "শুনাৰ দৰে"
+    },
+    {
+      "surface": "צר",
+      "gloss": "চোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:40:54.038794561Z",
+  "model": "glm-5.3"
+}

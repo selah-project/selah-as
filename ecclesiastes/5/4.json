@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "ভাল সেয়া যে প্ৰতিজ্ঞা নকৰা, প্ৰতিজ্ঞা কৰি তাৰ পূৰ্ণ নকৰাতকৈ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "প্ৰতিজ্ঞা কৰা"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "প্ৰতিজ্ঞা কৰাতকৈ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু ন"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "পূৰ্ণ কৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:25:54.061207257Z",
+  "model": "glm-5.3"
+}

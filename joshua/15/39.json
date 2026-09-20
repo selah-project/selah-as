@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "লাখিশ, বসকত আৰু এগলোন,",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "লাখিশ"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "আৰু বসকত"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "আৰু এগলোন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:35.568263313Z",
+  "model": "glm-5.3"
+}

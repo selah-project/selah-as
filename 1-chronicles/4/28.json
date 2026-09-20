@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু তেওঁলোকে বিৰ-শ্বেৱাত, মোলাদাত আৰু হাচাৰ-শ্বুৱালত বাস কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "বাস কৰিলে"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "বিৰ-শ্বেৱাত"
+    },
+    {
+      "surface": "שבע",
+      "gloss": ""
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "মোলাদাত"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "হাচাৰ-শ্বুৱালত"
+    },
+    {
+      "surface": "שועל",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:08.705432254Z",
+  "model": "glm-5.3"
+}

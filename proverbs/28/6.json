@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "নিষ্ঠাৰে চলা দুখীয়াজন, পথত বাক্ৰতা থকাতকৈ যি ধনী, তাৰতকৈ উত্তম।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "רש",
+      "gloss": "দুখীয়া"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "চলা"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "নিষ্ঠাত"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "বাক্ৰতা"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "আৰু সি"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ধনী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:03.696686320Z",
+  "model": "glm-5.3"
+}

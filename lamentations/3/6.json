@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ মোক অন্ধকাৰসমূহত বহালে, পুৰণি কালৰ মৃতসকলৰ দৰে।",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "অন্ধকাৰসমূহত"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "মোক বহালে"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "মৃতসকলৰ দৰে"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "পুৰণি কালৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:54.221963844Z",
+  "model": "glm-5.3"
+}

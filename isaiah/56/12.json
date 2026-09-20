@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 56:12",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 56,
+  "translation": "“আহা, মই মদ লওঁ, আৰু আমি সুৰা পান কৰোঁ; আৰু কালি আজিৰ দৰেই হ’ব — বহুত ডাঙৰ, অতি অধিক।”",
+  "tokens": [
+    {
+      "surface": "אתיו",
+      "gloss": "আহা"
+    },
+    {
+      "surface": "אקחה",
+      "gloss": "মই লওঁ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "ונסבאה",
+      "gloss": "আৰু আমি পান কৰোঁ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "সুৰা"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "আৰু হ’ব"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "আজিৰ দৰেই"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "কালি"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "বহুত ডাঙৰ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "অধিক"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    }
+  ],
+  "timestamp": "2026-09-20T00:52:03.595441304Z",
+  "model": "glm-5.3"
+}

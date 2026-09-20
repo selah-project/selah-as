@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "জাত্তুৰ সন্তানসকল — আঠশ চল্লিশ আৰু পাঁচ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "জাত্তুৰ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "আঠ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "আৰু পাঁচ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:37.986581134Z",
+  "model": "glm-5.3"
+}

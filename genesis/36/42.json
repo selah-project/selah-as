@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "কেনাজৰ সৰদাৰ, তেমানৰ সৰদাৰ, মিবৎচাৰৰ সৰদাৰ।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "কেনাজৰ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "তেমানৰ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "মিবৎচাৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:16.440356066Z",
+  "model": "glm-5.3"
+}

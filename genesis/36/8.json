@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "আৰু এচাৱে শ্বেইৰ পৰ্বতত বাস কৰিলে; সেই এচাৱেই ⟨is⟩ এদোম।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "বাস কৰিলে"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এচাৱে"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "পৰ্বতত"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "শ্বেইৰ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "সেই এচাৱেই"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইয়া"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:57.131125362Z",
+  "model": "glm-5.3"
+}

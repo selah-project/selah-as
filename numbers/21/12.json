@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "তাৰ পৰা তেওঁলোকে যাত্ৰা কৰি জেৰেদ নদীখনত শিবিৰ পাতিলে।",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "তাৰ পৰা"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "যাত্ৰা কৰিলে"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "শিবিৰ পাতিলে"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "নদীখনত"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "জেৰেদ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:38:39.500436622Z",
+  "model": "glm-5.3"
+}

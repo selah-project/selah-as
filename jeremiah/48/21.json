@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "আৰু বিচাৰ সমতল ভূমিৰ দেশলৈ আহিছে — হোলনলৈ আৰু য়াহচাহলৈ আৰু মোফাআতৰ ওপৰত।",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "আৰু বিচাৰ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহিছে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "সমতল ভূমিৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "হোলন"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু …লৈ"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "য়াহচাহ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "মোফাআত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:24:49.805997662Z",
+  "model": "glm-5.3"
+}

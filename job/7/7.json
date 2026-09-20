@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "মনত ৰাখিবা যে মোৰ জীৱন ⟨উশাহ⟩ মাথোঁ; মোৰ চকুৱে পুনৰ মঙল নেদেখিব।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "মনত ৰাখিবা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨উশাহ⟩"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "মোৰ জীৱন"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নে"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "পুনৰ ঘূৰি আহিব"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "মোৰ চকুৱে"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "দেখিবলৈ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "মঙল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:31:25.067075054Z",
+  "model": "glm-5.3"
+}

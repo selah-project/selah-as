@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 46,
+  "translation": "আৰু লেৱীৰ পুতেকসকল: গেৰেশ্বোন, কেহাত আৰু মেৰাৰী।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লেৱীৰ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "গেৰেশ্বোন"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কেহাত"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "আৰু মেৰাৰী"
+    }
+  ],
+  "timestamp": "2026-09-19T21:49:20.853913732Z",
+  "model": "glm-5.3"
+}

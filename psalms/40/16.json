@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 40,
+  "translation": "মোক “হেআখ, হেআখ” বুলি কোৱাসকল নিজৰ লজ্জাৰ ফলস্বৰূপে উজন্ধ হওক।",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "উজন্ধ হওক"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ বাবে"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ফলস্বৰূপে"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "নিজৰ লজ্জা"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "কোৱাসকল"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "האח",
+      "gloss": "হেআখ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "হেআখ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:40:32.640917629Z",
+  "model": "glm-5.3"
+}

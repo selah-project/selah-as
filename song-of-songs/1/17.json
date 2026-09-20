@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আমাৰ ঘৰৰ মাৰিবোৰ ⟨আছে⟩ দেৱদাৰু গছৰ, আৰু আমাৰ ফলাবোৰ চন্দ্ৰগছৰ।",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "মাৰিবোৰ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "আমাৰ ঘৰৰ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "দেৱদাৰু গছ"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "আমাৰ ফলাবোৰ"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "চন্দ্ৰগছৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:46:00.570901346Z",
+  "model": "glm-5.3"
+}

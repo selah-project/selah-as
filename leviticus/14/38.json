@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "তেতিয়া পুৰোহিতজনে ঘৰৰ পৰা ঘৰৰ দুৱাৰমুখলৈ ওলাই যাব, আৰু ⟨את⟩ ঘৰটো সাত দিনৰ বাবে বন্ধ কৰি ৰাখিব।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ওলাই যাব"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতজনে"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "দুৱাৰমুখ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "বন্ধ কৰি ৰাখিব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ঘৰটো"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ঘৰটো"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:43.338156976Z",
+  "model": "glm-5.3"
+}

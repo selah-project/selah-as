@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "মই উত্তৰ দিলোঁ আৰু মোৰ সৈতে কথা পাতি থকা দূতজনক ক’লোঁ, “মোৰ প্ৰভু, এইবোৰ কি?”",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "উত্তৰ দিলোঁ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ক’লোঁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ক"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "দূতজনক"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথা পাতি থকা"
+    },
+    {
+      "surface": "בי",
+      "gloss": "মোৰ সৈতে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "মোৰ প্ৰভু"
+    }
+  ],
+  "timestamp": "2026-09-20T02:23:02.391549971Z",
+  "model": "glm-5.3"
+}

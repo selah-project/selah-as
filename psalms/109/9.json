@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 109,
+  "translation": "তেওঁৰ পুতেকবোৰ অনাথ হওক, আৰু তেওঁৰ পত্নী বিধৱা হওক।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "হওক"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তেওঁৰ পুতেকবোৰ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "অনাথ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "আৰু তেওঁৰ পত্নী"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "বিধৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:02:26.560438212Z",
+  "model": "glm-5.3"
+}

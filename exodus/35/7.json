@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "ৰঙাকৈ ৰং কৰা ভেড়াৰ ছাল, তখচ-ৰ ছাল আৰু শ্বিত্তিম কাঠ।",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ছাল"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ভেড়াৰ"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ৰঙাকৈ ৰং কৰা"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ছাল"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "তখচ-ৰ"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "কাঠ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "শ্বিত্তিম"
+    }
+  ],
+  "timestamp": "2026-09-19T22:08:39.176620824Z",
+  "model": "glm-5.3"
+}

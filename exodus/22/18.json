@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "যি কোনোৱে জন্তুৰ লগত শুই থাকে, সি মৃত্যুদণ্ডে মৃত্যুবৰণ কৰিব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "শুই থকা"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "জন্তু"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যু"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "মৃত্যুবৰণ কৰিব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:03:15.535686189Z",
+  "model": "glm-5.3"
+}

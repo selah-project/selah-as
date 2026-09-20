@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "চোৰক লোকে ঘৃণা নকৰে যেতিয়া সি ক্ষুধাতুৰ হৈ নিজৰ প্ৰাণ ভৰাবলৈ চুৰি কৰে।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নকৰে"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "ঘৃণা কৰে"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "চোৰক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "চুৰি কৰে"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "ভৰাবলৈ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "নিজৰ প্ৰাণ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "ক্ষুধাতুৰ হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:10.799021584Z",
+  "model": "glm-5.3"
+}

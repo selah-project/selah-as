@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "তেওঁলোকৰ পাছত হোশ্বায়াহ আৰু য়েহূদাৰ ছৰসকলৰ আধাংশ গ'ল।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "তেওঁলোকৰ পাছত"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "হোশ্বায়াহ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "আৰু ...আধাংশ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ছৰসকলৰ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "য়েহূদাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:23:33.946834741Z",
+  "model": "glm-5.3"
+}

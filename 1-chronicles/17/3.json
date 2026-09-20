@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "আৰু সেই ৰাতিয়েই ঘটিল যে এলোহিমৰ বাক্য নাতানৰ ওচৰলৈ আহিল, কৈ—",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু ঘটিল"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ঘটিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতানৰ ওচৰলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:34:18.262658366Z",
+  "model": "glm-5.3"
+}

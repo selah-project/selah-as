@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু এলোন আৰু তিমনতাহ আৰু একৰোন।",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "আৰু এলোন"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "আৰু তিমনতাহ"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "আৰু একৰোন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:15:56.419920604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "“ইয়াহৱেহ মোৰ অংশ”, মোৰ প্ৰাণে ক'লে; সেয়েহে মই তেওঁৰ বাবে আশা কৰোঁ।",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "মোৰ অংশ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "মোৰ প্ৰাণে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ বাবে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "আশা কৰোঁ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:10.941988986Z",
+  "model": "glm-5.3"
+}

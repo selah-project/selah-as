@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "কিয়নো জ্ঞানীজনৰ মূৰ্খতকৈ কি অতিৰিক্ত? জীৱিতসকলৰ সন্মুখত খোজ কৰা জনা দৰিদ্ৰৰ ⟨আকৌ⟩ কি লাভ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "অতিৰিক্ত"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "জ্ঞানীজনৰ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "তকৈ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "মূৰ্খ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "দৰিদ্ৰৰ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জনা"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "খোজ কৰা"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "জীৱিতসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:39.791682096Z",
+  "model": "glm-5.3"
+}

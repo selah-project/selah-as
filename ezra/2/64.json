@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "গোটেই সমাজ একেলগে — চাৰি বিয়ন, দুই হাজাৰ, তিনিশ, ষাঠিজন।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "গোটেই"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "সমাজ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "একেলগে"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "বিয়ন"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুই হাজাৰ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনিশ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ষাঠিজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:13:44.339966057Z",
+  "model": "glm-5.3"
+}

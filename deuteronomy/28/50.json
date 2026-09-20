@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "কঠোৰ মুখাৱয়বৰ জাতি, যিয়ে বৃদ্ধৰ মুখ নুশুধায়, আৰু ডেকাৰ প্ৰতিও দয়া নকৰে।",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "עז",
+      "gloss": "কঠোৰ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখাৱয়বৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিয়ে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "নুশুধায়"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "বৃদ্ধৰ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "আৰু ডেকাৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "দয়া নকৰে"
+    }
+  ],
+  "timestamp": "2026-09-19T23:04:06.305752801Z",
+  "model": "glm-5.3"
+}

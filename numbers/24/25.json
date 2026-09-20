@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 24:25",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "তাৰ পাছত বিল্‌আমে উঠি গ'ল আৰু নিজৰ ঠাইলৈ ঘূৰি গ'ল; আৰু বালাকো নিজৰ পথেৰে গ'ল।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "উঠিলে"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "বিল্‌আমে"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ঘূৰি গ'ল"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "নিজৰ ঠাইলৈ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "আৰু …ও"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "বালাক"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "নিজৰ পথেৰে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:41:37.295213907Z",
+  "model": "glm-5.3"
+}

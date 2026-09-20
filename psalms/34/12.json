@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "আহা সন্তানসকল, মোক শুনা; মই তোমালোকক ইয়াহৱেহৰ ভয় শিকাম।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "আহা"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "শিকাম"
+    }
+  ],
+  "timestamp": "2026-09-20T02:37:19.786523788Z",
+  "model": "glm-5.3"
+}

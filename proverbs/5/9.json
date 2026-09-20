@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "নহ'লে তুমি তোমাৰ বল আনসকলক দিবা, আৰু তোমাৰ বছৰবোৰ নিষ্ঠুৰজনক দিবা।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "নহ'লে"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "দিবা"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "আনসকলক"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "তোমাৰ বল"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "আৰু তোমাৰ বছৰবোৰ"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "নিষ্ঠুৰজনক"
+    }
+  ],
+  "timestamp": "2026-09-20T05:23:33.628274288Z",
+  "model": "glm-5.3"
+}

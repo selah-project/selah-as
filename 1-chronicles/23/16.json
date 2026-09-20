@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "গেৰেশ্বোমৰ পুতেকসকলৰ ভিতৰত শ্বেবুএল আছিল মুৰব্বী।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকলৰ ভিতৰত"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "গেৰেশ্বোমৰ"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "শ্বেবুএল"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "মুৰব্বী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:36:08.047922726Z",
+  "model": "glm-5.3"
+}

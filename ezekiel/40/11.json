@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 40,
+  "translation": "তেওঁ ⟨את⟩ দুৱাৰৰ প্ৰৱেশপথৰ প্ৰস্থ জুখিলে — দহ হাত; আৰু দুৱাৰৰ দৈৰ্ঘ্য তেৰ হাত।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "তেওঁ জুখিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "প্ৰৱেশপথৰ প্ৰস্থ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "প্ৰস্থ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "প্ৰৱেশপথ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "দুৱাৰৰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "দৈৰ্ঘ্য"
+    },
+    {
+      "surface": "השער",
+      "gloss": "দুৱাৰৰ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "তেৰ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(তেৰ)"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "হাত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:54:39.611313209Z",
+  "model": "glm-5.3"
+}

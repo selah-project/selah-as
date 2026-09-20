@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "গৰ্জন্তা সিংহ আৰু দৌৰি ফুৰা ভালুক — দুখীয়া জনতাৰ ওপৰত ৰাজত্ব কৰা দুষ্টজন তেনেই।",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "সিংহ"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "গৰ্জন্তা"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "আৰু ভালুক"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "দৌৰি ফুৰা"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ৰাজত্ব কৰা"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্টজন"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "עם",
+      "gloss": "জনতাৰ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "দুখীয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:07.222924844Z",
+  "model": "glm-5.3"
+}

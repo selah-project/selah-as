@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "সেইদিনাই এচাভ নিজৰ পথেদি চেইৰলৈ ঘূৰি গ'ল।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ঘূৰি গ'ল"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনাই"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এচাভ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "নিজৰ পথেদি"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "চেইৰলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:59:30.599236480Z",
+  "model": "glm-5.3"
+}

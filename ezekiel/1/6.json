@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু সিহতৰ প্ৰত্যেকৰ চাৰিটা মুখ আৰু চাৰিখন পাখি ⟨আছিল⟩।",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "আৰু চাৰিটা"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "প্ৰত্যেকৰ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "আৰু চাৰিখন"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "পাখি"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "প্ৰত্যেকৰ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "সিহতৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:28:54.750324384Z",
+  "model": "glm-5.3"
+}

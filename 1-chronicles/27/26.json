@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "আৰু মাটিৰ সেৱাৰ বাবে পথাৰৰ কাম কৰাসকলৰ ওপৰত আছিল এজৰি, কেলুবৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "কৰাসকল"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "কাম"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "পথাৰৰ"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "সেৱাৰ বাবে"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "মাটিৰ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "এজৰি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "কেলুবৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:37:40.777436817Z",
+  "model": "glm-5.3"
+}

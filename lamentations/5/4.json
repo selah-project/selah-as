@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আমাৰ পানী মূল্য দি আমি খালোঁ; আমাৰ কাঠ দামত আহে।",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "আমাৰ পানী"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "মূল্য দি"
+    },
+    {
+      "surface": "שתিঠו",
+      "gloss": "আমি খালোঁ",
+      "note": "surface should be שתינו"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "আমাৰ কাঠ"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "দামত"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "আহে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:47.035845547Z",
+  "model": "glm-5.3"
+}

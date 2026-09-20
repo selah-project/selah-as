@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "প্ৰীতিকৰ কথাবোৰ ⟨এ⟩ মৌ-চানেকি; প্ৰাণৰ বাবে মিঠা, আৰু হাড়ৰ বাবে আৰোগ্য।",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "চানেকি"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "মৌ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "প্ৰীতিকৰ"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "মিঠা"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "প্ৰাণৰ বাবে"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "আৰু আৰোগ্য"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "হাড়ৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:09.603419293Z",
+  "model": "glm-5.3"
+}

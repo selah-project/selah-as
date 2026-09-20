@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "সি ভাঙে আৰু নত হয়; ⟨দুখীয়াসকল⟩ সিৰ শক্তিৰ দ্বাৰা পৰে।",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ভাঙে"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "নত হয়"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "পৰে"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "সিৰ শক্তিৰ দ্বাৰা"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "দুখীয়াসকল"
+    }
+  ],
+  "timestamp": "2026-09-20T02:30:57.507200195Z",
+  "model": "glm-5.3"
+}

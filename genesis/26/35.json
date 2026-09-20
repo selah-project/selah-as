@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু তেওঁলোক ইৎচহাক আৰু ৰিব্কাহৰ আত্মাৰ তিক্ততা আছিল।",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "তিক্ততা"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "আত্মাৰ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ইৎচহাক"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "আৰু ৰিব্কাহৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:37:44.697051226Z",
+  "model": "glm-5.3"
+}

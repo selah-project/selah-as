@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "শুনা, পুতেকসকল, এজন পিতৃৰ ⟨এই⟩ শিক্ষা, আৰু বুদ্ধি জানিবলৈ কাণ দিয়া।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শিক্ষা"
+    },
+    {
+      "surface": "אב",
+      "gloss": "পিতৃৰ"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "কাণ দিয়া"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "জানিবলৈ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বুদ্ধি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:51.553310019Z",
+  "model": "glm-5.3"
+}

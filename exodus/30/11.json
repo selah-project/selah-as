@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক এই দৰে ক'লে।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ক"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই দৰে কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:07:00.615847838Z",
+  "model": "glm-5.3"
+}

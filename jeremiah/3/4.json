@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "এতিয়াৰ পৰাই তুমি মোক মাতিছিলানে — “মোৰ পিতৃ, তুমিয়েই মোৰ যৌৱনৰ সংগী”?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "নহয়নে"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "এতিয়াৰ পৰা"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "তুমি মাতিছিলা"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "মোৰ পিতৃ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সংগী"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "মোৰ যৌৱনৰ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    }
+  ],
+  "timestamp": "2026-09-20T05:16:54.528782669Z",
+  "model": "glm-5.3"
+}

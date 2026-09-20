@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "পোন্ধৰ নম্বৰৰ ইয়িৰেমোত, তেওঁৰ পুতেকসকল আৰু তেওঁৰ ভাতৃসকল — বাৰ্হৈ গণ।",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "পাঁচক"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "সৈতে দহ"
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "ইয়িৰেমোত"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তেওঁৰ পুতেকসকল"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "আৰু তেওঁৰ ভাতৃসকল"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:23.280878516Z",
+  "model": "glm-5.3"
+}

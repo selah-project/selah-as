@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "হাৰিমৰ পুতেকসকল — এহেজাৰ সততেৰশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "হাৰিমৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "আৰু সাত"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:22.544659322Z",
+  "model": "glm-5.3"
+}

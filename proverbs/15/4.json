@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "নিৰাময়কাৰী জিভা ⟨হৈছে⟩ জীৱনৰ গছ, কিন্তু তাৰ বিকৃতি আত্মাত ভাঙন।",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "নিৰাময়কাৰী"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভা"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "গছ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱনৰ"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "আৰু বিকৃতি"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাৰ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ভাঙন"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "আত্মাত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:37.992740288Z",
+  "model": "glm-5.3"
+}

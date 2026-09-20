@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "তোমাৰ হৃদয়ে পাপীসকলৰ প্ৰতি ঈৰ্ষা নকৰিব, কিন্তু সকলো দিন ইয়াহৱেহৰ ভয়ত ⟨থাকিব⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নকৰিব"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ঈৰ্ষা কৰিব"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "তোমাৰ হৃদয়"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "পাপীসকলৰ প্ৰতি"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিন্তু"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ভয়ত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:30.105586970Z",
+  "model": "glm-5.3"
+}

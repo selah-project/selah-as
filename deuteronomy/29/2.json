@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "তোমাৰ চকুৱে দেখা সেই ডাঙৰ পৰীক্ষাবোৰ, সেই চিনবোৰ আৰু সেই ডাঙৰ আশ্চৰ্য্যসমূহ।",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "পৰীক্ষাবোৰ"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "দেখা"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "তোমাৰ চকুৱে"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "চিনবোৰ"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "আৰু আশ্চৰ্য্যসমূহ"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "সেইবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:02:51.009918519Z",
+  "model": "glm-5.3"
+}

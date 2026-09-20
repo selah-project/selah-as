@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "ঢাল আৰু বৰ্চি ধৰক, আৰু মোৰ সহায়ৰ বাবে উঠি থাওক।",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "ধৰক"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ঢাল"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "আৰু বৰ্চি"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "আৰু উটক"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "মোৰ সহায়ৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:38:18.231024601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আনকি হাঁহিতো হৃদয় বিষন্ন হয়, আৰু আনন্দৰ শেষ হৈছে দুখ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "আনকি"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "হাঁহিতো"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "বিষন্ন হয়"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "আৰু তাৰ শেষ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "আনন্দ"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "দুখ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:25.060782254Z",
+  "model": "glm-5.3"
+}

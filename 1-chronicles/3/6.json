@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ইভহাৰ, এলিশ্বামা আৰু এলিফেলেত।",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "আৰু ইভহাৰ"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "আৰু এলিশ্বামা"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "আৰু এলিফেলেত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:17.533943674Z",
+  "model": "glm-5.3"
+}

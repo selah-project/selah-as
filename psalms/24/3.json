@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "কোনে ইয়াহৱেহৰ পৰ্বতত উঠিব, আৰু কোনে তেওঁৰ পবিত্ৰ স্থানত থিয় হ'ব?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "উঠিব"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "পৰ্বতত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "আৰু কোনে"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "থিয় হ'ব"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "স্থানত"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "তেওঁৰ পবিত্ৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:36:08.938887965Z",
+  "model": "glm-5.3"
+}

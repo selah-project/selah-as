@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "চল্লিশ দিনৰ অন্তত তেওঁলোকে দেশ নিৰীক্ষণ কৰি ঘূৰি আহিলে।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ঘূৰি আহিলে"
+    },
+    {
+      "surface": "מתור",
+      "gloss": "নিৰীক্ষণ কৰি"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "অন্তত"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিনৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:34:21.736711923Z",
+  "model": "glm-5.3"
+}

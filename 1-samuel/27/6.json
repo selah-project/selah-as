@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "সেই দিনা আখিছে তেওঁক ⟨את⟩ চিকলাগ দিলে; সেয়ে চিকলাগ এই দিনলৈকে য়েহুদাৰ ৰজাসকলৰ হৈ আছে।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "আখিছে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চিকলাগ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "চিকলাগ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "হৈ আছে"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "চিকলাগ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ৰজাসকলৰ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "য়েহুদাৰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিনলৈ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T23:46:34.062376546Z",
+  "model": "glm-5.3"
+}

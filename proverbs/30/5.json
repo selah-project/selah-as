@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "এলোৱাহৰ প্ৰতিটো বাক্য শোধিত; তেওঁ তেওঁত আশ্ৰয় লোৱাসকলৰ ঢাল।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "প্ৰতিটো"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "এলোৱাহৰ"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "শোধিত"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ঢাল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "আশ্ৰয় লোৱাসকলৰ বাবে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তেওঁত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:04.024201971Z",
+  "model": "glm-5.3"
+}

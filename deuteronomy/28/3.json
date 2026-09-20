@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "ধন্য তুমি নগৰত, আৰু ধন্য তুমি পথাৰত।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "নগৰত"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "আৰু ধন্য"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "পথাৰত"
+    }
+  ],
+  "timestamp": "2026-09-19T23:03:18.249700361Z",
+  "model": "glm-5.3"
+}

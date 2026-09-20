@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 56,
+  "translation": "পথাৰৰ সকলো জন্তু, খাবলৈ আহা, অৰণ্যৰ সকলো জন্তু।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "জন্তু"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "পথাৰৰ"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "আহা"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "খাবলৈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "জন্তু"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "অৰণ্যৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:52:03.594826721Z",
+  "model": "glm-5.3"
+}

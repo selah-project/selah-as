@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "বেনায়াহ, ভেদায়াহ, কেলুহাই।",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "বেনায়াহ"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "ভেদায়াহ"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "কেলুহাই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:15:56.997107537Z",
+  "model": "glm-5.3"
+}

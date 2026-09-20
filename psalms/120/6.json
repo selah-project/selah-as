@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 120,
+  "translation": "বহু দিন ধৰি শান্তি ঘৃণা কৰাসকলৰ সৈতে মোৰ প্ৰাণে বাস কৰিলে।",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "বহু দিন ধৰি"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "বাস কৰিলে"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨তাৰ⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "মোৰ প্ৰাণে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ঘৃণা কৰাসকলৰ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:06:30.108751481Z",
+  "model": "glm-5.3"
+}

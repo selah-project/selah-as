@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু সন্ধিয়া হ'ল, আৰু ৰাতিপুৱা হ'ল — পঞ্চম দিন।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "সন্ধিয়া"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ৰাতিপুৱা"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "পঞ্চম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:04.796061270Z",
+  "model": "glm-5.3"
+}

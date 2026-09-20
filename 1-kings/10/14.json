@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু সোণৰ ওজন ⟨আছিল⟩ যি এক বছৰত শ্বেলোমোৰ ওচৰলৈ আহিছিল — ছয়শ ষাঠি আৰু ছয় কিক্কৰ সোণ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু ⟨আছিল⟩"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ওজন"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহিছিল"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "শ্বেলোমোৰ ওচৰলৈ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "বছৰত"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ষাঠি"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "আৰু ছয়"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "কিক্কৰ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:07:11.467701387Z",
+  "model": "glm-5.3"
+}

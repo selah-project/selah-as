@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু আভ্ৰাম ⟨আছিল⟩ পশুধন, ৰূপ আৰু সোণত অতি গধুৰ ⟨অৰ্থাৎ সমৃদ্ধ⟩।",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "আৰু আভ্ৰাম"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "গধুৰ ⟨অৰ্থাৎ সমৃদ্ধ⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "পশুধনত"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ৰূপত"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "আৰু সোণত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:30:01.584406196Z",
+  "model": "glm-5.3"
+}

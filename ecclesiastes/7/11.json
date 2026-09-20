@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "জ্ঞান উত্তৰাধিকাৰৰ লগত ভাল, আৰু সূৰ্য দেখাসকলৰ বাবে ই ⟨লাভ⟩।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "উত্তৰাধিকাৰৰ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "⟨লাভ⟩"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "দেখাসকলৰ বাবে"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:18.905976165Z",
+  "model": "glm-5.3"
+}

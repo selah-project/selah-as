@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "দানৰ ⟨মুৰব্বী⟩ — আম্মিশ্বাদ্দাইৰ পুত্ৰ অহিয়েজেৰ।",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "দানৰ"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "অহিয়েজেৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "আম্মিশ্বাদ্দাইৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:09.011587351Z",
+  "model": "glm-5.3"
+}

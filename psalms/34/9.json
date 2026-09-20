@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "সোণাও আৰু চাও যে ইয়াহৱেহ ভাল ⟨ব্যক্তি⟩; তেওঁত আশ্ৰয় লোৱা মানুহজন ধন্য।",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "সোণাও"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "আৰু চাও"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "মানুহজন"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "আশ্ৰয় লোৱা"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তেওঁত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:37:19.785925128Z",
+  "model": "glm-5.3"
+}

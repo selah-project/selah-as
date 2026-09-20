@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "শাসক জনে মিছা কথাৰ প্ৰতি কাণ পাতে — তেওঁৰ সকলো সেৱক ⟨সকল⟩ দুষ্ট।",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "শাসক জনে"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "কাণ পাতে"
+    },
+    {
+      "surface": "על",
+      "gloss": "প্ৰতি"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিছা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "তেওঁৰ সেৱক সকল"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্ট"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:14.380850328Z",
+  "model": "glm-5.3"
+}

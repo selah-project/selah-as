@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ছাগলীৰ এটা মতা পোৱালি, পাপ-উৎসৰ্গৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "মতা পোৱালি"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ছাগলীৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "পাপ-উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:30:56.806357746Z",
+  "model": "glm-5.3"
+}

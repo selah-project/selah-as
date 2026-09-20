@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "আৰু লেয়াই ক'লে, “ভাগ্য!” আৰু তেওঁ ⟨את⟩ তেওঁৰ নাম গদ মাতিলে।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লেয়াই"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ভাগ্য"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "আৰু মাতিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তেওঁৰ নাম"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তেওঁৰ নাম"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গদ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:38:51.427667900Z",
+  "model": "glm-5.3"
+}

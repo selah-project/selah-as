@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "সূৰ্য্যও ⟨তেওঁ⟩ নেদেখিলে, আৰু ⟨তেওঁ⟩ নাজানিলে — এইজনৰ সেইজনতকৈ অধিক জিৰণি।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "সূৰ্য্য"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "দেখিলে"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানিলে"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "জিৰণি"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "এইজনৰ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "সেইজনতকৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:39.791049211Z",
+  "model": "glm-5.3"
+}

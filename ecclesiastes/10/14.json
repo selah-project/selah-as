@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু মূৰ্খে কথা বঢ়ায়; ⟨কিন্তু⟩ মানুহে নাজানে কি হ'ব, আৰু তেওঁৰ পাছত কি হ'ব — সেয়া কোনে তেওঁক ক'ব পাৰে?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "আৰু মূৰ্খে"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "বঢ়ায়"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "আৰু সেই"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "তেওঁৰ পাছত"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ক'ব পাৰে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:05.787724340Z",
+  "model": "glm-5.3"
+}

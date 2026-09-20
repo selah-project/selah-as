@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 42,
+  "translation": "পশ্চিম দিশলৈ ঘূৰি তেওঁ জুখিলে — পাঁচশ কাঠি, জোখাৰ কাঠিৰে।",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "ঘূৰি গ'ল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "দিশ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সাগৰৰটো ⟨পশ্চিম⟩"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "জুখিলে"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "কাঠি"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "কাঠিৰে"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "জোখাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:55:32.776488032Z",
+  "model": "glm-5.3"
+}

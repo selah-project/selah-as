@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 43,
+  "translation": "আৰু ইয়াহৱেহৰ মহিমাই সেই দুৱাৰজানিৰে ভৱনত প্ৰৱেশ কৰিলে, যাৰ মুখ পূব দিশে আছিল।",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "আৰু মহিমাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "প্ৰৱেশ কৰিলে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...-লৈ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ভৱন"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ৰে"
+    },
+    {
+      "surface": "שער",
+      "gloss": "দুৱাৰজানিৰে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাৰ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "দিশে"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "পূব"
+    }
+  ],
+  "timestamp": "2026-09-20T01:56:05.519588449Z",
+  "model": "glm-5.3"
+}

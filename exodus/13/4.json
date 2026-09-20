@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আবিব মাহত তোমালোক এই দিনা ওলাই আহিছা।",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "এই দিনা"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "তোমালোক"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ওলাই আহিছা"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "মাহত"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "আবিব"
+    }
+  ],
+  "timestamp": "2026-09-19T21:58:57.255126742Z",
+  "model": "glm-5.3"
+}

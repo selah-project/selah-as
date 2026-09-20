@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "অৱশিষ্টে ঘূৰি আহিব, য়াকোভৰ অৱশিষ্টে, শক্তিমান এলৰ ওচৰলৈ।",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "অৱশিষ্ট"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ঘূৰি আহিব"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "অৱশিষ্ট"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "শক্তিমান"
+    }
+  ],
+  "timestamp": "2026-09-20T00:37:12.347858970Z",
+  "model": "glm-5.3"
+}

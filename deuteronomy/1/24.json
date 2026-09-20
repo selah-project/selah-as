@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু তেওঁলোকে ঘূৰি পাহাৰলৈ উঠিল, আৰু এশ্বকল উপত্যকালৈ আহিল, আৰু ⟨the⟩ তাক ⟨את⟩ অন্বেষণ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ঘূৰি"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "পাহাৰলৈ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "উপত্যকা"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "এশ্বকল"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "অন্বেষণ কৰিলে"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "তাক (দেশখন)"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:16.929174659Z",
+  "model": "glm-5.3"
+}

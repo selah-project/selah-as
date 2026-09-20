@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু ভেটি ⟨আছিল⟩ মূল্যৱান পাথৰৰ, ডাঙৰ পাথৰৰ — দহ হাতৰ পাথৰ আৰু আঠ হাতৰ পাথৰ।",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "আৰু ভেটি"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "পাথৰ"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "মূল্যৱান"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "পাথৰ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "পাথৰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "আৰু পাথৰ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "আঠ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "হাত"
+    }
+  ],
+  "timestamp": "2026-09-20T00:04:34.409271870Z",
+  "model": "glm-5.3"
+}

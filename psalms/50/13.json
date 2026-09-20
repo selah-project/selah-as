@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 50,
+  "translation": "ষাঁড়ৰ মাংস মই কি খাওঁ, আৰু পোৱালি ছাগলীৰ তেজ পান কৰোঁ?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "কি খাওঁ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "ষাঁড়ৰ"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "আৰু তেজ"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "পোৱালি ছাগলীৰ"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "পান কৰোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:42:45.016424122Z",
+  "model": "glm-5.3"
+}

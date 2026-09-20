@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "ওদেদৰ পুত্ৰ আজাৰিয়াহুৰ ওপৰত এলোহিমৰ আত্মা আছিল।",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "আৰু আজাৰিয়াহু"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ওদেদ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তেওঁৰ ওপৰত"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "আত্মা"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:45:44.727791354Z",
+  "model": "glm-5.3"
+}

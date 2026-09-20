@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু চৰুইয়াহৰ পুতেক অবিশ্বয়ে ⟨את⟩ এদোমক লুণৰ উপত্যকাত পৰাস্ত কৰিলে — আঠাৰ হাজাৰ।",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "আৰু অবিশ্বয়ে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "চৰুইয়াহৰ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "পৰাস্ত কৰিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এদোমক"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোমক"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "উপত্যকাত"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "লুণৰ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "আঠ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "আঠাৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:34:10.537192284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "কিয়নো নিশ্চয় ⟨এটা⟩ অন্ত আছে, আৰু তোমাৰ আশা কৰ্তন কৰা নহ'ব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নিশ্চয়"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "অন্ত"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "আৰু তোমাৰ আশা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহ'ব"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "কৰ্তন কৰা হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:30.106300248Z",
+  "model": "glm-5.3"
+}

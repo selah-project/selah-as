@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "চাওঁ, তুমি ধুনীয়া, মোৰ প্ৰিয়, মধুৰও; আমাৰ শয্যাও ⟨হৈছে⟩ সেউজীয়া।",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "চাওঁ, তুমি"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ধুনীয়া"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "মোৰ প্ৰিয়"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ও"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "মধুৰ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ও"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "আমাৰ শয্যা"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "সেউজীয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T03:46:56.058441865Z",
+  "model": "glm-5.3"
+}

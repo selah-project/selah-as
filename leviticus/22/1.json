@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "ইয়াহৱেহে মোশ্বেক ক'লে ⟨এইদৰে⟩ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এইদৰে কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:24:20.080051929Z",
+  "model": "glm-5.3"
+}

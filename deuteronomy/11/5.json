@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু মৰুভূমিত তোমালোকৰ বাবে যি কৰিলে — এই ঠাইলৈ তোমালোক অহাৰ লৈকে।",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "আৰু যি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰিলে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকৰ বাবে"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "মৰুভূমিত"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "তোমালোকৰ অহা"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ঠাই"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T22:55:15.258390238Z",
+  "model": "glm-5.3"
+}

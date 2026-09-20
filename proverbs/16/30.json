@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 16:30",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "চকু মুদি ⟨সি⟩ কুটিল কথা আঁচৰে; ওঁঠ চেপি ⟨সি⟩ অকল্যাণ সম্পূৰ্ণ কৰে।",
+  "tokens": [
+    {
+      "surface": "עצה",
+      "gloss": "মুদি"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "চকু"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "আঁচৰে"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "কুটিল কথা"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "চেপি"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "সম্পূৰ্ণ কৰে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "অকল্যাণ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:43.618557037Z",
+  "model": "glm-5.3"
+}

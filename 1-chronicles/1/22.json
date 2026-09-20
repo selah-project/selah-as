@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু ⟨את⟩ এইভল, আৰু ⟨את⟩ আভিমাএল, আৰু ⟨את⟩ শ্বেভা।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "এইভল"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "এইভল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "আভিমাএল"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "আভিমাএল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "শ্বেভা"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "শ্বেভা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:24:44.642652983Z",
+  "model": "glm-5.3"
+}

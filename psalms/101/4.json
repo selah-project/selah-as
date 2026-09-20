@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 101,
+  "translation": "বাঁকা অন্তৰ ⟨এজনে⟩ মোৰ পৰা আঁতৰি যাব; অসৎ কাৰ্য ⟨একো⟩ মই নাজানোঁ।",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "অন্তৰ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "বাঁকা"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "আঁতৰি যাব"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোৰ পৰা"
+    },
+    {
+      "surface": "רע",
+      "gloss": "অসৎ কাৰ্য"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "মই জানোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:59:45.392288596Z",
+  "model": "glm-5.3"
+}

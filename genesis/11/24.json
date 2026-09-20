@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "নাখোৰে ন আৰু বিশ বছৰ জীয়াই ৰ'ল, আৰু ⟨את⟩ তেৰাখক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "জীয়াই ৰ'ল"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "নাখোৰে"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ন"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "আৰু বিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তেৰাখক"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "তেৰাখ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:26.165085764Z",
+  "model": "glm-5.3"
+}

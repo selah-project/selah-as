@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "মই ⟨ঘূৰি আহিলোঁ⟩, মোৰ চকু দাঙিলোঁ আৰু চালোঁ, আৰু চাওঁ — এখন উৰি থকা পুথি।",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "ঘূৰি আহিলোঁ"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "দাঙিলোঁ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "মোৰ চকু"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "চালোঁ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চাওঁ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "পুথি"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "উৰি থকা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:23:59.988182704Z",
+  "model": "glm-5.3"
+}

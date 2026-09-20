@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "সপ্তম হাকোৎচক, অষ্টম আবিয়াহক।",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "হাকোৎচক"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "সপ্তম"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "আবিয়াহক"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "অষ্টম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:17.324895969Z",
+  "model": "glm-5.3"
+}

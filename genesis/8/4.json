@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "সপ্তম মাহত, মাহৰ সততৰ দিনা, নাওখন আৰাৰাত পৰ্বতসমূহৰ ওপৰত জিৰালে।",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "জিৰালে"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "নাওখন"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "মাহত"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "সপ্তম"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাহৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "পৰ্বতসমূহৰ"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "আৰাৰাত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:08.453203038Z",
+  "model": "glm-5.3"
+}

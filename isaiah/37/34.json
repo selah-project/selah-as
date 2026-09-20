@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "তেওঁ যি পথেৰে আহিছে, সেই পথেৰেই ঘূৰি যাব, আৰু এই নগৰত সোমা নালাগে — ইয়াহৱেহৰ ঘোষণা।",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "...পথেৰে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহিছে"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাৰ দ্বাৰাই"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ঘূৰি যাব"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু ...ত"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "সোমা"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ঘোষণা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:45:11.994814293Z",
+  "model": "glm-5.3"
+}

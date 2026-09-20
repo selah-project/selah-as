@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তেওঁৰ বাওঁ হাত ⟨⟨⟩⟩ মোৰ মূৰৰ তলত, আৰু তেওঁৰ সোঁ হাতে মোক সাৱটি ধৰে।",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "তেওঁৰ বাওঁ হাত"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "মোৰ মূৰৰ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "আৰু তেওঁৰ সোঁ হাতে"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "মোক সাৱটি ধৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:48:15.188073126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "আৰু কিৰ্য়াতায়িমৰ ওপৰত, আৰু বেইত-গামুলৰ ওপৰত, আৰু বেইত-মেওনৰ ওপৰত।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "কিৰ্য়াতায়িম"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "গামুল"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בेइত"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "মেওন"
+    }
+  ],
+  "timestamp": "2026-09-20T01:24:49.806319026Z",
+  "model": "glm-5.3"
+}

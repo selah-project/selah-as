@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "চল্লাইৰ ⟨ঘৰৰ⟩ কল্লাই; আমোকৰ ⟨ঘৰৰ⟩ এভেৰ।",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "চল্লাইৰ"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "কল্লাই"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "আমোকৰ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "এভেৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:23:13.639283828Z",
+  "model": "glm-5.3"
+}

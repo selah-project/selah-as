@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু ইচ্ৰায়েলৰ সকলো মানুহ উৎসৱত — ⟨সেয়া⟩ সপ্তম মাহ — ৰজাৰ ওচৰলৈ একগোট হ'ল।",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "একগোট হ'ল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ ওচৰলৈ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইচ্ৰায়েলৰ"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "উৎসৱত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সেয়া⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "মাহ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "সপ্তম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:41:12.719061189Z",
+  "model": "glm-5.3"
+}

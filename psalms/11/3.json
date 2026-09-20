@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "কিয়নো ভেটিসমূহ ভাঙি পেলোৱা হ'লে, ধাৰ্মিকজনে ⟨কি কৰিব⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "ভেটিসমূহ"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ভাঙি পেলোৱা হ'লে"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিকজনে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "কৰিব"
+    }
+  ],
+  "timestamp": "2026-09-20T02:32:23.429715941Z",
+  "model": "glm-5.3"
+}

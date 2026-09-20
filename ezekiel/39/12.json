@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 39,
+  "translation": "আৰু ইস্ৰায়েলৰ ঘৰে ⟨את⟩ দেশ শুদ্ধ কৰিবৰ বাবে তেওঁলোকক কবৰ দিব, সাত মাহ ধৰি।",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "আৰু তেওঁলোকক কবৰ দিব"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰে"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "শুদ্ধ কৰিব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দেশ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "মাহ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:52:13.140549891Z",
+  "model": "glm-5.3"
+}

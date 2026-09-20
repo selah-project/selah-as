@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "তোমাৰ খাদ্য পানীৰ পৃষ্ঠত পঠাই দিয়া, কিয়নো বহু দিনৰ পাছত তুমি ইয়াক পুনৰ পাবা।",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "পঠাই দিয়া"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "তোমাৰ খাদ্য"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ৰ ওপৰত"
+    },
+    {
+      "surface": "פני",
+      "gloss": "পৃষ্ঠত"
+    },
+    {
+      "surface": "המים",
+      "gloss": "পানীৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "বহু …ৰ মাজত"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "দিনৰ"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "তুমি ইয়াক পাবা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:29.623813914Z",
+  "model": "glm-5.3"
+}

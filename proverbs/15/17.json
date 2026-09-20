@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "শাকৰ ভোজন আৰু তাত প্ৰেম থাকিলে ভাল, মেদৱান গৰু আৰু তাৰ লগত ঘৃণা থকাতকৈ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "ভোজন"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "শাক"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "আৰু প্ৰেম"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "משור",
+      "gloss": "মেদৱান গৰু"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "মেদুৱাই থোৱা"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "আৰু ঘৃণা"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:20.240084156Z",
+  "model": "glm-5.3"
+}

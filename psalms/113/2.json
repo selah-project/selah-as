@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 113,
+  "translation": "ইয়াহৱেহৰ নাম ধন্য হওক, এতিয়াৰ পৰা ⟨আৰু⟩ অনন্তকাললৈকে।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "হওক"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "এতিয়াৰ পৰা"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "আৰু …লৈকে"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "অনন্তকাল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:02:41.559097350Z",
+  "model": "glm-5.3"
+}

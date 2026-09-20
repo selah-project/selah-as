@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "পৰিশ্ৰমীসকলৰ হাতে শাসন কৰে, আৰু আলস্য জোঁটৰ অধীন হয়।",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "পৰিশ্ৰমীসকলৰ"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "শাসন কৰে"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "আৰু আলস্য"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হয়"
+    },
+    {
+      "surface": "למס",
+      "gloss": "জোঁটৰ অধীন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:53.362970948Z",
+  "model": "glm-5.3"
+}

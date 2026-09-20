@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "জ্ঞানী পুতেকে দেউতাক আনন্দিত কৰে, আৰু মূৰ্খ মানুহে মাক অৱজ্ঞা কৰে।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেকে"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "আনন্দিত কৰে"
+    },
+    {
+      "surface": "אב",
+      "gloss": "দেউতাক"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "আৰু মূৰ্খ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "অৱজ্ঞা কৰে"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "মাক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:20.245473971Z",
+  "model": "glm-5.3"
+}

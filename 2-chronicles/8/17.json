@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "তেতিয়া শ্বেলোমো ইৎচ্যোন-গেবেৰলৈ আৰু এইলোথলৈ গ'ল, সাগৰৰ পাৰত, এদোমৰ দেশত।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমো"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "ইৎচ্যোনলৈ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "-গেবেৰ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু ...লৈ"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "এইলোথ"
+    },
+    {
+      "surface": "על",
+      "gloss": "পাৰত"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "কাষত"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সাগৰৰ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোমৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:29:20.162040549Z",
+  "model": "glm-5.3"
+}

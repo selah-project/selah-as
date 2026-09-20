@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "দহ চেকেলৰ এটা সোণৰ কলহ, ধূপেৰে ভৰা।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "কলহ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ভৰা"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ধূপ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:33:19.163415464Z",
+  "model": "glm-5.3"
+}

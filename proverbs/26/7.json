@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "খচৰাৰ ঠেং দুখন শিথিল হৈ ওলমি থাকে; মূৰ্খসকলৰ মুখত উপমাও তেনে।",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "শিথিল হৈ ওলমি থাকে"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ঠেং"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "খচৰাৰ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "আৰু উপমা"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "মুখত"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "মূৰ্খসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:45.566822373Z",
+  "model": "glm-5.3"
+}

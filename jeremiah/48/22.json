@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "আৰু দিবোনৰ ওপৰত, আৰু নেবোৰ ওপৰত, আৰু বেইত-দিবলাতায়িমৰ ওপৰত।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "দিবোন"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "নেবো"
+    },
+    {
+      "surface": "ועল",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "দিবলাতায়িম"
+    }
+  ],
+  "timestamp": "2026-09-20T01:24:49.806193442Z",
+  "model": "glm-5.3"
+}

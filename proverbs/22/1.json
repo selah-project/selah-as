@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "নাম ⟨নিৰ্বাচিত হয়⟩ বহু ধনতকৈ, ৰূপ আৰু সোণতকৈ ⟨অধিক⟩ ভাল অনুগ্ৰহ।",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "নিৰ্বাচিত হয়"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ধনতকীয়া"
+    },
+    {
+      "surface": "רב",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ৰূপতকীয়া"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "আৰু সোণতকীয়া"
+    },
+    {
+      "surface": "חן",
+      "gloss": "অনুগ্ৰহ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    }
+  ],
+  "timestamp": "2026-09-20T05:24:28.429062896Z",
+  "model": "glm-5.3"
+}

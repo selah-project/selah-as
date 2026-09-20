@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু ৰজাই আৰু সকলো জনতাই ইয়াহৱেহৰ সন্মুখত উৎসর্গ আগবঢ়ালে।",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "আৰু ৰজাই"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনতাই"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "উৎসর্গ আগবঢ়ালে"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "উৎসৰ্গ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:41:10.674568204Z",
+  "model": "glm-5.3"
+}

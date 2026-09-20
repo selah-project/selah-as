@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ মোক বেৰেৰে আৱৰি ধৰিলে যাতে মই ওলাই নাযাওঁ; তেওঁ মোৰ ব্ৰঞ্জৰ শিকলি গধুৰ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "বেৰেৰে আৱৰি ধৰিলে"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "নাযাওঁ"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ওলাই"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "গধুৰ কৰিলে"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "মোৰ ব্ৰঞ্জৰ শিকলি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:54.222098020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ধৰ্মীজনে চিৰকাল কেতিয়াও নকপে, আৰু দুষ্টসকলে ⟨the⟩ পৃথিৱীত বাস নকৰিব।",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ধৰ্মীজনে"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিৰকাল"
+    },
+    {
+      "surface": "בל",
+      "gloss": "কেতিয়াও ন"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "নকপে"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "আৰু দুষ্টসকলে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "বাস নকৰিব"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিৱী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:55.475073342Z",
+  "model": "glm-5.3"
+}

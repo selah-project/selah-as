@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু পল্লুৰ পুতেকসকল: এলিয়াৱ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "পল্লুৰ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "এলিয়াৱ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:41:06.386883194Z",
+  "model": "glm-5.3"
+}

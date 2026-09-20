@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 115,
+  "translation": "তেওঁলোকৰ মূৰ্তিবোৰ ৰূপ আৰু সোণৰ — মানুহৰ হাতৰ কাৰ্য।",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "তেওঁলোকৰ মূৰ্তিবোৰ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ৰূপ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "আৰু সোণ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কাৰ্য"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "হাতৰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:03:21.046680795Z",
+  "model": "glm-5.3"
+}

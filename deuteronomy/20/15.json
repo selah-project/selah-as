@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "এইদৰে তুমি সকলো সেই চহৰৰ বাবে কৰিবা যিবোৰ তোমাৰ পৰা অতি দূৰত ⟨আছে⟩, যিবোৰ এই জাতিসমূহৰ চহৰ নহয় — এইবোৰ ইয়াত।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "কৰিবা"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সকলো …ৰ বাবে"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "চহৰ"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "দূৰত"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "তোমাৰ পৰা"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিবোৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "…ৰ চহৰ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতিসমূহৰ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ইয়াত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:59:14.190890286Z",
+  "model": "glm-5.3"
+}

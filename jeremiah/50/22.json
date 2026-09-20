@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 50,
+  "translation": "দেশত যুদ্ধৰ মাত ⟨আছে⟩, আৰু মহান ভগ্নতা।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "মাত"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধৰ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "আৰু ভগ্নতা"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    }
+  ],
+  "timestamp": "2026-09-20T01:25:08.087181660Z",
+  "model": "glm-5.3"
+}

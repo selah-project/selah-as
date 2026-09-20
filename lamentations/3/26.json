@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ভাল ⟨এয়া যে⟩ মানুহে আশা কৰে আৰু নিমাতে থাকে ইয়াহৱেহৰ পৰিত্ৰাণৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "আশা কৰে"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "আৰু নিমাতে থাকে"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "পৰিত্ৰাণৰ বাবে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:36.559705287Z",
+  "model": "glm-5.3"
+}

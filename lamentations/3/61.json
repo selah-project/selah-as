@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ইয়াহৱেহ, তুমি তেওঁলোকৰ অপমান শুনিছা; মোৰ বিৰুদ্ধে তেওঁলোকৰ সকলো কৌশল ⟨আছে⟩।",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "শুনিছা"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "তেওঁলোকৰ অপমান"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "তেওঁলোকৰ কৌশল"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মোৰ বিৰুদ্ধে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:22.468750324Z",
+  "model": "glm-5.3"
+}

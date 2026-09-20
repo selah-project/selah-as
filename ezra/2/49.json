@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "উজ্জাৰ সন্তানসকল, পাচেহৰ সন্তানসকল, বেচাইৰ সন্তানসকল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "উজ্জাৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "পাচেহৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "বেচাইৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:13:07.882793558Z",
+  "model": "glm-5.3"
+}

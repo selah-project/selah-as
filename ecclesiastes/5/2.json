@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "কিয়নো সপোন বহুত ব্যস্ততাৰ মাজত আহে, আৰু মূৰ্খৰ মাত বহুত কথাৰ মাজত ⟨ওলায়⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহে"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "সপোন"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "বহুত…ৰ মাজত"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ব্যস্ততা"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "আৰু মাত"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "মূৰ্খৰ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "বহুত…ৰ মাজত"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "কথা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:25:51.333588872Z",
+  "model": "glm-5.3"
+}

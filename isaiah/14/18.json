@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "সকলো জাতিৰ ৰজাসকল — সকলোৱেই — মহিমাৰে শুই আছে, প্ৰত্যেকে নিজৰ ঘৰত।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ৰজাসকল"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতিৰ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "সকলোৱেই"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "শুই আছে"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "মহিমাৰে"
+    },
+    {
+      "surface": "איש",
+      "gloss": "প্ৰত্যেকে"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "নিজৰ ঘৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T00:37:22.334688619Z",
+  "model": "glm-5.3"
+}

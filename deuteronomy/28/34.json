@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "তুমি তোমাৰ চকুৱে দেখা দৃশ্যৰ বাবে উন্মাদ হৈ পৰিবা।",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "তুমি হ'বা"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "উন্মাদ"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "দৃশ্যৰ পৰা"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "তোমাৰ চকু"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "দেখিবা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:02:56.070761031Z",
+  "model": "glm-5.3"
+}

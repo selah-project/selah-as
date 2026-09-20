@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "গদৰ কথা অনুসৰি দাৱিদ উঠি গ'ল, যেনেকৈ ইয়াহৱেহে আজ্ঞা দিছিল।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "উঠি গ'ল"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "কথা অনুসৰি"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গদৰ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "যেনেকৈ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "আজ্ঞা দিছিল"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    }
+  ],
+  "timestamp": "2026-09-20T00:01:15.786535188Z",
+  "model": "glm-5.3"
+}

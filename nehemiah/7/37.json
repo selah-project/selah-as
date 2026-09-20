@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "লোদ, হাদিদ আৰু ওনোৰ পুত্ৰসকল — সাতশ, বিশ আৰু এজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "לד",
+      "gloss": "লোদ"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "হাদিদ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "আৰু ওনো"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "আৰু বিশ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "আৰু এজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:09.858975146Z",
+  "model": "glm-5.3"
+}

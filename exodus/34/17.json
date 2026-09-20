@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "গলিত ধাতুৰ দেৱতা তুমি নিজৰ বাবে নিৰ্মাণ নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "দেৱতা"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "গলিত ধাতুৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "নিৰ্মাণ কৰিবা"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তুমি নিজৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:08:45.683627669Z",
+  "model": "glm-5.3"
+}

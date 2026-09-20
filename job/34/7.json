@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "কোন মানুহ ইয়োবৰ দৰে, যিয়ে উপহাস পানীৰ দৰে পান কৰে?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোন"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "ইয়োবৰ দৰে"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "পান কৰে"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "উপহাস"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "পানীৰ দৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:43:39.869781150Z",
+  "model": "glm-5.3"
+}

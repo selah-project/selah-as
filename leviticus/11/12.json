@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "পানীত যাৰ পাখনা আৰু বাকলি নাই, সকলো সেই তোমালোকৰ বাবে ঘৃণাৰ বস্তু।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাৰ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "পাখনা"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "আৰু বাকলি"
+    },
+    {
+      "surface": "במים",
+      "gloss": "পানীত"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ঘৃণাৰ বস্তু"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:17:12.686133204Z",
+  "model": "glm-5.3"
+}

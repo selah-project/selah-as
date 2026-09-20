@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 46,
+  "translation": "আৰু দানৰ পুতেকসকল আছিল হুশিম।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু …ৰ পুতেকসকল"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "হুশিম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:49:16.089582123Z",
+  "model": "glm-5.3"
+}

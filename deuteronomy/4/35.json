@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "তোমাক দেখুওৱা হ'ল যাতে তুমি জানা যে ইয়াহৱেহেই ⟨⟨তেওঁ⟩⟩ এলোহিম; তেওঁৰ বাহিৰে আন কোনো নাই।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "দেখুওৱা হ'ল"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "জানিবলৈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁেই"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আৰু কোনো"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "তেওঁৰ বাহিৰে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:52:48.337819067Z",
+  "model": "glm-5.3"
+}

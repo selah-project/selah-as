@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 147,
+  "translation": "তেওঁ পৃথিৱীলৈ ⟨তেওঁৰ⟩ আজ্ঞা পঠায়; ⟨তেওঁৰ⟩ বাক্য অতি বেগে দৌৰে।",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "পঠায়"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "তেওঁৰ আজ্ঞা"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিৱীলৈ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨অতি⟩"
+    },
+    {
+      "surface": "מהরה",
+      "gloss": "বেগে"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "দৌৰে"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "তেওঁৰ বাক্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:11:52.407868175Z",
+  "model": "glm-5.3"
+}

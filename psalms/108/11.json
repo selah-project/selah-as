@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 108,
+  "translation": "কোনে মোক দুৰ্গ নগৰলৈ লৈ যাব? কোনে মোক এদোমলৈ পথ দেখুৱাব?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "মোক লৈ যাব"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "দুৰ্গ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "মোক পথ দেখুৱাব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:01:59.062289056Z",
+  "model": "glm-5.3"
+}

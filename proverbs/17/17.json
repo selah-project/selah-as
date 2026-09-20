@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "সকলো সময়তে বন্ধুৱে প্ৰেম কৰে, আৰু ভায়েক দুৰ্দিনৰ বাবে জন্ম লয়।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "সকলো …-তে"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়তে"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "প্ৰেম কৰে"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "বন্ধুৱে"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "আৰু ভায়েক"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "দুৰ্দিনৰ বাবে"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "জন্ম লয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:00.572204970Z",
+  "model": "glm-5.3"
+}

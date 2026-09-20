@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তেতিয়া ইয়াহৱেহে মোক ক'লে ⟨কৈ⟩,",
+  "tokens": [
+    {
+      "surface": "ויאমר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T22:50:04.914958300Z",
+  "model": "glm-5.3"
+}

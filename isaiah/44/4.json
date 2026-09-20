@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 44,
+  "translation": "আৰু তেওঁলোকে ঘাঁহৰ মাজত গজি উঠিব, পানীৰ নদীৰ পাৰত থকা বিলিতি গছৰ দৰে।",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "আৰু গজি উঠিব"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ঘাঁহ"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "বিলিতি গছৰ দৰে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ পাৰত"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "নদী"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানীৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:48:38.777045156Z",
+  "model": "glm-5.3"
+}

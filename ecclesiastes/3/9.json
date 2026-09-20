@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "যি কৰ্মীয়ে খাটে, তেওঁৰ সেই পৰিশ্ৰমৰ পৰা কি লাভ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "যি কৰ্মীয়ে"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "যিটোত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "খাটে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:23.219557317Z",
+  "model": "glm-5.3"
+}

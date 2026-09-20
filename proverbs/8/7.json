@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "কিয়নো মোৰ তালুৱে সত্য উচ্চাৰণ কৰে, আৰু দুষ্টতা মোৰ ওঁঠৰ ⟨নিচিন্দা⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "সত্য"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "উচ্চাৰণ কৰে"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "মোৰ তালু"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "আৰু ঘৃণা"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "মোৰ ওঁঠৰ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্টতা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:54.096871259Z",
+  "model": "glm-5.3"
+}

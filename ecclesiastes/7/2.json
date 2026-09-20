@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "শোকগৃহলৈ যোৱাটো ভোজগৃহলৈ যোৱাতকৈ ভাল, কিয়নো সেইটোৱেই সকলো মানুহৰ সীমা, আৰু জীৱিতজনে ⟨সেই কথা⟩ হৃদয়ত ৰাখে।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "যোৱাটো"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "শোকগৃহ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "শোক"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "যোৱাতকৈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ভোজগৃহ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ভোজ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইটোৱেই"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "সীমা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "আৰু জীৱিতজনে"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ৰাখে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "হৃদয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:10.049698317Z",
+  "model": "glm-5.3"
+}

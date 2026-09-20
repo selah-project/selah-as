@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "⟨את⟩ সকলো উচ্চ বস্তু তেওঁ দেখে; তেওঁ সকলো অহংকাৰীৰ ৰজা।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো উচ্চ বস্তু"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "উচ্চ বস্তু"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "তেওঁ দেখে"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…ৰ সন্তান"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "অহংকাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:46:12.379729062Z",
+  "model": "glm-5.3"
+}

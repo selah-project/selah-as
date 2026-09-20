@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "ভেড়া আৰু গৰু, সেই সকলোবোৰ, আৰু লগতে পথাৰৰ জন্তুবোৰ।",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ভেড়া"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "আৰু গৰু"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "সেই সকলোবোৰ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "আৰু লগতে"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "জন্তুবোৰ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "পথাৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:31:09.072512452Z",
+  "model": "glm-5.3"
+}

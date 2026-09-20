@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু তেওঁ অতিৰিক্ত আন সাত দিন ৰ'ল, আৰু পুনৰ ⟨את⟩ পাৰৱাক ⟨the⟩ কিষ্টাৰ পৰা পঠিয়ালে।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ৰ'ল"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "অতিৰিক্ত"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "আন"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "পুনৰ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "পঠিয়ালে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পাৰৱাক"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "পাৰৱাক"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ৰ পৰা"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "কিষ্টা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:59.482089068Z",
+  "model": "glm-5.3"
+}

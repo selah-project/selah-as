@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "লেমেখে এশ আৰু আশী আৰু দুই বছৰ জীয়াই থাকিল, আৰু তেওঁ এজন পুতেক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "জীয়াই থাকিল"
+    },
+    {
+      "surface": "למך",
+      "gloss": "লেমেখে"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "আৰু আশী"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "আৰু এশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "এজন পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:28.042089912Z",
+  "model": "glm-5.3"
+}

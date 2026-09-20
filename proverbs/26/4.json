@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "মূৰ্খক তাৰ মূৰ্খতা অনুসাৰে উত্তৰ নিদিবা, নহ'লে তুমিও তাৰ সমান হৈ পৰিবা।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תען",
+      "gloss": "উত্তৰ দিবা"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "মূৰ্খক"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "তাৰ মূৰ্খতা অনুসাৰে"
+    },
+    {
+      "surface": "פן",
+      "gloss": "নহ'লে"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "সমান হৈ পৰিবা"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "তুমিও"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:55.246989333Z",
+  "model": "glm-5.3"
+}

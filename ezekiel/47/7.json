@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 47,
+  "translation": "মোক ঘূৰাই অনাৰ সময়ত ⟨মই চালোঁ⟩ — চোৱা, নদীখনৰ পাৰত ইফালে আৰু সিফালে অতি বহু গছ আছিল।",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "মোক ঘূৰাই অনাৰ সময়ত"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চোৱা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "পাৰ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "নদীখনৰ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "গছ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ইফালে"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "আৰু সিফালে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:57:53.465244699Z",
+  "model": "glm-5.3"
+}

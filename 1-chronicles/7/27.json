@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "নূন তেওঁৰ পুতেক, য়েহোশ্বুৱা তেওঁৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "নূন"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "য়েহোশ্বুৱা"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:25.513242909Z",
+  "model": "glm-5.3"
+}

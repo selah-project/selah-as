@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তাৰ পাছত মই য়েৰুশ্বালায়িমলৈ আহিলোঁ আৰু তাত তিনিদিন থাকিলোঁ।",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "আহিলোঁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "য়েৰুশ্বালায়িম"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "আৰু আছিলোঁ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিনিটা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:19:03.494121877Z",
+  "model": "glm-5.3"
+}

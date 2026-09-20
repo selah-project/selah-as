@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "বছৰত তিনিবাৰ তোমাৰ সকলো পুৰুষে আদোনাই ইয়াহৱেহৰ সন্মুখত দেখা দিব লাগিব।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "বাৰ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "বছৰত"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "দেখা দিব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "তোমাৰ পুৰুষ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:03:19.301645505Z",
+  "model": "glm-5.3"
+}

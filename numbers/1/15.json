@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "নফতালিৰ; অহিৰা, এনানৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "নফতালিৰ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "অহিৰা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "এনানৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:19.211665825Z",
+  "model": "glm-5.3"
+}

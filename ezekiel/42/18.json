@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 42,
+  "translation": "দক্ষিণ দিশটো ⟨את⟩ তেওঁ জুখিলে — পাঁচশ কাঠি, জোখাৰ কাঠিৰে।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দক্ষিণ দিশটো"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "দিশ"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "দক্ষিণটো"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "জুখিলে"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "কাঠি"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "কাঠিৰে"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "জোখাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:55:32.776354623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 10:27",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু সেই দিনা ⟨it⟩ হ'ব: ⟨his⟩ ভাৰ তোমাৰ কান্ধৰ পৰা আঁতৰি যাব, আৰু ⟨his⟩ জুঁই তোমাৰ ডিঙিৰ পৰা; আৰু জুঁই ভাঙি পৰিব তেলৰ ⟨presence⟩-ৰ পৰা।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "আৰু হ'ব"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "আঁতৰি যাব"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "ভাৰ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ৰ পৰা"
+    },
+    {
+      "surface": "שכמך",
+      "gloss": "তোমাৰ কান্ধৰ"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "আৰু জুঁই"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ৰ পৰা"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "তোমাৰ ডিঙিৰ"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "আৰু ভাঙি পৰিব"
+    },
+    {
+      "surface": "על",
+      "gloss": "জুঁই"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ৰ পৰা"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "তেলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:35:56.406809837Z",
+  "model": "glm-5.3"
+}

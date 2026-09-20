@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "তোমাৰ কাপোৰ তোমাৰ ওপৰত পুৰণি নহ'লা, আৰু তোমাৰ ভৰি ফুলি নুঠিল, এই চল্লিশ বছৰ।",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "তোমাৰ কাপোৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "পুৰণি হ'লা"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "তোমাৰ ওপৰত"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "আৰু তোমাৰ ভৰি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ফুলি উঠিল"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:54:59.401555652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "দুৱৰীসকল চাৰিটা দিশত থাকিল — পূবে, পশ্চিমে, উত্তৰে আৰু দক্ষিণে।",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "চাৰিটা"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "দিশত"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "থাকিল"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "দুৱৰীসকল"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "পূবে"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "পশ্চিমে"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "উত্তৰে"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "আৰু দক্ষিণে"
+    }
+  ],
+  "timestamp": "2026-09-20T04:30:01.471685181Z",
+  "model": "glm-5.3"
+}

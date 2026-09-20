@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু ⟨את⟩ হাদোৰাম, আৰু ⟨את⟩ ঊজল, আৰু ⟨את⟩ দিকলাহ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "হাদোৰাম"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "হাদোৰাম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ঊজল"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ঊজল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "দিকলাহ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "দিকলাহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:24:44.642219373Z",
+  "model": "glm-5.3"
+}

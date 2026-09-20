@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 45,
+  "translation": "দেশৰ সকলো লোকে ইস্ৰায়েলৰ নাছীলৈ এই উৎসৰ্গ ⟨আগবঢ়াব⟩ লাগিব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকে"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশৰ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "হ'ব লাগিব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "উৎসৰ্গ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "নাছীলৈ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:58:06.820754162Z",
+  "model": "glm-5.3"
+}

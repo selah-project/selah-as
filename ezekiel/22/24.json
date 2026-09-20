@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "হে মানুহৰ পুতেক, তাইক কোৱা: তুমি এনে দেশ যি শুদ্ধ কৰা হোৱা নাই, ক্ৰোধৰ দিনত বৰষুণ হোৱা নাই।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কোৱা"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাইক"
+    },
+    {
+      "surface": "את",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "শুদ্ধ কৰা হোৱা"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "বৰষুণে ভিজোৱা"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ক্ৰোধৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:42:06.972202797Z",
+  "model": "glm-5.3"
+}

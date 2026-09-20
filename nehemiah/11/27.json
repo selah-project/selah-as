@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু হাটচাৰ-শ্বুৱালত, বেএৰ-শ্বেভাত আৰু তাৰ গাঁওবোৰত।",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "হাটচাৰ-…ত"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "শ্বুৱাল"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "বেএৰ-…ত"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "শ্বেভা"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "আৰু তাৰ গাঁওবোৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:40.665612209Z",
+  "model": "glm-5.3"
+}

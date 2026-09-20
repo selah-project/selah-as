@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "গভীৰ পানী ⟨হৈছে⟩ মানুহৰ মুখৰ কথাবোৰ; বুদ্ধিৰ উৎস এখন বৈ থকা নদী।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "গভীৰ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখৰ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "নদী"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "বৈ থকা"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "উৎস"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "বুদ্ধিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:31.761644566Z",
+  "model": "glm-5.3"
+}

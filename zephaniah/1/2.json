@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "মই পৃথিৱীৰ মুখৰ পৰা সকলো সম্পূৰ্ণভাৱে নষ্ট কৰিম; ইয়াহৱেহৰ ঘোষণা।",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "সম্পূৰ্ণভাৱে নষ্ট কৰিম"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "নষ্ট কৰিম"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখৰ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ঘোষণা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:21:15.168763664Z",
+  "model": "glm-5.3"
+}

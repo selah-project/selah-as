@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 17:15",
+  "book": "job",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "আৰু ক'ত ⟨এতিয়া⟩ মোৰ আশা? মোৰ আশাক কোনে দেখিব?",
+  "tokens": [
+    {
+      "surface": "ואיה",
+      "gloss": "আৰু ক'ত"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "এতিয়া"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "মোৰ আশা"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "আৰু মোৰ আশাক"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "দেখিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:35:31.479513142Z",
+  "model": "glm-5.3"
+}

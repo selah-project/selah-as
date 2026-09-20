@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "আৰু ⟨את⟩ ইয়াৰ পাঁচোডাল স্তম্ভ আৰু ⟨את⟩ সিহতৰ হুকবোৰ; আৰু তেওঁ সিহতৰ মূৰবোৰ আৰু বলয়বোৰ সোণেৰে মঢ় কৰিলে; আৰু সিহতৰ পাঁচোটা ভেঁটি ⟨was⟩ তামৰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "পাঁচোডাল স্তম্ভ"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "ইয়াৰ স্তম্ভবোৰ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "হুকবোৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-19T22:10:50.369253877Z",
+  "model": "glm-5.3"
+}

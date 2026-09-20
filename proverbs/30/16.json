@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "শ্বেওল, আৰু বন্ধ গৰ্ভ, পানীৰে তৃপ্ত নোহোৱা পৃথিৱী, আৰু যি জুই “যথেষ্ট” নকয়।",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "শ্বেওল"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "আৰু বন্ধ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "গৰ্ভ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিৱী"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "তৃপ্ত হয়"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানীৰে"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "আৰু জুই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "কয়"
+    },
+    {
+      "surface": "הון",
+      "gloss": "যথেষ্ট"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:39.844470955Z",
+  "model": "glm-5.3"
+}

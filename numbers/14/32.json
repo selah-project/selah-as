@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু তোমালোকৰ মৃতদেহবোৰ — তোমালোকেই — এই মৰুভূমিতে পৰিব।",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "তোমালোকৰ মৃতদেহবোৰ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "তোমালোকেই"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "পৰিব"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "মৰুভূমিতে"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T22:35:41.880163842Z",
+  "model": "glm-5.3"
+}

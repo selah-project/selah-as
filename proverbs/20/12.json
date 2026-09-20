@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "শুনা কাণ আৰু চোৱা চকু — ইয়াহৱেহে দুয়োটাই সৃষ্টি কৰিছে।",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "কাণ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "আৰু চকু"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "চোৱা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "সৃষ্টি কৰিছে"
+    },
+    {
+      "surface": "גם",
+      "gloss": "দুয়োটাই"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "দুয়োটা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:43.726938859Z",
+  "model": "glm-5.3"
+}

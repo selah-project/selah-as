@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "নেচিয়াচৰ সন্তানসকল, চতিফাৰ সন্তানসকল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "নেচিয়াচৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "চতিফাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:05.172837358Z",
+  "model": "glm-5.3"
+}

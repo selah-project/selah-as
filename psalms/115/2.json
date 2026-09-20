@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 115,
+  "translation": "কিয় জাতিসমূহে ক'ব, “তেওঁলোকৰ এলোহিম এতিয়া ক'ত ⟨আছে⟩?”",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ক'ব"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতিসমূহে"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ক'ত"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨এতিয়া⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "তেওঁলোকৰ এলোহিম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:03:21.046357893Z",
+  "model": "glm-5.3"
+}

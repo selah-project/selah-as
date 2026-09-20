@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "হাদদ মৰিল, আৰু এদোমৰ সৰদাৰসকল হ'ল: তিম্নাৰ সৰদাৰ, আলৱাৰ সৰদাৰ, য়েতেতৰ সৰদাৰ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "মৰিল"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "হাদদ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "সৰদাৰসকল"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোমৰ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "তিম্নাৰ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "আলৱাৰ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "য়েতেতৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:29.614573226Z",
+  "model": "glm-5.3"
+}

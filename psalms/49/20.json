@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "তেওঁ পিতৃসকলৰ প্ৰজন্মৰ ওচৰলৈ যাব; চিৰকাল তেওঁলোকে পোহৰ দেখা নাপাব।",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "যাব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "প্ৰজন্ম"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "তেওঁৰ পিতৃসকলৰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "চিৰকাল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "দেখিব"
+    },
+    {
+      "surface": "אור",
+      "gloss": "পোহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:42:12.116398828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু সকলো ইস্ৰায়েলে শুনিব আৰু ভয় খাব, আৰু তোমাৰ মাজত এনে দুষ্ট কাম ⟨আৰু⟩ নকৰিব।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰאয়েল"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "শুনিব"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "আৰু ভয় খাব"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নাই"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "অধিক কৰিব"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "কৰিবলৈ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "এনে কাম"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "দুষ্ট"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "তোমাৰ মাজত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:56:06.388856470Z",
+  "model": "glm-5.3"
+}

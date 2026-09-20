@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "কিয়নো ⟨את⟩ সকলো কাৰ্যৰ ওপৰত এলোহিমে বিচাৰ আনিব — ⟨the⟩ সকলো লুকুৱা বস্তুৰ ওপৰত, সেয়া ভাল হ'লে বা বেয়া হ'লে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো কাৰ্য"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কাৰ্য"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "আনিব"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "বিচাৰত"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "লুকুৱা"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…হ'লে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "বা"
+    },
+    {
+      "surface": "רע",
+      "gloss": "বেয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T03:59:19.517859405Z",
+  "model": "glm-5.3"
+}

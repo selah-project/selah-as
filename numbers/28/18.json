@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "প্ৰথম দিনটোত ⟨এক⟩ পবিত্ৰ সভা; কোনো পৰিশ্ৰমৰ কাম তোমালোকে নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "প্ৰথম"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "সভা"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "পবিত্ৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "কাম"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "পৰিশ্ৰমৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "কৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:44:26.963106029Z",
+  "model": "glm-5.3"
+}

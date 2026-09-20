@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "তুমি কি জানা, যিটো আমি নাজানোঁ? তুমি কি বুজা, যিটো আমাৰ মাজত নাই?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "জানা"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "আমি নাজানোঁ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "বুজা"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "আমাৰ মাজত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইটো"
+    }
+  ],
+  "timestamp": "2026-09-20T03:34:57.617037110Z",
+  "model": "glm-5.3"
+}

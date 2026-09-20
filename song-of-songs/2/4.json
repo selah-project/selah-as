@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তেওঁ মোক মদৰ ঘৰলৈ লৈ গ'ল, আৰু মোৰ ওপৰত তেওঁৰ পতাকা ⟨আছিল⟩ প্ৰেম।",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "মোক লৈ গ'ল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "মদৰ"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "আৰু তেওঁৰ পতাকা"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মোৰ ওপৰত"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "প্ৰেম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:27.298299518Z",
+  "model": "glm-5.3"
+}

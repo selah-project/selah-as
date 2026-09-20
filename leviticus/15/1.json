@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেলৈ আৰু আহৰোনলৈ ক'লে, এই বুলি —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু লৈ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোন"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বুলি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:20:50.987335384Z",
+  "model": "glm-5.3"
+}

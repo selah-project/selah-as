@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আফেকৰ ৰজা এজন; লাশ্বৰোনৰ ৰজা এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "আফেকৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "লাশ্বৰোনৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:26.934120420Z",
+  "model": "glm-5.3"
+}

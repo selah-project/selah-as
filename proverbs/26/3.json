@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "ঘোঁৰাৰ বাবে চাবুক, গধূৰিৰ বাবে লগাম, আৰু মূৰ্খসকলৰ পিঠিৰ বাবে দণ্ড।",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "চাবুক"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ঘোঁৰাৰ বাবে"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "লগাম"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "গধূৰিৰ বাবে"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "আৰু দণ্ড"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "পিঠিৰ বাবে"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "মূৰ্খসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:55.246777206Z",
+  "model": "glm-5.3"
+}

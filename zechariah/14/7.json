@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু এটা দিন হ'ব — সেয়া ইয়াহৱেহৰ বাবেই জনা হ'ব; দিন নহয়, আৰু ৰাতিও নহয়; আৰু সন্ধিয়াৰ সময়ত পোহৰ হ'ব।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "আৰু হ'ব"
+    },
+    {
+      "surface": "יום",
+      "gloss": "এটা দিন"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেয়া"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জনা হ'ব"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ বাবে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "আৰু হ'ব"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "সময়ত"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "সন্ধিয়াৰ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "אור",
+      "gloss": "পোহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:26:28.581688160Z",
+  "model": "glm-5.3"
+}

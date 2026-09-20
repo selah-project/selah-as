@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "প্ৰথম দিনটোত ⟨হ'ব⟩ পবিত্ৰ সভা; কোনো সেৱাৰ কাম নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "প্ৰথম"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "সভা"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "পবিত্ৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "কাম"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "সেৱাৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "কৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:24:49.180527960Z",
+  "model": "glm-5.3"
+}

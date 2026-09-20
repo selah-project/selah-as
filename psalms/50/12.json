@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 50,
+  "translation": "মই ভূকালিলে তোমাক ⟨নকওঁ⟩, কিয়নো পৃথিৱী আৰু তাৰ পূৰ্ণতা মোৰ।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "মই ভূকালিলে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নকওঁ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কওঁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "পৃথিৱী"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "আৰু তাৰ পূৰ্ণতা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:41:52.966297742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "নগৰত জীৰ্ণ-জিৰণি ⟨ৰৈ গ'ল⟩, আৰু ধ্বংসে ⟨৩⟩ দুৱাৰদলি ভাঙিলে।",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "ৰৈ গ'ল"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "নগৰত"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "জীৰ্ণ-জিৰণি"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "আৰু ধ্বংসে"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "ভাঙিলে"
+    },
+    {
+      "surface": "שער",
+      "gloss": "দুৱাৰদলি"
+    }
+  ],
+  "timestamp": "2026-09-20T05:15:13.036782541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "তেওঁ এটা কেৰুবৰ ওপৰত উঠি উৰিল, আৰু বতাহৰ পাখিসমূহৰ ওপৰেৰে উৰি গ'ল।",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "উঠি"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "কেৰুব"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "আৰু উৰিল"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "আৰু উৰি গ'ল"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰেৰে"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "পাখিসমূহৰ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "বতাহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:33:15.525685595Z",
+  "model": "glm-5.3"
+}

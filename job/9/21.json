@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "নিষ্পাপ মই; মোৰ প্ৰাণটোক ⟨মই⟩ নাজানোঁ, মোৰ জীৱন ঘৃণা কৰোঁ।",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "নিষ্পাপ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "নাজানোঁ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "মোৰ প্ৰাণটোক"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ঘৃণা কৰোঁ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "মোৰ জীৱন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:32:50.454777222Z",
+  "model": "glm-5.3"
+}

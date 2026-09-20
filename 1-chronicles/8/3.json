@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু বেলাৰ পুতেকসকল আছিল ⟨এইসকল⟩: আদাৰ, আৰু গেৰা, আৰু আবিহূদ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "বেলাৰ বাবে"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "আদাৰ"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "আৰু গেৰা"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "আৰু আবিহূদ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:24.122266196Z",
+  "model": "glm-5.3"
+}

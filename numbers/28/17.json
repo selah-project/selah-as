@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "আৰু এই মাহৰ পোন্ধৰ তাৰিখত ⟨এটা⟩ উৎসৱ; সাত দিন ধৰি অখমীৰি ভোজন কৰা হ'ব।",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "আৰু পোন্ধৰত"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ (পোন্ধৰৰ অংশ)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "তাৰিখত"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাহৰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "חג",
+      "gloss": "উৎসৱ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "অখমীৰি"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ভোজন কৰা হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:44:26.962815955Z",
+  "model": "glm-5.3"
+}

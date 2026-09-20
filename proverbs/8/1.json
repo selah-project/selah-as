@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "প্ৰজ্ঞাই মাত নুতোলে নেকি? আৰু বোধশক্তিয়ে নিজৰ কণ্ঠ নিদিয়ে নেকি?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "নেকি"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "প্ৰজ্ঞা"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "মাত মাতে"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "আৰু বোধশক্তি"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "দিয়ে"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "নিজৰ কণ্ঠ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:35.274353972Z",
+  "model": "glm-5.3"
+}

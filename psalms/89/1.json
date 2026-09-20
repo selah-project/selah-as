@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 89,
+  "translation": "শিক্ষাদায়ক ⟨গীত⟩ — এইতান হএজ্ৰাহীৰ।",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "শিক্ষাদায়ক"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "এইতানৰ"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "হএজ্ৰাহী"
+    }
+  ],
+  "timestamp": "2026-09-20T02:55:44.407842628Z",
+  "model": "glm-5.3"
+}

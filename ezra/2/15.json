@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আদিনৰ সন্তানসকল — চাৰিশ পঞ্চাশগৰাকী আৰু চাৰিগৰাকী।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "আদিনৰ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "আৰু চাৰি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:22.709241348Z",
+  "model": "glm-5.3"
+}

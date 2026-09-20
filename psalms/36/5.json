@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "⟨তেওঁ⟩ শয্যাত অকল্যাণ কল্পনা কৰে, ভাল নহয় এনে পথত নিজকে থিয় কৰে, মন্দক ঘৃণাও নকৰে।",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "অকল্যাণ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "কল্পনা কৰে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ ওপৰত"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "শয্যাত"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "নিজকে থিয় কৰে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "רע",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "ঘৃণা কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:38:07.685246849Z",
+  "model": "glm-5.3"
+}

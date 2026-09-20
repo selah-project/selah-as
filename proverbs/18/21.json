@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "মৃত্যু আৰু জীৱন জিভাৰ হাতত; আৰু ইয়াক ভালপোৱাসকলে ইয়াৰ ফল খাব।",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যু"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "আৰু জীৱন"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতত"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভাৰ"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "আৰু ইয়াক ভালপোৱাসকলে"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খাব"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ইয়াৰ ফল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:34.056387022Z",
+  "model": "glm-5.3"
+}

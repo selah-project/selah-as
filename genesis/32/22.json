@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "আৰু উপহাৰখিনি তেওঁৰ আগে আগে পাৰ হ'ল; আৰু তেওঁ সেই ৰাতিটো শিবিৰতে কটালে।",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "পাৰ হ'ল"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "উপহাৰখিনি"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ ওপৰেৰে"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "তেওঁৰ আগে"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "আৰু তেওঁ"
+    },
+    {
+      "surface": "לן",
+      "gloss": "কটালে"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেইটো"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "শিবিৰত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:40:53.546739025Z",
+  "model": "glm-5.3"
+}

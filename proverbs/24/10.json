@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "যদি দুৰ্যোগৰ দিনত তুমি শিথিল হৈছা — সৰু হ'ল তোমাৰ শক্তি।",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "তুমি শিথিল হৈছা"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "দুৰ্যোগৰ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "সৰু"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "তোমাৰ শক্তি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:26.875713877Z",
+  "model": "glm-5.3"
+}

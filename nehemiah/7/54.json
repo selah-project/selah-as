@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বাচলিতৰ সন্তানসকল, মেহিদাৰ সন্তানসকল, চৰশাৰ সন্তানসকল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "বাচলিতৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "মেহিদাৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "চৰশাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:05.172466680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "তুমি তোমাৰ সোঁহাত মেলিলা, পৃথিৱীয়ে সিহঁতক গিলি ল'লে।",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "মেলিলা"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "তোমাৰ সোঁহাত"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "গিলি ল'লে"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিৱীয়ে"
+    }
+  ],
+  "timestamp": "2026-09-19T21:57:44.680097204Z",
+  "model": "glm-5.3"
+}

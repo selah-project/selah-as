@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মখনাদ্বাই, শ্বাশাই, শ্বাৰাই,",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "মখনাদ্বাই"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "শ্বাশাই"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "শ্বাৰাই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:15:55.426813289Z",
+  "model": "glm-5.3"
+}

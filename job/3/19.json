@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তাত সৰু আৰু ডাঙৰ ⟨একে⟩; আৰু দাস নিজৰ গৰাকীৰ পৰা মুক্ত।",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "সৰু"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "আৰু ডাঙৰ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨একে⟩"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "আৰু দাস"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "মুক্ত"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "নিজৰ গৰাকীৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:29:23.194636084Z",
+  "model": "glm-5.3"
+}

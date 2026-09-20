@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "শ্বেলোমোৱে ⟨את⟩ গেজেৰ আৰু ⟨את⟩ তলৰ বেইত-হোৰোন নিৰ্মাণ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "নিৰ্মাণ কৰিলে"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমোৱে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "গেজেৰ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "গেজেৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "বেইত-হোৰোন"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "হোৰোন"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "তলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:08:18.243667237Z",
+  "model": "glm-5.3"
+}

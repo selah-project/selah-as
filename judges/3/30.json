@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 3:30",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু সেই দিনা মোৱাব ইস্ৰায়েলৰ হাতত দমন হ'ল, আৰু ⟨the⟩ দেশে আশী বছৰ জিৰণি পালে।",
+  "tokens": [
+    {
+      "surface": "ותכנע",
+      "gloss": "দমন হ'ল"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোৱাব"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "জিৰণি পালে"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "আশী"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:21:25.299039366Z",
+  "model": "glm-5.3"
+}

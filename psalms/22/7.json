@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "কিন্তু মই ⟨মই⟩ কৃমি, মানুহ নহয়; মানুহৰ নিন্দা, জাতিৰ অৱজ্ঞা।",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "কিন্তু মই"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "কৃমি"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "নিন্দা"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "আৰু অৱজ্ঞা"
+    },
+    {
+      "surface": "עם",
+      "gloss": "জাতিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:33:57.550969256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু গিদ'অন, য়োআশৰ পুতেক, যুদ্ধৰ পৰা উভতি আহিলে — হেৰেচৰ উচ্চপথৰ পৰা।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "উভতি আহিলে"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "গিদ'অন"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "য়োআশ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "যুদ্ধ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "উচ্চপথৰ পৰা"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "হেৰেচ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:25:22.438571233Z",
+  "model": "glm-5.3"
+}

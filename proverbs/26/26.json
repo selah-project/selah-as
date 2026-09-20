@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 26:26",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "ছলেৰে ঘৃণা ঢাকিলেও, তেওঁৰ দুষ্টতা সভাত ⟨প্ৰকাশ পাব⟩।",
+  "tokens": [
+    {
+      "surface": "תכסה",
+      "gloss": "ঢাকিলেও"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ঘৃণা"
+    },
+    {
+      "surface": "במשאון",
+      "gloss": "ছলেৰে"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "প্ৰকাশ পাব"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "তেওঁৰ দুষ্টতা"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "সভাত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:11.440044152Z",
+  "model": "glm-5.3"
+}

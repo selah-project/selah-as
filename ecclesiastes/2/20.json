@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "সেয়ে মই সূৰ্য্যৰ তলত কৰা সকলো শ্ৰমৰ বিষয়ে ⟨את⟩ মোৰ হৃদয়ক নিৰাশ কৰিবলৈ ওলটি গ'লোঁ।",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ওলটি গ'লোঁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "নিৰাশ কৰিবলৈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মোৰ হৃদয়ক"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "মোৰ হৃদয়ক"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিষয়ে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "শ্ৰমৰ"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "যি মই কৰিলোঁ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্য্যৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:11.771629105Z",
+  "model": "glm-5.3"
+}

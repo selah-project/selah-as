@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "চিদোনীসকলে ⟨את⟩ হেৰমোনক চিৰিয়ন বুলি মাতে, আৰু আমোৰীসকলে তাক শ্বনিৰ বুলি মাতে।",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "চিদোনীসকলে"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "মাতে"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "হেৰমোনক"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "চিৰিয়ন"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "আৰু আমোৰীসকলে"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "মাতে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাক"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "শ্বনিৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:50:06.517278241Z",
+  "model": "glm-5.3"
+}

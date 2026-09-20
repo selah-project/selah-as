@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 46,
+  "translation": "বানোৱা সজাই লওক আৰু ডাঙৰ ঢাল; যুদ্ধলৈ আগবাঢ়ক।",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "সজাই লওক"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "বানোৱা"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ডাঙৰ ঢাল"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "আগবাঢ়ক"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "যুদ্ধলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:22:12.441207606Z",
+  "model": "glm-5.3"
+}

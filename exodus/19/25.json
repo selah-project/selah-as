@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "তাৰ পাছত মোশ্বে জনসমূহৰ ওচৰলৈ নামি গ'ল, আৰু তেওঁলোকক ক'লে।",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "নামি গ'ল"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনসমূহৰ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "তেওঁলোকক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:59:35.926858080Z",
+  "model": "glm-5.3"
+}

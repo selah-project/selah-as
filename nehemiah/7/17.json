@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আজগদৰ সন্তানসকল — দুহেজাৰ তিনিশ বিশটা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "আজগদৰ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুহেজাৰ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:39.224426254Z",
+  "model": "glm-5.3"
+}

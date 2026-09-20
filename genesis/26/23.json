@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু তেওঁ তাৰ পৰা বেৰ-শ্বেবালৈ উঠি গ'ল।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "উঠি গ'ল"
+    },
+    {
+      "surface": "משם",
+      "gloss": "তাৰ পৰা"
+    },
+    {
+      "surface": "באר",
+      "gloss": "বেৰ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "শ্বেবা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:38:27.639728938Z",
+  "model": "glm-5.3"
+}

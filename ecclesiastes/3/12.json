@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "মই জানোঁ যে তেওঁলোকৰ বাবে আন একো ভাল নাই, কেৱল আনন্দ কৰা আৰু নিজৰ জীৱনকালত ভাল কাৰ্য কৰাহে।",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "মই জানোঁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "בם",
+      "gloss": "তেওঁলোকৰ বাবে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "אם",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "আনন্দ কৰা"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "আৰু কৰা"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল কাৰ্য"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "নিজৰ জীৱনকালত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:23.220412455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "মোৰ প্ৰিয় মোৰ বাবে ⟨এ⟩টো মৰৰ পোটলা; ⟨সি⟩ মোৰ স্তনদ্বয়ৰ মাজত ৰাতি কটায়।",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "পোটলা"
+    },
+    {
+      "surface": "המר",
+      "gloss": "মৰৰ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "মোৰ প্ৰিয়"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ বাবে"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "স্তনদ্বয়ৰ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ৰাতি কটায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:46:56.046878676Z",
+  "model": "glm-5.3"
+}

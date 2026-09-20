@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "তেতিয়া সভাই প্ৰহাৰ কৰাজন আৰু তেজৰ গো-এলৰ মাজত এই বিধানসমূহ অনুসৰি বিচাৰ কৰিব।",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "বিচাৰ কৰিব"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "সভাই"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "প্ৰহাৰ কৰাজনৰ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "আৰু"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "গো-এল"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "তেজৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "অনুসৰি"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "বিধানসমূহ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T22:48:31.540207276Z",
+  "model": "glm-5.3"
+}

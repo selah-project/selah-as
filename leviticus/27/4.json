@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "আৰু মাইকী হ'লে, তোমাৰ মূল্যাংকন হ'ব ত্ৰিশ শ্বেকেল।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "মাইকী"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "…হ'লে"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "তোমাৰ মূল্যাংকন"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্ৰিশ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "শ্বেকেল"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:54.513203032Z",
+  "model": "glm-5.3"
+}

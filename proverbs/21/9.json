@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "ছাদৰ এক কোণত বহি থকাটো ভাল, কলহ-বিবাদী নাৰীৰ লগত আৰু ⟨সংগী-সমাজেৰ⟩ ঘৰত থকাতকৈ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "বহি থকাটো"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "কোণ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ছাদ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "নাৰীতকৈ"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "কলহ-বিবাদী"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "আৰু ঘৰত"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "সংগী-সমাজেৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:22:01.732606591Z",
+  "model": "glm-5.3"
+}

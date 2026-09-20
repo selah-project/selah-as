@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 52,
+  "translation": "সংগীত-নেতাৰ বাবে, এক শিক্ষণীয় গীত, দাৱিদৰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সংগীত-নেতাৰ বাবে"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "এক শিক্ষণীয় গীত"
+    },
+    {
+      "surface": "লדוד",
+      "gloss": "দাৱিদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:44:40.694667811Z",
+  "model": "glm-5.3"
+}

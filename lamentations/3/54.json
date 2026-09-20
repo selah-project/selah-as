@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "মোৰ মূৰৰ ওপৰেৰে পানী ঢাকি গ'ল; মই ক'লোঁ, “মই কাটি পৰা হ'লোঁ।”",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "ঢাকি গ'ল"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "על",
+      "gloss": "মোৰ মূৰৰ ওপৰত"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "মোৰ মূৰৰ ওপৰত"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "মই ক'লোঁ"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "মই কাটি পৰা হ'লোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:36.240645849Z",
+  "model": "glm-5.3"
+}

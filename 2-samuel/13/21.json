@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু ৰজা দাৱিদে ⟨את⟩ এই সকলো কথা শুনিলে, আৰু তেওঁৰ মনত অতি ক্ৰোধ জ্বলিল।",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "আৰু ৰজা"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "শুনিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই সকলো কথা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ক্ৰোধ জ্বলিল"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    }
+  ],
+  "timestamp": "2026-09-19T23:52:44.404451580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "তেওঁৰ মূৰ ⟨হৈছে⟩ শুদ্ধ পকা সোণ; তেওঁৰ কেশৰাশি কুঞ্চিত, কাউৰীৰ দৰে ক'লা।",
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "তেওঁৰ মূৰ"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "শুদ্ধ সোণ"
+    },
+    {
+      "surface": "פז",
+      "gloss": "পকা সোণ"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "তেওঁৰ কেশৰাশি"
+    },
+    {
+      "surface": "תלתלים",
+      "gloss": "কুঞ্চিত"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "ক'লা"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "কাউৰীৰ দৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:46:40.926073512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু উল্লাৰ পুতেকসকল: আৰাখ, আৰু হান্নিএল, আৰু ৰিত্চিয়া।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "উল্লাৰ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "আৰাখ"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "আৰু হান্নিএল"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "আৰু ৰিত্চিয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:24.628806077Z",
+  "model": "glm-5.3"
+}

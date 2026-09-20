@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "তেতিয়া আইয়োবে উত্তৰ দিলে আৰু ক'লে।",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "উত্তৰ দিলে"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "আইয়োবে"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:32:40.797870537Z",
+  "model": "glm-5.3"
+}

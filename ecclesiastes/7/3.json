@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "দুখ হাঁহিতকৈ ভাল, কিয়নো মুখৰ গ্লানিৰ দ্বাৰা হৃদয় উন্নত হয়।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "দুখ"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "হাঁহিতকৈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "গ্লানিৰ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখৰ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "উন্নত হয়"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:10.049868743Z",
+  "model": "glm-5.3"
+}

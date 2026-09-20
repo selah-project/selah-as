@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "তাই ব্যৱসায়ীৰ জাহাজৰ দৰে আছিল, দূৰৰ পৰা তাইৰ খাদ্য আনিছিল।",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "জাহাজৰ দৰে"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "ব্যৱসায়ীৰ"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "দূৰৰ পৰা"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "আনিছিল"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "তাইৰ খাদ্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:31.746927472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এলোহিম ধাৰ্মিক বিচাৰক, আৰু এল প্ৰতিদিনে ক্ৰোধিত হয়।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "বিচাৰক"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিক"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু এল"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ক্ৰোধিত হয়"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "প্ৰতিদিনেৰ সকলো"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিনত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:28:13.219685393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আছে ⟨এটা⟩ অশুভ যি মই সূৰ্যৰ তলত দেখিছোঁ, আৰু সি মানুহৰ ওপৰত গধুৰ।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "অশুভ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "মই দেখিছোঁ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্যৰ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "আৰু গধুৰ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:56.622145845Z",
+  "model": "glm-5.3"
+}

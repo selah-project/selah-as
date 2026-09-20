@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "উৰিয়া হিট্টীয়া, জাবাদ আহলাইৰ পুতেক,",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "উৰিয়া"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "হিট্টীয়া"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "জাবাদ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "আহলাই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:17.600588829Z",
+  "model": "glm-5.3"
+}

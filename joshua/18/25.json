@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "গিভ'অন, ৰামা আৰু বেঅৰোত।",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "গিভ'অন"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "আৰু ৰামা"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "আৰু বেঅৰোত"
+    }
+  ],
+  "timestamp": "2026-09-19T23:15:34.954935872Z",
+  "model": "glm-5.3"
+}

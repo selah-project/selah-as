@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "লাদনৰ পুত্ৰসকল — মুৰব্বী য়েহিয়েল, আৰু জেতাম, আৰু য়োয়েল; তিনিজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "লাদনৰ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "মুৰব্বী"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "য়েহিয়েল"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "আৰু জেতাম"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "আৰু য়োয়েল"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিনিজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:26.691660615Z",
+  "model": "glm-5.3"
+}

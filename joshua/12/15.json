@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "লিবনাহৰ ৰজা এজন; আদুল্লামৰ ৰজা এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "লিবনাহৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "আদুল্লামৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:26.161086838Z",
+  "model": "glm-5.3"
+}

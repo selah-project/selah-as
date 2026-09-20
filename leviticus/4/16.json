@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু অভিষিক্ত পুৰোহিতজনে গৰুটোৰ তেজৰ পৰা সাক্ষাৎকাৰীৰ তম্বুলৈ আনিব।",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "আৰু আনিব"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতজনে"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "অভিষিক্ত"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "তেজৰ পৰা"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "গৰুটোৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "তম্বু"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "সাক্ষাৎকাৰীৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:15:38.896802914Z",
+  "model": "glm-5.3"
+}

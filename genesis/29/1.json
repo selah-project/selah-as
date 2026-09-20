@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "তাৰ পাছত য়াকোভে নিজৰ ভৰি দুখন তুলি লৈ পূব দিশৰ লোকসকলৰ দেশলৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "তুলি লৈ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোৱে"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "নিজৰ ভৰি দুখন"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "দেশলৈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "লোকসকলৰ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "পূব দিশৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:39:49.177413810Z",
+  "model": "glm-5.3"
+}

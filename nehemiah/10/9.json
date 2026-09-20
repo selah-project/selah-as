@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মাআজ্যাহ, বিলগাই, শ্বেমায়াহ — এইসকল ⟨আছিল⟩ পুৰোহিতসকল।",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "মাআজ্যাহ"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "বিলগাই"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "শ্বেমায়াহ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইসকল"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "পুৰোহিতসকল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:30.033918085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "সত্য কিনা আৰু বেচি নিদিবা; জ্ঞান, শিক্ষা আৰু বোধো কিনা।",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "সত্য"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "কিনা"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু নিদিবা"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "বেচি"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "আৰু শিক্ষা"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "আৰু বোধ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:05.041079742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "দুষ্টসকল ⟨এনে⟩ নহয়; বৰং সিহঁত বতাহে উৰুৱাই নিয়া তুষৰ দৰে।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এনে"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "দুষ্টসকল"
+    },
+    {
+      "surface": "כי",
+      "gloss": "বৰং ⟨কিন্তু⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨পৰিবৰ্তে⟩"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "তুষৰ দৰে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাক"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "উৰুৱাই নিয়ে"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "বতাহে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:30:03.790585346Z",
+  "model": "glm-5.3"
+}

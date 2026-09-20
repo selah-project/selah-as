@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "মিৎচৰায়িমক আমি হাত দিলোঁ, আশ্বুৰক ⟨খাদ্য⟩ তৃপ্ত হ'বলৈ।",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "মিৎচৰায়িমক"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "আমি দিলোঁ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "আশ্বুৰক"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "তৃপ্ত হ'বলৈ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨খাদ্য⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:32.758893577Z",
+  "model": "glm-5.3"
+}

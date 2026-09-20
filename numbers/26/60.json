@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু আহৰোনলৈ ⟨את⟩ নাদাব, ⟨את⟩ অবিহূ, ⟨את⟩ এলআজাৰ আৰু ⟨את⟩ ইতামাৰ জন্ম হ'ল।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "আৰু জন্ম হ'ল"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "আহৰোনলৈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নাদাব"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "নাদাব"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "অবিহূ"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "অবিহূ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এলআজাৰ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "এলআজাৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ইতামাৰ"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ইতামাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:43:08.925260615Z",
+  "model": "glm-5.3"
+}

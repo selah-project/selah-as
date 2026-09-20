@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "তাৰ পাছত য়াকোৱে এটা শিল ল'লে আৰু সেয়াক স্তম্ভ হিচাপে স্থাপন কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ল'লে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোৱে"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "এটা শিল"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "স্থাপন কৰিলে"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "স্তম্ভ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:42:34.364832774Z",
+  "model": "glm-5.3"
+}

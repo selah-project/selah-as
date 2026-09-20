@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 2:10",
+  "book": "nahum",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "লুট কৰা ৰূপ, লুট কৰা সোণ! আৰু ⟨সাজ-সজ্জাৰ⟩ কোনো অন্ত নাই — সকলো কাম্য পাত্ৰৰ মহিমা।",
+  "tokens": [
+    {
+      "surface": "בזו",
+      "gloss": "লুট কৰা"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ৰূপ"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "লুট কৰা"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "আৰু নাই"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "অন্ত"
+    },
+    {
+      "surface": "לתכונה",
+      "gloss": "সাজ-সজ্জাৰ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "মহিমা"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "পাত্ৰৰ"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "কাম্য"
+    }
+  ],
+  "timestamp": "2026-09-20T02:16:05.495175684Z",
+  "model": "glm-5.3"
+}

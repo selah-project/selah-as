@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁৰ মোকদৰ্মাত মানুহক অন্যায় কৰাত — আদোনাইে সেয়া চকুতে নেদেখে ⟨অনুমোদন নকৰে⟩।",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "অন্যায় কৰাত"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহক"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "তেওঁৰ মোকদৰ্মাত"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাইে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "চকুতে নেদেখে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:35.084012587Z",
+  "model": "glm-5.3"
+}

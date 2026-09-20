@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "তেতিয়া সেই নগৰৰ বৃদ্ধসকলে ⟨את⟩ সেই মানুহজনক ল'ব আৰু ⟨את⟩ তেওঁক শাস্তি দিব;",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "আৰু ল'ব"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "বৃদ্ধসকলে"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগৰৰ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সেই মানুহজনক"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "সেই মানুহজন"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "আৰু শাস্তি দিব"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ তেওঁক"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:10.942314018Z",
+  "model": "glm-5.3"
+}

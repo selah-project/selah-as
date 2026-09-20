@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "উত্তৰৰ পৰা সোণলী ⟨পোহৰ⟩ আহে; এলোৱাহৰ ওপৰত ⟨আছে⟩ ভয়ংকৰ মহিমা।",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "উত্তৰৰ পৰা"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণ"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "আহে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "এলোৱাহ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ভয়ংকৰ"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "মহিমা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:44:38.913148343Z",
+  "model": "glm-5.3"
+}

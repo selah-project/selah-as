@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 104,
+  "translation": "সকলোৱে তোমাৰ ওচৰত আশা কৰে, সঠিক সময়ত তেওঁলোকক খাদ্য দিবলৈ।",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "সকলোৱে"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাৰ ওচৰত"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "আশা কৰে"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "দিবলৈ"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "খাদ্য"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "সঠিক সময়ত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:59:28.348400244Z",
+  "model": "glm-5.3"
+}

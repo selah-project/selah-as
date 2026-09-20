@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "সৰদাৰ মাগদিএল, সৰদাৰ ইৰাম — এইসকলেই এদোমৰ সৰদাৰসকল।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদার"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "মাগদিএল"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদার"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ইৰাম"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইসকলেই"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "সৰদাৰসকলৰ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:24:52.757947192Z",
+  "model": "glm-5.3"
+}

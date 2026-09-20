@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 4:14",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "নাৰ্দ আৰু কেশৰ, কলমুচ আৰু দাৰচিনি, সকলো ধূপ গছৰ সৈতে; ম'ৰ আৰু আগৰু, সকলো শ্ৰেষ্ঠ সুগন্ধিৰ সৈতে।",
+  "tokens": [
+    {
+      "surface": "נרד",
+      "gloss": "নাৰ্দ"
+    },
+    {
+      "surface": "וכרכם",
+      "gloss": "আৰু কেশৰ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "কলমুচ"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "আৰু দাৰচিনি"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "গছ"
+    },
+    {
+      "surface": "לבונה",
+      "gloss": "ধূপ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ম'ৰ"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "আৰু আগৰু"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "শ্ৰেষ্ঠ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "সুগন্ধি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:34.354748634Z",
+  "model": "glm-5.3"
+}

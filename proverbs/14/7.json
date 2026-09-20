@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "নিৰ্বোধ মানুহৰ সন্মুখৰ পৰা আঁতৰি যাওঁক, আৰু জ্ঞানৰ ওঁঠ ⟨তুমি নেদেখা⟩।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "যাওঁক"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "সন্মুখৰ পৰা"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "নিৰ্বোধ"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "আৰু নে"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "দেখা"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞানৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:36.982689740Z",
+  "model": "glm-5.3"
+}

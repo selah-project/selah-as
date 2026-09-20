@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "কিয়নো উৎপীড়নে জ্ঞানীক বিপদলৈ লৈ যায়, আৰু ঘূষে ⟨את⟩ হৃদয় ধ্বংস কৰে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "উৎপীড়নে"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "বিপদলৈ লৈ যায়"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানীক"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ধ্বংস কৰে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "হৃদয়"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ঘূষ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:23.116896948Z",
+  "model": "glm-5.3"
+}

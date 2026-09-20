@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু অভিষিক্ত পুৰোহিতে বলধৰ তেজৰ পৰা ল’ব, আৰু তেজ ⟨אתו⟩ সাক্ষাৎৰ তম্বুলৈ আনিব।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "আৰু ল’ব"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতে"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "অভিষিক্ত"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "তেজৰ পৰা"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "বলধৰ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "আৰু আনিব"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "সাক্ষাৎৰ তম্বুলৈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "তম্বু"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "সাক্ষাৎ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:16:12.906202959Z",
+  "model": "glm-5.3"
+}

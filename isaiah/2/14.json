@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু সকলো উচ্চ পৰ্বতৰ ওপৰত, আৰু সকলো উত্তোলিত পাহাৰৰ ওপৰত।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "পৰ্বত"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "উচ্চ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "পাহাৰ"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "উত্তোলিত"
+    }
+  ],
+  "timestamp": "2026-09-20T00:31:06.167260231Z",
+  "model": "glm-5.3"
+}

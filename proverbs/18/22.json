@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "যিজনে পত্নী পায় ⟨তেওঁ⟩ মংগল পায়, আৰু ইয়াহৱেহৰ পৰা প্ৰীতি লাভ কৰে।",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "পায়"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "পত্নী"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "পায়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "মংগল"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "আৰু লাভ কৰে"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "প্ৰীতি"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ইয়াহৱেহৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:34.062564013Z",
+  "model": "glm-5.3"
+}

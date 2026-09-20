@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 50,
+  "translation": "তেওঁৰ লগত ৰথবোৰো উঠি গ'ল, ঘোঁৰাৰ দলবোৰো; আৰু শিবিৰটো অতি গধুৰ আছিল।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "উঠি গ'ল"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "তেওঁৰ লগত"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-ও"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ৰথবোৰ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-ও"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ঘোঁৰাৰ দলবোৰ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "শিবিৰটো"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "গধুৰ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:52:47.988256055Z",
+  "model": "glm-5.3"
+}

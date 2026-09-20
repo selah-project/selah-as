@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু হাচাৰ-গদ্দাহ, আৰু হেশমোন, আৰু বেইত-পালেত।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "আৰু হাচাৰ"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "গদ্দাহ"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "আৰু হেশমোন"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "আৰু বেইত"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "পালেত"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:47.288973722Z",
+  "model": "glm-5.3"
+}

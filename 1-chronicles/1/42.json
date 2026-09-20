@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "এৎচৰৰ পুতেকসকল: বিলহান, য়াআকান আৰু যাৱান; দিশোনৰ পুতেকসকল: উৎচ আৰু অৰান।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "এৎচৰৰ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "বিলহান"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "আৰু যাৱান"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "য়াআকান"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "দিশোনৰ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "উৎচ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "আৰু অৰান"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:18.010984822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু য়িশ্বপান, আৰু এভেৰ, আৰু এলিয়েল।",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "আৰু য়িশ্বপান"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "আৰু এভেৰ"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "আৰু এলিয়েল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:36.104188379Z",
+  "model": "glm-5.3"
+}

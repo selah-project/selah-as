@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "কেৱল তাৰ তেজ ⟨את⟩ তুমি নাখাবা; মাটিত তাক পানীৰ দৰে ঢালি দিবা।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তাৰ তেজ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "তাৰ তেজ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাখাবা"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "খা"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "মাটি"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "তাক ঢালি দিবা"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "পানীৰ দৰে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:55:43.352270058Z",
+  "model": "glm-5.3"
+}

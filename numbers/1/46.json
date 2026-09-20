@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু গণনা কৰা সকলোো ⟨সংখ্যা⟩ ছশ হেজাৰ আৰু তিনি হেজাৰ আৰু পাঁচশ পঞ্চাশ ⟨হ'ল⟩।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "গণনা কৰা"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছশ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হেজাৰ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "আৰু তিনি"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হেজাৰ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "আৰু পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "আৰু পঞ্চাশ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:19.781355608Z",
+  "model": "glm-5.3"
+}

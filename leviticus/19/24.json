@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু চতুৰ্থ বছৰত তাৰ সকলো ফল পবিত্ৰ হ'ব — ইয়াহৱেহৰ প্ৰশংসা-উৎসৱৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "আৰু বছৰত"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "চতুৰ্থ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "তাৰ ফল"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "পবিত্ৰ"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "প্ৰশংসা-উৎসৱৰ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:23:08.489443598Z",
+  "model": "glm-5.3"
+}

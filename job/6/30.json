@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "মোৰ জিভাত কি অন্যায় আছে? মোৰ তালুৱে কি দুৰ্নীতি নুবুজে নেকি?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "কি আছে"
+    },
+    {
+      "surface": "বলশোনי",
+      "gloss": "মোৰ জিভাত"
+    },
+    {
+      "surface": "עוײה",
+      "gloss": "অন্যায়"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নেকি"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "মোৰ তালুৱে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন'"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "বুজে"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "দুৰ্নীতি"
+    }
+  ],
+  "timestamp": "2026-09-20T05:25:01.119735301Z",
+  "model": "glm-5.3"
+}

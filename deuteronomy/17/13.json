@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "আৰু সমগ্ৰ জনতাই শুনিব আৰু ভয় কৰিব, আৰু আৰু অহংকাৰীয়া আচৰণ নকৰিব।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সমগ্ৰ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনতাই"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "শুনিব"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "আৰু ভয় কৰিব"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নকৰিব"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "অহংকাৰীয়া আচৰণ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আৰু"
+    }
+  ],
+  "timestamp": "2026-09-19T22:59:23.687846058Z",
+  "model": "glm-5.3"
+}

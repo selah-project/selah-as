@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "“কিয়নো মানুহজন ⟨মোৰ স্বামী⟩ ঘৰত নাই; তেওঁ দূৰৰ পথ এখনত গৈছে।”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "মানুহজন ⟨মোৰ স্বামী⟩"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ঘৰত"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "গৈছে"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথ এখনত"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "দূৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:34.721837706Z",
+  "model": "glm-5.3"
+}

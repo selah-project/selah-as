@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 63,
+  "translation": "তেওঁক তৰোৱালৰ হাতত ঢালি দিয়া হ'ব; তেওঁলোক শিয়ালসকলৰ ভাগ হ'ব।",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "তেওঁক ঢালি দিয়া হ'ব"
+    },
+    {
+      "surface": "על",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "হাতত"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "তৰোৱালৰ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ভাগ"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "শিয়ালসকলৰ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T02:46:21.361353097Z",
+  "model": "glm-5.3"
+}

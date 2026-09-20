@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোৰ ওচৰলৈ আহিল, কৈ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:12:00.379684739Z",
+  "model": "glm-5.3"
+}

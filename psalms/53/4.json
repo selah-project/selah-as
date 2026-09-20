@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 53,
+  "translation": "সকলোৱে পিছুৱালে, একেলগে তেওঁলোক নিকৃষ্ট হ'ল; ভাল কৰোঁতা নাই, এজনো ⟨নহয়⟩।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "সকলোৱে"
+    },
+    {
+      "surface": "סג",
+      "gloss": "পিছুৱালে"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "একেলগে"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "নিকৃষ্ট হ'ল"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰোঁতা"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এজনো"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজনো"
+    }
+  ],
+  "timestamp": "2026-09-20T02:44:45.897860256Z",
+  "model": "glm-5.3"
+}

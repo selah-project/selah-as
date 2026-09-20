@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "তোমাৰ মাংসৰ চকু আছে নে? মানুহে দেখাৰ দৰে তুমিও দেখা নে?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "চকু আছে নে"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংসৰ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "দেখাৰ দৰে"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "দেখা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:34:36.519073018Z",
+  "model": "glm-5.3"
+}

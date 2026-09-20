@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "তোমাৰ সকলো গছ আৰু তোমাৰ ভূমিৰ ফল ⟨অকণিয়ে⟩ অধিকাৰ কৰিব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "তোমাৰ গছ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "আৰু ফল"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "তোমাৰ ভূমিৰ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "অধিকাৰ কৰিব"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "⟨অকণি⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T23:03:00.633258916Z",
+  "model": "glm-5.3"
+}

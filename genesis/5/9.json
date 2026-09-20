@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু এনোচে নব্বৈ বছৰ জীয়াই থাকিলে, আৰু তেওঁ ⟨את⟩ কেনানক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "জীয়াই থাকিলে"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "এনোচ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "নব্বৈ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কেনানক"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "কেনান"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:11.441873756Z",
+  "model": "glm-5.3"
+}

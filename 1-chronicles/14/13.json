@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু পলিষ্টীসকলে পুনৰাই যোগ দিলে, আৰু উপত্যকাত বিয়পি পৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "যোগ দিলে"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "পুনৰাই"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "পলিষ্টীসকলে"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "বিয়পি পৰিলে"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "উপত্যকাত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:52.227881443Z",
+  "model": "glm-5.3"
+}

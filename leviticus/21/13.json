@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু তেওঁ এগৰাকী নাৰী তাইৰ কুমাৰী অৱস্থাতেই বিয়া কৰাব।",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "আৰু তেওঁ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "নাৰী"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "তাইৰ কুমাৰী অৱস্থাতেই"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "বিয়া কৰাব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:23:00.734914699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "সংগীত-নেতাৰ বাবে; দাৱিদৰ স্তুতি-গীত।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সংগীত-নেতাৰ বাবে"
+    },
+    {
+      "surface": "מזমור",
+      "gloss": "স্তুতি-গীত"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:40:27.154962103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 124,
+  "translation": "ধন্য ইয়াহৱেহ, যিয়ে আমাক সিহঁতৰ দাঁতৰ চিকা হিচাপে নিদিলে।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "নি"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "চিকা হিচাপে"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "সিহঁতৰ দাঁতলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:08:12.514848396Z",
+  "model": "glm-5.3"
+}

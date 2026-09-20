@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "চাচুমৰ সন্তানসকল — দুইশ তেইশ জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "চাচুমৰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুইশ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "আৰু তিনি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:23.848234387Z",
+  "model": "glm-5.3"
+}

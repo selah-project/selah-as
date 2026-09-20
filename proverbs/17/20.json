@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "বাঁকা হৃদয়ৰ মানুহে মংগল নাপায়, আৰু নিজৰ জিভাতে ঘূৰণ কৰাজন দুৰ্যোগত পৰে।",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "বাঁকা"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "পায়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "মংগল"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "আৰু ঘূৰণ কৰা"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "নিজৰ জিভাতে"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "পৰে"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "দুৰ্যোগত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:00.577796503Z",
+  "model": "glm-5.3"
+}

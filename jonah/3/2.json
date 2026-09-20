@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "“উঠা, সেই ডাঙৰ চহৰ নিনৱেলৈ যোৱা, আৰু মই তোমাক যি ঘোষণা কৰোঁ সেই ⟨את⟩ ঘোষণা তাৰ ওচৰত ঘোষণা কৰা।”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "উঠা"
+    },
+    {
+      "surface": "לך",
+      "gloss": "যোৱা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "নিনৱে"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "চহৰ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "আৰু … ঘোষণা কৰা"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "তাৰ ওচৰত"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ঘোষণা"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ঘোষণা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কৰোঁ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাক"
+    }
+  ],
+  "timestamp": "2026-09-20T02:12:57.872611709Z",
+  "model": "glm-5.3"
+}

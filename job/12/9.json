@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "সকলো এইবোৰৰ মাজত কোনে নাজানে যে ইয়াহৱেহৰ হাতে এইটো কৰিছে?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "কৰিছে"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এইটো"
+    }
+  ],
+  "timestamp": "2026-09-20T03:33:01.550991547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "কিয়নো বহু প্ৰজ্ঞাত বহু দুখ ⟨থাকে⟩, আৰু যি জ্ঞান বঢ়ায় সি দুখখিনিও বঢ়ায়।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "বহু … ত"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "প্ৰজ্ঞাত"
+    },
+    {
+      "surface": "רב",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "দুখ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "আৰু বঢ়ায়"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "বঢ়ায়"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "দুখখিনি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:55.964438185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "নিপাতমানজনক মদ্যসাৰ দিয়ক, আৰু প্ৰাণত তিক্ততা থকাক মদ দিয়ক।",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "দিয়ক"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "মদ্যসাৰ"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "নিপাতমানজনক"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "আৰু মদ"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "তিক্ততা থকাক"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:40.562721144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "তেওঁ এই কথাষাৰত তেওঁলোকৰ কথা মানিলে আৰু দহ দিন তেওঁলোকক পৰীক্ষা কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "মানিলে"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকৰ কথা"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "কথাষাৰত"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "পৰীক্ষা কৰিলে"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:03:03.664727836Z",
+  "model": "glm-5.3"
+}

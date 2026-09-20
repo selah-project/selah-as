@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "কাণ পাতি মোৰ কণ্ঠস্বৰ শুনা; মন দি মোৰ বাক্য শুনা।",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "কাণ পাতি"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "মোৰ কণ্ঠস্বৰ"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "মন দি"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "মোৰ বাক্য"
+    }
+  ],
+  "timestamp": "2026-09-20T00:42:14.670402555Z",
+  "model": "glm-5.3"
+}

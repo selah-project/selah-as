@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "“হে মোৰ আদোনাই, ইস্ৰায়েলে শত্ৰুসকলৰ সন্মুখত পৃষ্ঠ ঘূৰাই লোৱাৰ পাছত মই কি কম ক'ম?”",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "হে মোৰ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'ম"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পাছত"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ঘূৰাই লোৱা"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলে"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "পৃষ্ঠ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "শত্ৰুসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:11:24.673992107Z",
+  "model": "glm-5.3"
+}

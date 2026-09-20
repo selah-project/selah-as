@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "সকলো সময়ত তোমাৰ বস্ত্ৰবোৰ বগা হওক, আৰু তোমাৰ মূৰৰ ওপৰত তেল নাটিকক।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়ত"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "হওক"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "তোমাৰ বস্ত্ৰবোৰ"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "বগা"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "আৰু তেল"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "তোমাৰ মূৰৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নে"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "নাটিকক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:53.006162249Z",
+  "model": "glm-5.3"
+}

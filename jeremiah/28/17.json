@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "আৰু হননিয়াহ ভাববাদীয়ে সেই বছৰতে, সপ্তম মাহত মৃত্যুবৰণ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "আৰু মৃত্যুবৰণ কৰিলে"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "হননিয়াহ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ভাববাদী"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "বছৰত"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "মাহত"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "সপ্তম"
+    }
+  ],
+  "timestamp": "2026-09-20T01:12:31.578312621Z",
+  "model": "glm-5.3"
+}

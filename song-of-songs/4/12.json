@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "এখন বন্ধ উদ্যান মোৰ ভনী, কইনা; এটা বন্ধ সোঁত, এটা মোহৰ-মোহা প্ৰস্ৰৱণ।",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "এখন উদ্যান"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "বন্ধ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "মোৰ ভনী"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "কইনা"
+    },
+    {
+      "surface": "גל",
+      "gloss": "এটা সোঁত"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "বন্ধ"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "প্ৰস্ৰৱণ"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "মোহৰ-মোহা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:00.798974656Z",
+  "model": "glm-5.3"
+}

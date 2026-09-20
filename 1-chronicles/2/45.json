@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "শ্বাম্মাইৰ পুতেক আছিল মাওন; আৰু মাওন ⟨আছিল⟩ বেইত-চুৰৰ পিতৃ।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "শ্বাম্মাইৰ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "মাওন"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "আৰু মাওন"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতৃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "צור",
+      "gloss": "চুৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:43.631299365Z",
+  "model": "glm-5.3"
+}

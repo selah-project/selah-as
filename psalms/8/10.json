@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "ইয়াহৱেহ, আমাৰ আদোনাই, সমগ্ৰ পৃথিৱীত তোমাৰ নাম ⟨এনে⟩ মহান!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "আমাৰ আদোনাই"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨এনে⟩ কিমান"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "তোমাৰ নাম"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:30:51.981776068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "দানৰ ওপৰত আছিল আজাৰএল, য়েৰোহামৰ পুতেক। এওঁলোকেই ইস্ৰায়েলৰ শাখাসমূহৰ চৰাইসকল।",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "দানৰ"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "আজাৰএল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "য়েৰোহামৰ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এওঁলোকেই"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "চৰাইসকল"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "শাখাসমূহৰ"
+    },
+    {
+      "surface": "ইس்ரאל",
+      "gloss": "…"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:37:34.401793129Z",
+  "model": "glm-5.3"
+}

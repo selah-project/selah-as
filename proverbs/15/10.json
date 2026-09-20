@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "পথ এৰি দিয়া জনৰ বাবে শৃংখলা কষ্টদায়ক, আৰু তিৰস্কাৰ ঘৃণা কৰাজন মৰিব।",
+  "tokens": [
+    {
+      "surface": "মוסর",
+      "gloss": "শৃংখলা"
+    },
+    {
+      "surface": "רע",
+      "gloss": "কষ্টদায়ক"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "এৰি দিয়া জনৰ বাবে"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ঘৃণা কৰাজন"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "তিৰস্কাৰ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "মৰিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:55.985848106Z",
+  "model": "glm-5.3"
+}

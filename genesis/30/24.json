@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "তাই ⟨אত⟩ ⟨את⟩ তাৰ নাম য়োচেফ ৰাখিলে, কৈ — “ইয়াহৱেহে মোক আৰু এটা পুতেক যোগ কৰক।”",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "তাই ৰাখিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তাৰ নাম"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তাৰ নাম"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "য়োচেফ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "যোগ কৰক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "আৰু এটা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:39:12.320282755Z",
+  "model": "glm-5.3"
+}

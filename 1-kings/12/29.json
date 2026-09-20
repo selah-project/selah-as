@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু তেওঁ ⟨את⟩ এটাক বেইত এলত থ'লে, আৰু ⟨אত⟩ আনটাক দানত দিলে।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "আৰু তেওঁ … থ'লে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এটাক"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এলত"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "আনটাক"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "আনটা"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "দানত"
+    }
+  ],
+  "timestamp": "2026-09-20T00:10:31.513376693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "যেতিয়ালৈকে ৰূপৰ সূতা দূৰ নহয়, আৰু সোণৰ পাত্ৰ নভাঙে, কলহ জলস্ৰোতৰ ওচৰত নভাঙে, আৰু ঘূৰণী কুঁৱালৈ নসৰে।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "যেতিয়ালৈকে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "দূৰ হয়"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "সূতা"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ৰূপৰ"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ভাঙে"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "পাত্ৰ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "নভাঙে"
+    },
+    {
+      "surface": "כד",
+      "gloss": "কলহ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওচৰত"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "জলস্ৰোতৰ"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "নসৰে"
+    },
+    {
+      "surface": "הגלগל",
+      "gloss": "ঘূৰণী"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "কুঁৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:00:11.203631773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বজাৰৰ মাজেদি পাৰ হৈ, তাইৰ চুকৰ কাষেদি, আৰু তাইৰ ঘৰৰ পথেৰে খোজ কাঢ়িছিল।",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "পাৰ হৈ"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "বজাৰৰ মাজেদি"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "কাষেদি"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "তাইৰ চুকৰ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "আৰু পথেৰে"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "তাইৰ ঘৰৰ"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "খোজ কাঢ়িছিল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:48.468408636Z",
+  "model": "glm-5.3"
+}

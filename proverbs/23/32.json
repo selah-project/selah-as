@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "শেষত ই সাপৰ দৰে দংশন কৰে, আৰু বিষধৰ সাপৰ দৰে ফুটুকা মাৰে।",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "শেষত"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "সাপৰ দৰে"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "দংশন কৰে"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "বিষধৰ সাপৰ দৰে"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "ফুটুকা মাৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:19.505175028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 136,
+  "translation": "তেওঁ সকলো মাংসলৈ খাদ্য দিয়ে, কিয়নো তেওঁৰ হেচেদ চিৰকাললৈকে।",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "দিয়ে"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "খাদ্য"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সকলোলৈ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিৰকাললৈকে"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "তেওঁৰ হেচেদ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:09:07.630165512Z",
+  "model": "glm-5.3"
+}

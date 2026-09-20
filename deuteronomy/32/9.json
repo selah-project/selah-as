@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "কিয়নো ইয়াহৱেহৰ ভাগ ⟨is⟩ তেওঁৰ প্ৰজা; য়াকোভ ⟨is⟩ তেওঁৰ উত্তৰাধিকাৰৰ মাপ-ৰজ্জু।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ভাগ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "তেওঁৰ প্ৰজা"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "মাপ-ৰজ্জু"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "তেওঁৰ উত্তৰাধিকাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:04:49.196892810Z",
+  "model": "glm-5.3"
+}

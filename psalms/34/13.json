@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "কোনজন ⟨হৈছে⟩ সেই মানুহ যি জীৱন বিচাৰে, দিনবোৰ ভালপায়, ভাল দেখিবলৈ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোন"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "বিচাৰে"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱন"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ভালপায়"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিনবোৰ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "দেখিবলৈ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    }
+  ],
+  "timestamp": "2026-09-20T02:37:33.605652656Z",
+  "model": "glm-5.3"
+}

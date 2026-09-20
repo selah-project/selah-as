@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু এলিয়েনাই, আৰু চিলতাই, আৰু এলিয়েল।",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "আৰু এলিয়েনাই"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "আৰু চিলতাই"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "আৰু এলিয়েল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:07.812201250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ইয়াহৱেহে পুনৰ আহাজৰ সৈতে কথা পাতিলে, কৈছিল ⟨এইদৰে⟩ —",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "পুনৰ … কৰিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ সৈতে"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "আহাজ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈছিল"
+    }
+  ],
+  "timestamp": "2026-09-20T00:33:47.926757348Z",
+  "model": "glm-5.3"
+}

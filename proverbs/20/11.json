@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "ল'ৰাও ⟨সেইটো⟩ তাৰ কাৰ্য্যবোৰৰে পৰিচিত হয় — তাৰ কাম নিৰ্মল নে সৰল।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "-ও"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "তাৰ কাৰ্য্যবোৰৰে"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "পৰিচিত হয়"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ল'ৰা"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "זך",
+      "gloss": "নিৰ্মল"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "সৰল"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "তাৰ কাম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:43.725311354Z",
+  "model": "glm-5.3"
+}

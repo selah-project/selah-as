@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "বেন-হেচেদ — আৰুবোতত; চোকো আৰু খেফেৰৰ সকলো দেশ তেওঁৰ ⟨আছিল⟩।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "হেচেদ"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "আৰুবোতত"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "চোকো"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "খেফেৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:02:05.107803769Z",
+  "model": "glm-5.3"
+}

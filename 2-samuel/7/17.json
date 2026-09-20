@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এই সকলো কথা আৰু এই সমগ্ৰ দৰ্শন অনুসৰি নাতানে দাৱিদৰ ওচৰত সেইদৰে ক'লে।",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "সকলো ... অনুসৰি"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "আৰু সমগ্ৰ ... অনুসৰি"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "দৰ্শন"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেইদৰে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতানে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰত"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:09:59.635938859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "কিৰিয়ত-য়েৰিম, কিফিৰা আৰু বেৰোতৰ মানুহ — সাতশ চল্লিশ তিনি জন।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "কিৰিয়ত"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "য়েৰিম"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "কিফিৰা"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "আৰু বেৰোত"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "আৰু তিনি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:10.449939903Z",
+  "model": "glm-5.3"
+}

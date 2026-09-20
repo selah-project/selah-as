@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ নিজৰ ধনুক পাতিলে আৰু মোক কাঁড়ৰ বাবে লক্ষ্যবস্তু কৰি থিয় কৰালে।",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "পাতিলে"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "নিজৰ ধনুক"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "আৰু মোক থিয় কৰালে"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "লক্ষ্যবস্তুৰ দৰে"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "কাঁড়ৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:06.244312701Z",
+  "model": "glm-5.3"
+}

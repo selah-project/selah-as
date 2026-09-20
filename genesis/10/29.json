@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু ⟨את⟩ ওফিৰ, আৰু ⟨את⟩ খাভিলা, আৰু ⟨את⟩ য়োৱাভ; এই সকলো য়াক্তানৰ পুতেক আছিল।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ওফিৰ"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "ওফিৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "খাভিলা"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "খাভিলা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "য়োৱাভ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "য়োৱাভ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "য়াক্তানৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:19.716460818Z",
+  "model": "glm-5.3"
+}

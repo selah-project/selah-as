@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "আৰু আমালেকে ৰেফিডিমত ইস্ৰায়েলৰ সৈতে যুদ্ধ কৰিবলৈ আহিল।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "আমালেকে"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "যুদ্ধ কৰিলে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "ৰেফিডিমত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:01:11.180671433Z",
+  "model": "glm-5.3"
+}

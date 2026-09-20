@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু গোমেৰৰ পুতেকসকল — অশ্কেনাজ, ৰিফাত আৰু তোগৰ্মাহ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "গোমেৰৰ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "অশ্কেনাজ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ৰিফাত"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "তোগৰ্মাহ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:28:44.755681553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "আৰু মহামাৰীৰ পাছত ⟨এই ঘটনা হ'ল⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পাছত"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "মহামাৰীৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:40:53.153007355Z",
+  "model": "glm-5.3"
+}

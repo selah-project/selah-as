@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "মোয়েদ-ৰ দিনত আৰু ইয়াহৱেহৰ উৎসৱ-ৰ দিনত তেওঁলোকে ⟨the⟩ কি কৰিব?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "কৰিব"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "নিৰ্ধাৰিত সময় ⟨মোয়েদ-ৰ⟩"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "আৰু দিনত"
+    },
+    {
+      "surface": "חג",
+      "gloss": "উৎসৱ-ৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:05:44.721968939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "বানিৰ সন্তানসকল — ছশ চল্লিশ আৰু দুজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বানিৰ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:18.445668230Z",
+  "model": "glm-5.3"
+}

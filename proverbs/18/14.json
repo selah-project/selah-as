@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "মানুহৰ ৰুৱাখে তেওঁৰ ৰোগ ⟨সহন কৰায়⟩; কিন্তু ভগা ৰুৱাখক কোনে তুলি ল'ব পাৰে?",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ৰুৱাখ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "সহন কৰায়"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "তেওঁৰ ৰোগ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "আৰু ৰুৱাখ"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ভগা"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "তুলি ল'ব পাৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:33.316014504Z",
+  "model": "glm-5.3"
+}

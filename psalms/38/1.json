@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "দাৱিদৰ স্তুতিগীত, স্মৰণ কৰিবলৈ।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "স্তুতিগীত"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "স্মৰণ কৰিবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:40:10.104179183Z",
+  "model": "glm-5.3"
+}

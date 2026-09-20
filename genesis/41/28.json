@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "এই সেই কথা যি মই পাৰ'অক ক'লোঁ: এলোহিমে যি কৰিব লৈছে, ⟨את⟩ পাৰ'অক দেখুৱাইছে।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "সেই কথা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "মই ক'লোঁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ক"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "পাৰ'অক"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰিব লৈছে"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "দেখুৱাইছে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পাৰ'অক"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "পাৰ'অক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:46:15.953771697Z",
+  "model": "glm-5.3"
+}

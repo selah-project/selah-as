@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "লায়িচ — পশুবোৰৰ মাজত বলৱান, আৰু সকলোৰে সন্মুখৰ পৰা ⟨সি⟩ ঘূৰি নাযায়।",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "লায়িচ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "বলৱান"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "পশুৰ মাজত"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ঘূৰি যায়"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "সন্মুখৰ পৰা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:57.265747052Z",
+  "model": "glm-5.3"
+}

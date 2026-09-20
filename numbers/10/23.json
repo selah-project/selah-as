@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু মনচ্চেহৰ সন্তানসকলৰ গোত্ৰৰ বাহিনীৰ ওপৰত আছিল গমলিএল, পদহচুৰৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "বাহিনী"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "গোত্ৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকলৰ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনচ্চেহ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "গমলিএল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "পদহ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "চুৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:32:31.832109414Z",
+  "model": "glm-5.3"
+}

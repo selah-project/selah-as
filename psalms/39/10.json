@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 39,
+  "translation": "মই মূক হ'লোঁ, মোৰ মুখ মেলোঁ নাই, কিয়নো তুমিয়েই সেইটো কৰিছিলা।",
+  "tokens": [
+    {
+      "surface": "נאלমתי",
+      "gloss": "মই মূক হ'লোঁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "মেলোঁ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মোৰ মুখ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "কৰিছিলা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:39:56.384732991Z",
+  "model": "glm-5.3"
+}

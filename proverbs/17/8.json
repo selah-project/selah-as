@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "ঘুষ ⟨হয়⟩ অনুগ্ৰহৰ শিল তাৰ গৰাকীৰ চকুত; যিকোনো দিশলৈ সি ঘূৰে, সফল হয়।",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "শিল"
+    },
+    {
+      "surface": "חן",
+      "gloss": "অনুগ্ৰহৰ"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ঘুষ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চকুত"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "তাৰ গৰাকীৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "যিকোনো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ঘূৰে"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "সফল হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:42.822405799Z",
+  "model": "glm-5.3"
+}

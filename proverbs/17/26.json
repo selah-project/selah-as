@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "ন্যায়পৰায়ণক দণ্ড দিয়াও ভাল নহয়, সৰলতাৰ বাবে উদাৰসকলক আঘাত কৰাও ⟨নহয়⟩।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ওকৈ"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "দণ্ড দিয়া"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ন্যায়পৰায়ণক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "আঘাত কৰা"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "উদাৰসকলক"
+    },
+    {
+      "surface": "על",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "সৰলতা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:09.162572309Z",
+  "model": "glm-5.3"
+}

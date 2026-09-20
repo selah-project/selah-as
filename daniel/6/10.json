@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "সেয়ে ৰজা দাৰিয়াৱেশে লিখনি আৰু নিষেধাজ্ঞাত মোহৰ মাৰিলে।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "সেই কাৰণে"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "দাৰিয়াৱেশে"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "মোহৰ মাৰিলে"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "লিখনি"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "আৰু নিষেধাজ্ঞা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:08:57.776765215Z",
+  "model": "glm-5.3"
+}

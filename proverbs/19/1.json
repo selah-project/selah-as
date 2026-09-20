@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "নিজৰ নিষ্ঠাত খোজ কঢ়া দুখীয়াজন ভাল, ওঁঠ-বাক্যত বাঁকা আৰু মূৰ্খ হোৱাতকৈ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "רש",
+      "gloss": "দুখীয়াজন"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "খোজ কঢ়া"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "নিজৰ নিষ্ঠাত"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "বাঁকা"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ওঁঠ-বাক্যত"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "আৰু তেওঁ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "মূৰ্খ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:19.327178039Z",
+  "model": "glm-5.3"
+}

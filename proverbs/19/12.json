@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "ৰজাৰ ক্ৰোধ সিংহৰ গৰ্জনৰ দৰে; কিন্তু তেওঁৰ প্ৰীতি ঘাঁহৰ ওপৰত শিপৰ দৰে।",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "গৰ্জন"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "সিংহৰ দৰে"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "ক্ৰোধ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "কিন্তু শিপৰ দৰে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ঘাঁহৰ"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "তেওঁৰ প্ৰীতি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:22:05.755053644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "তেওঁক এটা নতুন গান গাওক; জয়ধ্বনিৰে সুন্দৰকৈ বজাওক।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "গান গাওক"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "গান"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "নতুন"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "সুন্দৰকৈ"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "বজাওক"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "জয়ধ্বনিৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:38:33.753277885Z",
+  "model": "glm-5.3"
+}

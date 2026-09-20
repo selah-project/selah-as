@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "ইয়াহৱেহে মোশ্বেক কথা পাতি ক'লে,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতি ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:36:39.946567736Z",
+  "model": "glm-5.3"
+}

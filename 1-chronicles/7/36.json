@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "চোপখৰ পুতেকসকল আছিল চুহ, হৰ্নেফেৰ, শ্বুৱাল, বেৰি আৰু য়িমৰা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "চোপখৰ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "চুহ"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "আৰু হৰ্নেফেৰ"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "আৰু শ্বুৱাল"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "আৰু বেৰি"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "আৰু য়িমৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:18.338822154Z",
+  "model": "glm-5.3"
+}

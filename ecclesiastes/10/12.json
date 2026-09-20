@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "জ্ঞানীৰ মুখৰ কথাবোৰ ⟨অনুগ্ৰহময়⟩; আৰু মূৰ্খৰ ওঁঠে ⟨তেওঁকেই⟩ গিলি লয়।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখৰ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানীৰ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "অনুগ্ৰহময়"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "আৰু ওঁঠে"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "মূৰ্খৰ"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "তেওঁকেই গিলি লয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:22.698787313Z",
+  "model": "glm-5.3"
+}

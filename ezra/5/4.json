@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "তেতিয়া আমি তেওঁলোকক এইদৰে ক'লোঁ, “এই নিৰ্মাণ কৰা মানুহবোৰৰ নামবোৰ কি?”",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "আমি ক'লোঁ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকক"
+    },
+    {
+      "surface": "מן",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "তেওঁলোক"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "নামবোৰ"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "মানুহবোৰৰ"
+    },
+    {
+      "surface": "די",
+      "gloss": "যি"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "নিৰ্মাণ"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "কৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:14:45.838205706Z",
+  "model": "glm-5.3"
+}

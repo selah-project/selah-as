@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "এইলামৰ পুত্ৰসকল, এহেজাৰ দুশ চুৱান্ন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "এইলামৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুশ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ואরבעה",
+      "gloss": "আৰু চাৰি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:08.983301772Z",
+  "model": "glm-5.3"
+}

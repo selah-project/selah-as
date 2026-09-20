@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "সকলোৱে তৰোৱাল আঁকতি ধৰা, যুদ্ধত শিক্ষিত; প্ৰত্যেক মানুহে ⟨has⟩ নিজৰ তৰোৱাল ঊৰুত, ৰাতিৰ ভয়ৰ পৰা।",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "সকলোৱে"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "আঁকতি ধৰা"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "তৰোৱাল"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "শিক্ষিত"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধত"
+    },
+    {
+      "surface": "איש",
+      "gloss": "প্ৰত্যেক মানুহে"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "নিজৰ তৰোৱাল"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ত"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ঊৰু"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ভয়ৰ পৰা"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ৰাতিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:47.461268324Z",
+  "model": "glm-5.3"
+}

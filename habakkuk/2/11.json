@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "কিয়নো বেৰৰ পৰা শিলে হাহাকাৰ মাৰিব, আৰু কাঠৰ পৰা কড়ীখনে উত্তৰ দিব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "শিল"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "বেৰৰ পৰা"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "হাহাকাৰ মাৰিব"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "আৰু কড়ীখনে"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "কাঠৰ পৰা"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "উত্তৰ দিব"
+    }
+  ],
+  "timestamp": "2026-09-20T02:16:42.031295319Z",
+  "model": "glm-5.3"
+}

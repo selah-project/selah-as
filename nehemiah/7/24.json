@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "হাৰিফৰ ⟨সন্তানসকল⟩ — এশ বাৰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "হাৰিফৰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বাৰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:40.641659350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "জৰহয়াহৰ পুতেক, উজ্জীৰ পুতেক, বুক্কীৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "জৰহয়াহৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "উজ্জীৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "বুক্কীৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:14:55.310962929Z",
+  "model": "glm-5.3"
+}

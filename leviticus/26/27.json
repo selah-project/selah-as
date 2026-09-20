@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু যদি এই কথাৰ পাছতো তোমালোকে মোৰ কথা নশুনে, বৰঞ্চ বিদ্ৰোহভাৱে মোৰ লগত চলা কৰে,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "এই কথাৰ পাছতো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "শুনে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "চলা কৰে"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "মোৰ লগত"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "বিদ্ৰোহভাৱে"
+    }
+  ],
+  "timestamp": "2026-09-20T05:02:35.675220665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "তাৰ পাছত হিজকিয়াহু ৰজাৰ সেৱকসকল ইয়েশায়াহুৰ ওচৰলৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "সেৱকসকল"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "হিজকিয়াহু"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ইয়েশায়াহুৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:46:17.079972461Z",
+  "model": "glm-5.3"
+}

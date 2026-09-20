@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "আৰু মোশ্বেই শুনিলে, আৰু নিজৰ মুখমুখী হৈ পৰিল।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "শুনিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "পৰিল"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ৰ ওপৰত"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "নিজৰ মুখ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:37:15.926742587Z",
+  "model": "glm-5.3"
+}

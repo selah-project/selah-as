@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তেওঁ ক'লে, “মোৰ তোমাৰ আগত এটা কথা কোৱাৰ আছে।” তেওঁ ক'লে, “কওক।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'לে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাৰ আগত"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কওক"
+    }
+  ],
+  "timestamp": "2026-09-20T00:02:30.711860900Z",
+  "model": "glm-5.3"
+}

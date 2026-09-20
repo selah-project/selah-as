@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মাগ্পিয়াচ্ব, মেচুল্লাম, চেজিৰ।",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "মাগ্পিয়াচ্ব"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "মেচুল্লাম"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "চেজিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:18.524934570Z",
+  "model": "glm-5.3"
+}

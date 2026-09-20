@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "তেওঁৰ সন্মুখৰ পৰা খেদি নাযাবা, বেয়া কাৰ্যত নিষ্ঠা নকৰিবা, কিয়নো যি তেওঁৰ ইচ্ছা সেয়েই তেওঁ কৰে।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "খেদি"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "তেওঁৰ সন্মুখৰ পৰা"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "নাযাবা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "নিষ্ঠা নকৰিবা"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "কাৰ্যত"
+    },
+    {
+      "surface": "רע",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "তেওঁৰ ইচ্ছা"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "তেওঁ কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:03.288365481Z",
+  "model": "glm-5.3"
+}

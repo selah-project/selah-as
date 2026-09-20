@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু জনসাধাৰণে মোশ্বেৰ বিৰুদ্ধে গুণগুণাই ক'লে, “আমি কি পান কৰিম?”",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "গুণগুণাই ক'লে"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনসাধাৰণে"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিৰুদ্ধে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "পান কৰিম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:57:46.263684912Z",
+  "model": "glm-5.3"
+}

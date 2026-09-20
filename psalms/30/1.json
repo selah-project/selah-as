@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "গীত — ঘৰৰ উৎসৰ্গৰ সংগীত, দাৱিদৰ।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "সংগীত"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "উৎসৰ্গৰ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:35:47.329235549Z",
+  "model": "glm-5.3"
+}

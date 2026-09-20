@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "আৰু এইবোৰ আনাহৰ সন্তানসকল: দিশোন আৰু আনাহৰ জীয়েক ওহোলিভামাহ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আৰু এইবোৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "আনাহৰ"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "দিশোন"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "আৰু ওহোলিভামাহ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "আনাহৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:42:46.986981833Z",
+  "model": "glm-5.3"
+}

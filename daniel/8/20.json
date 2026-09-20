@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "যিখন শিংধাৰী মেৰখন তুমি দেখিছা, সেয়া মাদয় আৰু পাৰচৰ ৰজাসকল।",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "মেৰখন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিখন"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "তুমি দেখিছা"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "শিংধাৰী"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "শিংবোৰৰ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ৰজাসকল"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "মাদয়"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "আৰু পাৰচ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:08:16.181005503Z",
+  "model": "glm-5.3"
+}

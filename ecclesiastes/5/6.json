@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "কাৰণ সপোনৰ ভীড়ত আৰু হেবেলসমূহত কথাও বহু হয়; ⟨কিন্তু⟩ তুমি ⟨א...⟩ ⟨את⟩ এলোহিমক ভয় কৰা।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ভীড়ত"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "সপোনবোৰ"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "আৰু হেবেলসমূহ ⟨বৃথা⟩"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "আৰু কথাবোৰ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "বহু হয়"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨কিন্তু⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এলোহিমক"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমক"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ভয় কৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:59:00.193808039Z",
+  "model": "glm-5.3"
+}

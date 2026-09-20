@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "য়িচ্চাকাৰৰ ⟨বাবে⟩ — চুৱাৰৰ পুতেক নেতানেল।",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "য়িচ্চাকাৰৰ বাবে"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "নেতানেল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "চুৱাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:06.163194251Z",
+  "model": "glm-5.3"
+}

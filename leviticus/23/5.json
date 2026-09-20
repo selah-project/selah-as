@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "প্ৰথম মাহত, মাহৰ চৈধ্য তাৰিখত, দুই সন্ধিয়াৰ মাজত পেচহ ইয়াহৱেহৰ ⟨হ'ব⟩।",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "মাহত"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "প্ৰথম"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ (চৈধ্য)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাহৰ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "দুই সন্ধিয়াৰ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "পেচহ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:24:39.674292550Z",
+  "model": "glm-5.3"
+}

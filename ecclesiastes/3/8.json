@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ঢেত প্ৰেম কৰিবলৈ, আৰু ঢেত ঘৃণা কৰিবলৈ; ঢেত যুদ্ধৰ, আৰু ঢেত শান্তিৰ।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ঢেত"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "প্ৰেম কৰিবলৈ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু ঢেত"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ঘৃণা কৰিবলৈ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ঢেত"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধৰ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু ঢেত"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:05.338456249Z",
+  "model": "glm-5.3"
+}

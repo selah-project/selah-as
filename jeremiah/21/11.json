@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু যিহূদাৰ ৰজাৰ ঘৰলৈ — ইয়াহৱেহৰ বাক্য শুনা।",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "আৰু ... ঘৰলৈ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদাৰ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:07:50.312671751Z",
+  "model": "glm-5.3"
+}

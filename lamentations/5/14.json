@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "বৃদ্ধসকলে দুৱাৰদলী এৰিলে, জৱানসকলে ⟨নিজৰ⟩ সংগীত এৰিলে।",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "বৃদ্ধসকলে"
+    },
+    {
+      "surface": "משער",
+      "gloss": "দুৱাৰদলী এৰিলে"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "⟨এৰিলে⟩"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "জৱানসকলে"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "নিজৰ সংগীত ⟨এৰিলে⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:38.255799419Z",
+  "model": "glm-5.3"
+}

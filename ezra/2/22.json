@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "নেটোফাৰ মানুহসকল — পঞ্চাশ ছয় জন।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহসকল"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "নেটোফা"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "আৰু ছয়"
+    }
+  ],
+  "timestamp": "2026-09-20T04:11:16.639954745Z",
+  "model": "glm-5.3"
+}

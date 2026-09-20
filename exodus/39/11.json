@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 39,
+  "translation": "আৰু দ্বিতীয় শাৰী — ন'ফেখ, চাপ্পিৰ আৰু য়াহাল'ম।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "আৰু শাৰী"
+    },
+    {
+      "surface": "השני",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ন'ফেখ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "চাপ্পিৰ"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "আৰু য়াহাল'ম"
+    }
+  ],
+  "timestamp": "2026-09-19T22:11:39.342732705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "আৰু আভ্ৰাহামে ⟨את⟩ তেওঁৰ সকলো সম্পত্তি ইৎচহাকক দিলে।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্ৰাহামে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তেওঁৰ সকলো সম্পত্তি"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ইৎচহাকক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:37:30.501929926Z",
+  "model": "glm-5.3"
+}

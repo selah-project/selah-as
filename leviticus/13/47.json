@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু কাপোৰত যেতিয়া কুষ্ঠৰ দাগ থাকে — উলৰ কাপোৰত বা পচাথৰ কাপোৰত।",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "আৰু কাপোৰত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "দাগ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "কুষ্ঠৰ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "কাপোৰত"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "উলৰ"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "কাপোৰত"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "পচাথৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:01:14.916128173Z",
+  "model": "glm-5.3"
+}

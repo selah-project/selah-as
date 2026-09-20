@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু ⟨সি⟩ দক্ষিণৰ ৰজাৰ ৰাজ্যত সোমাব, কিন্তু নিজৰ ভূমিলৈ ঘূৰি যাব।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "আৰু সোমাব"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "ৰাজ্যত"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "দক্ষিণৰ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "কিন্তু ঘূৰি যাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "নিজৰ ভূমি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:11:25.472759309Z",
+  "model": "glm-5.3"
+}

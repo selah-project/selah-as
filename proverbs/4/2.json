@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "কিয়নো মই তোমালোকক উত্তম শিক্ষা দিছোঁ; মোৰ তোৰা ⟨শিক্ষা, নিৰ্দেশনা⟩ এৰিব নালাগে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "শিক্ষা"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "দিছোঁ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকক"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "মোৰ তোৰা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নালাগে ⟨না⟩"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "এৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:51.558183313Z",
+  "model": "glm-5.3"
+}

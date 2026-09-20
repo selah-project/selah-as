@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "যাৰ হাতত সকলো জীৱৰ প্ৰাণ আৰু সকলো মানুহৰ ⟨মাংসৰ⟩ উশাহ ⟨আছে⟩।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যাৰ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "তেওঁৰ হাতত"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীৱৰ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "আৰু উশাহ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংসৰ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:33:01.551399874Z",
+  "model": "glm-5.3"
+}

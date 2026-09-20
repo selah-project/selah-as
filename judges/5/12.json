@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 5:12",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "জাগা, জাগা, দেবোৰা; জাগা, জাগা, এটা গীত উচ্চাৰণ কৰা; উঠা, বাৰাক, আৰু তোমাৰ বন্দীসকলক বন্দী কৰি লৈ যোৱা, আবিনো'মৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "জাগা"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "জাগা"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "দেবোৰা"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "জাগা"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "জাগা"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "উচ্চাৰণ কৰা"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "এটা গীত"
+    },
+    {
+      "surface": "קום",
+      "gloss": "উঠা"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "বাৰাক"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "আৰু বন্দী কৰি লৈ যোৱা"
+    },
+    {
+      "surface": "שביך",
+      "gloss": "তোমাৰ বন্দীসকলক"
+    },
+    {
+      "surface": "বவనבen",
+      "gloss": "পুতেক",
+      "_self_check": "surface corrupted — must be בן"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "আবিনো'মৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:21:52.246689660Z",
+  "model": "glm-5.3"
+}

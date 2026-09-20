@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 94,
+  "translation": "যিয়ে কাণ ৰোপণ কৰিলে, ⟨তেওঁ⟩ নুশুনেনে? যিয়ে চকু গঢ়িলে, ⟨তেওঁ⟩ নেদেখেনে?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "ৰোপণ কৰিলে"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "কাণ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "নেকি?"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "নুশুনেনে"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নতুবা"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "গঢ়িলে"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চকু"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "নেকি?"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "নেদেখেনে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:57:02.555797731Z",
+  "model": "glm-5.3"
+}

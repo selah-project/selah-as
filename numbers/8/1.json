@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 8:1",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "ইয়াহৱেহে মোশ্বেৰ সৈতে ক'লে ⟨কৈ থাকিবলৈ⟩।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ সৈতে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ থাকিবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:33:40.119720734Z",
+  "model": "glm-5.3"
+}

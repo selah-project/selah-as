@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "মই অকলশৰীয়াকৈ এই সমগ্ৰ লোকসকলক ⟨את⟩ বহন কৰিব নোৱাৰোঁ, কিয়নো এইটো মোতকৈ গধুৰ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নোৱাৰোঁ না"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "পাৰোঁ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "অকলশৰীয়াকৈ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "বহন কৰিবলৈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই সমগ্ৰ লোকসকলক"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকসকলক"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "গধুৰ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোতকৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:35:50.794373165Z",
+  "model": "glm-5.3"
+}

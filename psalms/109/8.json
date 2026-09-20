@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 109,
+  "translation": "তেওঁৰ দিনবোৰ অলপ হওক, আৰু তেওঁৰ পদবী আন এজনে লওক।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "হওক"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "তেওঁৰ দিনবোৰ"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "তেওঁৰ পদবী"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "লওক"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "আন এজনে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:02:11.548723599Z",
+  "model": "glm-5.3"
+}

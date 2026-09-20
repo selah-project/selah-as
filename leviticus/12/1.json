@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক ⟨এইদৰে⟩ ক'লে,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨-লৈ⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এইদৰে কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:18:22.170585739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "দহ হাত ⟨আছিল⟩ কাঠ-ফলিৰ দৈৰ্ঘ্য, আৰু এটা কাঠ-ফলিৰ প্ৰস্থ আছিল এক হাত আৰু আধা হাত।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "দৈৰ্ঘ্য"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "কাঠ-ফলিৰ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "আৰু এক হাত"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "আৰু আধা"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "প্ৰস্থ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "কাঠ-ফলি"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "এটাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:11:18.226926596Z",
+  "model": "glm-5.3"
+}

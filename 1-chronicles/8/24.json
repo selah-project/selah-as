@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু হানানয়াহ, আৰু এইলাম, আৰু আনতোতিয়াহ।",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "আৰু হানানয়াহ"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "আৰু এইলাম"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "আৰু আনতোতিয়াহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:36.104385766Z",
+  "model": "glm-5.3"
+}

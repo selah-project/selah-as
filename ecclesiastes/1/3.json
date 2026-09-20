@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "সূৰ্য্যৰ তলত তাৰ সকলো পৰিশ্ৰমত — যি পৰিশ্ৰম সি কৰে — মানুহৰ বাবে কি আধিক্য ⟨আছে⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "আধিক্য"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "মানুহৰ বাবে"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সকলো ... ত"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "তাৰ পৰিশ্ৰম"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "যি পৰিশ্ৰম সি কৰে"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "השमש",
+      "gloss": "সূৰ্য্যৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:01.906936953Z",
+  "model": "glm-5.3"
+}

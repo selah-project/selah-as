@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "য়াৰাবি'আম ৰজাৰ অঠৰ নং বছৰত আবিয়াই য়েহুদাৰ ওপৰত ৰাজত্ব কৰিলে।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "বছৰত"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "আঠ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "য়াৰাবি'আম"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ৰাজত্ব কৰিলে"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "আবিয়াই"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "য়েহুদাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:46:12.668613033Z",
+  "model": "glm-5.3"
+}

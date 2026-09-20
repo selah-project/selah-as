@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 43,
+  "translation": "মই, মইয়েই ইয়াহৱেহ; আৰু মোৰ বাহিৰে কোনো উদ্ধাৰকৰ্তা নাই।",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মইয়েই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "আৰু নাই"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "মোৰ বাহিৰে"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "উদ্ধাৰকৰ্তা"
+    }
+  ],
+  "timestamp": "2026-09-20T00:47:08.269386265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোলৈ আহিল, এই বুলি ক'বলৈ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু ... হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বুলি ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:23:20.184520744Z",
+  "model": "glm-5.3"
+}

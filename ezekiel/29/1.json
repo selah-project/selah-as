@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 29:1",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "দশম বছৰত, দশম ⟨মাহত⟩, মাহৰ দ্বাদশ ⟨দিনা⟩, ইয়াহৱেহৰ বাক্য মোলৈ আহিল, কৈছিল —",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "দশম বছৰত"
+    },
+    {
+      "surface": "העשירית",
+      "gloss": "দশম"
+    },
+    {
+      "surface": "בעשרי",
+      "gloss": "দশম ⟨মাহত⟩"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "দ্বাদশ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দ্বাদশ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাহৰ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আহিল হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈছিল"
+    }
+  ],
+  "timestamp": "2026-09-20T01:46:51.644356958Z",
+  "model": "glm-5.3"
+}

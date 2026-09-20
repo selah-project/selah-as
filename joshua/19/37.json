@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু কেদেচ, আৰু এদ্ৰেই, আৰু এইন-হাচোৰ।",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "আৰু কেদেচ"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "আৰু এদ্ৰেই"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "আৰু এইন"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "হাচোৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:16:15.463604036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "নিৰ্বোধৰ বাবে প্ৰজ্ঞা ⟨অতি⟩ ওখ; দুৱাৰমুখত তেওঁ ⟨নিজৰ⟩ মুখ নুখোলে।",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "⟨অতি⟩ ওখ"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "নিৰ্বোধৰ বাবে"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "প্ৰজ্ঞা"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "দুৱাৰমুখত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "নুখোলে"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "⟨নিজৰ⟩ মুখ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:23.838908855Z",
+  "model": "glm-5.3"
+}

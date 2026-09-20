@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "সি নিজৰ ঘৰৰ দুৱাৰমুখত বহে, নগৰৰ উচ্চ স্থানত ⟨a⟩ আসনত।",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "সি বহে"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "দুৱাৰমুখত"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "নিজৰ ঘৰৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ত"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "আসনত"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "উচ্চ স্থানত"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "নগৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:51.188130481Z",
+  "model": "glm-5.3"
+}

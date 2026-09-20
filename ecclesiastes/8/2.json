@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "⟨মই কওঁ⟩ ৰজাৰ মুখ ⟨অৰ্থাৎ আজ্ঞা⟩ ৰক্ষা কৰা, আৰু এলোহিমৰ শপতৰ খাতিৰত ⟨তাকে ৰক্ষা কৰা⟩।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "⟨মই কওঁ⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ৰক্ষা কৰা"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু সন্দৰ্ভত"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "খাতিৰত"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "শপত"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:03.288205741Z",
+  "model": "glm-5.3"
+}

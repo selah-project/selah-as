@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু পাৰ'অ ঘূৰি গ'ল আৰু নিজৰ ঘৰত সোমাল, আৰু এইটোৰ প্ৰতিও তেওঁ মন নিদিলে।",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ঘূৰি গ'ল"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "পাৰ'অ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "সোমাল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "নিজৰ ঘৰত"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "שת",
+      "gloss": "নিদিলে"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "মন"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "এইটোৰ প্ৰতি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:54:01.221959178Z",
+  "model": "glm-5.3"
+}

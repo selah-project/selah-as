@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "আৰু য়িচ্ছাইৰ পুতেক দাৱিদে সকলো ইস্ৰায়েলৰ ওপৰত ৰাজত্ব কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "আৰু দাৱিদে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "য়িচ্ছাইৰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰাজত্ব কৰিলে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:37:46.517770003Z",
+  "model": "glm-5.3"
+}

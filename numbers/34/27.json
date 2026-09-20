@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "আৰু আশেৰৰ পুতেকসকলৰ গোত্ৰৰ নেতা অচিহুদ, শ্বলমিৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "আৰু গোত্ৰৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকলৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "আশেৰ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নেতা"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "অচিহুদ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "শ্বলমিৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:47:38.589415808Z",
+  "model": "glm-5.3"
+}

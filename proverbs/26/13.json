@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আলসীয়ে ক'লে, “পথত সিংহ ⟨আছে⟩; বহল চোতালবোৰৰ মাজত সিংহ ⟨আছে⟩।”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "আলসীয়ে"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "সিংহ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথত"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "সিংহ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "বহল চোতালবোৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:37.574831358Z",
+  "model": "glm-5.3"
+}

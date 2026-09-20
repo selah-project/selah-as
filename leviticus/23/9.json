@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক ক'লে ⟨কৈ⟩।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ক"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "লאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:24:32.751496016Z",
+  "model": "glm-5.3"
+}

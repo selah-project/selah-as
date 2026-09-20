@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ঘৃণাই বিবাদ জগাই তোলে; আৰু সকলো অপৰাধৰ ওপৰত প্ৰেমে ঢাকি ৰাখে।",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "ঘৃণাই"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "জগাই তোলে"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "বিবাদ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু … ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "অপৰাধৰ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ঢাকি ৰাখে"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "প্ৰেমে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:13.742597704Z",
+  "model": "glm-5.3"
+}

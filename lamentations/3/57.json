@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "মই তোমাক মাতিলোঁ সেই দিনা তুমি ওচৰ চাপিলা; তুমি ক'লে, “ভয় নাখোৱা।”",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "ওচৰ চাপিলা"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "সেই দিনা"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "মই তোমাক মাতিলোঁ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "তুমি ক'লে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ভয় নাখোৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:04.720491839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু যদিও ⟨তেওঁ⟩ হাজাৰ বছৰ দুবাৰ জীয়াই থাকে, আৰু মংগল নেদেখে — সকলো কি একে ঠাইলেই নাযায়?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "আৰু যদিও"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "জীয়াই থাকে"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "দুবাৰ"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "আৰু মংগল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "দেখে"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "কি নহয়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ঠাই"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একে"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "যায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:39.791379099Z",
+  "model": "glm-5.3"
+}

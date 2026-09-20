@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু মই সেই সময়ত তোমালোকক এই বুলি ক'লোঁ: মই অকলে ⟨את⟩ তোমালোকক বহন কৰিব নোৱাৰোঁ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "আৰু ক'লোঁ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "তোমালোকক"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "সময়ত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বুলি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "পাৰোঁ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "অকলে"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "বহন কৰিব"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ তোমালোকক",
+      "marks": "তোমালোকক"
+    }
+  ],
+  "timestamp": "2026-09-19T22:48:59.706903821Z",
+  "model": "glm-5.3"
+}

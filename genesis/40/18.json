@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 40,
+  "translation": "য়োচেফে উত্তৰ দি ক'লে, “এইটোৱেই ইয়াৰ ব্যাখ্যা: তিনিটা টোকৰা মানে তিনিটা দিন।”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "উত্তৰ দিলে"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "য়োচেফে"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "ব্যাখ্যা"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিনিটা"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "টোকৰা"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিনিটা"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "הם",
+      "gloss": "মানে"
+    }
+  ],
+  "timestamp": "2026-09-19T21:46:50.347819896Z",
+  "model": "glm-5.3"
+}

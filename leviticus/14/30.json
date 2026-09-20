@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু তেওঁ ⟨את⟩ এটাক কৰিব কছি চৰাই বা পাৰৰ পোৱালিসকলৰ পৰা, তেওঁৰ হাত যিমানলৈ পায়।",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "আৰু কৰিব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এটাক"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "এটাক"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "হתوریম",
+      "gloss": "কছি চৰাইসকলৰ"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পোৱালিসকল"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "পাৰৰ"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "যিমানলৈ"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "পায়"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "তেওঁৰ হাত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:22.050843721Z",
+  "model": "glm-5.3"
+}

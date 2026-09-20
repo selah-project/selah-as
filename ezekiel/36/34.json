@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 36:34",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "আৰু উজাড় হোৱা ভূমিখন কৃষিত আহিব, যি আছিল উজাড় — যিকোনো পথিকৰ চকুৰ আগত।",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "আৰু ভূমিখন"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "উজাড় হোৱা"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "কৃষিত আহিব"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "সলনি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "উজাড়"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "চকুৰ আগত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "পথিক"
+    }
+  ],
+  "timestamp": "2026-09-20T01:51:31.328530801Z",
+  "model": "glm-5.3"
+}

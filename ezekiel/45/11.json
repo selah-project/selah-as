@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 45:11",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 45,
+  "translation": "⟨the⟩ এইফা আৰু ⟨the⟩ বাথ এক মানৰ হ'ব — হোমাৰৰ দশমাংশ ⟨the⟩ বাথে ধৰিব, আৰু হোমাৰৰ দশমাংশ ⟨the⟩ এইফা; হোমাৰৰ অনুসাৰে ইয়াৰ পৰিমাণ হ'ব।",
+  "tokens": [
+    {
+      "surface": "האיפה",
+      "gloss": "⟨the⟩ এইফা"
+    },
+    {
+      "surface": "והבת",
+      "gloss": "আৰু ⟨the⟩ বাথ"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "এক মানৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ধৰিবলৈ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "দশমাংশ"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "হোমাৰৰ"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "বাথ"
+    },
+    {
+      "surface": "ועשירת",
+      "gloss": "আৰু দশমাংশ"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "হোমাৰৰ"
+    },
+    {
+      "surface": "האיפা",
+      "gloss": "এইফা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "অনুসাৰে"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "হোমাৰৰ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "מתכנתו",
+      "gloss": "ইয়াৰ পৰিমাণ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:57:33.319992677Z",
+  "model": "glm-5.3"
+}

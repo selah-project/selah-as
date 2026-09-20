@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু মই ⟨את⟩ মৃতকসকলক প্ৰশংসা কৰোঁ, যিসকলে ইতিমধ্যে মৰিছে, সেই জীৱিতসকলতকৈ, যিসকল এতিয়াও জীৱিত।",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "আৰু প্ৰশংসা কৰোঁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মৃতকসকলক"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "মৃতকসকলক"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "ইতিমধ্যে"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "মৰিছে"
+    },
+    {
+      "surface": "מן",
+      "gloss": "তকৈ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "জীৱিতসকল"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিসকল"
+    },
+    {
+      "surface": "המה",
+      "gloss": "তেওঁলোক"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱিত"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "এতিয়ালৈকে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:46.124964433Z",
+  "model": "glm-5.3"
+}

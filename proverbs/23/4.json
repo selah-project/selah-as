@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "ধনী হ'বলৈ ক্লান্ত নহ'বা; তোমাৰ নিজৰ বুদ্ধিৰ পৰা বিৰত হোৱা।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নহ'বা"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "ক্লান্ত হ'বা"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "ধনী হ'বলৈ"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "তোমাৰ বুদ্ধিৰ পৰা"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "বিৰত হোৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:34.694408919Z",
+  "model": "glm-5.3"
+}

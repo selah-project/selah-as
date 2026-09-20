@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মূৰ্খসকলৰ পৰিশ্ৰমে তেওঁলোকক ক্লান্ত কৰে, কাৰণ তেওঁ নাজানে নগৰলৈ ⟨কেনেকৈ⟩ যাব।",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "পৰিশ্ৰমে"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "মূৰ্খসকলৰ"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ক্লান্ত কৰে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "যাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:05.787861310Z",
+  "model": "glm-5.3"
+}

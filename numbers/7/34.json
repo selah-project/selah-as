@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "পাপৰ বাবে এটা ছাগলীৰ পোৱালি।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ছাগলীৰ পোৱালি"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ছাগলীৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "পাপৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:31:20.171132207Z",
+  "model": "glm-5.3"
+}

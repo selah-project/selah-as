@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "অজমাৱেথ হবহৰুমী, এলিয়াহবা হশ্বেআলবনী।",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "অজমাৱেথ"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "হবহৰুমী"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "এলিয়াহবা"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "হশ্বেআলবনী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:45.780944349Z",
+  "model": "glm-5.3"
+}

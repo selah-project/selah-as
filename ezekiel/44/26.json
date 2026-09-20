@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 44,
+  "translation": "আৰু তেওঁৰ শুদ্ধিৰ পাছত তেওঁৰ বাবে সাত দিন গণনা কৰা হ'ব।",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "আৰু ...ৰ পাছত"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "তেওঁৰ শুদ্ধি"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "গণনা কৰা হ'ব"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:57:32.518746504Z",
+  "model": "glm-5.3"
+}

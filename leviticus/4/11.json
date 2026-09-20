@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু ⟨את⟩ বলধৰ ছাল, আৰু ⟨את⟩ তাৰ সকলো মাংস — তাৰ মূৰৰ সৈতে আৰু তাৰ ভৰিৰ সৈতে — আৰু তাৰ অন্ত্ৰ আৰু তাৰ মল।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "বলধৰ ছাল"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ছাল"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "বলধ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "তাৰ সকলো মাংস"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "על",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "মূৰ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু সৈতে"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ভৰি"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "আৰু অন্ত্ৰ"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "আৰু মল"
+    }
+  ],
+  "timestamp": "2026-09-19T22:14:59.915190131Z",
+  "model": "glm-5.3"
+}

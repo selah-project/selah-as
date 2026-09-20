@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোলৈ আহিল, এই বুলি কৈ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'লগৈ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বুলি কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:52:54.962650784Z",
+  "model": "glm-5.3"
+}

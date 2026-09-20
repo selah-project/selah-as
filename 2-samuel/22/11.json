@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "তেওঁ এটা কেৰুবৰ ওপৰত উঠি উৰি গ'ল; বতাহৰ পাখিৰ ওপৰত তেওঁ দেখা দিলে।",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "উঠি"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "কেৰুব"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "উৰি গ'ল"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "দেখা দিলে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "পাখিৰ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "বতাহৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:57:33.102957868Z",
+  "model": "glm-5.3"
+}

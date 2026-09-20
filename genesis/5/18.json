@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু য়েৰেদে দুই আৰু ষাঠি বছৰ আৰু এশ বছৰ জীয়াই থাকি ⟨את⟩ হানোখক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "আৰু ... জীয়াই থাকি"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "য়েৰেদে"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "আৰু ষাঠি"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "আৰু এশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "হানোখক"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "হানোখ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:36.937677761Z",
+  "model": "glm-5.3"
+}

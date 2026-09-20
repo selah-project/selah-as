@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁলোকে গাঁতত মোৰ প্ৰাণ নিধন কৰিলে, আৰু মোৰ ওপৰত শিল দলিয়ালে।",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "নিধন কৰিলে"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "গাঁতত"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "মোৰ প্ৰাণ"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "আৰু দলিয়ালে"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "শিল"
+    },
+    {
+      "surface": "בי",
+      "gloss": "মোৰ ওপৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:36.240376728Z",
+  "model": "glm-5.3"
+}

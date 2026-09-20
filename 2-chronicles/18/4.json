@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু য়েহোশাফাটে ইস্ৰায়েলৰ ৰজাক ক'লে, “আজিয়েই মাত্ৰ ইয়াহৱেহৰ ⟨את⟩ বাক্য বিচাৰক।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "য়েহোশাফাটে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ক"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাক"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "বিচাৰক"
+    },
+    {
+      "surface": "נא",
+      "gloss": "মাত্ৰ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "আজিয়েই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বাক্য"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:46:38.674195299Z",
+  "model": "glm-5.3"
+}

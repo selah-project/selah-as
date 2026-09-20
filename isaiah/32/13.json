@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 32:13",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "মোৰ জাতিৰ মাটিত কণ্টক আৰু শ্বামিৰ উঠিব; কিয়নো উল্লাসিত নগৰৰ আনন্দৰ সকলো ঘৰৰ ⟨ওপৰত⟩।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "মাটিত"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "মোৰ জাতিৰ"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "কণ্টক"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "শ্বামিৰ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "উঠিব"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "আনন্দৰ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "নগৰৰ"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "উল্লাসিত"
+    }
+  ],
+  "timestamp": "2026-09-20T00:42:34.751705577Z",
+  "model": "glm-5.3"
+}

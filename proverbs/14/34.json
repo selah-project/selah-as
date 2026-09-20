@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "ধাৰ্মিকতাই জাতিক উন্নত কৰে, আৰু পাপ ⟨এয়া⟩ জনগোষ্ঠীসকলৰ লজ্জা।",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "ধাৰ্মিকতাই"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "উন্নত কৰে"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "জাতিক"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "আৰু ⟨লজ্জা⟩"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "জনগোষ্ঠীসকলৰ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "পাপ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:52.223693234Z",
+  "model": "glm-5.3"
+}

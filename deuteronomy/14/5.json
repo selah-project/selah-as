@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "হৰিণ, আৰু চেবি ⟨গেজেল⟩, আৰু য়াহমূৰ, আৰু আক্কো, আৰু দিশোন, আৰু তেও, আৰু জামেৰ।",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "হৰিণ"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "আৰু চেবি ⟨গেজেল⟩"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "আৰু য়াহমূৰ"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "আৰু আক্কো"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "আৰু দিশোন"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "আৰু তেও"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "আৰু জামেৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:57:04.381901028Z",
+  "model": "glm-5.3"
+}

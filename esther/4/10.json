@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু এস্তেৰে হাতাখক ক'লে আৰু তেওঁক মৰ্দখয়ৰ ওচৰলৈ আদেশ দিলে।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "এস্তেৰে"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "হাতাখক"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "তেওঁক আদেশ দিলে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "মৰ্দখয়ৰ ওচৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:59:45.819565976Z",
+  "model": "glm-5.3"
+}

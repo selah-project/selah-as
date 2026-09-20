@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "এই বাক্যটো, যি য়িৰমিয়াহুৰ ওচৰলৈ ইয়াহৱেহৰ পৰা ⟨মאת⟩ আহিল — ক'বলৈ।",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "বাক্যটো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "য়িৰমিয়াহু"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াহৱেহৰ পৰা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:03:29.452699947Z",
+  "model": "glm-5.3"
+}

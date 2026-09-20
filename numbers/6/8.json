@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "নিজৰ নজৰৰ সকলো দিন তেওঁ ইয়াহৱেহৰ বাবে পৱিত্ৰ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "নিজৰ নজৰৰ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "পৱিত্ৰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:31:02.785842696Z",
+  "model": "glm-5.3"
+}

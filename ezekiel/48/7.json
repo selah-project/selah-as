@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "আৰু ৰেউভেনৰ সীমাৰ ওপৰত, পূব দিশৰ পৰা পশ্চিম দিশলৈ, য়েহুদাহৰ ⟨এটা ভাগ⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমা"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ৰেউভেনৰ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "…দিশৰ পৰা"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "পূব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "দিশ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "পশ্চিম"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "য়েহুদাহৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:00:08.094655966Z",
+  "model": "glm-5.3"
+}

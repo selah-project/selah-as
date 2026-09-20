@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু শ্বেমৰো — তেওঁ সকলো এভেৰ-পুত্ৰৰ পিতৃ, য়েফেত ডাঙৰ ভাইৰ ভাই — পুত্ৰ জন্ম হ'ল।",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "আৰু শ্বেমৰো"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম হ'ল"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতৃ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "এভেৰ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ভাই"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "য়েফেত"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ডাঙৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:15.146019519Z",
+  "model": "glm-5.3"
+}

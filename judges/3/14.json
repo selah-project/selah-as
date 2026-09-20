@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু ইচ্ৰায়েলৰ পুত্ৰসকলে মোৱাবৰ ৰজা এগ্লোনক ⟨את⟩ অঠাৰ বছৰ সেৱা কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "সেৱা কৰিলে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইচ্ৰায়েল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এগ্লোন"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "এগ্লোন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোৱাব"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "আঠ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:23:08.990811539Z",
+  "model": "glm-5.3"
+}

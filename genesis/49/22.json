@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "য়োচেফ ⟨is⟩ ফলবতী ডাল, উৎসৰ ওপৰত ফলবতী ডাল; জীয়েকবোৰে বেৰৰ ওপৰেদি খোজ কাঢ়ে।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ডাল"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ফলবতী"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "য়োচেফ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ডাল"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ফলবতী"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "עין",
+      "gloss": "উৎস"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "জীয়েকবোৰে"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "খোজ কাঢ়ে"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ওপৰেদি"
+    },
+    {
+      "surface": "שור",
+      "gloss": "বেৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:51:37.008158546Z",
+  "model": "glm-5.3"
+}

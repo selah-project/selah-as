@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "ক্ষুধাৰ জ্বলা-খিদাৰ মুখত আমাৰ ছাল চুলাখনীৰ দৰে গৰম হৈ জ্বলিছে।",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "আমাৰ ছাল"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "চুলাখনীৰ দৰে"
+    },
+    {
+      "surface": "נכমרו",
+      "gloss": "গৰম হৈ জ্বলিছে"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "মুখত"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "জ্বলা-খিদাৰ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ক্ষুধাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:43.834142420Z",
+  "model": "glm-5.3"
+}

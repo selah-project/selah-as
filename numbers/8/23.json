@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেৰ সৈতে কথা পাতিলে, ক’লে —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ সৈতে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক’লে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:33:24.844411475Z",
+  "model": "glm-5.3"
+}

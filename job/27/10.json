@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "সি শ্বাদ্দাইত আনন্দ পাবনে, সকলো সময়তে এলোৱাহক মাতিবনে?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "על",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "শ্বাদ্দাই"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "আনন্দ পাব"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "মাতিব"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "এলোৱাহক"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সকলো ... ত"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়ত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:39:12.385307321Z",
+  "model": "glm-5.3"
+}

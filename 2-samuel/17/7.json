@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "হুশ্বাইয়ে আভশ্বালোমক ক'লে, “এই বাৰৰ আহিতোফেলে দিয়া পৰামৰ্শটো ভাল নহয়।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'לে"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "হুশ্বাইয়ে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "আভশ্বালোমক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "পৰামৰ্শটো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "দিয়া"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "আহিতোফেলে"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "বাৰ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T23:54:38.011900521Z",
+  "model": "glm-5.3"
+}

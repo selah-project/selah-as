@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু সেই ধন এক ৰূঢ় দুৰ্ঘটনাত নষ্ট হয়, আৰু তেওঁ পুতেক জন্ম দিয়ে, কিন্তু তেওঁৰ হাতত একো নাথাকে।",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "আৰু নষ্ট হয়"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "সেই ধন"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "দুৰ্ঘটনাত"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ৰূঢ়"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "আৰু জন্ম দিয়ে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "কিন্তু নাই"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "তেওঁৰ হাতত"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "একো"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:19.621926641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু কাইনে ইয়াহৱেহক ক'লে, “মোৰ অপৰাধ বহন কৰাৰ পৰাও বৰ ডাঙৰ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "קין",
+      "gloss": "কাইনে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াהৱেহক"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "বৰ ডাঙৰ"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "মোৰ অপৰাধ"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "বহন কৰাৰ পৰাও"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:31.961704121Z",
+  "model": "glm-5.3"
+}

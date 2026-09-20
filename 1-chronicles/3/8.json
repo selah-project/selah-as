@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "এলিশ্বামা, এলিয়াদা আৰু এলিফেলেত — ন'টা।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "আৰু এলিশ্বামা"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "আৰু এলিয়াদা"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "আৰু এলিফেলেত"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ন'টা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:17.534149443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "বহু কথাত অপৰাধ নাইকিয়া নহয়, আৰু নিজৰ ওঁঠ সংযত ৰখাজন বুদ্ধিমান।",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "বহুত"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "কথাত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "নাইকিয়া হয়"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "অপৰাধ"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "আৰু সংযত ৰখাজন"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "নিজৰ ওঁঠ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "বুদ্ধিমান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:50.359386691Z",
+  "model": "glm-5.3"
+}

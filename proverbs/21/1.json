@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "ৰজাৰ হৃদয় পানীৰ নলসমূহৰ নিচিনা, ইয়াহৱেহৰ হাতত; তেওঁ যি বিচাৰে তাক সেই ফালে হেলাই দিয়ে।",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "নলসমূহ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানীৰ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "বিচাৰে"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "হেলাই দিয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:18.239221492Z",
+  "model": "glm-5.3"
+}

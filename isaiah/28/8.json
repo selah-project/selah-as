@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "কিয়নো সকলো টেবুল বমি আৰু মলেৰে ভৰা, ⟨কোনো⟩ খালী ঠাই ⟨নাই⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "টেবুল"
+    },
+    {
+      "surface": "মלవু",
+      "gloss": "ভৰি আছে"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "বমিৰে"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "মলেৰে"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "অবিহনে"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ঠাই"
+    }
+  ],
+  "timestamp": "2026-09-20T00:41:52.787502406Z",
+  "model": "glm-5.3"
+}

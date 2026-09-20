@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "এলৰ উশাহেৰে বৰফ দিয়ে, আৰু পানীৰ বিস্তাৰ জমি কঠিন হয়।",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "ৰ উশাহেৰে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "দিয়ে"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "বৰফ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "আৰু বিস্তাৰ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানীৰ"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "জমি কঠিন হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:43:40.330059867Z",
+  "model": "glm-5.3"
+}

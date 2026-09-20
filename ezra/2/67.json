@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তেওঁলোকৰ উট ⟨চাৰিশ ত্ৰিশ পাঁচ⟩; গধূষ ⟨ছয় হাজাৰ সাতশ বিশ⟩।",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "তেওঁলোকৰ উট"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্ৰিশ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "গধূষ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "বিশ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:13:22.180131950Z",
+  "model": "glm-5.3"
+}

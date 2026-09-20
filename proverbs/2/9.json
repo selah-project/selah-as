@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তেতিয়া তুমি ধাৰ্মিকতা আৰু ন্যায় আৰু সৰলতা বুজি পাবা — প্ৰতিটো ভাল পথ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "বুজি পাবা"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ধাৰ্মিকতা"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "আৰু ন্যায়"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "আৰু সৰলতা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্ৰতিটো"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:30.282412093Z",
+  "model": "glm-5.3"
+}

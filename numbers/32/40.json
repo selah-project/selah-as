@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "আৰু মোশ্বেই ⟨את⟩ গিলʼঅদ মেনাচ্চেহৰ পুত্ৰ মাখিৰক দিলে, আৰু তেওঁ ⟨he⟩ তাত বাস কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "গিলʼঅদ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "গিলʼঅদ"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "মাখিৰক"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মেনাচ্চেহৰ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "বাস কৰিলে"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:56.221256830Z",
+  "model": "glm-5.3"
+}

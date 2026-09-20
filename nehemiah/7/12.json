@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এইলামৰ সন্তানসকল — এহেজাৰ দুশ চুৱান্ন জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "এইলামৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুশ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "আৰু চাৰি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:26.926387076Z",
+  "model": "glm-5.3"
+}

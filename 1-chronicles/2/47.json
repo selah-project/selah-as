@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু য়েহদাইৰ পুতেকসকল আছিল ৰেগেম, য়োতাম, গেইশান, পেলেত, এইফাহ আৰু শ্বাৱাফ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "য়েহদাইৰ"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "ৰেগেম"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "য়োতাম"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "গেইশান"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "পেলেত"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "এইফাহ"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "শ্বাৱাফ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:43.631753650Z",
+  "model": "glm-5.3"
+}

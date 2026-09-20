@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "কিয়নো পৃথিৱীত এনেকুৱা ধাৰ্মিক মানুহ নাই, যিজ়ে ভাল কৰে আৰু পাপ নকৰে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিক"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "পৃথিৱীত"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিজ়ে"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "কৰে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নকৰে"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "পাপ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:07.366338295Z",
+  "model": "glm-5.3"
+}

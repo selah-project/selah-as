@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "পথত অখণ্ড সকলো ধন্য, যিসকলে ইয়াহৱেহৰ তোৰাত খোজ কাঢ়ে।",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "অখণ্ড সকলো"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথত"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "যিসকলে খোজ কাঢ়ে"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "তোৰাত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:04:28.448506543Z",
+  "model": "glm-5.3"
+}

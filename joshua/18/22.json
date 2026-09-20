@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু বেইত-হা-আৰাবাহ, আৰু চেমাৰায়িম, আৰু বেইত-এল।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "আৰু বেইত-"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "হা-আৰাবাহ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "আৰু চেমাৰায়িম"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "আৰু বেইত-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:55.051661278Z",
+  "model": "glm-5.3"
+}

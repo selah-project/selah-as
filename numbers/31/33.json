@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "আৰু গৰু দুই আৰু সত্তৰি হাজাৰ।",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "আৰু গৰু"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "আৰু সত্তৰি"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:51.919226361Z",
+  "model": "glm-5.3"
+}

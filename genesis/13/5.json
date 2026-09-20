@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু ⟨את⟩ আভ্ৰামৰ লগত থকা লোটৰো ভেড়াৰ পাল, গৰু-কঁহৰ পাল আৰু তম্বু আছিল।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "আৰু ... ৰো"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "লোটৰ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "থকা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আভ্ৰাম"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "আভ্ৰামৰ লগত"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ভেড়াৰ পাল"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "গৰু-কঁহৰ পাল"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "তম্বু"
+    }
+  ],
+  "timestamp": "2026-09-19T21:30:44.546517344Z",
+  "model": "glm-5.3"
+}

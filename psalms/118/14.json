@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 118,
+  "translation": "মোৰ শক্তি আৰু গীত ⟨সি⟩ ইয়াহ; আৰু তেওঁ মোৰ পৰিত্ৰাণ হ'ল।",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "মোৰ শক্তি"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "আৰু গীত"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ইয়াহ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু তেওঁ হ'ল"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "পৰিত্ৰাণ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:04:04.175771885Z",
+  "model": "glm-5.3"
+}

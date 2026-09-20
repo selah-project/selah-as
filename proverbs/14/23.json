@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "সকলো কষ্টতে লাভ ⟨থাকে⟩; কিন্তু ওঁঠৰ কথাৰ ফল কেৱল অভাৱ।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עצব",
+      "gloss": "কষ্টতে"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকে"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "কিন্তু কথা"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ওঁঠৰ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "অভাৱলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:59.260390509Z",
+  "model": "glm-5.3"
+}

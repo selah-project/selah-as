@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "গ্ৰীষ্মত নিজৰ খাদ্য সাজু কৰে, কটনিৰ সময়ত নিজৰ ভোজন সংগ্ৰহ কৰে।",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "সাজু কৰে"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "গ্ৰীষ্মত"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "নিজৰ খাদ্য"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "সংগ্ৰহ কৰে"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "কটনিৰ সময়ত"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "নিজৰ ভোজন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:26.054732024Z",
+  "model": "glm-5.3"
+}

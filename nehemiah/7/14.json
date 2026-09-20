@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "জাক্কাইৰ সন্তানসকল — সাতশ আৰু ষাঠি।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "জাক্কাইৰ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "আৰু ষাঠি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:37.986802479Z",
+  "model": "glm-5.3"
+}

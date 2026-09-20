@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "দুখীয়াক দবাই নিজৰ ⟨সম্পত্তি⟩ বঢ়াবলৈ আৰু ধনীক ⟨বহুত⟩ দিয়ে — কেৱল অভাৱৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "দবাই"
+    },
+    {
+      "surface": "דל",
+      "gloss": "দুখীয়াক"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "বঢ়াবলৈ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "দিয়ে"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "ধনীক"
+    },
+    {
+      "surface": "אך",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "অভাৱৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:28.124666276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "শুকান এটা পদাৰ্থ আৰু তাৰ লগত প্ৰশান্তি, জগণি-বিবাদৰ উৎসৰ্গেৰে ভৰা ঘৰতকৈ ভাল।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "פת",
+      "gloss": "এটা পদাৰ্থ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "শুকান"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "আৰু প্ৰশান্তি"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাৰ লগত"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ঘৰতকৈ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ভৰা"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "উৎসৰ্গেৰে"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "জগণি-বিবাদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:14.225206167Z",
+  "model": "glm-5.3"
+}

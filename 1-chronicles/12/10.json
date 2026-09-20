@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "এজেৰ ⟨মুখ্য⟩, ওভাদিয়াহ দ্বিতীয়, এলিআভ তৃতীয়।",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "এজেৰ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "মুখ্য"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ওভাদিয়াহ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "এলিআভ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "তৃতীয়"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:41.823571409Z",
+  "model": "glm-5.3"
+}

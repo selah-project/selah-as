@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "আৰু য়াকোভ নিজৰ পথেৰে গৈ আছিল, আৰু এলোহিমৰ দূতসকলে তেওঁক লগ পালে।",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "য়াকোভে"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "গৈ আছিল"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "নিজৰ পথেৰে"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "লগ পালে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "দূতসকলে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:58:50.853457394Z",
+  "model": "glm-5.3"
+}

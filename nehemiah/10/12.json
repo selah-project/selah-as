@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মিকা, ৰেখোব, খাশাব্যাহ।",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "মিকা"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "ৰেখোব"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "খাশাব্যাহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:30.034339891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 135,
+  "translation": "কিয়নো মই জানো যে ইয়াহৱেহ ডাঙৰ, আৰু আমাৰ আদোনাই ⟨সকলো এলোহিতকৈ⟩ ডাঙৰ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "জানো"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "আৰু আমাৰ আদোনাই"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "সকলো …তকৈ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:08:19.421153293Z",
+  "model": "glm-5.3"
+}

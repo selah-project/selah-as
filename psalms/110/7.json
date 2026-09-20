@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 110,
+  "translation": "পথৰ মাজত নদীৰ পৰা তেওঁ পান কৰিব; সেই কাৰণে তেওঁ মূৰ উচ্চ কৰিব।",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "নদীৰ পৰা"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথৰ মাজত"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "তেওঁ পান কৰিব"
+    },
+    {
+      "surface": "על",
+      "gloss": "সেই কাৰণে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেই কাৰণে"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "উচ্চ কৰিব"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "মূৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:23:04.204452169Z",
+  "model": "glm-5.3"
+}

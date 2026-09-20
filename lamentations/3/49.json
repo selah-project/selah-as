@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "মোৰ চকু ঢালি আছে আৰু বন্ধ নহয়, কোনো বিৰতি অবিহনে।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "মোৰ চকু"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ঢালি আছে"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "বন্ধ হয়"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "অবিহনে"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "বিৰতি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:51.090737128Z",
+  "model": "glm-5.3"
+}

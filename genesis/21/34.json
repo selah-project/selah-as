@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু আভ্ৰাহাম পলিশ্তীসকলৰ দেশত বহু দিন পৰবাসী হৈ থাকিল।",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "পৰবাসী হৈ থাকিল"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্ৰাহাম"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "পলিশ্তীসকলৰ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহু"
+    }
+  ],
+  "timestamp": "2026-09-19T21:34:37.906930457Z",
+  "model": "glm-5.3"
+}

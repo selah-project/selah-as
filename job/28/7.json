@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "সেই পথ শিকাৰী চৰায়ে নাজানে, আৰু শেঁয়েকৰ চকুৱে সেইটো দেখা নাই।",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "শিকাৰী চৰাই"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু ন"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "চাই নাই"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চকুৱে"
+    },
+    {
+      "surface": "איה",
+      "gloss": "শেঁয়েকৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:39:37.140623389Z",
+  "model": "glm-5.3"
+}

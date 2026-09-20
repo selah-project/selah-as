@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "তেতিয়া তেওঁৰ নাম ইস্ৰায়েলত “জোতা খোলোৱাৰ ঘৰ” বুলি মাতা হ'ব।",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "মাতা হ'ব"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তেওঁৰ নাম"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ইস্ৰায়েলত"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "জোতা খোলোৱাৰ"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "জোতা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:30.212356827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "সেই দিনা শ্বুচান দুৰ্গত নিহিত হোৱাসকলৰ সংখ্যা ৰজাৰ আগত উপস্থিত হ'ল।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "সংখ্যা"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "নিহিত হোৱাসকলৰ"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "শ্বুচানত"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "দুৰ্গ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:02:42.990660805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "ভাঙি পৰিল ⟨the⟩ শূন্য নগৰ; প্ৰৱেশৰ পৰা সকলো ঘৰ বন্ধ কৰা হ'ল।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ভাঙি পৰিল"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "শূন্য"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "বন্ধ কৰা হ'ল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "প্ৰৱেশৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:14:27.736937032Z",
+  "model": "glm-5.3"
+}

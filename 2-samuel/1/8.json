@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "তেওঁ মোক ক'লে, “তুমি কোন?” মই তেওঁক ক'লোঁ, “মই এজন আমালেকী।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোন"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লোঁ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "এজন আমালেকী"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    }
+  ],
+  "timestamp": "2026-09-19T23:47:57.440030168Z",
+  "model": "glm-5.3"
+}

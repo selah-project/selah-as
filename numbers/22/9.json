@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "এলোহিমে বিলামৰ ওচৰলৈ আহিল আৰু ক'লে, “তোমাৰ লগত থকা এই মানুহবোৰ কোন?”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "বিলামৰ ওচৰলৈ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোন"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "মানুহবোৰ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "তোমাৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:40:28.505564062Z",
+  "model": "glm-5.3"
+}

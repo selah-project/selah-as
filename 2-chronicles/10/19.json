@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু য়িচ্ৰায়েলে দাৱিদৰ ঘৰante্বিৰুদ্ধে বিদ্ৰোহ কৰিলে এই দিনলৈকে।",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "আৰু বিদ্ৰোহ কৰিলে"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িচ্ৰায়েলে"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ঘৰৰ বিৰুদ্ধে"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:41:47.423389297Z",
+  "model": "glm-5.3"
+}

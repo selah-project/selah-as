@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য শ্বেলোমোলৈ আহিল, ক'বলৈ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াהৱেহৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমো"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:05:03.973370725Z",
+  "model": "glm-5.3"
+}

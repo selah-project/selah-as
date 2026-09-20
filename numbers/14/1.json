@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু গোটেই সভাই ⟨את⟩ নিজৰ মাত মাতিলে, আৰু সেই ৰাতি লোকসকলে কান্দিলে।",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "মাত মাতিলে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "গোটেই"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "সভা"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিজৰ মাত"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "মাত"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "কান্দিলে"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকসকলে"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    }
+  ],
+  "timestamp": "2026-09-19T22:35:16.585065224Z",
+  "model": "glm-5.3"
+}

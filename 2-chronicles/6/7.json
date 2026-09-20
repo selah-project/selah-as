@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু মোৰ পিতৃ দাৱিদৰ মনত আছিল ইস্ৰায়েলৰ এলোহিম ইয়াহৱেহৰ নামৰ বাবে এটা ঘৰ নিৰ্মাণ কৰিবলৈ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "মন"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "মোৰ পিতৃ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "নিৰ্মাণ কৰিবলৈ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "নামৰ বাবে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:39:47.009725575Z",
+  "model": "glm-5.3"
+}

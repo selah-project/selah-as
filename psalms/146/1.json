@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 146,
+  "translation": "স্তুতি কৰা ইয়াহক! মোৰ প্ৰাণে, ইয়াহৱেহৰ ⟨את⟩ স্তুতি কৰা।",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "স্তুতি কৰা"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ইয়াহক"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "স্তুতি কৰা"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "মোৰ প্ৰাণে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:12:25.924378552Z",
+  "model": "glm-5.3"
+}

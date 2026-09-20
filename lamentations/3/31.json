@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "কিয়নো আদোনাই চিৰকাললৈ পৰিত্যাগ নকৰে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নকৰে"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "পৰিত্যাগ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিৰকাললৈ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:32.782113605Z",
+  "model": "glm-5.3"
+}

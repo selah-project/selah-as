@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু আৰ্পাকষদে ⟨את⟩ শ্বালাহক জন্ম দিলে, আৰু শ্বালাহে ⟨את⟩ এৱেৰক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "আৰু আৰ্পাকষদে"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শ্বালাহক"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "শ্বালাহক"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "আৰু শ্বালাহে"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এৱেৰক"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "এৱেৰক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:39.666639917Z",
+  "model": "glm-5.3"
+}

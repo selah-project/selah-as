@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 69,
+  "translation": "হে এলোহিম, মোক উদ্ধাৰ কৰক, কিয়নো পানী ⟨মোৰ⟩ প্ৰাণলৈকে আহিছে।",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "মোক উদ্ধাৰ কৰক"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "হে এলোহিম"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "באו",
+      "gloss": "আহিছে"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:49:41.595912502Z",
+  "model": "glm-5.3"
+}

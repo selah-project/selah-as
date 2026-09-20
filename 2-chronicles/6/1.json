@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "তেতিয়া শ্বেলোমোহে ক'লে, “ইয়াহৱেহে কৈছে ⟨যে তেওঁ⟩ ঘন অন্ধকাৰত বাস কৰিব।”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমোহে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "বাস কৰিবলৈ"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ঘন অন্ধকাৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:40:21.590174794Z",
+  "model": "glm-5.3"
+}

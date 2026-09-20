@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 43,
+  "translation": "আৰু দুৰ্ভিক্ষ দেশত ভীষণ হ'ল।",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "আৰু দুৰ্ভিক্ষ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ভীষণ হ'ল"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:48:08.798788153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "আৰু ইচাচাৰৰ পুতেকসকলৰ গোত্ৰৰ নেতা পালতিএল, আজ্জানৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "আৰু গোত্ৰৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকলৰ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ইচাচাৰ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নেতা"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "পালতিএল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "আজ্জানৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:47:38.589306986Z",
+  "model": "glm-5.3"
+}

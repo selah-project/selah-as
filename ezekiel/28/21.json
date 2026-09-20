@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "মানুহৰ পুত্ৰ, তোমাৰ মুখ চিদোনৰ ফালে কৰা, আৰু তাৰ বিৰুদ্ধে ভাববাণী কৰা।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "কৰা"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "তোমাৰ মুখ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ফালে"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "চিদোনৰ"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "আৰু ভাববাণী কৰা"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "তাৰ বিৰুদ্ধে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:47:09.351352791Z",
+  "model": "glm-5.3"
+}

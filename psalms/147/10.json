@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 147,
+  "translation": "⟨তেওঁ⟩ ঘোঁৰাৰ শক্তিত প্ৰীতি নকৰে, মানুহৰ ভৰিত সন্তুষ্ট নহয়।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "শক্তিত"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ঘোঁৰাৰ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "প্ৰীতি কৰে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "ভৰিত"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "সন্তুষ্ট হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:11:34.323634417Z",
+  "model": "glm-5.3"
+}

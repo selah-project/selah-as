@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 89,
+  "translation": "মইও তেওঁক আগজাত ধৰিম, পৃথিৱীৰ ৰজাসকলৰ মাজত সৰ্বোচ্চ।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ও"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "আগজাত"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "তেওঁক ধৰিম"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "সৰ্বোচ্চ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ৰজাসকলৰ মাজত"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিৱী"
+    }
+  ],
+  "timestamp": "2026-09-20T05:22:42.275472234Z",
+  "model": "glm-5.3"
+}

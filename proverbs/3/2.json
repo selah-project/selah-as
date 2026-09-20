@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "কিয়নো দীৰ্ঘ দিন আৰু জীৱনৰ বছৰবোৰ, আৰু শান্তি — সিহঁতে তোমাক বঢ়াই দিব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "দীৰ্ঘ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "আৰু বছৰবোৰ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱনৰ"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "আৰু শান্তি"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "বঢ়াই দিব"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:59.174686780Z",
+  "model": "glm-5.3"
+}

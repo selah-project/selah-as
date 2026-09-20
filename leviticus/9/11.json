@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু ⟨את⟩ মাংস আৰু ⟨את⟩ ছাল ⟨তেওঁ⟩ জুইত শিবিৰৰ বাহিৰত জ্বলালে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "মাংস"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ছাল"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ছাল"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "জ্বলালে"
+    },
+    {
+      "surface": "באש",
+      "gloss": "জুইত"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "বাহিৰত"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "শিবিৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:17:40.203021970Z",
+  "model": "glm-5.3"
+}

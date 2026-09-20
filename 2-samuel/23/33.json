@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "শ্বাম্মাহ হাৰাৰী, আখিয়াম — শ্বাৰাৰৰ পুতেক, হাৰাৰী।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "শ্বাম্মাহ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "হাৰাৰী"
+    },
+    {
+      "surface": "আখিয়াম",
+      "gloss": "আখিয়াম"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "শ্বাৰাৰৰ"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "হাৰাৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:36.224013604Z",
+  "model": "glm-5.3"
+}

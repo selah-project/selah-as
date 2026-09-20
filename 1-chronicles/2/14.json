@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "নতনএল চতুৰ্থ, ৰদ্দাই পঞ্চম।",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "নতনএল"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "চতুৰ্থ"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "ৰদ্দাই"
+    },
+    {
+      "surface": "החמি঩י",
+      "gloss": "পঞ্চম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:56.641073873Z",
+  "model": "glm-5.3"
+}

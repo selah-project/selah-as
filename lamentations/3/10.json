@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ মোৰ বাবে প্ৰতীক্ষাত বাজি থকা এটা ভালুক, লুকাই থকা ঠাইত থকা এটা সিংহ।",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "এটা ভালুক"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "প্ৰতীক্ষাত বাজি থকা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ বাবে"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "এটা সিংহ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "লুকাই থকা ঠাইত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:06.244051683Z",
+  "model": "glm-5.3"
+}

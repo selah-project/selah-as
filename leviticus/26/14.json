@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "কিন্তু যদি তোমালোকে মোক নাশুনে, আৰু ⟨את⟩ এই সকলো আজ্ঞা পালন নকৰে,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "কিন্তু যদি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "শুনে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নাই"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "পালন কৰে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই সকলো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "আজ্ঞা"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-20T05:01:58.462749338Z",
+  "model": "glm-5.3"
+}

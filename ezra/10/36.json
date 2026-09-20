@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ৱানায়াহ, মেৰেমোত, এলাশিভ।",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ৱানায়াহ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "মেৰেমোত"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "এলাশিভ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:15:56.997246672Z",
+  "model": "glm-5.3"
+}

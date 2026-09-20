@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "এল'আচাই ⟨את⟩ চিচমাইক জন্ম দিলে, আৰু চিচমাইয়ে ⟨את⟩ শ্বালুমক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "এল'আচাই"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চিচমাইক"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "চিচমাই"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "চিচমাইয়ে"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শ্বালুমক"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শ্বালুম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:20.391048295Z",
+  "model": "glm-5.3"
+}

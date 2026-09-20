@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "চেৰুয়াহৰ পুতেক য়োৱাবে জানিলে যে ৰজাৰ হৃদয় ⟨আছে⟩ আভশ্বালোমৰ প্ৰতি।",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "জানিলে"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "য়োৱাব"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "চেৰুয়াহৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "প্ৰতি"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "আভশ্বালোমৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:54:04.645614921Z",
+  "model": "glm-5.3"
+}

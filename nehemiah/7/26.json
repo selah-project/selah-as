@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বেইত লেহেম আৰু নেটোফাৰ মানুহসকল — এশ আশী আৰু আঠ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহসকল"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "লেহেম"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "আৰু নেটোফাৰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "আশী"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "আৰু আঠ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:49.618031968Z",
+  "model": "glm-5.3"
+}

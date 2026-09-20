@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু আচাই তেওঁৰ এলোহিম ইয়াহৱেহৰ চকুত ভাল আৰু সঠিক কাম কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "আৰু কৰিলে"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "আচাই"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "আৰু সঠিক"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চকুত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "তেওঁৰ এলোহিম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:45:52.272999800Z",
+  "model": "glm-5.3"
+}

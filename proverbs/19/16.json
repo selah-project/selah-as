@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আজ্ঞা ৰক্ষা কৰাই ⟨নিজৰ⟩ প্ৰাণ ৰক্ষা কৰে; নিজৰ পথ অৱজ্ঞা কৰাই মৰিব।",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ৰক্ষা কৰে"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "আজ্ঞা"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ৰক্ষা কৰে"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "নিজৰ প্ৰাণ"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "অৱজ্ঞা কৰাই"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "নিজৰ পথ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "মৰিব"
+    }
+  ],
+  "timestamp": "2026-09-20T05:24:51.153144010Z",
+  "model": "glm-5.3"
+}

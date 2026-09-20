@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "সমগ্ৰ সমাজ একেলগে ⟨সংখ্যা⟩ চল্লিশ হাজাৰ দুই শ ত্ৰিশ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "সমাজ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "একেলগে"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুই হাজাৰৰ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "আৰু ষাঠি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:03.692920413Z",
+  "model": "glm-5.3"
+}

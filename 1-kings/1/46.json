@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু লগতে শ্বেলোমোৱে ⟨the⟩ ৰাজ্যৰ সিংহাসনত বহিছে।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "আৰু লগতে"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "বহিছে"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমোৱে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "সিংহাসন"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ৰাজ্যৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:02:14.545186037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "দুষ্টৰ অৱজ্ঞাই মোৰ হৃদয়ৰ মাজত ঘোষণা কৰে: “তেওঁৰ চকুৰ আগত এলোহিমৰ ভয় নাই।”",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ঘোষণা কৰে"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "অৱজ্ঞাই"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "দুষ্টৰ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "মোৰ হৃদয়ৰ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "তেওঁৰ চকুৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:38:00.844097682Z",
+  "model": "glm-5.3"
+}

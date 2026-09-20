@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "এলিএল, আৰু ওবেদ, আৰু য়াচিএল ⟨মিটচোবাই⟩।",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "এলিএল"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "আৰু ওবেদ"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "আৰু য়াচিএল"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "⟨মিটচোবাই⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:33.881700463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "গাদৰ পুত্ৰসকলে ⟨את⟩ দিবোন, ⟨את⟩ আটৰোত আৰু ⟨את⟩ আৰোৱেৰ নিৰ্মাণ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "নিৰ্মাণ কৰিলে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…ৰ পুত্ৰসকলে"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দিবোন"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "দিবোন"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ আৰু",
+      "marks": "আটৰোত"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "আটৰোত"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ আৰু",
+      "marks": "আৰোৱেৰ"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "আৰোৱেৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:42.885645871Z",
+  "model": "glm-5.3"
+}

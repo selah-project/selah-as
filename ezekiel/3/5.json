@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "কিয়নো গভীৰ ওঁঠ আৰু ভাৰী জিভাৰ প্ৰজাতিৰ ওচৰলৈ তুমি পঠোৱা হোৱা নাই — ইস্ৰায়েলৰ ঘৰৰ ওচৰলৈহে পঠোৱা হৈছ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "প্ৰজাতি"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "গভীৰ ওঁঠৰ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "আৰু ভাৰী"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভাৰ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "পঠোৱা হৈছ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েল"
+    }
+  ],
+  "timestamp": "2026-09-20T01:32:12.425349054Z",
+  "model": "glm-5.3"
+}

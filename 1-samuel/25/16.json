@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "“তেওঁলোক আমাৰ ওপৰত এখন প্ৰাচীৰ আছিল — ৰাতিও, দিনেও — আমি তেওঁলোকৰ সৈতে গছ চৰোৱা সকলো দিন।”",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "প্ৰাচীৰ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "আমাৰ ওপৰত"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "আমি থকাৰ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "তেওঁলোকৰ সৈতে"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "চৰাই থকা"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "গছ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:45:01.424545533Z",
+  "model": "glm-5.3"
+}

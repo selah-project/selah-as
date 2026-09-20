@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু যদি পুৰোহিতে চাই দেখে আৰু চাওক, দাগটোৱে কাপোৰত, বা তানত, বা বাণত, বা চামৰাৰ যিকোনো সামগ্ৰীত নিবিয়লা নাই;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "চাই দেখে"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতে"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চাওক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "নিবিয়লা"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "দাগটোৱে"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "কাপোৰত"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "তানত"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "বাণত"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨যিকোনো⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "সামগ্ৰীত"
+    },
+    {
+      "surface": "עור",
+      "gloss": "চামৰাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:21:09.642540348Z",
+  "model": "glm-5.3"
+}

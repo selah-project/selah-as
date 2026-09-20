@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "আৰু সকলো জাতিয়ে ক'ব, “ইয়াহৱেহে এই দেশৰ সৈতে এইদৰে কিয় কৰিলে? এই ডাঙৰ ক্ৰোধৰ জুইৰ অৰ্থ কি?”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "আৰু ক'ব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতিয়ে"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "দেশৰ সৈতে"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "জুইৰ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ক্ৰোধৰ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T23:03:28.688198959Z",
+  "model": "glm-5.3"
+}

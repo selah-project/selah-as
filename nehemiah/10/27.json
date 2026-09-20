@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু আহিয়াহ, হানান, আনান।",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "আৰু আহিয়াহ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "হানান"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "আনান"
+    }
+  ],
+  "timestamp": "2026-09-20T05:26:47.576965424Z",
+  "model": "glm-5.3"
+}

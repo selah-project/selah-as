@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "মুখ চিনি লোৱাটো ভাল নহয়, আৰু এফাল ভাতৰ বাবে মানুহে অপৰাধ কৰে।",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "মুখ চিনি লোৱা"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ বাবে"
+    },
+    {
+      "surface": "פת",
+      "gloss": "এফাল"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ভাত"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "অপৰাধ কৰে"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "মানুহ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:16.352082968Z",
+  "model": "glm-5.3"
+}

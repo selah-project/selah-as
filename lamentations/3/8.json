@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "যেতিয়াই মই চিৰধাৰণ কৰোঁ আৰু বিলাপ কৰোঁ, তেওঁ মোৰ প্ৰাৰ্থনা বন্ধ কৰি দিলে।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "চিৰধাৰণ কৰোঁ"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "আৰু বিলাপ কৰোঁ"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "বন্ধ কৰিলে"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "মোৰ প্ৰাৰ্থনা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:54.222222488Z",
+  "model": "glm-5.3"
+}

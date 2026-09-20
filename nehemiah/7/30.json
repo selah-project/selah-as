@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ৰামা আৰু গিবাৰ মানুহ — ছশ একৈশ জন।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ৰামা"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "আৰু গিবা"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "আৰু এজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:10.450147838Z",
+  "model": "glm-5.3"
+}

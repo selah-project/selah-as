@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "সকলো সেৱা-কাৰ্যৰ কাম তোমালোকে নকৰিবা, আৰু ইয়াহৱেহলৈ অগ্নিউৎসৰ্গ আগবঢ়াবা।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "কাম"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "সেৱা-কাৰ্যৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "কৰিবা"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "আগবঢ়াবা"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "অগ্নিউৎসৰ্গ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াהৱেহলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:26:21.409966452Z",
+  "model": "glm-5.3"
+}

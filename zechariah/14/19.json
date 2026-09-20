@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zechariah 14:19",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "এয়া মিৎচৰায়িমৰ পাপ, আৰু সকলো জাতিৰ পাপ হ'ব, যিবোৰে ⟨את⟩ ছুক্কটৰ উৎসৱ পালন কৰিবলৈ উঠি নাযায়।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এয়া"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "পাপ"
+    },
+    {
+      "surface": "মצרים",
+      "gloss": "মিৎচৰায়িমৰ"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "আৰু পাপ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতিৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিবোৰে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাযায়"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "উঠে"
+    },
+    {
+      "surface": "לחג",
+      "gloss": "পালন কৰিবলৈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ছুক্কটৰ উৎসৱ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "উৎসৱ"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "ছুক্কটৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:26:27.694539444Z",
+  "model": "glm-5.3"
+}

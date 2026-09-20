@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেতিয়া সাপটোৱে মানুহজনীক ক'লে, “মৰিব বুলি তোমালোকে নিশ্চয় নমৰা।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "সাপটোৱে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "মানুহজনীক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৰিব"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "তোমালোকে মৰা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:37.179947225Z",
+  "model": "glm-5.3"
+}

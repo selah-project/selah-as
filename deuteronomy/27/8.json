@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "আৰু তুমি শিলবোৰৰ ওপৰত ⟨את⟩ এই তোৰাৰ সকলো কথা বৰ স্পষ্টকৈ খোদিত কৰি লিখিবা।",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "আৰু লিখিবা"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "শিলবোৰৰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই তোৰাৰ সকলো কথা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "তোৰাৰ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "באר",
+      "gloss": "খোদিত কৰি স্পষ্ট কৰা"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "বৰ স্পষ্টকৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:01:38.780473929Z",
+  "model": "glm-5.3"
+}

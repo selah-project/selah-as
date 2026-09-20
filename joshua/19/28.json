@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু এভ্ৰোন, ৰেহোভ, হামোন আৰু কানাহলৈ, ডাঙৰ চিদোনলৈকে।",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "আৰু এভ্ৰোন"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "আৰু ৰেহোভ"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "আৰু হামোন"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "আৰু কানাহ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...লৈকে"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "চিদোন"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ডাঙৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:16:21.305512309Z",
+  "model": "glm-5.3"
+}

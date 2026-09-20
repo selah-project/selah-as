@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু ইয়াহৱেহৰ দূতে য়েহোশ্বুৱাক সতৰ্ক কৰি ক'লে ⟨এইদৰে⟩:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "আৰু সতৰ্ক কৰি ক'লে"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "দূত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াהৱেহৰ"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "য়েহোশ্বুৱাক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:24:36.646037010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "কাৰণ আজ্ঞা এখন প্ৰদীপ, আৰু তোৰা ⟨পোহৰ⟩; আৰু জীৱনৰ পথ হ'ল শাসনৰ তিৰস্কাৰসমূহ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "প্ৰদীপ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "আজ্ঞা"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "আৰু তোৰা"
+    },
+    {
+      "surface": "אור",
+      "gloss": "পোহৰ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "আৰু ... পথ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱনৰ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "তিৰস্কাৰসমূহ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শাসন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:39.340774015Z",
+  "model": "glm-5.3"
+}

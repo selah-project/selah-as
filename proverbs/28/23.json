@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "মানুহক তিৰস্কাৰ কৰাজনে পাছত অনুগ্ৰহ পায়, মিছলীয়া জিভাতকৈ।",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "তিৰস্কাৰ কৰাজন"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহক"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পাছত"
+    },
+    {
+      "surface": "חן",
+      "gloss": "অনুগ্ৰহ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "পায়"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "চাফলি কৰাতকৈ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:16.353009982Z",
+  "model": "glm-5.3"
+}

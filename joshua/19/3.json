@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু হাচাৰ-শ্বুʿআল, আৰু বালা, আৰু এচেম।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "আৰু হাচাৰ-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "শ্বুʿআল"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "আৰু বালা"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "আৰু এচেম"
+    }
+  ],
+  "timestamp": "2026-09-19T23:15:56.040202622Z",
+  "model": "glm-5.3"
+}

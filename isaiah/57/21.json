@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 57,
+  "translation": "শান্তি নাই, মোৰ এলোহিমে ক’লে, দুষ্টসকলৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক’লে"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "মোৰ এলোহিমে"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "দুষ্টসকলৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T00:53:35.969973975Z",
+  "model": "glm-5.3"
+}

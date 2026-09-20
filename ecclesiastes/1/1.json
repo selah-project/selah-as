@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "কোহেলেতৰ কথাবোৰ — দাৱিদৰ পুতেক, য়েৰুশ্বালায়িমত ⟨ৰজা⟩।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "কোহেলেতৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "য়েৰুশ্বালায়িমত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:01.906280391Z",
+  "model": "glm-5.3"
+}

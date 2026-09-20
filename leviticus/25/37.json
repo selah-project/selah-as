@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "⟨את⟩ তোমাৰ ৰূপ তুমি সুদ হিচাপে তেওঁক নিদিবা, আৰু বৃদ্ধিৰ হিচাপে তুমি তোমাৰ খাদ্য নিদিবা।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তোমাৰ ৰূপ"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "তোমাৰ ৰূপ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "দিবা"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "সুদ হিচাপে"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "আৰু বৃদ্ধিৰ হিচাপে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "দিবা"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "তোমাৰ খাদ্য"
+    }
+  ],
+  "timestamp": "2026-09-19T22:25:25.582913673Z",
+  "model": "glm-5.3"
+}

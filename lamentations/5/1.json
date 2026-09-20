@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "ইয়াহৱেহে মনত ৰখক ⟨কি⟩ আমাৰ হ'ল; চাই ⟨את⟩ আমাৰ অপমান দেখা।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "মনত ৰখক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাৰ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "চাই"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "দেখা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "অপমান"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "আমাৰ অপমান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:47.035334965Z",
+  "model": "glm-5.3"
+}

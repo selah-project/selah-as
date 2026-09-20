@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মই দেখিছোঁ দাসসকল ঘোঁৰাত সৱাৰি কৰি, আৰু শাসকসকল দাসসকলৰ দৰে পৃথিৱীত খোজ কাঢ়ি।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "মই দেখিছোঁ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "দাসসকল"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ঘোঁৰাত সৱাৰি কৰি"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "আৰু শাসকসকল"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "খোজ কাঢ়ি"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "দাসসকলৰ দৰে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:08.548323407Z",
+  "model": "glm-5.3"
+}

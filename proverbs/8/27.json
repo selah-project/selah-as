@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "তেওঁ আকাশসমূহ সজাঁতে মই তাত আছিলোঁ, যেতিয়া তেওঁ গভীৰ জলৰ সন্মুখত ⟨এটা⟩ বৃত্ত অংকন কৰিলে।",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "সজাঁতে"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "আকাশসমূহ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "অংকন কৰিলে"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "বৃত্ত"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ৰ ওপৰত"
+    },
+    {
+      "surface": "פני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "গভীৰ জল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:17.244233211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "দাৱিদে তাৰ পৰা উঠি গৈ এইন-গেদিৰ দুৰ্গসমূহত বাস কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "উঠি গ'ল"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "তাৰ পৰা"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "বাস কৰিলে"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "দুৰ্গসমূহত"
+    },
+    {
+      "surface": "עין",
+      "gloss": "এইন"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "গেদি"
+    }
+  ],
+  "timestamp": "2026-09-19T23:43:48.838822744Z",
+  "model": "glm-5.3"
+}

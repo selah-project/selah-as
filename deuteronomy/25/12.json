@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "তেতিয়া তেওঁৰ হাত ⟨את⟩ কাটি দিবা; তোমাৰ চকুৱে তেওঁক দয়া নকৰিব।",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "কাটি দিবা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তেওঁৰ হাত"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "তেওঁৰ হাত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "দয়া কৰিব"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "তোমাৰ চকুৱে"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:30.212786107Z",
+  "model": "glm-5.3"
+}

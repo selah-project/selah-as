@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "এই সকলোৱে ছিদ্দিম উপত্যকাত ⟨একগোট হ'ল⟩ — ⟨সেইটো⟩ নিমখৰ সাগৰ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "⟨একগোট হ'ল⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "উপত্যকা"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "ছিদ্দিম"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সেইটো⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সাগৰ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "নিমখৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:31:12.187892956Z",
+  "model": "glm-5.3"
+}

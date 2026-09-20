@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "শিক্ষা শুনা আৰু জ্ঞানী হোৱা, আৰু সেইটো অস্বীকাৰ নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শিক্ষা"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "আৰু জ্ঞানী হোৱা"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু নকৰিবা"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "অস্বীকাৰ কৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:27.391837052Z",
+  "model": "glm-5.3"
+}

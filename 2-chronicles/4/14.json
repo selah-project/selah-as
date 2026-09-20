@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু ⟨את⟩ ভেঁটিবোৰ তেওঁ সাজিলে, আৰু ⟨את⟩ হাঁড়ীবোৰ তেওঁ ভেঁটিবোৰৰ ওপৰত সাজিলে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ভেঁটিবোৰ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ভেঁটিবোৰ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "সাজিলে"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "হাঁড়ীবোৰ"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "হাঁড়ীবোৰ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "সাজিলে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ভেঁটিবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:39:52.939997295Z",
+  "model": "glm-5.3"
+}

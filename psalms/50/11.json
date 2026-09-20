@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 50,
+  "translation": "মই পাহাৰৰ সকলো চৰাই জানোঁ, আৰু পথাৰৰ বন্য জীৱবোৰ ⟨মোৰ লগত আছে⟩।",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "মই জানোঁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "চৰাই"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "পাহাৰৰ"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "আৰু বন্য জীৱবোৰ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "পথাৰৰ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "মোৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:41:52.966145755Z",
+  "model": "glm-5.3"
+}

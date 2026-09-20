@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "প্ৰজ্ঞাই বাহিৰত উচ্চস্বৰে মাতে, ৰাজপথবোৰত নিজৰ কণ্ঠ দিয়ে।",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "প্ৰজ্ঞাই"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "বাহিৰত"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "উচ্চস্বৰে মাতে"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ৰাজপথবোৰত"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "দিয়ে"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "নিজৰ কণ্ঠ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:16.252525322Z",
+  "model": "glm-5.3"
+}

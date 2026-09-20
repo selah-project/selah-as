@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু পানীয়ে পৃথিৱীৰ ওপৰত প্ৰবল হৈ থাকিল এশ পঞ্চাশ দিন।",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "প্ৰবল হৈ থাকিল"
+    },
+    {
+      "surface": "המים",
+      "gloss": "পানীয়ে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "আৰু এশ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-19T21:28:06.150502117Z",
+  "model": "glm-5.3"
+}

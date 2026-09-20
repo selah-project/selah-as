@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "চাওক, তোমালোকে নিজৰ বাবে মিছা কথাবোৰত ভৰষা কৰি আছা, যিয়ে লাভ নিদিয়ে।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "তোমালোক"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ভৰষা কৰি আছা"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "নিজৰ বাবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ত"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "মিছা"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "লাভ দিয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:00:42.111991246Z",
+  "model": "glm-5.3"
+}

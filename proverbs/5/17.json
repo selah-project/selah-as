@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "সেইবোৰ কেৱল তোমাৰেই হওক, আৰু ⟨את⟩ তোমাৰ লগত পৰদেশীসকল নাথাকক।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "হওক"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "কেৱল তোমাৰেই"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "আৰু নাথাকক"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "পৰদেশীসকলৰ বাবে"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ তোমাৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:40.321998373Z",
+  "model": "glm-5.3"
+}

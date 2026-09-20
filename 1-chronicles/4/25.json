@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "শ্বাল্লুম তেওঁৰ পুতেক, মিবশ্বাম তেওঁৰ পুতেক, মিশ্বমা তেওঁৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "শ্বাল্লুম"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "মিবশ্বাম"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "মিশ্বমা"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:08.704742166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "মেচেলেমিয়াহৰ ⟨-ৰ বাবে⟩ পুতেক আৰু ভাতৃসকল আছিল — সাহসী পুতেক, ওঠৰ জন।",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "মেচেলেমিয়াহৰ বাবে"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "ভাতৃসকল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "সাহসী"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ওঠৰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "জন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:36:35.159287937Z",
+  "model": "glm-5.3"
+}

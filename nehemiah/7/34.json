@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আন ⟨এইলাম⟩-ৰ সন্তানসকল, এহেজাৰ দুশ চুৱাশী চাৰিজন <...>।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "এইলাম"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "আন"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুশ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "আৰু চাৰি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:38.207880433Z",
+  "model": "glm-5.3"
+}

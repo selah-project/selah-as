@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "আৰু য়িচাছকাৰৰ সীমাৰ লগত, পূব দিশৰ পৰা পশ্চিম দিশলৈকে — জেবুলুনৰ ⟨এটা ভাগ⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ লগত"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমাৰ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "য়িচাছকাৰৰ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "…ৰ দিশৰ পৰা"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "পূব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "দিশ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "পশ্চিম"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "জেবুলুনৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-09-20T02:00:54.847125193Z",
+  "model": "glm-5.3"
+}

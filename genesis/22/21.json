@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "⟨את⟩ ঊৎচ তেওঁৰ জ্যেষ্ঠ, আৰু ⟨את⟩ বুজ তেওঁৰ ভাতৃ, আৰু ⟨את⟩ কমুৱেল আৰামৰ পিতা।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ঊৎচ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ঊৎচ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "তেওঁৰ জ্যেষ্ঠ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "বুজ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "বুজ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "তেওঁৰ ভাতৃ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "কমুৱেল"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "কমুৱেল"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "আৰাম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:35:19.323770351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "কালেৱৰ উপপত্নী মাআখাহে শ্বেৱেৰক আৰু ⟨את⟩ তিৰহানাহক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "উপপত্নী"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "কালেৱৰ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "মাআখাহে"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "শ্বেৱেৰক"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "তিৰহানাহক"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "তিৰহানাহক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:43.631878117Z",
+  "model": "glm-5.3"
+}

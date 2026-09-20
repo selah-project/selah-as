@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "সিহতে আঁঠু কাঢ়ি পৰি গ'ল, কিন্তু আমি উঠি থিয় দিলোঁ।",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "সিহতে"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "আঁঠু কাঢ়ি"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "পৰি গ'ল"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "উঠি"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "থিয় দিলোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:32:52.361526287Z",
+  "model": "glm-5.3"
+}

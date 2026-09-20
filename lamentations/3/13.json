@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ নিজৰ কাঁড়-ভাঁজৰ পুত্ৰসকল ⟨এ⟩-ৰ বৃক্কত সুমাই দিলে।",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "সুমাই দিলে"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "মোৰ বৃক্কত"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "তেওঁৰ কাঁড়-ভাঁজৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:31:37.277170686Z",
+  "model": "glm-5.3"
+}

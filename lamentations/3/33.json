@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "কিয়নো তেওঁ নিজৰ মনৰ পৰা দুঃখ নিদিয়ে, আৰু মানুহৰ পুত্ৰসকলক বিমৰ্ষ নকৰে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "দুঃখ নিদিয়ে"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "নিজৰ মনৰ পৰা"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "বিমৰ্ষ নকৰে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকলক"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:35.083441866Z",
+  "model": "glm-5.3"
+}

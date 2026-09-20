@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু বৰষুণ পৃথিৱীৰ ওপৰত চল্লিশ দিন আৰু চল্লিশ ৰাতি হ'ল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "বৰষুণ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "আৰু চল্লিশ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ৰাতি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:44.584015297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "মই তোমালৈ তিনিবাৰ ⟨কি⟩ পৰামৰ্শ আৰু জ্ঞানেৰে ⟨লিখি নাই নেকি⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "নেকি"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "মই লিখিছোঁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমালৈ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "তিনিবাৰ"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "পৰামৰ্শত"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "আৰু জ্ঞান"
+    }
+  ],
+  "timestamp": "2026-09-20T05:24:34.690869003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "এলিয়াব ⟨তেওঁৰ পুতেক⟩, য়েৰোচাম ⟨তেওঁৰ পুতেক⟩, এলকানা ⟨তেওঁৰ পুতেক⟩।",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "এলিয়াব"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "য়েৰোচাম"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "এলকানা"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:19.778493268Z",
+  "model": "glm-5.3"
+}

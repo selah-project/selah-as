@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "চতুৰ্থ বছৰত, জিৱ মাহত, ইয়াহৱেহৰ গৃহৰ ভেটি স্থাপিত হ'ল।",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "বছৰত"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "চতুৰ্থ"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "ভেটি স্থাপিত হ'ল"
+    },
+    {
+      "surface": "בית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "মাহত"
+    },
+    {
+      "surface": "זו",
+      "gloss": "জিৱ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:04:19.936605714Z",
+  "model": "glm-5.3"
+}

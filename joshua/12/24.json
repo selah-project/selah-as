@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "তিৰ্চাৰ ৰজা এজন — সকলো ৰজা একত্ৰিশ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "তিৰ্চাৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্ৰিশ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "আৰু এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:18.525907775Z",
+  "model": "glm-5.3"
+}

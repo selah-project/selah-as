@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ধৰ্মীৰ মুখে প্ৰজ্ঞা মুকুলিয়ায়, আৰু বিকৃত জিভা কাট পৰিব।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধৰ্মীৰ"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "মুকুলিয়ায়"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "প্ৰজ্ঞা"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "আৰু জিভা"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "বিকৃত"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "কাট পৰিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:55.475262208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "এই কথাত হে আকাশমণ্ডল, স্তব্ধ হওঁক, কঁপি উঠক, অতি শুকাই পৰক — ইয়াহৱেহৰ কথা।",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "স্তব্ধ হওঁক"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "আকাশমণ্ডল"
+    },
+    {
+      "surface": "על",
+      "gloss": "এই কথাত"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "কঁপি উঠক"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "শুকাই পৰক"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:57:01.261470713Z",
+  "model": "glm-5.3"
+}

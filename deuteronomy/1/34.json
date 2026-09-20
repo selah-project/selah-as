@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "ইয়াহৱেহে ⟨את⟩ তোমালোকৰ কথাবোৰৰ কণ্ঠ শুনিলে, ক্ৰোধিত হ'ল, আৰু শপত লৈ ক'লে।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "শুনিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কণ্ঠ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "কণ্ঠ"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "তোমালোকৰ কথাবোৰ"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ক্ৰোধিত হ'ল"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "শপত ল'লে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:56.251324898Z",
+  "model": "glm-5.3"
+}

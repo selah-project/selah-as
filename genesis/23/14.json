@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আৰু এফ্ৰোনে ⟨את⟩ আভ্ৰাহামক উত্তৰ দিলে, তেওঁক কৈ —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "উত্তৰ দিলে"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "এফ্ৰোনে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আভ্ৰাহামক"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্ৰাহামক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:35:34.824697108Z",
+  "model": "glm-5.3"
+}

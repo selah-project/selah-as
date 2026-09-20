@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক ⟨এই বুলি⟩ ক'লে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ক"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বুলি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:14:54.755717008Z",
+  "model": "glm-5.3"
+}

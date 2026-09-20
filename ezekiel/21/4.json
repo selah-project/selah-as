@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু সকলো মাংসে দেখিব যে মই ইয়াহৱেহেই সেই জুই জ্বলাইছোঁ; সি নুমুৱা নহ'ব।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "আৰু দেখিব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংসে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহেই"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "জুই জ্বলাইছোঁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "নুমুৱা হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T01:40:31.382565185Z",
+  "model": "glm-5.3"
+}

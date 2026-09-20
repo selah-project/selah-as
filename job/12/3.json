@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "মোৰো তোমালোকৰ দৰে হৃদয় আছে; মই তোমালোকতকৈ কম নহয়; ⟨আৰু⟩ ⟨את⟩ কাৰ ওচৰত এইবোৰৰ দৰে ⟨জ্ঞান⟩ নাই?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "মোৰো"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "তোমালোকৰ দৰে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "কম"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "তোমালোকতকৈ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "কাৰ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কাৰ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "দৰে"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:34:03.420232667Z",
+  "model": "glm-5.3"
+}

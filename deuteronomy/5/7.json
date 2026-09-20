@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "মোৰ সন্মুখত তোমাৰ বাবে আন এলোহিম ⟨থাকিব নালাগে⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ বাবে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "আন"
+    },
+    {
+      "surface": "על",
+      "gloss": "সন্মুখত ⟨ৰ⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মোৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:51:33.572033517Z",
+  "model": "glm-5.3"
+}

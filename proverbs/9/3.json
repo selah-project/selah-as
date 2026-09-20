@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "সেই নিজৰ দাসীসকলক পঠালে; নগৰৰ উচ্চ স্থানসমূহত মাত মাতিছে।",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "পঠালে"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "নিজৰ দাসীসকলক"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "মাত মাতিছে"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ত"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "শিখৰত"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "উচ্চ স্থানসমূহৰ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "নগৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:04.637134717Z",
+  "model": "glm-5.3"
+}

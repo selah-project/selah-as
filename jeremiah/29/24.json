@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "আৰু শ্বেমায়াহু হানেহলামীৰ বিষয়ে তুমি ক'বা, কৈ:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "আৰু …ৰ বিষয়ে"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "শ্বেমায়াহু"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "হানেহলামীৰ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "তুমি ক'বা"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:14:03.448456203Z",
+  "model": "glm-5.3"
+}

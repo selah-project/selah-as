@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু আদামা, ৰামা আৰু হাচোৰ;",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "আৰু আদামা"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ৰামা"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "আৰু হাচোৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:16:35.320508381Z",
+  "model": "glm-5.3"
+}

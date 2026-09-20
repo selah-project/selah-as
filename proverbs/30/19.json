@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "আকাশত ঈগলৰ পথ, শিলৰ ওপৰত সাপৰ পথ, সাগৰৰ মাজত জাহাজৰ পথ, আৰু এগৰাকী যুৱতীৰ লগত পুৰুষৰ পথ।",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ঈগলৰ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "আকাশত"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "সাপৰ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "צור",
+      "gloss": "শিল"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "জাহাজৰ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সাগৰৰ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "আৰু পথ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "পুৰুষৰ"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "যুৱতীৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:50.433548853Z",
+  "model": "glm-5.3"
+}

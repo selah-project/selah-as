@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 52,
+  "translation": "তুমি গিলি পেলোৱা সকলো কথা ভাল পালা, হে প্ৰতাৰণাৰ জিভা!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "তুমি ভাল পালা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "গিলি পেলোৱা"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভা"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "প্ৰতাৰণাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:44:45.579525510Z",
+  "model": "glm-5.3"
+}

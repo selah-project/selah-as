@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "বাগিচাৰ উৎস, জীৱন্ত পানীৰ কুৱা, আৰু লেবাননৰ পৰা বৈ অহা সোঁতবোৰ।",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "উৎস"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "বাগিচা"
+    },
+    {
+      "surface": "באর",
+      "gloss": "কুৱা"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱন্ত"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "আৰু বৈ অহা সোঁতবোৰ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "লেবানন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:34.356750661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "জ্ঞানৰ আৰম্ভণি ইয়াহৱেহৰ ভয়, আৰু পৱিত্ৰসকলৰ জ্ঞান ⟨হৈছে⟩ বোধ।",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "আৰম্ভণি"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "আৰু জ্ঞান"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "পৱিত্ৰসকলৰ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোধ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:23:18.977404421Z",
+  "model": "glm-5.3"
+}

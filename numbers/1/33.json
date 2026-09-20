@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "তেওঁলোকৰ গণনা — এফ্ৰায়িম শাখাৰ — চল্লিশ হেজাৰ আৰু পাঁচশ ⟨আছিল⟩।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "তেওঁলোকৰ গণনা"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "শাখাৰ বাবে"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "এফ্ৰায়িম"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হেজাৰ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "আৰু পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:39.234363370Z",
+  "model": "glm-5.3"
+}

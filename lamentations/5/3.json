@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আমি অনাথ হ'লোঁ, পিতৃ নাই; আমাৰ মাতৃসকল বিধৱাৰ নিচিনা।",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "অনাথ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "হ'লোঁ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "אב",
+      "gloss": "পিতৃ"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "আমাৰ মাতৃসকল"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "বিধৱাৰ নিচিনা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:47.035716051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু যিদিনা তাৰ ওপৰত জীৱন্ত মাংস দেখা যায়, তেওঁ অশুদ্ধ হ'ব।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "আৰু যিদিনা"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "দেখা যায়"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাৰ ওপৰত"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীৱন্ত"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "অশুদ্ধ হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:09.568508122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু লোতানৰ পুতেকসকল আছিল হোৰি আৰু হোমাম; আৰু লোতানৰ ভনী আছিল তিম্না।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "লোতানৰ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "হোৰি"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "আৰু হোমাম"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "আৰু ভনী"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "লোতানৰ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "তিম্না"
+    }
+  ],
+  "timestamp": "2026-09-20T04:24:57.871644955Z",
+  "model": "glm-5.3"
+}

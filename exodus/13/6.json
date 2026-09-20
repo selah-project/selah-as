@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "সাত দিন আপুনি অমিলৰ ভাত খাব, আৰু সপ্তম দিনা ইয়াহৱেহৰ উৎসৱ হ'ব।",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "খাব"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "অমিলৰ ভাত"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "আৰু দিনা"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "সপ্তম"
+    },
+    {
+      "surface": "חג",
+      "gloss": "উৎসৱ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:58:06.267114601Z",
+  "model": "glm-5.3"
+}

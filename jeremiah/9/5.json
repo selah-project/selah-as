@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "ছলৰ মাজত ⟨আছে⟩ তোমাৰ বাস; ছলেৰে তেওঁলোকে মোক ⟨את⟩ জনাৰ পৰা বিৰত থাকিল, ইয়াহৱেহৰ বাণী।",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "তোমাৰ বাস"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ছল"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "ছলেৰে"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "বিৰত থাকিল"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জনাৰ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ মোক",
+      "marks": "জনাৰ কৰ্ম"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "বাণী"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:02:58.610133411Z",
+  "model": "glm-5.3"
+}

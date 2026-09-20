@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "কিয়নো মই আকাশমণ্ডলৰ ফালে মোৰ হাত উত্তোলন কৰোঁ আৰু ক'ম: মই জীয়াই আছোঁ চিৰকাললৈকে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "মই উত্তোলন কৰোঁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "আকাশমণ্ডল"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "মোৰ হাত"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "আৰু ক'ম"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীয়াই আছোঁ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "চিৰকাললৈকে"
+    }
+  ],
+  "timestamp": "2026-09-19T23:04:34.076611476Z",
+  "model": "glm-5.3"
+}

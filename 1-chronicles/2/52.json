@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু শোবালৰ — কিৰয়াত-য়েআৰিমৰ পিতৃৰ — পুতেক আছিল: হৰোএহ, আৰু মনুহতসকলৰ আধা।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আৰু আছিল"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "শোবালৰ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতৃৰ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "কিৰয়াত-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "য়েআৰিমৰ"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "হৰোএহ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "আধা"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "মনুহতসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:24.306569298Z",
+  "model": "glm-5.3"
+}

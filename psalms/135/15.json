@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 135,
+  "translation": "জাতিসমূহৰ মূৰ্তিবোৰ ৰূপ আৰু সোণৰ, মানুহৰ হাতৰ কাৰ্য।",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "মূৰ্তিবোৰ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতিসমূহৰ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ৰূপ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "আৰু সোণৰ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কাৰ্য"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "হাতৰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:07:38.074322654Z",
+  "model": "glm-5.3"
+}

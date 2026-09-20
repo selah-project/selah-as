@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 92,
+  "translation": "এজন নিৰ্বোধ লোকে ⟨এইটো⟩ নাজানে, আৰু মূৰ্খজনে ⟨আছে⟩ ⟨את⟩ ⟨এইটো⟩ নাবুজে।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "এজন লোকে"
+    },
+    {
+      "surface": "בער",
+      "gloss": "নিৰ্বোধ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "আৰু মূৰ্খজনে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "বুজে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এইটো"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এইটো"
+    }
+  ],
+  "timestamp": "2026-09-20T02:57:30.891748063Z",
+  "model": "glm-5.3"
+}

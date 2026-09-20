@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "কোনে ভিতৰৰ অংশত জ্ঞান ৰাখিলে, বা কোনে মেঘলৈ বুদ্ধি দিলে?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ৰাখিলে"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ভিতৰৰ অংশত"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "মেঘলৈ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বুদ্ধি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:45:14.826844103Z",
+  "model": "glm-5.3"
+}

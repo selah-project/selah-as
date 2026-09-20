@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোৰ ওচৰত এই বুলি আহিল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু আহিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰত"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বুলি"
+    }
+  ],
+  "timestamp": "2026-09-20T01:36:13.273252984Z",
+  "model": "glm-5.3"
+}

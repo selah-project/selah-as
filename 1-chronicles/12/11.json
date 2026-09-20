@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "মিশমানাহ চতুৰ্থ, য়িৰমিয়াহ পঞ্চম।",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "মিশমানাহ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "চতুৰ্থ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "য়িৰমিয়াহ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "পঞ্চম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:41.823696924Z",
+  "model": "glm-5.3"
+}

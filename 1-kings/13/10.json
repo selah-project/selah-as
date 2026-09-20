@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "সেয়ে তেওঁ আন এটা পথেৰে গ'ল, আৰু যিহূদাৰ পৰা বেইত-এললৈ আহিছিল সেই পথেৰে ঘূৰি নাগ'ল।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথেৰে"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "আন"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু না"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ঘূৰি গ'ল"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথেৰে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহিছিল"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাৰ দ্বাৰা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    }
+  ],
+  "timestamp": "2026-09-20T00:10:09.712680148Z",
+  "model": "glm-5.3"
+}

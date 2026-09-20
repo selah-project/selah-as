@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 18:28",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু ⟨⟨একো⟩⟩ উদ্ধাৰ কৰা নাছিল",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "আৰু নাছিল"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "উদ্ধাৰকৰ্তা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "দূৰ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "מצידון",
+      "gloss": "চিদোনৰ পৰা"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "আৰু কোনো কথা"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাছিল"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকৰ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহ কাৰো"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "আৰু সি"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "উপত্যকাত"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "বাইত-"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "ৰহোবৰ"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "নিৰ্মাণ কৰিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নগৰখনক"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগৰখন"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "বাস কৰিলে"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাত"
+    }
+  ],
+  "timestamp": "2026-09-19T23:30:45.295446171Z",
+  "model": "glm-5.3"
+}

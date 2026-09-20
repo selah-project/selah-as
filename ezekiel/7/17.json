@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "সকলো হাত শিথিল হ'ব, আৰু সকলো আঁঠুৱে মিচমিচাই পানী ঢালিব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "শিথিল হ'ব"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "আঁঠু"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "মিচমিচাই ঢালিব"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    }
+  ],
+  "timestamp": "2026-09-20T01:31:34.864624573Z",
+  "model": "glm-5.3"
+}

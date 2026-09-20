@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "কিন্তু যদি এই কথাষাৰ সঁচা হৈ উঠে — ছোৱালীজনীৰ বাবে কৌমাৰ্যৰ প্ৰমাণ পোৱা নগ'ল,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "সঁচা"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হৈ উঠে"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথাষাৰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "পোৱা নগ'ল"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "কৌমাৰ্যৰ প্ৰমাণ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ছোৱালীজনীৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:10.942674639Z",
+  "model": "glm-5.3"
+}

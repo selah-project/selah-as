@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "বা তান্তত, বা বান্তত — পচাথৰ বা উলৰ; বা চামৰাত, বা চামৰাৰ যিকোনো সামগ্ৰীত।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "তান্তত"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "বান্তত"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "পচাথৰ"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "আৰু উলৰ"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "চামৰাত"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "যিকোনো"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "সামগ্ৰী"
+    },
+    {
+      "surface": "עור",
+      "gloss": "চামৰাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:01:14.916412101Z",
+  "model": "glm-5.3"
+}

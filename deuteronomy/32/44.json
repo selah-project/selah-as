@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "তাৰ পাছত মোশ্বে আহিল, আৰু এই গীতটোৰ ⟨আতে⟩ ⟨את⟩ সকলো কথা প্ৰজাসকলৰ কাণত ক'লে — তেওঁ আৰু নূনৰ পুতেক হোচেয়াই।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো কথা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "গীতটোৰ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "কাণত"
+    },
+    {
+      "surface": "העם",
+      "gloss": "প্ৰজাসকলৰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "আৰু হোচেয়া"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "נון",
+      "gloss": "নূনৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:04:33.372101960Z",
+  "model": "glm-5.3"
+}

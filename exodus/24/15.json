@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "আৰু মোশ্বে পৰ্বতটোলৈ উঠি গ'ল, আৰু মেঘটোৱে ⟨את⟩ পৰ্বতটো ঢাকি ধৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "উঠি গ'ল"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "পৰ্বতটো"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ঢাকি ধৰিলে"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "মেঘটোৱে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পৰ্বতটো"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "পৰ্বতটো"
+    }
+  ],
+  "timestamp": "2026-09-19T22:03:02.306799368Z",
+  "model": "glm-5.3"
+}

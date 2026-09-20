@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "শ্বাউলৰ খুৰাকে ক'লে, “মোৰ কাষত কওক, শ্বমুৱেলে তোমালোকক কি ক'লে?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "খুৰাকে"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বাউলৰ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "কওক"
+    },
+    {
+      "surface": "נא",
+      "gloss": "অনুগ্ৰহ কৰি"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ কাষত"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকক"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "শ্বমুৱেলে"
+    }
+  ],
+  "timestamp": "2026-09-19T23:36:56.937085319Z",
+  "model": "glm-5.3"
+}

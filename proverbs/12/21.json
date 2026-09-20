@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "ধাৰ্মিকজনৰ কোনো অকল্যাণ নঘটে, আৰু দুষ্টসকল অনিষ্টেৰে পূৰ্ণ হয়।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "ঘটে"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ধাৰ্মিকজনৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "און",
+      "gloss": "অকল্যাণ"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "আৰু দুষ্টসকল"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "পূৰ্ণ হয়"
+    },
+    {
+      "surface": "רע",
+      "gloss": "অনিষ্টেৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:53.361725017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "তুমি চুৰি নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "চুৰি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:59:58.686371518Z",
+  "model": "glm-5.3"
+}

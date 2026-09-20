@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "যদিও কেইন জ্বলাই দিবলৈ ⟨is⟩, ⟨how long⟩? আশ্বুৰে তোমাক বন্দী কৰি লৈ যাব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যদিও"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "জ্বলাই দিবলৈ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "কেইন"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কিমান"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "আশ্বুৰ"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "তোমাক বন্দী কৰি লৈ যাব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:41:16.763666745Z",
+  "model": "glm-5.3"
+}

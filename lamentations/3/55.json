@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "মই নিম্নতম গাঁতৰ পৰা তোমাৰ নাম, হে ইয়াহৱেহ, মাতিলোঁ।",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "মই মাতিলোঁ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "তোমাৰ নাম"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "গাঁতৰ পৰা"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "নিম্নতম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:36.240844425Z",
+  "model": "glm-5.3"
+}

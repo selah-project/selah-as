@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "ইৰা ⟨the⟩ য়িত্ৰী, গাৰেৱ ⟨the⟩ য়িত্ৰী।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ইৰা"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "⟨the⟩ য়িত্ৰী"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "গাৰেৱ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "⟨the⟩ য়িত্ৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:14.854170774Z",
+  "model": "glm-5.3"
+}

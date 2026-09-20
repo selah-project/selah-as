@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "আৰু ইৎচহাকৰ দিনসমূহ ⟨আছিল⟩ এশ বছৰ আৰু আশী বছৰ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনসমূহ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ইৎচহাকৰ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "আৰু আশী"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:57.634160316Z",
+  "model": "glm-5.3"
+}

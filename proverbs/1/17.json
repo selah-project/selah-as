@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "কিয়নো বিনা কাৰণে জাল পাতি ৰখা হয়, সকলো ডেউকাৰ গৰাকীৰ চকুৰ আগত।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "বিনা কাৰণে"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "পাতি ৰখা হয়"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "জাল"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চকুৰ আগত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "গৰাকীৰ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ডেউকা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:16.242155280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "এটা কৰুবৰ উচ্চতা দহ হাত আছিল, আৰু তেনেদৰেই দ্বিতীয় ⟨the⟩ কৰুবৰ।",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "উচ্চতা"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "কৰুবৰ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "আৰু তেনেদৰেই"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "কৰুব"
+    },
+    {
+      "surface": "השני",
+      "gloss": "দ্বিতীয়"
+    }
+  ],
+  "timestamp": "2026-09-20T00:05:26.394117014Z",
+  "model": "glm-5.3"
+}

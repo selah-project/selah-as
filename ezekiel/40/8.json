@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 40,
+  "translation": "আৰু তেওঁ ⟨את⟩ দুৱাৰৰ বাৰাণ্ডা জুখিলে — ঘৰৰ ফালে এক কাঠি।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "আৰু জুখিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দুৱাৰৰ বাৰাণ্ডা"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "বাৰাণ্ডা"
+    },
+    {
+      "surface": "השער",
+      "gloss": "দুৱাৰৰ"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ঘৰৰ ফালে"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "এক কাঠি"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-09-20T01:56:03.244191363Z",
+  "model": "glm-5.3"
+}

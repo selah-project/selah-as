@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু য়াকিম, আৰু জিকৰী, আৰু জেবদী।",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "আৰু য়াকিম"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "আৰু জিকৰী"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "আৰু জেবদী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:07.812104861Z",
+  "model": "glm-5.3"
+}

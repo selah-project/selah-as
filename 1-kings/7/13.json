@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু ৰজা শ্বেলোমোৱে পঠালে, আৰু তেওঁ চোৰৰ পৰা ⟨את⟩ হিৰামক আনিলে।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "পঠালে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমোৱে"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "আনিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "হিৰাম"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "হিৰামক"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "চোৰৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T00:06:23.449792478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু সেই দিনটোত এজন মানুহে এটা গৰুৰ পোৱালি আৰু দুটা ভেড়া জীয়াই ৰাখিব।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "আৰু হ'ব"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "জীয়াই ৰাখিব"
+    },
+    {
+      "surface": "איש",
+      "gloss": "এজন মানুহে"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "গৰুৰ পোৱালি"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "গৰুৰ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "আৰু দুটা"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ভেড়া"
+    }
+  ],
+  "timestamp": "2026-09-20T00:34:24.883886073Z",
+  "model": "glm-5.3"
+}

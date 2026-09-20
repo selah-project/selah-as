@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 147,
+  "translation": "য়েৰুশ্বালায়িমে, ⟨את⟩ ইয়াহৱেহক মহিমা কৰা; চিয়োনে, তোমাৰ এলোহিমক স্তুতি কৰা।",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "মহিমা কৰা"
+    },
+    {
+      "surface": "য়েৰুশ্বালায়িম",
+      "gloss": "য়েৰুশ্বালায়িমে"
+    },
+    {
+      "surface": "<את placeholder removed>",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T03:11:34.326231747Z",
+  "model": "glm-5.3"
+}

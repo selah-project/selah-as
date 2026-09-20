@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "জেকাৰিয়াহ, মেচেলেমিয়াহৰ পুতেক, মিলনৰ তম্বুৰ প্ৰৱেশপথৰ দুৱৰী আছিল।",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "জেকাৰিয়াহ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "মেচেলেমিয়াহৰ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "দুৱৰী"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "প্ৰৱেশপথৰ"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "তম্বুৰ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "মিলনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:30:01.470923081Z",
+  "model": "glm-5.3"
+}

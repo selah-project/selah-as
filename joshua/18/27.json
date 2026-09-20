@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু ৰেকেম, আৰু য়িৰপে'এল, আৰু তাৰ'আলা।",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "আৰু ৰেকেম"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "আৰু য়িৰপে'এল"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "আৰু তাৰ'আলা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:15:34.955353836Z",
+  "model": "glm-5.3"
+}

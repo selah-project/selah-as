@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু হেভ্ৰোনৰ পুতেকসকল আছিল — কোৰাহ, তপ্পুৱাহ, ৰেকেম আৰু শ্বেমা।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "হেভ্ৰোনৰ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোৰাহ"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "তপ্পুৱাহ"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ৰেকেম"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "শ্বেমা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:19.791835129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য তেওঁৰ ওচৰলৈ আহিল, কৈছিল ⟨এই বুলি⟩ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁৰ ওচৰলৈ"
+    },
+    {
+      "surface": "লאמר",
+      "gloss": "কৈছিল"
+    }
+  ],
+  "timestamp": "2026-09-20T00:12:40.804842748Z",
+  "model": "glm-5.3"
+}

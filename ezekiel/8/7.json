@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "তেওঁ মোক ⟨את⟩ চোতালৰ প্ৰৱেশদ্বাৰলৈ লৈ গ'ল; মই চাই দেখিলোঁ, আৰু চাওঁ — দেৱালত ⟨আছে⟩ এটা ফুটা।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "লৈ গ'ল"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "মোক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "প্ৰৱেশদ্বাৰ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "চোতালৰ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "চাই দেখিলোঁ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চাওঁ"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ফুটা"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "দেৱালত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:31:44.692923699Z",
+  "model": "glm-5.3"
+}

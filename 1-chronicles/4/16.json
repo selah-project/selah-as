@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু য়েহালেলেলৰ পুত্ৰসকল আছিল জিফ, জিফাহ, তিৰিয়া আৰু আচাৰএল।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "য়েহালেলেলৰ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "জিফ"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "আৰু জিফাহ"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "তিৰিয়া"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "আৰু আচাৰএল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:02.250394934Z",
+  "model": "glm-5.3"
+}

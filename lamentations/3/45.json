@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তুমি আমাক জাতিসমূহৰ মাজত আবৰ্জনা আৰু পৰিত্যক্ত বস্তু কৰি থলা।",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "আবৰ্জনা"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "আৰু পৰিত্যক্ত বস্তু"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "তুমি আমাক কৰি থলা"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "জাতিসমূহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:45.066723651Z",
+  "model": "glm-5.3"
+}

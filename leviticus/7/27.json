@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "যিকোনো প্ৰাণে যদি কোনো তেজ খায়, সেই প্ৰাণজন নিজৰ সম্প্ৰদায়ৰ পৰা ছেদ কৰা হ'ব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "যিকোনো"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "খায়"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "דם",
+      "gloss": "তেজ"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ছেদ কৰা হ'ব"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "সেই প্ৰাণজন"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "নিজৰ সম্প্ৰদায়ৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:15:53.413910715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "তোমাৰ মূৰৰ ওপৰৰ আকাশখন তামৰ হ'ব, আৰু তোমাৰ তলৰ মাটিখন লোহাৰ হ'ব।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "তোমাৰ আকাশ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰৰ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "তোমাৰ মূৰ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "তাম"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "আৰু মাটি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "তোমাৰ তলৰ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "লোহা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:03:09.905686308Z",
+  "model": "glm-5.3"
+}

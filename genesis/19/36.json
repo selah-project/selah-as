@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "সেইদৰে লোটৰ দুই জীয়েকে নিজৰ দেউতাকৰ পৰা গৰ্ভধাৰণ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "গৰ্ভধাৰণ কৰিলে"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "জীয়েকে"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "লোটৰ"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "নিজৰ দেউতাকৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:35:00.461952832Z",
+  "model": "glm-5.3"
+}

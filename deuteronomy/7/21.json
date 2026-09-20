@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "তেওঁলোকৰ আগত ভয় নাখাব, কিয়নো তোমাৰ মাজত ইয়াহৱেহ তোমাৰ এলোহিম আছে — মহান এল আৰু ভয়ংকৰ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নাখাব"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "তেওঁলোকৰ আগত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "তোমাৰ এলোহিম"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "তোমাৰ মাজত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "আৰু ভয়ংকৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:53:09.443467923Z",
+  "model": "glm-5.3"
+}

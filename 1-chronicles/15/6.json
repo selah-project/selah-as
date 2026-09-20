@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 15:6",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "মেৰাৰীৰ পুত্ৰসকলৰ — আছায়া ⟨নেতা⟩ আৰু তেওঁৰ ভাতৃসকল দুশ বিশ জন।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "পুত্ৰসকলৰ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "মেৰাৰী"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "আছায়া"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨নেতা⟩"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "আৰু তেওঁৰ ভাতৃসকল"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুশ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "বিশ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:36.886189901Z",
+  "model": "glm-5.3"
+}

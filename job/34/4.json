@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 34:4",
+  "book": "job",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "আমাৰ বাবে বিচাৰ বাছি লওঁক; আমাৰ মাজত জানোঁ কি ভাল।",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "বিচাৰ"
+    },
+    {
+      "surface": "נבחרה",
+      "gloss": "বাছি লওঁক"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাৰ বাবে"
+    },
+    {
+      "surface": "נדעה",
+      "gloss": "জানোঁ"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "আমাৰ মাজত"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:43:16.823866039Z",
+  "model": "glm-5.3"
+}

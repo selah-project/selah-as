@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "দুখীয়াক লুট নকৰিবা, কিয়নো সি দুখীয়া, আৰু নগৰদ্বাৰত দুঃখীক পিষ্ট নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "লুট কৰিবা"
+    },
+    {
+      "surface": "דל",
+      "gloss": "দুখীয়াক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "דל",
+      "gloss": "দুখীয়া"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু ন"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "পিষ্ট কৰিবা"
+    },
+    {
+      "surface": "עני",
+      "gloss": "দুঃখীক"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "নগৰদ্বাৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:35.859916091Z",
+  "model": "glm-5.3"
+}

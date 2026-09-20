@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু হাৰব্বিত, আৰু কিচ্যোন, আৰু আবেৎ।",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "আৰু হাৰব্বিত"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "আৰু কিচ্যোন"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "আৰু আবেৎ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:16:35.422305919Z",
+  "model": "glm-5.3"
+}

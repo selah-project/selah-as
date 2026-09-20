@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "প্ৰজ্ঞাক ক'বা, “তুমি মোৰ ভনী”; আৰু বুদ্ধিক তোমাৰ চিনাকি বুলি মাতিবা।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ক'বা"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "প্ৰজ্ঞাক"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "তুমি মোৰ ভনী"
+    },
+    {
+      "surface": "את",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "আৰু জ্ঞানক"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "বুদ্ধিক"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "মাতিবা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:08.398929805Z",
+  "model": "glm-5.3"
+}

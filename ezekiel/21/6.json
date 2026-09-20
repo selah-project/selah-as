@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোৰ ওচৰলৈ আহিল, কৈবলৈ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু … হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:39:00.089406056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "মূৰ্খতাৰ ষড়যন্ত্ৰ ⟨এয়া⟩ পাপ; আৰু বিদ্ৰূপকাৰী মানুহৰ ওচৰত ঘৃণিত।",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "ষড়যন্ত্ৰ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "মূৰ্খতাৰ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "পাপ"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "আৰু ঘৃণিত"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "মানুহৰ ওচৰত"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "বিদ্ৰূপকাৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:26.875070726Z",
+  "model": "glm-5.3"
+}

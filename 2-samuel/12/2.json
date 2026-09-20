@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "ধনীজনৰ ওচৰত ভেড়া-ছাগলী আৰু গৰু-গাই অতি বহুত আছিল।",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "ধনীজনৰ ওচৰত"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ভেড়া-ছাগলী"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "আৰু গৰু-গাই"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "বহুত"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    }
+  ],
+  "timestamp": "2026-09-20T05:10:21.126137033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "অথচ তুমি শ্বেওললৈ নমাই দিয়া হ'ব, গাঁতৰ অতল প্ৰান্তলৈ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "অথচ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বেওল"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "নমাই দিয়া হ'ব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "অতল প্ৰান্তলৈ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "গাঁতৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:36:29.845324069Z",
+  "model": "glm-5.3"
+}

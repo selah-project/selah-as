@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু পবিত্ৰ আৰু অপবিত্ৰৰ মাজত, আৰু অশুচি আৰু শুচিৰ মাজত পাৰ্থক্য কৰিবলৈ,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "আৰু পাৰ্থক্য কৰিবলৈ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "পবিত্ৰ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "আৰু মাজত"
+    },
+    {
+      "surface": "החל",
+      "gloss": "অপবিত্ৰ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "আৰু মাজত"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "অশুচি"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "আৰু মাজত"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "শুচি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:17:33.827313969Z",
+  "model": "glm-5.3"
+}

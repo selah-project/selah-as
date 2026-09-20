@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু ⟨את⟩ পুৰুষৰ লগত নাৰীৰ শয্যাৰ দৰে শুই নাথাকিব; ই ⟨⟨ঘৃণিত কাৰ্য⟩⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "পুৰুষৰ লগত"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "পুৰুষৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "শুই নাথাকিব"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "নাৰীৰ শয্যাৰ দৰে"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "নাৰীৰ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ঘৃণিত কাৰ্য"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ই"
+    }
+  ],
+  "timestamp": "2026-09-19T22:21:30.667623102Z",
+  "model": "glm-5.3"
+}

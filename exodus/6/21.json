@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু ইৎচহাৰৰ পুতেকসকল আছিল কোৰাহ, নেফেগ আৰু জিখ্ৰী।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ইৎচহাৰৰ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোৰাহ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "আৰু নেফেগ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "আৰু জিখ্ৰী"
+    }
+  ],
+  "timestamp": "2026-09-19T21:53:24.414236907Z",
+  "model": "glm-5.3"
+}

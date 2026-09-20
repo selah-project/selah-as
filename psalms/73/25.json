@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 73,
+  "translation": "আকাশত মোৰ কোন ⟨আছে⟩? আৰু তোমাৰ লগত ⟨থাকি⟩ পৃথিৱীত মই ⟨আন একো⟩ কামনা কৰা নাই।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোন"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "আকাশত"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "আৰু তোমাৰ লগত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "কামনা কৰা"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "পৃথিৱীত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:50:27.324730795Z",
+  "model": "glm-5.3"
+}

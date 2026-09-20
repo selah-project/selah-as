@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "ধাৰ্মিকতাই নিষ্পাপৰ ⟨ৰ⟩ পথ ৰক্ষা কৰে; আৰু দুষ্টতাই পাপীক ওলোটা কৰে।",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "ধাৰ্মিকতাই"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ৰক্ষা কৰে"
+    },
+    {
+      "surface": "תם",
+      "gloss": "নিষ্পাপৰ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "আৰু দুষ্টতাই"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "ওলোটা কৰে"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "পাপীক"
+    }
+  ],
+  "timestamp": "2026-09-20T05:23:59.874246826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "সৰ্বোচ্চৰ মুখৰ সন্মুখত কোনো মানুহৰ বিচাৰ বক্ৰ কৰা ⟨নহয়⟩ —",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "বক্ৰ কৰা"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "বিচাৰ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখৰ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "সৰ্বোচ্চৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:35.083886443Z",
+  "model": "glm-5.3"
+}

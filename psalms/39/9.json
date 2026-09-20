@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 39,
+  "translation": "মোৰ সকলো পাপৰ পৰা মোক উদ্ধাৰ কৰা; নিৰ্বোধৰ নিন্দা মোক নকৰিব।",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "সকলোৰ পৰা"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "মোৰ পাপ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "মোক উদ্ধাৰ কৰা"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "নিন্দা"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "নিৰ্বোধৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নকৰিব"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "মোক কৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:39:56.384471903Z",
+  "model": "glm-5.3"
+}

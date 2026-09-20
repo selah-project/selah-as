@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু অষ্টম দিনা ⟨শিশুটিৰ⟩ চালৰ অগ্ৰচৰ্ম কৰ্তন কৰা হ'ব।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "আৰু দিনা"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "অষ্টম"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "কৰ্তন কৰা হ'ব"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "চালৰ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "তাৰ অগ্ৰচৰ্ম"
+    }
+  ],
+  "timestamp": "2026-09-19T22:18:22.171046032Z",
+  "model": "glm-5.3"
+}

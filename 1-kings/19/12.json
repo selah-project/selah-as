@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "ভূমিকম্পৰ পাছত জুই — জুইত ইয়াহৱেহ নাছিল; আৰু জুইৰ পাছত শান্ত, মৃদু কণ্ঠস্বৰ ⟨was⟩।",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "পাছত"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "ভূমিকম্পৰ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "জুই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাছিল"
+    },
+    {
+      "surface": "באש",
+      "gloss": "জুইত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "পাছত"
+    },
+    {
+      "surface": "האש",
+      "gloss": "জুইৰ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "কণ্ঠস্বৰ"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "শান্ত"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "মৃদু"
+    }
+  ],
+  "timestamp": "2026-09-20T00:14:44.792257699Z",
+  "model": "glm-5.3"
+}

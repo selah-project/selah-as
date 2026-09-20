@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "মই মোৰ সকলো লোকৰ ⟨বাবে⟩ হাঁসি-তামাচা হৈ পৰিলোঁ, সিহঁতৰ গীত ⟨মই⟩ সাৰাদিন।",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "হৈ পৰিলোঁ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "হাঁসি-তামাচা"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সকলো … ⟨বাবে⟩"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "মোৰ লোকৰ"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "সিহঁতৰ গীত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সাৰা"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-20T05:31:35.617792058Z",
+  "model": "glm-5.3"
+}

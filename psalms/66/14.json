@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 66,
+  "translation": "যি মোৰ ওঁঠে ⟨উচ্চাৰণ কৰিছিল⟩ আৰু মোৰ মুখে মোৰ দুৰ্দশাত কৈছিল।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "মুকলি কৰিছিল"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "মোৰ ওঁঠে"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "আৰু কৈছিল"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মোৰ মুখে"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "দুৰ্দশাত"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:46:41.572876882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "ইয়াহৱেহ ⟨is⟩ যুদ্ধৰ যোদ্ধা; ইয়াহৱেহ ⟨is⟩ তেওঁৰ নাম।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "যোদ্ধা"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তেওঁৰ নাম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:59:12.101937292Z",
+  "model": "glm-5.3"
+}

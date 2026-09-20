@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "ঊনৈশ নম্বৰ পিতাহিয়াহলৈ, বিছ নম্বৰ য়েহেজকেললৈ।",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "পিতাহিয়াহলৈ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ন"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ঊনৈশ"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "য়েহেজকেললৈ"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "বিছ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:41.334578529Z",
+  "model": "glm-5.3"
+}

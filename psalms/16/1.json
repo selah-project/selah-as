@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "দাৱিদৰ মিখতাম। মোক ৰক্ষা কৰক, হে এল, কিয়নো মই আপোনাত আশ্ৰয় লৈছোঁ।",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "মিখতাম"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "মোক ৰক্ষা কৰক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "আশ্ৰয় লৈছোঁ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "আপোনাত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:32:15.749371529Z",
+  "model": "glm-5.3"
+}

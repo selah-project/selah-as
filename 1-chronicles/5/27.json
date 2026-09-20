@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "লেৱিৰ পুত্ৰসকল: গেৰ্শোন, কেহাত আৰু মেৰাৰি।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লেৱিৰ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "গেৰ্শোন"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কেহাত"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "আৰু মেৰাৰি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:03.585377432Z",
+  "model": "glm-5.3"
+}

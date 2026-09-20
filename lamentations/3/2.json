@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ ⟨את⟩ মোক খেদাই লৈ গ'ল অন্ধকাৰলৈ, পোহৰলৈ নহয়।",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "মোক"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "খেদাই লৈ গ'ল"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "আৰু লৈ গ'ল"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "অন্ধকাৰলৈ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "אור",
+      "gloss": "পোহৰলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:18.188317218Z",
+  "model": "glm-5.3"
+}

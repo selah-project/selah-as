@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "সাতখন ভাল গাই — এইবোৰ সাত বছৰ; আৰু সাতো ভাল শিষ — এইবোৰো সাত বছৰ; সপোনটো এক।",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "গাই"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "আৰু সাত"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "শিষ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "এইবোৰো"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "সপোনটো"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সেয়া⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T21:46:15.953439850Z",
+  "model": "glm-5.3"
+}

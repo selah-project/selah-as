@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু আশেৰৰ জীয়েকৰ নাম আছিল চেৰাখ।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "আৰু নাম"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েকৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "আশেৰৰ"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "চেৰাখ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:43:10.916318062Z",
+  "model": "glm-5.3"
+}

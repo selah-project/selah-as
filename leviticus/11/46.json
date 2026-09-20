@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 11:46",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "এই হৈছে ⟨the⟩ পশুৰ, চৰাইৰ, পানীত গৈ থকা সকলো জীৱৰ আৰু পৃথিৱীত ক্ৰল কৰা সকলো জীৱৰ তোৰা।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "তোৰা"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "পশুৰ"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "আৰু চৰাইৰ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "জীৱ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "জীৱন্ত"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "গৈ থকা"
+    },
+    {
+      "surface": "במים",
+      "gloss": "পানীত"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "জীৱৰ"
+    },
+    {
+      "surface": "השרצת",
+      "gloss": "ক্ৰল কৰা"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱী"
+    }
+  ],
+  "timestamp": "2026-09-19T22:16:48.726899242Z",
+  "model": "glm-5.3"
+}

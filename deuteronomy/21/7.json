@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু তেওঁলোকে উত্তৰ দি ক'ব, “আমাৰ হাতে ⟨את⟩ এই তেজ ঢালি নোৱাইছে, আৰু আমাৰ চকুৱে দেখা নাই।”",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "উত্তৰ দি"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ক'ব"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "আমাৰ হাতে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নোৱাইছে...নহয়"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ঢালি নোৱাইছে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই তেজ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "এই তেজ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "আৰু আমাৰ চকুৱে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "দেখা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:58:43.012508152Z",
+  "model": "glm-5.3"
+}

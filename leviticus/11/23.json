@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু চাৰি ঠেং থকা উৰন্ত বিচৰণকাৰী সকলো প্ৰাণী তোমালোকৰ বাবে ঘৃণিত।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "বিচৰণকাৰী"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "উৰন্ত"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ঠেং"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ঘৃণিত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:16:59.262287824Z",
+  "model": "glm-5.3"
+}

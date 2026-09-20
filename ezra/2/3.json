@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "পৰ'অশৰ সন্তানসকল — দুহেজাৰ এশ বাহাত্তৰ জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "পৰ'অশৰ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুহেজাৰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "সত্তৰ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:47.567183978Z",
+  "model": "glm-5.3"
+}

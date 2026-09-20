@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 139,
+  "translation": "যদি মই প্ৰভাতৰ পাখি লওঁ, আৰু সাগৰৰ শেষ প্ৰান্তত বাস কৰোঁ —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "লওঁ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "পাখি"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "প্ৰভাত"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "বাস কৰোঁ"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "শেষ প্ৰান্তত"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সাগৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:09:22.252025702Z",
+  "model": "glm-5.3"
+}

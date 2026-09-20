@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "সুখী সেই মানুহ যিয়ে জ্ঞান পালে, আৰু সেই মানুহ যিয়ে বুদ্ধি আহৰণ কৰে।",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "সুখী"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "পালে"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "আৰু সেই মানুহ"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "আহৰণ কৰে"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "বুদ্ধি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:00.018284966Z",
+  "model": "glm-5.3"
+}

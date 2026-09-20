@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "দান পথত সাপ হ'ব, বাটত শিংওৱালা সাপ, ঘোঁৰাৰ গোজবোৰ ⟨দংশন কৰিব⟩, আৰু তাৰ সৱাৰে পিছলৈ পৰি যাব।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "সাপ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "শিংওৱালা সাপ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "বাট"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "দংশন কৰিব"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "গোজবোৰ"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ঘোঁৰাৰ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "পৰি যাব"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "তাৰ সৱাৰে"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "পিছলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:51:52.634711786Z",
+  "model": "glm-5.3"
+}

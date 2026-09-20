@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "তেওঁৰ অস্ত্ৰ-বাহকে দেখিলে যে শ্বাউল মৰিছে, সেয়ে তেওঁও পৰ্বত্তকথা নহয় — তেওঁো তৰোৱালত পৰিল আৰু মৰিল।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "দেখিলে"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "অস্ত্ৰ-বাহকে"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "তেওঁৰ অস্ত্ৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "מת",
+      "gloss": "মৰিছে"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বাউল"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "পৰিল"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "তৰোৱাল"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "মৰিল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:30:25.068955692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "হিংসাৰ সাক্ষীসকল উঠিব; মই নজনা কথাবোৰ মোৰ পৰা সোধিব।",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "উঠিব"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "সাক্ষীসকল"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "হিংসাৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "মই জনা"
+    },
+    {
+      "surface": "ישאলוני",
+      "gloss": "মোক সোধিব"
+    }
+  ],
+  "timestamp": "2026-09-20T02:37:18.527037095Z",
+  "model": "glm-5.3"
+}

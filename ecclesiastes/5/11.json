@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "শ্ৰমিকজনৰ টোপনি মিঠা; সি অলপ খালেও ⟨বা⟩ বহুত খালেও; কিন্তু ধনীজনৰ পৰিতৃপ্তিয়ে তাক টোপনি নিবলৈ নিদিয়ে।",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "মিঠা"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "টোপনি"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "শ্ৰমিকজনৰ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "বহুত"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খালে"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "আৰু পৰিতৃপ্তিয়ে"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "ধনীজনৰ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "নোৱাৰে"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "নিদিয়ে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাক"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "টোপনি নিবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:50.685761674Z",
+  "model": "glm-5.3"
+}

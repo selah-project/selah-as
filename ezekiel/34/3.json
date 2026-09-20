@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "তোমালোকে ⟨আথ⟩ ⟨את⟩ মেদ খাইছা আৰু ⟨আথ⟩ ⟨את⟩ ঊন পিন্ধিছা; স্থূলটো জহিছা, পালটো নচৰাইছা।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মেদ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "মেদ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "খাইছা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ⟨אЙ⟩",
+      "marks": "ঊন"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ঊন"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "পিন্ধিছা"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "স্থূলটো"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "জহিছা"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "পালটো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "চৰাইছা"
+    }
+  ],
+  "timestamp": "2026-09-20T01:50:45.527880197Z",
+  "model": "glm-5.3"
+}

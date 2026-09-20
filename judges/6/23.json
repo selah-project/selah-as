@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "ইয়াহৱেহে তেওঁক ক'লে, “তোমাৰ শান্তি হওক; ভয় নকৰিবা, তুমি মৰিবা নহয়।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ বাবে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ভয় কৰিবা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "মৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:22:28.786149020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তুমি নিজকে ডাৱৰেৰে ঢাকিলা, যাতে ⟨কোনো⟩ প্ৰাৰ্থনা পাৰ নহয়।",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "ঢাকিলা"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ডাৱৰেৰে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "নিজকে"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "পাৰ নহয়"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "প্ৰাৰ্থনা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:54.421668359Z",
+  "model": "glm-5.3"
+}

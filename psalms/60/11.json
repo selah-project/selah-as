@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 60,
+  "translation": "কোনে মোক দুৰ্গৰ নগৰলৈ লৈ যাব? কোনে মোক এদোমলৈ পথ দেখুৱাব?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "মোক লৈ যাব"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "দুৰ্গৰ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "মোক পথ দেখুৱাব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    }
+  ],
+  "timestamp": "2026-09-20T02:46:28.044637018Z",
+  "model": "glm-5.3"
+}

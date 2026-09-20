@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ ধূলিত নিজৰ মুখ থওক; হয়তো ⟨এতিয়াও⟩ আশা আছে।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "থওক"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ধূলিত"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "নিজৰ মুখ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "হয়তো"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "আশা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:32.781722741Z",
+  "model": "glm-5.3"
+}

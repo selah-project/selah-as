@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু মই নিৰ্মাণ কৰি থকা ঘৰটো ডাঙৰ, কিয়নো আমাৰ এলোহিম সকলো দেৱতাতকৈ ডাঙৰ।",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "আৰু ঘৰটো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "নিৰ্মাণ কৰি থকা"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "আমাৰ এলোহিম"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "সকলোতকৈ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "দেৱতা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:40:52.109825516Z",
+  "model": "glm-5.3"
+}

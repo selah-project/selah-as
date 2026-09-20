@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 2:8",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "ৰজাই উত্তৰ দি ক'লে, “মই সঁচাকৈয়ে জানোঁ যে তোমালোকে ⟨the⟩ সময় লাভ কৰিছা, কাৰণ তোমালোকে দেখিছা যে মোৰ পৰা ⟨the⟩ কথাটো নিশ্চিত।”",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "উত্তৰ দিলে"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ৰ পৰা"
+    },
+    {
+      "surface": "יציב",
+      "gloss": "নিশ্চিতভাৱে"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানোঁ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "মই"
+    },
+    {
+      "surface": "די",
+      "gloss": "যে"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "אנתון",
+      "gloss": "তোমালোকে"
+    },
+    {
+      "surface": "זבנין",
+      "gloss": "লাভ কৰিছা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "די",
+      "gloss": "যে"
+    },
+    {
+      "surface": "חזיתון",
+      "gloss": "দেখিছা"
+    },
+    {
+      "surface": "די",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "নিশ্চিত"
+    },
+    {
+      "surface": "מני",
+      "gloss": "…ৰ পৰা"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "কথাটো"
+    }
+  ],
+  "timestamp": "2026-09-20T04:04:18.366883778Z",
+  "model": "glm-5.3"
+}

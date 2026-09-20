@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আকাশত বিৰাজমান তেওঁ হাঁহিব; আদোনাই সিহঁতক উপহাস কৰিব।",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "বিৰাজমান"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "আকাশত"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "হাঁহিব"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "উপহাস কৰিব"
+    },
+    {
+      "surface": "למו",
+      "gloss": "সিহঁতক"
+    }
+  ],
+  "timestamp": "2026-09-20T02:28:57.838615972Z",
+  "model": "glm-5.3"
+}

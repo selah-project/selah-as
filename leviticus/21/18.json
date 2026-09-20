@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "কিয়নো যিজন মানুহৰ ভিতৰত দোষ থাকে, তেওঁ ওচৰ নাচাপিব — অন্ধ মানুহ, বা খোৰা, বা নাক-কটা, বা অতিৰিক্ত অংগযুক্ত।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "যিকোনো"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তেওঁৰ ভিতৰত"
+    },
+    {
+      "surface": "מום",
+      "gloss": "দোষ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাচাপিব"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ওচৰ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "অন্ধ"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "খোৰা"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "নাক-কটা"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "অতিৰিক্ত অংগযুক্ত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:23:36.482237040Z",
+  "model": "glm-5.3"
+}

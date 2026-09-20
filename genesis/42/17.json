@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 42,
+  "translation": "আৰু তেওঁ তেওঁলোকক ⟨একলগে⟩ কাৰাগাৰত তিনি দিন ৰাখিলে।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "একলগে ৰাখিলে"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "তেওঁলোকক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "কাৰাগাৰ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-19T21:48:05.591936119Z",
+  "model": "glm-5.3"
+}

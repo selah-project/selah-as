@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "চাওঁক, বীৰসকলে বাহিৰত চিঞৰিছে; শান্তিৰ দূতসকলে তিতাকৈ কান্দিছে।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "বীৰসকলে"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "চিঞৰিছে"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "বাহিৰত"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "দূতসকলে"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তিৰ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "তিতাকৈ"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "কান্দিছে"
+    }
+  ],
+  "timestamp": "2026-09-20T00:42:41.298530067Z",
+  "model": "glm-5.3"
+}

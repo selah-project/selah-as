@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ইয়াহৱেহৰ আশীৰ্বাদে ⟨সেইয়া⟩ ধনী কৰে, আৰু ⟨তেওঁ⟩ তাৰ লগত দুখ যোগ নকৰে।",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "আশীৰ্বাদ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨সেইয়া⟩"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ধনী কৰে"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নকৰে"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোগ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "দুখ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "তাৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-20T05:23:48.964044617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "এঘাৰ দিনৰ পথ হোৰেবৰ পৰা চেইৰ পৰ্বতৰ দিশেৰে কাদেচ-বাৰ্নেয়ালৈকে।",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "এঘাৰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(এঘাৰ = ১০+১)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "হোৰেবৰ পৰা"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পৰ্বত"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "চেইৰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...লৈকে"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "কাদেচ"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "বাৰ্নেয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:52.680559768Z",
+  "model": "glm-5.3"
+}

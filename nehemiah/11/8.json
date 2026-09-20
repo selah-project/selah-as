@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু তেওঁৰ পাছত গাব্বাই ⟨আৰু⟩ চাল্লাই — ন২২ অৰ্থাৎ নয়শ বাইশটা আঠ।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "আৰু তেওঁৰ পাছত"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "গাব্বাই"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "চাল্লাই"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বাইশ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "আঠ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:54.893171781Z",
+  "model": "glm-5.3"
+}

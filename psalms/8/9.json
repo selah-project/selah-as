@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আকাশৰ চৰাই আৰু সাগৰৰ মাছ, আৰু সাগৰৰ পথবোৰেদি পাৰ হৈ যোৱা যি কিবা আছে ⟨সকলো⟩।",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "চৰাই"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "আকাশৰ"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "আৰু মাছ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সাগৰৰ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "পাৰ হৈ যোৱা"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "পথবোৰেদি"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "সাগৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:30:51.981462664Z",
+  "model": "glm-5.3"
+}

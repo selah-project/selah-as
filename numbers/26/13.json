@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "জেৰহৰ — জেৰহীসকলৰ বংশ; শ্বাউলৰ — শ্বাউলীসকলৰ বংশ।",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "জেৰহৰ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "জেৰহীসকলৰ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "শ্বাউলৰ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "শ্বাউলীসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:40:49.080883067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু তাৰ কাষত দুজোপা জলফাই গছ — এজোপা পাত্ৰটোৰ সোঁফালে, আৰু এজোপা তাৰ বাওঁফালে।",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুই"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "জলফাই গছ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "তাৰ কাষত"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজোপা"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "সোঁফালে"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "পাত্ৰটোৰ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "আৰু এজোপা"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ৰ ফালে"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "বাওঁফালে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:23:02.391428785Z",
+  "model": "glm-5.3"
+}

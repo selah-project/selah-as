@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "পোন্ধৰ নম্বৰ বিলগাহলৈ, ষোল্ল নম্বৰ ইম্মেৰলৈ।",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "বিলগাহলৈ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "পোন্ধৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ইম্মেৰলৈ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ষোল্ল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:41.333531105Z",
+  "model": "glm-5.3"
+}

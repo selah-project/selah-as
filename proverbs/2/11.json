@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "বিচক্ষণতাই তোমাক ৰক্ষা কৰিব, বুদ্ধিয়ে তোমাক পহৰা দিব।",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "বিচক্ষণতাই"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ৰক্ষা কৰিব"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "তোমাক"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "বুদ্ধিয়ে"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "তোমাক পহৰা দিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:30.288017244Z",
+  "model": "glm-5.3"
+}

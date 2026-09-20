@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু পুৰোহিতে ⟨את⟩ ক্ষতিটো চাব, আৰু ⟨את⟩ ক্ষতিটো সাত দিনলৈ বন্ধ কৰি ৰাখিব।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "আৰু চাব"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ক্ষতিটো"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ক্ষতিটো"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "আৰু বন্ধ কৰি ৰাখিব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ক্ষতিটো"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ক্ষতিটো"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:54.640241169Z",
+  "model": "glm-5.3"
+}

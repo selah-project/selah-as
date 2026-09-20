@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আভি-আলবোন আৰবথীয়া; আজমাভেত বাৰহুমীয়া।",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "আভি-"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "আলবোন"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "আৰবথীয়া"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "আজমাভেত"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "বাৰহুমীয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:29.025759476Z",
+  "model": "glm-5.3"
+}

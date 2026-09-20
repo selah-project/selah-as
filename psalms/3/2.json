@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ইয়াহৱেহ, মোৰ শত্ৰুবোৰ কিমান বাঢ়িলে! বহুতে মোৰ বিৰুদ্ধে উঠিছে।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কিমান"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "বাঢ়িলে"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "মোৰ শত্ৰুবোৰ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহুতে"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "উঠিছে"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মোৰ বিৰুদ্ধে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:29:32.299845493Z",
+  "model": "glm-5.3"
+}

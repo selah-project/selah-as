@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "চোতালৰ চাৰিওফালৰ সকলো পৰ্দা পাক দিয়া শণেৰে ⟨বোৱা আছিল⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "পৰ্দা"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "চোতালৰ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "চাৰিওফালে"
+    },
+    {
+      "surface": "שש",
+      "gloss": "শণ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "পাক দিয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T22:11:34.268299594Z",
+  "model": "glm-5.3"
+}

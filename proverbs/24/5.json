@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "জ্ঞানী মানুহ ⟨এজন⟩ বলৱান, আৰু জ্ঞানৰ মানুহে ⟨নিজৰ⟩ বল বঢ়ায়।",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "বলৱান"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "আৰু মানুহ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞানৰ"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "বঢ়ায়"
+    },
+    {
+      "surface": "כח",
+      "gloss": "বল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:23.837912976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "কিয়নো মোক পোৱাই জীৱন পোৱা, আৰু ইয়াহৱেহৰ পৰা অনুগ্ৰহ লাভ কৰা।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "পোৱাই"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "পোৱা"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱন"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "আৰু লাভ কৰা"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "অনুগ্ৰহ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ইয়াহৱেহৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:27.393005312Z",
+  "model": "glm-5.3"
+}

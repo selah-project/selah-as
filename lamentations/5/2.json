@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আমাৰ উত্তৰাধিকাৰ পৰদেশীসকলৰ হ'ল, আমাৰ ঘৰবোৰ অচিনাকি লোকসকলৰ।",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "আমাৰ উত্তৰাধিকাৰ"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "পৰদেশীসকলৰ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "আমাৰ ঘৰবোৰ"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "অচিনাকি লোকসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:47.035587462Z",
+  "model": "glm-5.3"
+}

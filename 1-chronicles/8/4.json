@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু আবিশ্বুৱা, আৰু নামান, আৰু আহোহ।",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "আৰু আবিশ্বুৱা"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "আৰু নামান"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "আৰু আহোহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:24.122397438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "আৰু ইয়াהৱেহে মোশ্বে আৰু আহৰোনৰ প্ৰতি ক'লে, এইদৰে কৈ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ৰ প্ৰতি"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু …ৰ প্ৰতি"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোন"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এইদৰে কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:37:15.161713962Z",
+  "model": "glm-5.3"
+}

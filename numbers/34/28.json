@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "আৰু নাফতালিৰ পুতেকসকলৰ গোত্ৰৰ নেতা পেদাহেল, আম্মিহুদৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "আৰু গোত্ৰৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকলৰ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "নাফতালি"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নেতা"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "পেদাহেল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "আম্মিহুদৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:47:38.589539647Z",
+  "model": "glm-5.3"
+}

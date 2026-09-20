@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু আছাৰ ৰাজত্বৰ পঁয়ত্ৰিশতম বছৰলৈকে যুদ্ধ হোৱা নাছিল।",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "আৰু যুদ্ধ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "হোৱা নাছিল"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্ৰিশ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ৰাজত্বৰ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "আছাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:44:39.021430445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "সেয়ে তোমালোকে কাদেশত বহু দিন — যিমান দিন তাত আছিলা, সেই সমানেই থাকিলা।",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "থাকিলা"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "কাদেশত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "যিমান দিন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "তাত আছিলা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:04:00.724412814Z",
+  "model": "glm-5.3"
+}

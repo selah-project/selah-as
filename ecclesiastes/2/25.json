@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "কিয়নো মোৰ পৰা বাহিৰে কোনে খাব পাৰে, আৰু কোনে উপভোগ কৰিব পাৰে?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খাব পাৰে"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "আৰু কোনে"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "উপভোগ কৰিব পাৰে"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "বাহিৰে"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:08.120363174Z",
+  "model": "glm-5.3"
+}

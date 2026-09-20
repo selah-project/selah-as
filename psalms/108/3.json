@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 108,
+  "translation": "সাৰে উঠা, হে নেভেল আৰু কিন্নোৰ; মই ⟨ভোৰটোকে⟩ জগাম।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "সাৰে উঠা"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "হে নেভেল"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "আৰু কিন্নোৰ"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "মই জগাম"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ভোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:02:31.514513937Z",
+  "model": "glm-5.3"
+}

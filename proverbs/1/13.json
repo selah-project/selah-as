@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আমি সকলো মূল্যৱান ধন পাম, আমাৰ ঘৰবোৰ লুণ্ঠনেৰে ভৰাই দওঁ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ধন"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "মূল্যৱান"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "পাম"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "ভৰাই দওঁ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "আমাৰ ঘৰবোৰ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "লুণ্ঠনেৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:12:55.426876296Z",
+  "model": "glm-5.3"
+}

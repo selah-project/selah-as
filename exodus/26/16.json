@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "দহ হাত ⟨হ'ব⟩ এখন ফলিৰ দৈৰ্ঘ্য, আৰু এক হাত আৰু আধা হাত ⟨হ'ব⟩ এখন ফলিৰ প্ৰস্থ।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "দৈৰ্ঘ্য"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ফলিৰ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "আৰু এক হাত"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "আৰু আধা"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "প্ৰস্থ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ফলিৰ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "এখন"
+    }
+  ],
+  "timestamp": "2026-09-19T22:04:49.152456838Z",
+  "model": "glm-5.3"
+}

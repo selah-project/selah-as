@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ মোক তিতাবোৰেৰে পৰিপূৰ্ণ কৰিলে, লেঁটেংকাৰে মোক জিৰাই দিলে।",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "তেওঁ মোক পৰিপূৰ্ণ কৰিলে"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "তিতাবোৰেৰে"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "মোক জিৰাই দিলে"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "লেঁটেংকা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:31:46.867754967Z",
+  "model": "glm-5.3"
+}

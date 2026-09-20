@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "ৰজা আহাচৰ মৃত্যুৰ বছৰত ⟨আৰম্ভ হ'ল⟩ এই ভাৰ-বাণী।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "বছৰত"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যুৰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "আহাচ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ভাৰ-বাণী"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-20T05:15:19.078363713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "তেওঁ লোকসকলক ক'লে, “তিনিদিনলৈ সাজু হৈ থাকক; কোনো নাৰীৰ ওচৰলৈ নাযাব।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকসকলক"
+    },
+    {
+      "surface": "היו",
+      "gloss": "হৈ থাকক"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "সাজু"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "তিনিদিনলৈ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নাইবা"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "ওচৰলৈ নাযাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "নাৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T05:00:07.579735702Z",
+  "model": "glm-5.3"
+}

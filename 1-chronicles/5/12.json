@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "য়োএল ⟨আছিল⟩ মুখ্য, আৰু শ্বাফাম দ্বিতীয়, আৰু য়ানাই আৰু শ্বাফাত বাশানত।",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "য়োএল"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "মুখ্য"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "আৰু শ্বাফাম"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "আৰু য়ানাই"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "আৰু শ্বাফাত"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "বাশানত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:43.630969960Z",
+  "model": "glm-5.3"
+}

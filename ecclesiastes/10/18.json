@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "বহু আলস্যতাত চালি তলাই পৰে, আৰু হাতৰ শিথিলতাত ঘৰটো চুহি যায়।",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "বহু আলস্যতাত"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "তলাই পৰে"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "চালি"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "আৰু শিথিলতাত"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "হাতৰ"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "চুহি যায়"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ঘৰটো"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:52.583727094Z",
+  "model": "glm-5.3"
+}

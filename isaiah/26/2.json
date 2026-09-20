@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "দুৱাৰবোৰ খোলা, আৰু সততা ৰক্ষা কৰা ধাৰ্মিক জাতি সোমাওক।",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "খোলা"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "দুৱাৰবোৰ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "আৰু সোমাওক"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিক"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ৰক্ষা কৰা"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "সততা"
+    }
+  ],
+  "timestamp": "2026-09-20T00:41:15.381300142Z",
+  "model": "glm-5.3"
+}

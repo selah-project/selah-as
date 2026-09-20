@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "কাৰণ তাৰ সকলো দিন দুখত আৰু তাৰ কাৰ্য্য ক্ষোভত ⟨কটে⟩; আনকি ৰাতিও তাৰ হৃদয়ে জিৰণি ⟨নাপায়⟩ — এইও হেবেল।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "তাৰ দিন"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "দুখ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "আৰু ক্ষোভ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "তাৰ কাৰ্য্য"
+    },
+    {
+      "surface": "גם",
+      "gloss": "আনকি"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "জিৰণি লয়"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "তাৰ হৃদয়"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এইও"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেই"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:57.373673082Z",
+  "model": "glm-5.3"
+}

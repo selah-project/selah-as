@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "যিদৰে তুমি নাজানা বতাহৰ পথ কি, আৰু ভৰা গৰ্ভত হাড়বোৰ কেনেকৈ গঢ় লয়, তেনেকৈয়ে তুমি নাজানা ⟨את⟩ সকলো কৰা এলোহিমৰ কাৰ্য।",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "যিদৰে"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "তুমি না"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জানা"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "বতাহৰ"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "যেন হাড়বোৰ"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "গৰ্ভত"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "ভৰা গৰ্ভৰ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "তেনেকৈয়ে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "জানিবা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো কৰা এলোহিমৰ কাৰ্য"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কাৰ্য"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "কৰে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "সকলো"
+    }
+  ],
+  "timestamp": "2026-09-20T03:59:04.656375492Z",
+  "model": "glm-5.3"
+}

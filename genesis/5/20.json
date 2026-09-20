@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু য়েৰেদৰ সকলো দিন দুই আৰু ষাঠি বছৰ আৰু ন শ বছৰ হ'ল, আৰু তেওঁ মৃত্যুবৰণ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আৰু ... হ'ল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "য়েৰেদৰ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "আৰু ষাঠি"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "আৰু ন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "וי׮ת",
+      "gloss": "আৰু তেওঁ মৃত্যুবৰণ কৰিলে"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:36.937988580Z",
+  "model": "glm-5.3"
+}

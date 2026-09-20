@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "বাৰ্ধক্য ⟨হৈছে⟩ মহিমাৰ মুকুট; ধাৰ্মিকতাৰ পথত ⟨ই⟩ পোৱা যায়।",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "মুকুট"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "মহিমাৰ"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "বাৰ্ধক্য"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথত"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ধাৰ্মিকতাৰ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "পোৱা যায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:43.619751490Z",
+  "model": "glm-5.3"
+}

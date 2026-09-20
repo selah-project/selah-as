@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "সেয়ে মই ⟨את⟩ জীৱনক ঘৃণা কৰিলোঁ, কিয়নো সূৰ্য্যৰ তলত কৰা ⟨the⟩ কাৰ্য মোৰ ওপৰত দুষ্ট; কিয়নো ⟨the⟩ সকলো অসাৰ আৰু বতাহৰ যন্ত্ৰণা।",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ঘৃণা কৰিলোঁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "জীৱনক"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "জীৱনক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "רע",
+      "gloss": "দুষ্ট"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মোৰ ওপৰত"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "কাৰ্য"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "যি কৰা হ'ল"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্য্যৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "অসাৰ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "আৰু যন্ত্ৰণা"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "বতাহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:11.770651805Z",
+  "model": "glm-5.3"
+}

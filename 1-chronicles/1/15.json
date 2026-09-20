@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু ⟨את⟩ হিৱী, ⟨את⟩ আৰকী আৰু ⟨את⟩ চিনী।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "হিৱী"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "হিৱী"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "আৰকী"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "আৰকী"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "চিনী"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "চিনী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:34.374266527Z",
+  "model": "glm-5.3"
+}

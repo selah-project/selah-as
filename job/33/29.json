@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "চাওক, এই সকলোবোৰ এলে মানুহৰ লগত দুই বাৰ, তিনি বাৰ কৰে।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলোবোৰ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "কৰে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "বাৰ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "মানুহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:42:48.705065906Z",
+  "model": "glm-5.3"
+}

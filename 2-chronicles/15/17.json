@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 15:17",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু উচ্চ স্থানবোৰ ইস্ৰায়েলৰ পৰা আঁতৰ নহ'ল; কেৱল আছাৰ হৃদয় তেওঁৰ সকলো দিন অটুট আছিল।",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "আৰু উচ্চ স্থানবোৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "আঁতৰ নহ'ল"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ইস্ৰায়েলৰ পৰা"
+    },
+    {
+      "surface": "רק",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "আছাৰ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "অটুট"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:44:39.020940538Z",
+  "model": "glm-5.3"
+}

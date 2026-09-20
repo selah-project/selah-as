@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু এলিশ্বামা, আৰু বেলিয়াদা, আৰু এলিফেলেত।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "আৰু এলিশ্বামা"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "আৰু বেলিয়াদা"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "আৰু এলিফেলেত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:39.698342904Z",
+  "model": "glm-5.3"
+}

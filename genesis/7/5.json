@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "নোহাই ইয়াহৱেহে তেওঁক যি সকলো আদেশ দিছিল, সেই সকলো অনুসৰি কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "কৰিলে"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোহাই"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "সেই সকলো অনুসৰি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "আদেশ দিছিল"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    }
+  ],
+  "timestamp": "2026-09-20T04:58:39.698188137Z",
+  "model": "glm-5.3"
+}

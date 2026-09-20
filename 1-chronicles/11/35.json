@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আহিয়াম শ্বাকাৰৰ পুতেক হহৰাৰী, এলিফাল ঊৰৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "আহিয়াম"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "শ্বাকাৰৰ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "হহৰাৰী"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "এলিফাল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ঊৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:45.781282688Z",
+  "model": "glm-5.3"
+}

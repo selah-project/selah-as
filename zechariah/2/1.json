@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "মই ⟨את⟩ মোৰ চকু দাঙি চালোঁ আৰু দেখিলোঁ, আৰু চাওঁ — চাৰিটা শিং।",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "দাঙি চালোঁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মোৰ চকু"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "মোৰ চকু"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "আৰু দেখিলোঁ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চাওঁ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "শিং"
+    }
+  ],
+  "timestamp": "2026-09-20T02:23:51.899361720Z",
+  "model": "glm-5.3"
+}

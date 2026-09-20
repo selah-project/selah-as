@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "আনন্দিত হৃদয়ে নিৰাময় মংগল কৰে; আৰু ভগা মনে হাড় শুকাই দিয়ে।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "আনন্দিত"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "মংগল কৰে"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "নিৰাময়"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "আৰু মন"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ভগা"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "শুকাই দিয়ে"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "হাড়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:03.141586274Z",
+  "model": "glm-5.3"
+}

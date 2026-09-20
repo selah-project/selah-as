@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "সাহৰ নাৰী কোনে পাব? তেওঁৰ মূল্য মুক্তাতকৈ ⟨বহু ওপৰত⟩।",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "নাৰী"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "সাহৰ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "পাব"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "আৰু দূৰত"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "মুক্তাতকৈ"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "তেওঁৰ মূল্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:39.179597398Z",
+  "model": "glm-5.3"
+}

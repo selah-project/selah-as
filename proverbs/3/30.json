@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "এজন মানুহৰ লগত কাৰণ নহ'লে বিবাদ নকৰিবা, যেতিয়া তাই তোমাক ক্ষতি কৰা নাই।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "বিবাদ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "এজন মানুহৰ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "কাৰণ নহ'লে"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "তোমাক কৰা"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ক্ষতি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:16.823462374Z",
+  "model": "glm-5.3"
+}

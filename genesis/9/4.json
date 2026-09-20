@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "কিন্তু মাংস — তাৰ প্ৰাণসহ, অৰ্থাৎ তাৰ তেজসহ — তোমালোকে নাখাব।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "কিন্তু"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "তাৰ প্ৰাণসহ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "তাৰ তেজসহ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাখাব"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "তোমালোকে খাব"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:30.164192124Z",
+  "model": "glm-5.3"
+}

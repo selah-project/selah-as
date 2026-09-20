@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 16:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "ৰজাসকলৰ প্ৰীতি ⟨হ'ল⟩ ধাৰ্মিক ওঁঠ; আৰু সৰলকৈ কোৱাজনক তেওঁলোকে ভাল পায়।",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "প্ৰীতি"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ৰজাসকলৰ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ধাৰ্মিক"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "আৰু কোৱাজন"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "সৰলকৈ"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ভাল পায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:32.762645105Z",
+  "model": "glm-5.3"
+}

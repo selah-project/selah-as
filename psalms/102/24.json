@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 102,
+  "translation": "তেওঁ পথত মোৰ শক্তি ক্ষীণ কৰিলে; তেওঁ মোৰ দিনবোৰ ⟨চুটি কৰিলে⟩।",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ক্ষীণ কৰিলে"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথত"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "মোৰ শক্তি"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "চুটি কৰিলে"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "মোৰ দিনবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:58:14.787367325Z",
+  "model": "glm-5.3"
+}

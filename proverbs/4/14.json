@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 4:14",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "দুষ্টসকলৰ পথত সোমাব নালাগে, আৰু মন্দসকলৰ বাটত খোজ কাঢ়িব নালাগে।",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "পথত"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "সোমাব"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু নালাগে"
+    },
+    {
+      "surface": "תאשר",
+      "gloss": "খোজ কাঢ়িব"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "বাটত"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "মন্দসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:23.328875765Z",
+  "model": "glm-5.3"
+}

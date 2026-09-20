@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "তাই তেওঁৰ ঘৰৰ পৰা ওলাই যাব, গৈ আন এজন পুৰুষৰ হ'ব।",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "আৰু তাই ওলাই যাব"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "তেওঁৰ ঘৰৰ পৰা"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "আৰু গৈ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "আৰু হ'ব"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "এজন পুৰুষৰ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "আন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:02:02.316278699Z",
+  "model": "glm-5.3"
+}

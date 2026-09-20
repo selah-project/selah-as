@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "কিয়নো সৰলসকলে ⟨the⟩ দেশত বাস কৰিব, আৰু নিষ্ঠাবানসকল তাত থাকি যাব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "সৰলসকলে"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "বাস কৰিব"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "আৰু নিষ্ঠাবানসকল"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "থাকি যাব"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:08.907599319Z",
+  "model": "glm-5.3"
+}

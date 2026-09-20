@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "ষাঠি গৰাকী ৰাণী ⟨আছে⟩, আৰু আশী গৰাকী উপপত্নী, আৰু কুমাৰীৰ গণনা ⟨নাই⟩।",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "ষাঠি"
+    },
+    {
+      "surface": "המה",
+      "gloss": "সিহঁতে"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ৰাণী"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "আৰু আশী"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "উপপত্নী"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "আৰু কুমাৰী"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "গণনা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:50.808504030Z",
+  "model": "glm-5.3"
+}

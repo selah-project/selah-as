@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "ইয়াহৱেহে মোশ্বেক আৰু আহৰোনক কথা পাতিলে, ক'বলৈ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু ...লৈ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোনক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:20:19.608594531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু বেথুৱেলত, আৰু হৰমাত, আৰু চিকলাগত।",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "আৰু বেথুৱেলত"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "আৰু হৰমাত"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "আৰু চিকলাগত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:28.024668966Z",
+  "model": "glm-5.3"
+}

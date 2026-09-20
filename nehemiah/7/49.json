@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "চানানৰ পুতেকসকল, গিদ্দেলৰ পুতেকসকল, গাহাৰৰ পুতেকসকল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "চানানৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "গিদ্দেলৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "গাহাৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:51.334803534Z",
+  "model": "glm-5.3"
+}

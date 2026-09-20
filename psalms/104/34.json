@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 104,
+  "translation": "মোৰ ধ্যান তেওঁৰ ওচৰত মিঠা হওক; মই ইয়াহৱেহত আনন্দ কৰোঁ।",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "মিঠা হওক"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তেওঁৰ ওচৰত"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "মোৰ ধ্যান"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "আনন্দ কৰোঁ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ইয়াהৱেহত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:00:12.513714321Z",
+  "model": "glm-5.3"
+}

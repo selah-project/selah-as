@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ ⟨নাইমিৰ কাষত⟩ ক'লে, “তুমি যি সকলো ক'বা, মই সেইটো কৰিম।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "তাইৰ কাষত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "তুমি ক'বা"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "মই কৰিম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:49:47.349574204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু মাংসত আৰু ৰুটিত যি অৱশিষ্ট থাকে, তোমালোকে জুইত জ্বলাই দিবা।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "আৰু অৱশিষ্ট"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "মাংসত"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "আৰু ৰুটিত"
+    },
+    {
+      "surface": "באש",
+      "gloss": "জুইত"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "জ্বলাই দিবা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:18:42.798083479Z",
+  "model": "glm-5.3"
+}

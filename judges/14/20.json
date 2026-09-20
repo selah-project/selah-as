@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু শিমচনৰ পত্নী তেওঁৰ সঙ্গীজনৰ ⟨হ'ল⟩, যিজন তেওঁৰ বন্ধু ⟨আছিল⟩।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "পত্নী"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "শিমচনৰ"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "তেওঁৰ সঙ্গীজনৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিজন"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "বন্ধু আছিল"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:27:53.069118756Z",
+  "model": "glm-5.3"
+}

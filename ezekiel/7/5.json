@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এই শব্দ আদোনাই ইয়াহৱেহে ক'লে: দুৰ্যোগ, একমাত্ৰ দুৰ্যোগ — চাওঁচকি, সি আহি আছে।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "এই শব্দ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "দুৰ্যোগ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "একমাত্ৰ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "দুৰ্যোগ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওঁচকি"
+    },
+    {
+      "surface": "באה",
+      "gloss": "আহি আছে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:30:49.537609171Z",
+  "model": "glm-5.3"
+}

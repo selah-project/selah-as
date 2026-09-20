@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "আৰু তাৰ পাছৰ সেই দুৰ্ভিক্ষৰ বাবে দেশত প্ৰাচুৰ্য্য জনা নগ'ব, কিয়নো সেয় অতি গধুৰ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জনা"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "প্ৰাচুৰ্য্য"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "দুৰ্ভিক্ষৰ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "তাৰ পাছৰ"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "গধুৰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেয়"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:46:22.120910504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "সি তোমাক ধাৰ দিব, কিন্তু তুমি তাৰ ধাৰ নিদিবা; সি মূৰ হ'ব, আৰু তুমি নেজ হ'বা।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "তোমাক ধাৰ দিব"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "আৰু তুমি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "ধাৰ নিদিবা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "মূৰ হিচাপে"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "আৰু তুমি"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হ'বা"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "নেজ হিচাপে"
+    }
+  ],
+  "timestamp": "2026-09-19T23:03:00.633518188Z",
+  "model": "glm-5.3"
+}

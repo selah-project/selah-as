@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "আৰু য়াকোভে নিজ পিতৃৰ প্ৰবাসৰ দেশত, কনান দেশত বাস কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "বাস কৰিলে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভে"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "মגורי",
+      "gloss": "প্ৰবাসৰ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "তেওঁৰ পিতৃৰ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনান"
+    }
+  ],
+  "timestamp": "2026-09-19T21:44:41.322886811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "নিচাযুক্ত ব্যক্তিৰ হাতত সোমাই উঠা জোংৰ দৰে, মূৰ্খসকলৰ মুখত ⟨আছে⟩ এটা উপমা।",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "জোং"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "উঠে"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতত"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "নিচাযুক্ত ব্যক্তিৰ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "আৰু উপমা"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "মুখত"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "মূৰ্খসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:37.075301712Z",
+  "model": "glm-5.3"
+}

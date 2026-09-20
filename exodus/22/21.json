@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "যিকোনো বিধৱা বা অনাথক তোমালোকে নিপীড়ন নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "যিকোনো"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "বিধৱা"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "আৰু অনাথ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "নিপীড়ন কৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:02:46.973712202Z",
+  "model": "glm-5.3"
+}

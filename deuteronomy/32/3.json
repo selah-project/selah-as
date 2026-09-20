@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "কিয়নো মই ইয়াহৱেহৰ নাম মাতিম; আমাৰ এলোহিমক মহত্ত্ব দিয়া।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "মই মাতিম"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "দিয়া"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "মহত্ত্ব"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "আমাৰ এলোহিমক"
+    }
+  ],
+  "timestamp": "2026-09-19T23:05:16.817436360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "আৰু এইবোৰ ⟨হ'ল⟩ এদোমৰ পিতৃ এচাভৰ বংশাৱলি, চেইৰ পৰ্বতত।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আৰু এইবোৰ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "বংশাৱলি"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এচাভৰ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতৃ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোমৰ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "পৰ্বতত"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "চেইৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:42:58.471741923Z",
+  "model": "glm-5.3"
+}

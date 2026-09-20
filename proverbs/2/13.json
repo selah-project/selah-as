@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "যিসকলে সৰলতাৰ পথবোৰ এৰি আন্ধাৰৰ পথবোৰত খোজ কাঢ়ে।",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "যিসকলে এৰে"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "পথবোৰ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "সৰলতাৰ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "খোজ কাঢ়িবলৈ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "পথবোৰত"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "আন্ধাৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:51.872146990Z",
+  "model": "glm-5.3"
+}

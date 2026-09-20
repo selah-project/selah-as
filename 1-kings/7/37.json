@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এইদৰে তেওঁ ⟨את⟩ দহখন ভেটি নিৰ্মাণ কৰিলে; সকলোৰে এক ঢলাই, এক মাপ, এক আকৃতি আছিল।",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "নিৰ্মাণ কৰিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দহখন ভেটি"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ভেটিবোৰ"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ঢলাই"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "মাপ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "আকৃতি"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "সকলোৰে বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T00:06:11.135682300Z",
+  "model": "glm-5.3"
+}

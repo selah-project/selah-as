@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু নোৱাহৰ তিনিটা পুতেক জন্ম হ'ল — ⟨את⟩ শ্বেম, ⟨את⟩ হাম আৰু ⟨את⟩ য়েফেত।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম হ'ল"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোৱাহৰ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিনিটা"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শ্বেম"
+    },
+    {
+      "surface": "שם",
+      "gloss": "শ্বেম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "হাম"
+    },
+    {
+      "surface": "חם",
+      "gloss": "হাম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "য়েফেত"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "য়েফেত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:55.266113845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "হে আকাশমণ্ডল, কাণ পাতা, আৰু মই ক'ম; আৰু পৃথিৱীয়ে মোৰ মুখৰ কথাবোৰ শুনক।",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "কাণ পাতা"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "হে আকাশমণ্ডল"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "আৰু মই ক'ম"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "আৰু শুনক"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীয়ে"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মোৰ মুখৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:05:16.817067917Z",
+  "model": "glm-5.3"
+}

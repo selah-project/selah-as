@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "দুজনতকৈ ভাল ⟨সেই দুজন⟩, কিয়নো তেওঁলোকৰ ⟨⟨⟩> নিজৰ পৰিশ্ৰমত ভাল প্ৰতিদান আছে।",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "দুজন"
+    },
+    {
+      "surface": "מן",
+      "gloss": "তকৈ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকৰ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "প্ৰতিদান"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "নিজৰ পৰিশ্ৰমত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:55.808668971Z",
+  "model": "glm-5.3"
+}

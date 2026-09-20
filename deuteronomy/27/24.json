@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "অভিশপ্ত সি যি গোপনে নিজ লগৰীয়াক প্ৰহাৰ কৰে; আৰু সকলো জনতাই ক'ব, আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "মккহ",
+      "gloss": "প্ৰহাৰ কৰে"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "নিজ লগৰীয়াক"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "গোপনে"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আৰু ক'ব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনতাই"
+    },
+    {
+      "surface": "אমן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:02:14.889050645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "যিসকলে মদৰ ওচৰত ৰৈ থাকে, যিসকলে মিহলি মদ বিচাৰিবলৈ আহে।",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "যিসকলে ৰৈ থাকে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওচৰত"
+    },
+    {
+      "surface": "היין",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "যিসকলে আহে"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "বিচাৰিবলৈ"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "মিহলি মদ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:19.504107486Z",
+  "model": "glm-5.3"
+}

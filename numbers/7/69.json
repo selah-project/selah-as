@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এটা গৰু-পোৱালি, এটা মেষ, এটা এবছৰীয়া ভেড়াৰ পোৱালি, দাহ-উৎসৰ্গৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পোৱালি"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "গৰুৰ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "মেষ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ভেড়া"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পোৱালি"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "এবছৰীয়া"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "দাহ-উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:32:49.717979255Z",
+  "model": "glm-5.3"
+}

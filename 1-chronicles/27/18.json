@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "যিহূদাৰ হৈছিল এলিহূ, দাৱিদৰ ভাতৃসকলৰ এজন; ইছ্কাৰৰ হৈছিল ওমৰি মিখাএলৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "যিহূদাৰ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "এলিহূ"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "ভাতৃসকলৰ মাজৰ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদ"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "ইছ্কাৰৰ"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ওমৰি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "মিখাএলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:37:12.638390472Z",
+  "model": "glm-5.3"
+}

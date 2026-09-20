@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেৰ সৈতে কথা পাতিলে, কৈ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আৰু ... কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ সৈতে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:25:34.393955210Z",
+  "model": "glm-5.3"
+}

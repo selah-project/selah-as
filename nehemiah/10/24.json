@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "হোচেয়া, চানানিয়াহ, চাচ্বুভ।",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "হোচেয়া"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "চানানিয়াহ"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "চাচ্বুভ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:18.525355398Z",
+  "model": "glm-5.3"
+}

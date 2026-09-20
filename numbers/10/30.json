@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "তেওঁ তেওঁক ক'লে, “মই নাযাঁঁ; কিন্তু মোৰ দেশলৈ আৰু মোৰ জন্মভূমিলৈ মই যাম।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "যাঁঁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিন্তু"
+    },
+    {
+      "surface": "אם",
+      "gloss": "মাথোঁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "মোৰ দেশ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু লৈ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "মোৰ জন্মভূমি"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "যাম"
+    }
+  ],
+  "timestamp": "2026-09-19T22:33:06.455130746Z",
+  "model": "glm-5.3"
+}

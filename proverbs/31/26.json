@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "তাইৰ মুখখন প্ৰজ্ঞাৰে খোলে, আৰু হেচেদৰ তোৰা ⟨থাকে⟩ তাইৰ জিভাত।",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "তাইৰ মুখ"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "খোলে"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "প্ৰজ্ঞাৰে"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "আৰু … তোৰা"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "হেচেদৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "তাইৰ জিভা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:31.263246392Z",
+  "model": "glm-5.3"
+}

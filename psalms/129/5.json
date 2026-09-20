@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 129,
+  "translation": "লজ্জিত হওঁক আৰু পিছুৱাই যাওঁক চিয়োনৰ সকলো শত্ৰু।",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "লজ্জিত হওঁক"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "আৰু পিছুৱাই যাওঁক"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "পিছুৱাই"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "শত্ৰুৱে"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "চিয়োনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:07:51.941747200Z",
+  "model": "glm-5.3"
+}

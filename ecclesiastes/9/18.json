@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "যুদ্ধৰ অস্ত্ৰতকৈ প্ৰজ্ঞা উত্তম; আৰু এজন পাপীয়ে বহুত মঙ্গল নষ্ট কৰে।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "প্ৰজ্ঞা"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "অস্ত্ৰতকৈ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "যুদ্ধৰ"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "আৰু পাপীয়ে"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "নষ্ট কৰে"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "মঙ্গল"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "বহুত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:57.844813958Z",
+  "model": "glm-5.3"
+}

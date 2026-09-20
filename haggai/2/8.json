@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "মোৰেই ৰূপা আৰু মোৰেই সোণ, ইয়াহৱেহ চেভাওতৰ ঘোষণা।",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "মোৰেই"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ৰূপা"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "আৰু মোৰেই"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "সোণ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ঘোষণা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "চেভাওতৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:20:42.347137706Z",
+  "model": "glm-5.3"
+}

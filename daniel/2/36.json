@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "এইটোৱেই সেই সপোন; আৰু ইয়াৰ অৰ্থ আমি ৰজাৰ সন্মুখত কৈছোঁ।",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "এইটোৱেই"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "সেই সপোন"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "আৰু ইয়াৰ অৰ্থ"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "কৈছোঁ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "…ৰ সন্মুখত"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ৰজা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:07:12.384222794Z",
+  "model": "glm-5.3"
+}

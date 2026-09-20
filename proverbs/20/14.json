@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "“বেয়া, বেয়া” — ক্ৰেতাই ক'লে; আৰু ⟨তেওঁ⟩ গুচি গ'লে ⟨তেতিয়া⟩ নিজক ডাঙৰ কৰে।",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "רע",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "ক্ৰেতাই"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "গুচি গৈ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "নিজক ডাঙৰ কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:11.866783158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু দনীয়াসকলৰ পৰা — যুদ্ধ সজাব পৰা, আঠাইশ হাজাৰ আৰু ছশ জন।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "আৰু ... ৰ পৰা"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "দনীয়াসকলৰ"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "সজাব পৰা"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "আৰু আঠ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "আৰু ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:33.086020481Z",
+  "model": "glm-5.3"
+}

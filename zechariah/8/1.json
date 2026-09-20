@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু ইয়াহৱেহ চেভাওতৰ বাক্য হ'ল, ⟨কৈ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "চেভাওতৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T02:24:15.557321586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "জুই নিৰন্তৰ যজ্ঞকেন্দ্ৰত জ্বলি থাকিব, সি নুমুৱা নালাগে।",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "জুই"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "নিৰন্তৰ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "জ্বলি থাকিব"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "যজ্ঞকেন্দ্ৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "নুমুৱা নালাগে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:15:28.791163214Z",
+  "model": "glm-5.3"
+}

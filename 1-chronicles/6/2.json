@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু এইবোৰ গেৰেশ্বোমৰ পুতেকসকলৰ নামবোৰ: লিব্নি আৰু শ্বিমি।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আৰু এইবোৰ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "নামবোৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকলৰ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "গেৰেশ্বোমৰ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "লিব্নি"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "আৰু শ্বিমি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:17.996810066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু তুমি ব্যভিচাৰ নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ব্যভিচাৰ কৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:51:00.142123912Z",
+  "model": "glm-5.3"
+}

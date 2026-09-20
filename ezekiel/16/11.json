@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 16:11",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "মই তোমাক অলংকাৰেৰে সজালোঁ, তোমাৰ হাতত কংকণ দিলোঁ আৰু তোমাৰ ডিঙিত হাৰ পিন্ধালোঁ।",
+  "tokens": [
+    {
+      "surface": "ואעדך",
+      "gloss": "সজালোঁ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "অলংকাৰ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "দিলোঁ"
+    },
+    {
+      "surface": "צמידים",
+      "gloss": "কংকণ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ত"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "তোমাৰ হাত"
+    },
+    {
+      "surface": "ורביד",
+      "gloss": "হাৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ত"
+    },
+    {
+      "surface": "גרונך",
+      "gloss": "তোমাৰ ডিঙি"
+    }
+  ],
+  "timestamp": "2026-09-20T01:36:07.568542983Z",
+  "model": "glm-5.3"
+}

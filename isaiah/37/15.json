@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "আৰু খিজকিয়াহুৱে ইয়াহৱেহৰ আগত প্ৰাৰ্থনা কৰিলে, কৈ —",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "প্ৰাৰ্থনা কৰিলে"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "খিজকিয়াহুৱে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:45:33.914796073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু এই লিখনিটো যি লিখা হৈছিল: মেনে, মেনে, টেকেল আৰু উফাৰচিন।",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "আৰু এই"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "লিখনি"
+    },
+    {
+      "surface": "די",
+      "gloss": "যি"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "লিখা হৈছিল"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "মেনে"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "মেনে"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "টেকেল"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "আৰু উফাৰচিটোন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:05:25.638439731Z",
+  "model": "glm-5.3"
+}

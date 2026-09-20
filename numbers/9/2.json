@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "ইস্ৰায়েলৰ সন্তানসকলে নিৰ্ধাৰিত সময়ত ⟨את⟩ পেচাহ পালন কৰক;",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "পালন কৰক"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকলে"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পেচাহ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "পেচাহ"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "নিৰ্ধাৰিত সময়ত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:32:15.209129861Z",
+  "model": "glm-5.3"
+}

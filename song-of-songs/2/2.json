@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "কাঁইটবোৰৰ মাজত শেৱালি ফুলৰ দৰে, সেইদৰে মোৰ প্ৰিয়তমী ছোৱালীসকলৰ মাজত।",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "শেৱালি ফুলৰ দৰে"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "কাঁইটবোৰৰ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেইদৰে"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "মোৰ প্ৰিয়তমী"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "ছোৱালীসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:27.292270595Z",
+  "model": "glm-5.3"
+}

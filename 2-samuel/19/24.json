@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "ৰজাই শ্বিমিক ক'লে, “তুমি মৃত্যু নহ'বা”; আৰু ৰজাই তেওঁক শপত খুৱালে।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ক"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শ্বিমিক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহ'বা"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "মৃত্যু"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "শপত খুৱালে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাই"
+    }
+  ],
+  "timestamp": "2026-09-19T23:58:41.216173277Z",
+  "model": "glm-5.3"
+}

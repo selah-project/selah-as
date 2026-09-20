@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 83,
+  "translation": "এলোহিম, তুমি ⟨তোমাৰ⟩ মৌন নথাকিবা; চুপ নাথাকিবা, আৰু স্থিৰো নাথাকিবা, হে এল।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ন"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "মৌন"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "চুপ নাথাকিবা"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু ন"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "স্থিৰ নাথাকিবা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    }
+  ],
+  "timestamp": "2026-09-20T02:53:59.930756232Z",
+  "model": "glm-5.3"
+}

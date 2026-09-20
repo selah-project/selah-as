@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "অভিশপ্ত সি, যিয়ে নিজৰ সংগীৰ সীমা সলায়; আৰু সকলো লোকে ক'ব: আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "সলায়"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমা"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "নিজৰ সংগীৰ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আৰু … ক'ব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকে"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:02:21.532755601Z",
+  "model": "glm-5.3"
+}

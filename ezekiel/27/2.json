@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "আৰু তুমি, মানুহৰ পুতেক, চোৰৰ বিষয়ে এটা ক্ৰন্দন-গীত লওক।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "আৰু তুমি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "লওক"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিষয়ে"
+    },
+    {
+      "surface": "צר",
+      "gloss": "চোৰৰ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ক্ৰন্দন-গীত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:46:01.214442657Z",
+  "model": "glm-5.3"
+}

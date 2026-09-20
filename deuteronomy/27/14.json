@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "আৰু লেৱীসকলে উত্তৰ দিব আৰু ইস্ৰায়েলৰ সকলো মানুহক উচ্চ কণ্ঠেৰে ক'ব।",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "উত্তৰ দিব"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "লেৱীসকলে"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ক'ব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহক"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "কণ্ঠেৰে"
+    },
+    {
+      "surface": "רם",
+      "gloss": "উচ্চ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:01:45.201663999Z",
+  "model": "glm-5.3"
+}

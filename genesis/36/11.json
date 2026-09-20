@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "আৰু এলিফাজৰ পুতেকসকল আছিল তেমান, ওমাৰ, চেফো, গাতাম আৰু কেনাজ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আৰু ... আছিল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "এলিফাজৰ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "তেমান"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ওমাৰ"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "চেফো"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "আৰু গাতাম"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "আৰু কেনাজ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:42:58.472098910Z",
+  "model": "glm-5.3"
+}

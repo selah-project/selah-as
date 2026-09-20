@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "এজন দাসে যেতিয়া ৰাজত্ব কৰে, আৰু এজন মূৰ্খই যেতিয়া খাদ্যেৰে পৰিপূৰ্ণ হয়;",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "ৰাজত্ব কৰে"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "আৰু মূৰ্খ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "পৰিপূৰ্ণ হয়"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "খাদ্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:07.930107379Z",
+  "model": "glm-5.3"
+}

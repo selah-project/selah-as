@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "খোৰমাহৰ ৰজা এজন; আৰাদৰ ৰজা এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "খোৰমাহৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "আৰাদৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:26.160987026Z",
+  "model": "glm-5.3"
+}

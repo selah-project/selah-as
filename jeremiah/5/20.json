@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "এই কথা য়াকোভৰ ঘৰত ঘোষণা কৰা, আৰু ইয়াক য়েহূদাত শুনাই দিয়া, কৈ —",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "ঘোষণা কৰা"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এই কথা"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ঘৰত"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভৰ"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "আৰু শুনাই দিয়া"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "য়েহূদাত"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:00:49.893469521Z",
+  "model": "glm-5.3"
+}

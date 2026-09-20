@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "বতাহে দক্ষিণ ফালে বয়, আৰু উত্তৰ ফালে ঘূৰি যায়; ঘূৰি ঘূৰি বতাহে বয়, আৰু নিজৰ পৰিক্ৰমাবোৰত বতাহে ঘূৰি আহে।",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "বয়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ফালে"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "দক্ষিণ"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "আৰু ঘূৰি যায়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ফালে"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "উত্তৰ"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "ঘূৰি"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ঘূৰি"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "বয়"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "বতাহে"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ত"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "নিজৰ পৰিক্ৰমাবোৰ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ঘূৰি আহে"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "বতাহে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:21.348756218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "নফতালি ⟨is⟩ মুক্ত হোৱা এটা হৰিণী — সুন্দৰ কথাবোৰ দিয়ে।",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "নফতালি"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "হৰিণী"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "মুক্ত হোৱা"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "দিয়ে"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "সুন্দৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:51:37.007863720Z",
+  "model": "glm-5.3"
+}

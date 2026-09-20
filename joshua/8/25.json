@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু সেই দিনা পৰা মানুহৰ পৰা নাৰীলৈকে সকলো পতিত হোৱাসকল বাৰ হাজাৰ — হায়িৰ সকলো মানুহ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু ⟨হ'ল⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "পতিত হোৱাসকল"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "মানুহৰ পৰা"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "আৰু লৈকে"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "নাৰী"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বাৰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "হায়িৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:10:20.492900420Z",
+  "model": "glm-5.3"
+}

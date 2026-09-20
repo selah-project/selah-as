@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু তুমি তোমাৰ সহযোগীৰ বিৰুদ্ধে মিছা সাক্ষী নিদিবা।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "সাক্ষী দিবা"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "তোমাৰ সহযোগীৰ বিৰুদ্ধে"
+    },
+    {
+      "surface": "עד",
+      "gloss": "সাক্ষী"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "মিছা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:51:00.142310474Z",
+  "model": "glm-5.3"
+}

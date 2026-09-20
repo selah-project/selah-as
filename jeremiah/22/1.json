@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "এইদৰে ইয়াহৱেহে ক'লে: যিহূদাৰ ৰজাৰ ঘৰলৈ নামি যোৱা, আৰু তাত ⟨את⟩ এই কথা ক'বা।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "רד",
+      "gloss": "নামি যোৱা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদাৰ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "আৰু ক'বা"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই কথা"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-20T01:08:56.517213690Z",
+  "model": "glm-5.3"
+}

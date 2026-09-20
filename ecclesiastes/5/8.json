@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু পৃথিৱীৰ লাভ সকলোৰো ⟨কাৰণে⟩; ⟨আৰু⟩ ৰজাও খেতি-পথাৰৰ অধীন ⟨হয়⟩।",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "আৰু লাভ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সকলোৰো"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সি ⟨এ⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাও"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "খেতি-পথাৰৰ কাৰণে"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "সেৱিত হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:59:00.194204561Z",
+  "model": "glm-5.3"
+}

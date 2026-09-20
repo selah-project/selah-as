@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "কিয়নো বহুতো কথাই হেবেল বঢ়ায়; মানুহৰ বাবে ⟨অতিৰিক্ত⟩ লাভ কি?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "বহুতো"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "বঢ়ায়"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "মানুহৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:37.494308481Z",
+  "model": "glm-5.3"
+}

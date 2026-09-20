@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু যদি সেইটো শয্যাতে থাকে, বা যি সামগ্ৰীৰ ওপৰত তাই বহে তাতে থাকে, কোনোবাই তাত হাত দিলে সেই লোক সন্ধিয়ালৈকে অশুচি হ'ব।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "শয্যা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইটো"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "সামগ্ৰী"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তাই"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "বহে"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তাৰ ওপৰত"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "হাত দিলে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "অশুচি হ'ব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "সন্ধিয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T22:21:00.362497290Z",
+  "model": "glm-5.3"
+}

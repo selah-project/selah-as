@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "ভগা দাঁত আৰু খোজ কাঢ়িব নোৱাৰা ভৰি — বিপদৰ দিনত বিশ্বাসঘাতকৰ ওপৰত ভৰসা।",
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "দাঁত"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ভগা"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "আৰু ভৰি"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "খোজ কাঢ়িব নোৱাৰা"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ভৰসা"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "বিশ্বাসঘাতকৰ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "বিপদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:27.529618908Z",
+  "model": "glm-5.3"
+}

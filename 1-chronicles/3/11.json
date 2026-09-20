@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁৰ পুতেক য়োৰাম, তেওঁৰ পুতেক অহযিয়াহু, তেওঁৰ পুতেক য়োৱাচ।",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "য়োৰাম"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "অহযিয়াহু"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "য়োৱাচ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:10.751013326Z",
+  "model": "glm-5.3"
+}

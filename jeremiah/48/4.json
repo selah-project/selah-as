@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "মোৱাব ভাঙি পৰিল; তাৰ সৰু ল'ৰাছোৱাবোৰে চিঞৰ শুনুৱালে।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ভাঙি পৰিল"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোৱাব"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "শুনুৱালে"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "চিঞৰ"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "তাৰ সৰু ল'ৰাছোৱাবোৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:24:05.567976974Z",
+  "model": "glm-5.3"
+}

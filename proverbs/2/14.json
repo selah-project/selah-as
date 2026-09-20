@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "যিসকলে মন্দ কৰিবলৈ আনন্দ কৰে, মন্দতাৰ বাঁক মৰাত উল্লাস কৰে।",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "যিসকলে আনন্দ কৰে"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "কৰিবলৈ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "উল্লাস কৰে"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "বাঁক মৰাত"
+    },
+    {
+      "surface": "רע",
+      "gloss": "মন্দতাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:51.874399206Z",
+  "model": "glm-5.3"
+}

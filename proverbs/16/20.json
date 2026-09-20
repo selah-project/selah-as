@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "কোনো কথাত বুদ্ধিমান জনে মংগল পায়, আৰু ইয়াহৱেহত ভৰসা কৰাজন ধন্য।",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "বুদ্ধিমান জনে"
+    },
+    {
+      "surface": "על",
+      "gloss": "কোনো কথাত"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথাত"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "পায়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "মংগল"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "আৰু ভৰসা কৰাজন"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ইয়াহৱেহত"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "ধন্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:46.384731443Z",
+  "model": "glm-5.3"
+}

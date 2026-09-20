@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 94,
+  "translation": "উঠি আহক, পৃথিৱীৰ বিচাৰক; দম্ভীসকলক ⟨তেওঁলোকৰ⟩ প্ৰতিফল ঘূৰাই দিয়ক।",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "উঠি আহক"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "বিচাৰক"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ঘূৰাই দিয়ক"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "প্ৰতিফল"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ক"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "দম্ভীসকল"
+    }
+  ],
+  "timestamp": "2026-09-20T02:57:43.393334307Z",
+  "model": "glm-5.3"
+}

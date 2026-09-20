@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু যি কোনো মুকলি পাত্ৰ, যাৰ ওপৰত সূতাৰে বান্ধা ঢাকনি নাই, সেয়া অশুদ্ধ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আৰু যি কোনো"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "পাত্ৰ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "মুকলি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাৰ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "ঢাকনি"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "সূতাৰে"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "অশুদ্ধ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T22:39:53.479815606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু এই কথাটো পাপ হৈ পৰিল, আৰু জনসাধাৰণ এটাৰ আগত দানলৈকে গ'ল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হৈ পৰিল"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথাটো"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "পাপ হিচাপে"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "আৰু গ'ল"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনসাধাৰণ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "এটাৰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    }
+  ],
+  "timestamp": "2026-09-20T00:10:31.513703228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "মৰুভূমিৰ তৰোৱালৰ মুখত আমাৰ প্ৰাণেৰে আমি আমাৰ ভাত আনিলোঁ।",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "আমাৰ প্ৰাণেৰে"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "আনিলোঁ"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "আমাৰ ভাত"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "মুখত"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "তৰোৱালৰ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "মৰুভূমিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:43.833932879Z",
+  "model": "glm-5.3"
+}

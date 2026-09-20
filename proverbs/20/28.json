@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "হেচেদ আৰু সত্যই ৰজাক ৰক্ষা কৰে, আৰু হেচেদেৰে সিংহাসন ⟨ধৰি ৰখা হয়⟩।",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "হেচেদ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "আৰু সত্যই"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ৰক্ষা কৰে"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাক"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "ধৰি ৰখা হয়"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "হেচেদেৰে"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "সিংহাসন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:10.954633242Z",
+  "model": "glm-5.3"
+}

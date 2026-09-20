@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "জ্ঞানী ৰজাই দুষ্টসকলক মৰণ কৰায়, আৰু সিহতৰ ওপৰত চকাখন ঘূৰাই আনে।",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "মৰণ কৰায়"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলক"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ঘূৰাই আনে"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "সিহতৰ ওপৰত"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "চকাখন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:10.953316696Z",
+  "model": "glm-5.3"
+}

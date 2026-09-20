@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "দুষ্টৰ অহাতে অৱজ্ঞাও আহে, আৰু লজ্জাৰ লগত অপমান ⟨আহে⟩।",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "অহাতে"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্টৰ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহে"
+    },
+    {
+      "surface": "גם",
+      "gloss": "অলেও"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "অৱজ্ঞা"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "আৰু ... লগত"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "লজ্জাৰ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "অপমান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:31.759701282Z",
+  "model": "glm-5.3"
+}

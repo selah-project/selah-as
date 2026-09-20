@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "শাৰাই আছিল বন্ধ্যা; তাইৰ ⟨সন্তান আছিল⟩ নোৱাৰা।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "শাৰাই"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "বন্ধ্যা"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাইৰ"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "সন্তান"
+    }
+  ],
+  "timestamp": "2026-09-19T21:30:43.679838446Z",
+  "model": "glm-5.3"
+}

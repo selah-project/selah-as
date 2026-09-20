@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু তুমি ইস্ৰায়েলৰ নেতাসকলৰ বিষয়ে এক ক্ৰন্দন-গীত লওক।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "আৰু তুমি"
+    },
+    {
+      "surface": "שא",
+      "gloss": "লওক"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ক্ৰন্দন-গীত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨বিষয়ে⟩"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "নেতাসকলৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:38:56.266457104Z",
+  "model": "glm-5.3"
+}

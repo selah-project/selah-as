@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "বানিৰ পুত্ৰসকলৰ পৰা: মাআদাই, আমৰাম, আৰু ঊএল।",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "পুত্ৰসকলৰ পৰা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বানিৰ"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "মাআদাই"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "আমৰাম"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "আৰু ঊএল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:15:56.996961417Z",
+  "model": "glm-5.3"
+}

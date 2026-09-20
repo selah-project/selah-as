@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু একেলগে সিহঁত নিৰ্বোধ আৰু মূৰ্খ; শূন্যতাসমূহৰ শিক্ষা — সেয়া কাঠ।",
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "আৰু একেলগে"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "নিৰ্বোধ"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "আৰু মূৰ্খ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শিক্ষা"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "শূন্যতাসমূহৰ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "কাঠ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T01:01:55.803433967Z",
+  "model": "glm-5.3"
+}

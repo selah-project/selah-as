@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "নিজৰ হৃদয়ত ভৰষা কৰাজন মূৰ্খ, আৰু জ্ঞানত খোজ কঢ়াজন ৰক্ষা পায়।",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "ভৰষা কৰাজন"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "নিজৰ হৃদয়ত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইজন"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "মূৰ্খ"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "আৰু খোজ কঢ়াজন"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "জ্ঞানত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইজন"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ৰক্ষা পায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:56.002390894Z",
+  "model": "glm-5.3"
+}

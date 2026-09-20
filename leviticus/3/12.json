@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু যদি তেওঁৰ উৎসৰ্গ ছাগলী হয়, তেওঁ ইয়াক ইয়াহৱেহৰ সন্মুখত আগবঢ়াইব।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ছাগলী"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "তেওঁৰ উৎসৰ্গ"
+    },
+    {
+      "surface": "והקרি঑ו",
+      "gloss": "আগবঢ়াইব"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:13:32.401528243Z",
+  "model": "glm-5.3"
+}

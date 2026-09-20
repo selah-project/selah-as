@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 85,
+  "translation": "ইয়াহৱেহেও মঙ্গল ⟨দিব⟩, আৰু আমাৰ দেশে নিজৰ ফচল দিব।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "দিব"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "মঙ্গল"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "আৰু আমাৰ দেশে"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "দিব"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "নিজৰ ফচল"
+    }
+  ],
+  "timestamp": "2026-09-20T02:54:25.711545896Z",
+  "model": "glm-5.3"
+}

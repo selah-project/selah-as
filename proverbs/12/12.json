@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "দুষ্টজনে মন্দসকলৰ জাল কামনা কৰে, আৰু ধাৰ্মিকসকলৰ শিপাই ⟨ফল⟩ দিয়ে।",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "কামনা কৰে"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্টজনে"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "জাল"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "মন্দসকলৰ"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "আৰু শিপা"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ধাৰ্মিকসকলৰ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "দিয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:18:29.771282874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 44,
+  "translation": "তুমিয়েই মোৰ ৰজা, হে এলোহিম; য়াকোৱৰ মুক্তিসমূহ আদেশ কৰা।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "একেই"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "মোৰ ৰজা"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "আদেশ কৰা"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "মুক্তিসমূহ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোৱ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:40:55.835227179Z",
+  "model": "glm-5.3"
+}

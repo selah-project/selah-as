@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "পুৱাতি হ'ল, আৰু দাৱিদে য়োৱাবলৈ এখন চিঠি লিখিলে আৰু ঊৰিয়াৰ হাতত পঠালে।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "পুৱাতি"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "লিখিলে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "চিঠি"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "য়োৱাব"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "পঠালে"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতত"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ऊৰিয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T23:53:18.194452242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "নিতল মই, অপৰাধ অবিহনে; নিৰ্দোষ মই, আৰু মোৰ কোনো অন্যায় নাই।",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "নিতল"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "অবিহনে"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "অপৰাধ"
+    },
+    {
+      "surface": "חף",
+      "gloss": "নিৰ্দোষ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু … নাই"
+    },
+    {
+      "surface": "עון",
+      "gloss": "অন্যায়"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:41:09.890987454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "টানি থোৱা আশাই হৃদয়ক অসুস্থ কৰে, আৰু আহি পোৱা কামনা ⟨হয়⟩ জীৱনৰ গছ।",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "আশা"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "টানি থোৱা"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "অসুস্থ কৰে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ক"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "আৰু গছ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱনৰ"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "কামনা"
+    },
+    {
+      "surface": "באה",
+      "gloss": "আহি পোৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:18:29.891595255Z",
+  "model": "glm-5.3"
+}

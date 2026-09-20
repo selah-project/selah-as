@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 83,
+  "translation": "তেওঁলোক এইন-দ'ৰত ধ্বংস হ'ল; তেওঁলোক মাটিৰ বাবে সাৰ হ'ল।",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "ধ্বংস হ'ল"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "...ত"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "এইন-দ'ৰ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "সাৰ"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "মাটিৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:53:08.993653036Z",
+  "model": "glm-5.3"
+}

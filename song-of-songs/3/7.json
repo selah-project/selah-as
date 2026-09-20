@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "চাওক, সেই শ্বেলোমোৰ পাল্কি; ষাঠি বীৰে তাৰ চাৰিওফালে আছে, য়িচ্ৰাএলৰ বীৰসকলৰ মাজৰ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "তাৰ পাল্কি"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "শ্বেলোমোৰ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ষাঠি"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "বীৰে"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "চাৰিওফালে"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাৰ"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "বীৰসকলৰ মাজৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িচ্ৰাএলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:47.461010379Z",
+  "model": "glm-5.3"
+}

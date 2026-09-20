@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 23:29",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "কাৰ হাহাকাৰ? কাৰ দুখ? কাৰ বিবাদ? কাৰ অভিযোগ? কাৰ অকাৰণ ঘা? কাৰ চকু ৰঙা হোৱা?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "কাৰ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "হাহাকাৰ"
+    },
+    {
+      "surface": "למי",
+      "gloss": "কাৰ"
+    },
+    {
+      "surface": "אבוי",
+      "gloss": "দুখ"
+    },
+    {
+      "surface": "למי",
+      "gloss": "কাৰ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "বিবাদ"
+    },
+    {
+      "surface": "למי",
+      "gloss": "কাৰ"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "অভিযোগ"
+    },
+    {
+      "surface": "למי",
+      "gloss": "কাৰ"
+    },
+    {
+      "surface": "פצעים",
+      "gloss": "ঘা"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "অকাৰণ"
+    },
+    {
+      "surface": "למי",
+      "gloss": "কাৰ"
+    },
+    {
+      "surface": "חכללות",
+      "gloss": "ৰঙা হোৱা"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "চকু"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:19.503693922Z",
+  "model": "glm-5.3"
+}

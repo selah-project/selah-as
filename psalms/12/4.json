@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "ইয়াহৱেহে কাটি পেলাওক সকলো চিকন ওঁঠ, ডাঙৰ কথা কোৱা জিভাখন।",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "কাটি পেলাওক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "চিকন"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভা"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "কোৱা"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ডাঙৰ কথা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:31:39.017004866Z",
+  "model": "glm-5.3"
+}

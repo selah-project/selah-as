@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "আৰু এতিয়া, মোৰ পুতেক, মই তোমাক ⟨את⟩ যি আদেশ দিওঁ, সেইমতে মোৰ কথা শুনা।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "আৰু এতিয়া"
+    },
+    {
+      "surface": "בני",
+      "gloss": "মোৰ পুতেক"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "মোৰ কথা"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "সেইমতে যি"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "আদেশ দিওঁ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ তোমাক",
+      "marks": "তোমাক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:38:22.073024811Z",
+  "model": "glm-5.3"
+}

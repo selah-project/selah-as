@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আমাৰ মূৰৰ মুকুট সৰি পৰিল; হায়, আমাৰ বাবে ⟨এতিয়া⟩, কিয়না আমি পাপ কৰিলোঁ!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "সৰি পৰিল"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "মুকুট"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "আমাৰ মূৰৰ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "হায়"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨এতিয়া⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাৰ বাবে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়না"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "আমি পাপ কৰিলোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:38.256174707Z",
+  "model": "glm-5.3"
+}

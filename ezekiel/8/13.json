@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 8:13",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "তেওঁ মোৰ ওচৰতে ক'লে, “তুমি পুনৰ ঘূৰি গ'লে তেওঁলোকে কৰা তাৰোকৈও ডাঙৰ ঘৃণাসকল দেখিবা।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰতে"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "পুনৰ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ঘূৰি যাবা"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "দেখিবা"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ঘৃণাসকল"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "המה",
+      "gloss": "তেওঁলোকে"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:33:59.467613022Z",
+  "model": "glm-5.3"
+}

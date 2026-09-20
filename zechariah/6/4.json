@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "মই উত্তৰ দি মোৰ লগত কথা পতাজন দূতক সুধিলোঁ, “এইবোৰ কি, মোৰ আদোনাই?”",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "উত্তৰ দিলোঁ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আৰু ক'লোঁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ক"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "দূত"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথা পতাজন"
+    },
+    {
+      "surface": "בי",
+      "gloss": "মোৰ লগত"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "মোৰ আদোনাই"
+    }
+  ],
+  "timestamp": "2026-09-20T02:23:34.834438312Z",
+  "model": "glm-5.3"
+}

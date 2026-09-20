@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "আৰু ⟨ואת⟩ হোম-বেদী আৰু ⟨ואת⟩ তাৰ সকলো পাত্ৰ, আৰু ⟨ואת⟩ জলাধাৰ আৰু ⟨ואת⟩ তাৰ আধাৰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "হোম-বেদী"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "বেদী"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "হোম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "সকলো পাত্ৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "পাত্ৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "জলাধাৰ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "জলাধাৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "তাৰ আধাৰ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "আধাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:07:06.081470004Z",
+  "model": "glm-5.3"
+}

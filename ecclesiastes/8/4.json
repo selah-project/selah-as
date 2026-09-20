@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "যিঠাইত ৰজাৰ বাক্য ⟨আছে⟩, তাত ক্ষমতা; আৰু কোনে তেওঁক ক'ব, “তুমি কি কৰিছা?”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "যিঠাইত"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ক্ষমতা"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "আৰু কোনে"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ক'ব"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "কৰিছা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:03.288513068Z",
+  "model": "glm-5.3"
+}

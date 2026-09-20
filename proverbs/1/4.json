@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "সৰলমনা লোকক বিচক্ষণতা দিবলৈ, ডেকালোকক জ্ঞান আৰু বিবেচনা দিবলৈ।",
+  "tokens": [
+    {
+      "surface": "লתת",
+      "gloss": "দিবলৈ"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "সৰলমনা লোকক"
+    },
+    {
+      "surface": "ערমה",
+      "gloss": "বিচক্ষণতা"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ডেকালোকক"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "আৰু বিবেচনা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:08.191897867Z",
+  "model": "glm-5.3"
+}

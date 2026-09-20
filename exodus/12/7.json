@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু তেজৰ পৰা ⟨some⟩ লৈ দুয়োখন খুঁটি আৰু ওপৰৰ দলঙত লগাব, যিবোৰ ঘৰত সেইটো ⟨אתו⟩ খোৱা হ'ব সেই ঘৰবোৰত।",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "আৰু ল'ব"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "তেজৰ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "আৰু লগাব"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "দুয়োখন"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "খুঁটি"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু ওপৰত"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "ওপৰৰ দলং"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ঘৰবোৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিবোৰ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "খাব"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "সেইটো ⟨পশুটো⟩"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "সেইবোৰত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:57:39.656177555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 72,
+  "translation": "শেষ হ'ল দাৱিদৰ, য়িশ্বয়ৰ পুত্ৰৰ, প্ৰাৰ্থনাসমূহ।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "শেষ হ'ল"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "প্ৰাৰ্থনাসমূহ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "য়িশ্বয়ৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:49:17.449169473Z",
+  "model": "glm-5.3"
+}

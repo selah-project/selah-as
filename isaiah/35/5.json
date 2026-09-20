@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "তেতিয়া অন্ধসকলৰ চকু মুকলি হ'ব, আৰু বধিৰসকলৰ কাণ খুলি যাব।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "মুকলি হ'ব"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "চকু"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "অন্ধসকলৰ"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "আৰু কাণ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "বধিৰসকলৰ"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "খুলি যাব"
+    }
+  ],
+  "timestamp": "2026-09-20T00:45:39.847127404Z",
+  "model": "glm-5.3"
+}

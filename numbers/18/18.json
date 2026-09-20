@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 18:18",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু সিহতৰ মাংস তোমাৰ হ'ব — দোলন-বক্ষৰ দৰে আৰু সোঁ-উৰুৰ দৰে তোমাৰ হ'ব।",
+  "tokens": [
+    {
+      "surface": "ובשרם",
+      "gloss": "আৰু সিহতৰ মাংস"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ"
+    },
+    {
+      "surface": "כחזה",
+      "gloss": "বক্ষৰ দৰে"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "দোলন"
+    },
+    {
+      "surface": "וכשוק",
+      "gloss": "আৰু উৰুৰ দৰে"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "সোঁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:38:31.229644624Z",
+  "model": "glm-5.3"
+}

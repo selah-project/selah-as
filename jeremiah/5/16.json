@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "তাৰ কাঁড়-বাকচ মুকলি কবৰৰ দৰে; সিহঁত সকলোেই বলৱান যোদ্ধা।",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "তাৰ কাঁড়-বাকচ"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "কবৰৰ দৰে"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "মুকলি"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "সিহঁত সকলোেই"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "বলৱান যোদ্ধা"
+    }
+  ],
+  "timestamp": "2026-09-20T01:00:16.289960187Z",
+  "model": "glm-5.3"
+}

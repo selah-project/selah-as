@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "মই কাক অভিশাপ দিম? এলে অভিশাপ দিয়া নাই। মই কাক গালি দিম? ইয়াহৱেহে গালি দিয়া নাই।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কাক"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "অভিশাপ দিম"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "অভিশাপ দিয়া"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এলে"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "আৰু কাক"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "গালি দিম"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "গালি দিয়া"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:42:07.250830326Z",
+  "model": "glm-5.3"
+}

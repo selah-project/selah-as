@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 36:6",
+  "book": "job",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "তেওঁ দুষ্টক জীৱিত নৰাখে, আৰু দুখীয়াসকলক ⟨their⟩ ন্যায় দিয়ে।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "জীৱিত ৰাখে"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্ট"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "আৰু ন্যায়"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "দুখীয়াসকলৰ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "দিয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:43:37.373813095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "গিলিয়াদত মলম নাইনে? তাত ৰোগ নিৰাময় কৰা নাই নেকি? তেন্তে কিয় মোৰ প্ৰজাৰ জীয়েকৰ আৰোগ্য উঠা নাই?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "মলম"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "গিলিয়াদত"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নেকি"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ৰোগ নিৰাময় কৰা"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "তেন্তে"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "উঠা"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "আৰোগ্য"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েকৰ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "মোৰ প্ৰজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:02:05.280567864Z",
+  "model": "glm-5.3"
+}

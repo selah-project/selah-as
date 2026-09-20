@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "আৰু তেওঁ দূত পঠালে ইচ্ৰাএলৰ ৰজা আখাৱৰ ওচৰলৈ, চহৰখনলৈ।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "পঠালে"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "দূতসকলক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "আখাৱ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইচ্ৰাএল"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "চহৰখনলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:15:30.390428812Z",
+  "model": "glm-5.3"
+}

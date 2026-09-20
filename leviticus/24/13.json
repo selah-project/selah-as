@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "তাৰ পাছত ইয়াহৱেহে মোশ্বেক ক'লে, এইদৰে কৈ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "প্ৰতি"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এইদৰে কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:25:58.600773211Z",
+  "model": "glm-5.3"
+}

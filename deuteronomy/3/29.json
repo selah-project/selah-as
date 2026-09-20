@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু আমি বেইত পে'অৰৰ সন্মুখত ⟨উপত্যকাত⟩ বাস কৰিলোঁ।",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "আৰু বাস কৰিলোঁ"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "⟨উপত্যকাত⟩"
+    },
+    {
+      "surface": "מול",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "পে'অৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:50:38.421536743Z",
+  "model": "glm-5.3"
+}

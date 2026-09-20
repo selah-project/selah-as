@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "আৰু কচিয়া পাঁচশ, পবিত্ৰ শিকল অনুসৰি, আৰু জলফাইৰ তেল এক হিন।",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "আৰু কচিয়া"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "শিকল অনুসৰি"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "পবিত্ৰ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "আৰু তেল"
+    },
+    {
+      "surface": "זית",
+      "gloss": "জলফাইৰ"
+    },
+    {
+      "surface": "הין",
+      "gloss": "এক হিন"
+    }
+  ],
+  "timestamp": "2026-09-19T22:06:33.126791317Z",
+  "model": "glm-5.3"
+}

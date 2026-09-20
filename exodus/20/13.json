@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "তুমি হত্যা নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "হত্যা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:59:58.685949431Z",
+  "model": "glm-5.3"
+}

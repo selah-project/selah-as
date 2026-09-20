@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "এইটো ⟨হৈছে⟩ জন্তু যিবোৰ তোমালোকে খাব পাৰা: গৰু, ভেড়াৰ পোৱালি আৰু ছাগলীৰ পোৱালি।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "জন্তু"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিবোৰ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "তোমালোকে খাব পাৰা"
+    },
+    {
+      "surface": "שור",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "שה",
+      "gloss": "পোৱালি"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ভেড়াৰ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "আৰু পোৱালি"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ছাগলীৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:55:47.801298282Z",
+  "model": "glm-5.3"
+}

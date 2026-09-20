@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ক্ৰোধেৰে তুমি ঢাকিলা আৰু আমাক খেদিলা; মাৰিলা, দয়া কৰা নাই।",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "ঢাকিলা"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ক্ৰোধেৰে"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "আৰু আমাক খেদিলা"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "মাৰিলা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "দয়া কৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:54.421552623Z",
+  "model": "glm-5.3"
+}

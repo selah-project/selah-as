@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু হাফৰায়িম, আৰু চিয়োন, আৰু আনাহাৰত।",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "আৰু হাফৰায়িম"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "আৰু চিয়োন"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "আৰু আনাহাৰত"
+    }
+  ],
+  "timestamp": "2026-09-19T23:16:35.422192418Z",
+  "model": "glm-5.3"
+}

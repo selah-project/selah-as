@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "কিয়নো ভাঁহৰৰ জুইৰ ফটফটনি কেৰাহীৰ তলত যেন, তেনেকৈ নিৰ্বোধৰ হাঁহি; আৰু এইটোও হেবেল।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "যেন"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "ভাঁহৰৰ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "কেৰাহীৰ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেনেকৈ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "হাঁহি"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "নিৰ্বোধৰ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "আৰু"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এইটোও"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:23.116650179Z",
+  "model": "glm-5.3"
+}

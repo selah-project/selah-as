@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু আভ্ৰাহামে ক'লে, “মই শপত কৰিম।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্ৰাহামে"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "শপত কৰিম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:35:22.265405223Z",
+  "model": "glm-5.3"
+}

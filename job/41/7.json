@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 41:7",
+  "book": "job",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "গৰ্ব ⟨হৈছে⟩ ঢালসমূহৰ শাৰীবোৰ, খৰাহী মোহৰৰ দৰে বন্ধ।",
+  "tokens": [
+    {
+      "surface": "גאוה",
+      "gloss": "গৰ্ব"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "শাৰীবোৰ"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "ঢালসমূহৰ"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "বন্ধ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "মোহৰৰ দৰে"
+    },
+    {
+      "surface": "צר",
+      "gloss": "খৰাহী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:46:13.061966814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 148,
+  "translation": "পৰ্বতবোৰ আৰু সকলো পাহাৰ, ফলজাত গছ আৰু সকলো দেৱদাৰু ⟨গছ⟩,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "পৰ্বতবোৰ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "পাহাৰ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "গছ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ফল"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "দেৱদাৰু"
+    }
+  ],
+  "timestamp": "2026-09-20T03:11:34.334096167Z",
+  "model": "glm-5.3"
+}

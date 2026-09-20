@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু হেলাহৰ পুতেকসকল আছিল চেৰেত, য়িৎচহাৰ আৰু এৎনান।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "হেলাহৰ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "চেৰেত"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "য়িৎচহাৰ"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "আৰু এৎনান"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:22.766062843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 104,
+  "translation": "তুমি অন্ধকাৰ কৰা, আৰু ৰাতি হ'ল; তাৰ মাজত অৰণ্যৰ সকলো জন্তু ঘূৰি ফুৰে।",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "তুমি … কৰা"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "অন্ধকাৰ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাৰ মাজত"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ঘূৰি ফুৰে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "জন্তু"
+    },
+    {
+      "surface": "יער",
+      "gloss": "অৰণ্যৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:23:57.411332651Z",
+  "model": "glm-5.3"
+}

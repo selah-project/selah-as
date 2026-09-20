@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "বাবিলৰ বোজা, যি য়েশ্বায়াহুৱে — আমোৎৰ পুতেকে — দেখিছিল।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "বোজা"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাবিলৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "দেখিছিল"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "য়েশ্বায়াহুৱে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেকে"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "আমোৎৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:37:18.683538917Z",
+  "model": "glm-5.3"
+}

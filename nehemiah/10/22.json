@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মেচেজাবএল, চাদোক, য়াদ্দুৱা।",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "মেচেজাবএল"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "চাদোক"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "য়াদ্দুৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:18.525126859Z",
+  "model": "glm-5.3"
+}

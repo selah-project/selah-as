@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "শুদ্ধ যিকোনো চৰাই তোমালোকে খাব পাৰা।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "যিকোনো"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "চৰাই"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "শুদ্ধ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "খাব পাৰা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:55:45.004606849Z",
+  "model": "glm-5.3"
+}

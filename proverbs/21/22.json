@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "বীৰসকলৰ নগৰত ⟨এজন⟩ জ্ঞানীয়ে উঠি গৈ তাৰ ভৰষাৰ শক্তি ভাঙি পেলায়।",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "বীৰসকলৰ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "উঠি গৈ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ভাঙি পেলায়"
+    },
+    {
+      "surface": "עז",
+      "gloss": "শক্তি"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "তাৰ ভৰষাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:55.845586757Z",
+  "model": "glm-5.3"
+}

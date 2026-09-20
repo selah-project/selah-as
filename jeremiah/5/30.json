@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আচৰিত আৰু ভয়ংকৰ বিষয় ⟨এটা⟩ দেশত ঘটিল।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ভয়ংকৰ ধ্বংস"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "আৰু আচৰিত বিভীষিকা"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ঘটিল"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:00:26.115750488Z",
+  "model": "glm-5.3"
+}

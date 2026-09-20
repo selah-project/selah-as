@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "এলে ⟨আমাক⟩ বলেৰে মোৰ কঁকাল বান্ধে, আৰু মোৰ পথ ⟨⟨নিষ্কলংক⟩⟩ কৰে।",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "এলে"
+    },
+    {
+      "surface": "המאזרনי",
+      "gloss": "মোৰ কঁকাল বান্ধে"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "বলেৰে"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "কৰে"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "নিষ্কলংক"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "মোৰ পথ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:33:24.154802624Z",
+  "model": "glm-5.3"
+}

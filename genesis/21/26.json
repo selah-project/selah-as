@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু আবিমেলেকে ক'লে, “মই নাজানোঁ এই কাৰ্য ⟨את⟩ কোনে কৰিলে; তুমিয়ো মোক নক'লা, আৰু মইও আজিলৈকে নুশুনিলোঁ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "আবিমেলেকে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "জানোঁ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই কাৰ্য"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কাৰ্য"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "আৰু…ও"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমিয়ো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ক'লা"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "আৰু…ও"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মইও"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "শুনিলোঁ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:34:54.595944998Z",
+  "model": "glm-5.3"
+}

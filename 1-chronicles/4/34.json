@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু মেশোবাব, আৰু য়ামলেখ, আৰু আমৎচিয়াহৰ পুতেক য়োশ্বাহ।",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "আৰু মেশোবাব"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "আৰু য়ামলেচ"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "আৰু য়োশ্বাহ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "আমৎচিয়াহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:38.561381743Z",
+  "model": "glm-5.3"
+}

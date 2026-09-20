@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "আৰু ৰাহেল মৰিল, আৰু এফ্ৰাতাৰ পথত — সেইটোৱেই বেতলেহেম — তাইক কবৰ দিয়া হ'ল।",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "আৰু মৰিল"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ৰাহেল"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "কবৰ দিয়া হ'ল"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথত"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "এফ্ৰাতাৰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইটোৱেই"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেত"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "লেহেম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:08.067354666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আতংক আৰু ফান্দ ⟨আমাৰ ভাগ্য⟩ হ'ল — ধ্বংস আৰু ভাঙন।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "আতংক"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "আৰু ফান্দ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨আমাৰ ভাগ্য⟩"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "ধ্বংস"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "আৰু ভাঙন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:45.067093422Z",
+  "model": "glm-5.3"
+}

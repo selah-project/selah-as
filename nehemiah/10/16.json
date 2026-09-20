@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "বুন্নি, অজগদ, বেভাই।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "বুন্নি"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "অজগদ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "বেভাই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:40.323751624Z",
+  "model": "glm-5.3"
+}

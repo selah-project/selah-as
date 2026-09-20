@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "আৰু তেওঁৰ প্ৰসৱৰ সময় হ'লতে, চাওক, তেওঁৰ গৰ্ভত যমজ ⟨আছিল⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "সময়ত"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "তেওঁৰ প্ৰসৱ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চাওক"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "যমজ"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "তেওঁৰ গৰ্ভত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:45:35.110233505Z",
+  "model": "glm-5.3"
+}

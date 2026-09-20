@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 127,
+  "translation": "চাওক, পুতেকসকল ইয়াহৱেহৰ উত্তৰাধিকাৰ, গৰ্ভৰ ফল ⟨এয়া⟩ প্ৰতিদান।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "উত্তৰাধিকাৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "প্ৰতিদান"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ফল"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "গৰ্ভৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:08:32.904553338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু মই সেই সময়ত ইয়াহৱেহৰ ওচৰত অনুগ্ৰহ বিচাৰি প্ৰাৰ্থনা কৰিলোঁ, ক'লোँ।",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "অনুগ্ৰহ বিচাৰি প্ৰাৰ্থনা কৰিলোঁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ ওচৰত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "সেই সময়ত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'লোँ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:44.014273119Z",
+  "model": "glm-5.3"
+}

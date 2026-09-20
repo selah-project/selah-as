@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "দৈৱবাণী ৰজাৰ ওঁঠত ⟨আছে⟩; ন্যায়ত তেওঁৰ মুখ বিশ্বাসঘাতকতা নকৰে।",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "দৈৱবাণী"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ওঁঠত"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ন্যায়ত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "বিশ্বাসঘাতকতা নকৰে"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "তেওঁৰ মুখ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:29.909916859Z",
+  "model": "glm-5.3"
+}

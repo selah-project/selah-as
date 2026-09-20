@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "মই চাৰোনৰ গোলাপ, উপত্যকাসমূহৰ শেৱালি।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "গোলাপ"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "চাৰোনৰ"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "শেৱালি"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "উপত্যকাসমূহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:27.289459878Z",
+  "model": "glm-5.3"
+}

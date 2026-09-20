@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আৰু চেতৰ পুত্ৰসকলে ⟨את⟩ আভ্ৰাহামক উত্তৰ দিলে, তেওঁক এই বুলি কৈ।",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "আৰু উত্তৰ দিলে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকলৰ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "চেতৰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আভ্ৰাহামক"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্ৰাহামক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বুলি কৈ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:36:19.204403797Z",
+  "model": "glm-5.3"
+}

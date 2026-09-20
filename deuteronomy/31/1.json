@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "মোশ্বে গ'ল আৰু ⟨את⟩ এই কথাবোৰ সকলো ইস্ৰায়েলক ক'লে।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কথাবোৰ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েল"
+    }
+  ],
+  "timestamp": "2026-09-19T23:05:55.361569716Z",
+  "model": "glm-5.3"
+}

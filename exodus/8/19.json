@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু মই মোৰ জাতি আৰু তোমাৰ জাতিৰ মাজত পৃথকতা থিয় কৰিম; কালিলৈ এই চিনটো হ'ব।",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "আৰু মই থিয় কৰিম"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "পৃথকতা"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "মোৰ জাতি"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "আৰু … মাজত"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "তোমাৰ জাতিৰ"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "কালিলৈ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "האת",
+      "gloss": "চিনটো"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T21:56:36.517212799Z",
+  "model": "glm-5.3"
+}

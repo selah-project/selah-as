@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তোমাৰ সকলো পথতে তেওঁক জনা, আৰু তেওঁ তোমাৰ পথবোৰ সিজৰি দিব।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "সকলো …ত"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "তোমাৰ পথ"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "তেওঁক জনা"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "আৰু তেওঁ"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "সিজৰি দিব"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "তোমাৰ পথবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:57.534228664Z",
+  "model": "glm-5.3"
+}

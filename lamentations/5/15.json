@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আমাৰ হৃদয়ৰ আনন্দ ৰৈ গ'ল, আমাৰ নৃত্য শোকলৈ সলনি হ'ল।",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ৰৈ গ'ল"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "আনন্দ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "আমাৰ হৃদয়ৰ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "সলনি হ'ল"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "শোকলৈ"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "আমাৰ নৃত্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:38.255985911Z",
+  "model": "glm-5.3"
+}

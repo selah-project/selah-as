@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "ৰজাৰ ক্ৰোধ ⟨হ'ল⟩ মৃত্যুৰ দূতসকল; আৰু জ্ঞানী মানুহে সেইক প্ৰশমন কৰে।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ক্ৰোধ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "দূতসকল"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যুৰ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "আৰু মানুহে"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "সেইক প্ৰশমন কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:32.764336171Z",
+  "model": "glm-5.3"
+}

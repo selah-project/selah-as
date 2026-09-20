@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 96,
+  "translation": "কিয়নো ইয়াহৱেহ ডাঙৰ, আৰু অতিশয় প্ৰশংসিত; তেওঁ সকলো দেৱতাতকৈ ভয়ংকৰ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "আৰু প্ৰশংসিত"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতিশয়"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ভয়ংকর… ভয়ংকৰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…তকৈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "দেৱতা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:57:43.470449489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "আৰু মই জ্ঞান শিকা নাই, পৱিত্ৰসকলৰ জ্ঞানো নাজানোঁ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "আৰু ... নাই"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "শিকা নাই"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "আৰু ... জ্ঞান"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "পৱিত্ৰসকলৰ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "নাজানোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:11.606023732Z",
+  "model": "glm-5.3"
+}

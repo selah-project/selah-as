@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "কিয়নো তোমালোক ⟨হ’ব⟩ পাত ম্লান হোৱা ওক গছৰ দৰে, আৰু পানী নথকা উদ্যানৰ দৰে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "তোমালোক হ’ব"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "ওক গছৰ দৰে"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ম্লান হোৱা"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "পাত"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "আৰু উদ্যানৰ দৰে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:31:40.168091390Z",
+  "model": "glm-5.3"
+}

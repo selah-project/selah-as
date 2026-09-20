@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "হত্তুচ, শ্বেবানিয়াহ, মাল্লুখ।",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "হত্তুচ"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "শ্বেবানিয়াহ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "মাল্লুখ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:10.455487359Z",
+  "model": "glm-5.3"
+}

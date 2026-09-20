@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "মোৰ বিৰুদ্ধে উঠাসকলৰ ওঁঠ আৰু তেওঁলোকৰ গুণগুণনি সকলো দিন মোৰ বিৰুদ্ধে ⟨আছে⟩।",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "উঠাসকলৰ"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "আৰু তেওঁলোকৰ গুণগুণনি"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মোৰ বিৰুদ্ধে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:22.469014486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু এই মহিলাগৰাকীৰ পুতেক ৰাতি মৰিল, কিয়নো তাই তাৰ ওপৰত শুই আছিল।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "মৰিল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "মহিলাগৰাকীৰ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "শুই আছিল"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তাৰ ওপৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T00:03:45.669329758Z",
+  "model": "glm-5.3"
+}

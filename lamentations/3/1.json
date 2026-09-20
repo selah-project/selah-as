@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "মই সেই মানুহজন, যিজনে তেওঁৰ ক্ৰোধৰ দণ্ডৰ অধীনত দুখ-কষ্ট দেখিছে।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "সেই মানুহজন"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "দেখিছে"
+    },
+    {
+      "surface": "עני",
+      "gloss": "দুখ-কষ্ট"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "দণ্ডৰ অধীনত"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "তেওঁৰ ক্ৰোধ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:18.188064651Z",
+  "model": "glm-5.3"
+}

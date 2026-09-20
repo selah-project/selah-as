@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "মোৱাবৰ শিং কটা হ'ল, আৰু ⟨তাৰ⟩ বাহু ভাঙিলে, ইয়াহৱেহৰ ঘোষণা।",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "কটা হ'ল"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "শিং"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোৱাবৰ"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "আৰু তাৰ বাহু"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ভাঙিলে"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ঘোষণা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াהৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:25:41.278967894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু আদায়াহ, আৰু বেৰায়াহ, আৰু শ্বিমৰাথ — এইসকল শ্বিমিৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "আৰু আদায়াহ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "আৰু বেৰায়াহ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "আৰু শ্বিমৰাথ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শ্বিমিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:36.103940841Z",
+  "model": "glm-5.3"
+}

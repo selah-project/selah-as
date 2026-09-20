@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "য়েহোনাতানৰ পুত্ৰ আছিল মেৰিভ-বা'ল, আৰু মেৰিব-বা'লে ⟨את⟩ মিখাক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "আৰু পুত্ৰ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "য়েহোনাতানৰ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "মেৰিভ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "বা'ল"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "আৰু মেৰিব-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "বা'লে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মিখাক"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "মিখা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:22.909434767Z",
+  "model": "glm-5.3"
+}

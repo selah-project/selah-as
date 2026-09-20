@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু পিটোৱা সোণৰ তিনিশখন সৰু ঢাল; এখন সৰু ঢালত তিনিশ সোণ উঠিছিল; আৰু ৰজাই সেইবোৰ লেবাননৰ বনভূমিৰ ঘৰত ৰাখিলে।",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "আৰু তিনি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "সৰু ঢাল"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "পিটোৱা"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "উঠিছিল"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "সৰু ঢালখন"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এখন"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ৰাখিলে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ঘৰত"
+    },
+    {
+      "surface": "יער",
+      "gloss": "বনভূমিৰ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "লেবাননৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:42:20.279839205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু তেওঁৰ ভাতৃৰ নাম য়ুৱাল; তেওঁ কিনৰ আৰু উগাভ ⟨সৰু বাদ্য⟩ বজোৱা সকলোৰে পিতৃ আছিল।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "আৰু নাম"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "তেওঁৰ ভাতৃৰ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "য়ুৱাল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতৃ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলোৰে"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "বজোৱা"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "কিনৰ"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "আৰু উগাভ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:29.725139093Z",
+  "model": "glm-5.3"
+}

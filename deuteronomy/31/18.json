@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 31:18",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "আৰু মই সেই দিনা তেওঁলোকে কৰা সকলো বেয়াৰ বাবে — কাৰণ তেওঁলোকে আন দেৱতাসকললৈ মুখ ঘূৰাইছে — সঁচাকৈ মোৰ মুখ লুকুৱাম।",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "আৰু মই"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "সঁচাকৈ"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "লুকুৱাম"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মোৰ মুখ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "সেই দিনা"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "על",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰিছে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "মুখ ঘূৰাইছে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "אלהিঝ",
+      "gloss": "দেৱতাসকল"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "আন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:06:29.302057709Z",
+  "model": "glm-5.3"
+}

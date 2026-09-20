@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "চাদোক তেওঁৰ পুতেক, আহিমাৎচ তেওঁৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "চাদোক"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "আহিমাৎচ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:04.630808619Z",
+  "model": "glm-5.3"
+}

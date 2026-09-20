@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আমাৰায়াহৰ পুতেক, আজাৰায়াহৰ পুতেক, মাৰায়োতৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "আমাৰায়াহৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "আজাৰায়াহৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "মাৰায়োতৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:14:55.310858159Z",
+  "model": "glm-5.3"
+}

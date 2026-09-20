@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 1:14",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু জীৱসকলে দৌৰি আৰু ঘূৰি আহে, বিজুলীৰ দীপ্তিৰ দৰে।",
+  "tokens": [
+    {
+      "surface": "והחיות",
+      "gloss": "আৰু জীৱসকলে"
+    },
+    {
+      "surface": "רצוא",
+      "gloss": "দৌৰি"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ঘূৰি আহে"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "দৰ্শনৰ দৰে"
+    },
+    {
+      "surface": "הבזק",
+      "gloss": "বিজুলীৰ দীপ্তি"
+    }
+  ],
+  "timestamp": "2026-09-20T01:29:18.476018869Z",
+  "model": "glm-5.3"
+}

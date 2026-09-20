@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "ইয়াহৱেহে তেওঁক ক'লে, “মানুহৰ মুখ কোনে দিলে? বা মূক, বা বধিৰ, বা দেখা-শুনা, বা অন্ধ — কোনে কৰে? মই ইয়াহৱেহ নহয়নে?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "שם",
+      "gloss": "দিলে\/কৰে"
+    },
+    {
+      "surface": "פה",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "কৰে"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "মূক"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "বধিৰ"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "দেখা-শুনা"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "עור",
+      "gloss": "অন্ধ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "নহয়নে"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:54:20.087521559Z",
+  "model": "glm-5.3"
+}

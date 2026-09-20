@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "হায়, চিয়োন! পলাই যোৱা, বাবিলৰ জীয়েকৰ লগত বাস কৰা তুমি।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "হায়"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "চিয়োন"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "পলাই যোৱা"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "বাস কৰা"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাবিলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:22:28.558038323Z",
+  "model": "glm-5.3"
+}

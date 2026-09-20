@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "কিয়নো বেশ্যা এটা গভীৰ গৰ্ত, আৰু পৰদেশী নাৰী এটা সংকীৰ্ণ কুঁৱা।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "গৰ্ত"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "গভীৰ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "বেশ্যা"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "আৰু কুঁৱা"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "সংকীৰ্ণ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "পৰদেশী নাৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:36.332596461Z",
+  "model": "glm-5.3"
+}

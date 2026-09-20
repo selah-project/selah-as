@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আকৌ, যদি দুজনে একেলগে শুৱে, তেওঁলোকৰ গৰম হয়; কিন্তু একলোকে ⟨কেনেকৈ⟩ গৰম হ'ব?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "আকৌ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "শুৱে"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুজনে"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "আৰু গৰম হয়"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকৰ"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "কিন্তু একলোকে"
+    },
+    {
+      "surface": "איך",
+      "gloss": "কেনেকৈ"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "গৰম হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:55.809359969Z",
+  "model": "glm-5.3"
+}

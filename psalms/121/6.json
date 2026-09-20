@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 121,
+  "translation": "দিনত সূৰ্যই তোমাক আঘাত নকৰিব, আৰু নিশা চন্দ্ৰইও ⟨নকৰিব⟩।",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্য"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "আঘাত কৰিব"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "আৰু চন্দ্ৰ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "নিশা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:07:05.304232712Z",
+  "model": "glm-5.3"
+}

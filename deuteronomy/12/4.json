@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "তোমালোকৰ এলোহিম ইয়াহৱেহৰ বাবে তেনেদৰে নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "তোমালোকে কৰা"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেনেদৰে"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ বাবে"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "তোমালোকৰ এলোহিম"
+    }
+  ],
+  "timestamp": "2026-09-19T22:56:26.978362444Z",
+  "model": "glm-5.3"
+}

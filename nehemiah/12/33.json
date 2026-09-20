@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু আজাৰ্যাহ, এজ্ৰা আৰু মেশ্বুল্লাম ⟨তেওঁলোকৰ পাছত গ'ল⟩।",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "আৰু আজাৰ্যাহ"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "এজ্ৰা"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "আৰু মেশ্বুল্লাম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:23:11.637569416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "সৰদাৰ কেনাজ, সৰদাৰ তেমান, সৰদাৰ মিবৎচাৰ।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "কেনাজ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "তেমান"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "মিবৎচাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:24:52.757669621Z",
+  "model": "glm-5.3"
+}

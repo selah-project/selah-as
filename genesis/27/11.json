@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "য়াকোভে তেওঁৰ মাতৃ ৰিভ্কাক ক'লে, 'চাওক, মোৰ ভাতৃ এচাৱ নোমাল মানুহ, আৰু মই মসৃণ মানুহ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু তেওঁ ক'লে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ক"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ৰিভ্কা"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "তেওঁৰ মাতৃ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এচাৱ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "মোৰ ভাতৃ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "নোমাল"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "আৰু মই"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "মসৃণ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:38:56.362025417Z",
+  "model": "glm-5.3"
+}

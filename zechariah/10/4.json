@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "তাৰ পৰাই কোণৰ শিল, তাৰ পৰাই খুঁটা, তাৰ পৰাই যুদ্ধৰ ধনুক, তাৰ পৰাই সকলো দমনকাৰী একেলগে ওলাব।",
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "তাৰ পৰাই"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "কোণৰ শিল"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "তাৰ পৰাই"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "খুঁটা"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "তাৰ পৰাই"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ধনুক"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধৰ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "তাৰ পৰাই"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ওলাব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "দমনকাৰী"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "একেলগে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:26:42.030158595Z",
+  "model": "glm-5.3"
+}

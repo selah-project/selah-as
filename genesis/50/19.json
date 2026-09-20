@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 50,
+  "translation": "য়োচেফে তেওঁলোকক ক'লে, 'ভয় নকৰিবা; কিয়নো মই কি এলোহিমৰ ঠাইত ⟨আছোঁ⟩?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "তেওঁলোকক"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "য়োচেফে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ভয় নকৰিবা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "ঠাইত"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    }
+  ],
+  "timestamp": "2026-09-19T21:52:44.302571675Z",
+  "model": "glm-5.3"
+}

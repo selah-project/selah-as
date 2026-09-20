@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 51,
+  "translation": "বাভেলৰ ওপৰত সাগৰ উঠিল; ঢৌসমূহৰ বহুলতাই তাক ঢাকি পেলালে।",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাভেলৰ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সাগৰ"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "বহুলতাই"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ঢৌসমূহৰ"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "ঢাকি পেলালে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:27:38.163089451Z",
+  "model": "glm-5.3"
+}

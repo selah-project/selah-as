@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "নিৰ্বোধক আৰু উদাৰ বুলি কোৱা নহ’ব, আৰু কৃপণক ধনী বুলি কোৱা নহ’ব।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহ’ব"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "কোৱা হ’ব"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আৰু"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "নিৰ্বোধক"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "উদাৰ"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "আৰু কৃপণক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহ’ব"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "কোৱা হ’ব"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ধনী"
+    }
+  ],
+  "timestamp": "2026-09-20T00:43:14.206043615Z",
+  "model": "glm-5.3"
+}

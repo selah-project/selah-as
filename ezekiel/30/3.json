@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "কাৰণ দিন ওচৰত, আৰু দিন ওচৰত — ইয়াহৱেহৰ ⟨দিন⟩; মেঘৰ দিন, জাতিসমূহৰ সময় হ'ব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ওচৰত"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "আৰু ওচৰত"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "মেঘৰ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতিসমূহৰ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T01:47:53.749603373Z",
+  "model": "glm-5.3"
+}

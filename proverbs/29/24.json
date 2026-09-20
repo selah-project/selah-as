@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "চোৰৰ লগত ভাগ বতৰা কৰাজনে নিজৰ প্ৰাণকেই ঘৃণা কৰে; অভিশাপ ⟨শুনিও⟩ নুবতায়।",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "ভাগ বতৰা কৰাজনে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "চোৰৰ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ঘৃণা কৰে"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "নিজৰ প্ৰাণকেই"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "অভিশাপ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "শুনিও"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "নু"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "বতায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:25.048034408Z",
+  "model": "glm-5.3"
+}

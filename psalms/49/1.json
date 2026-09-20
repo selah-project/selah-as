@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "মহাগায়কৰ বাবে; কোৰহৰ পুত্ৰসকলৰ ⟨এক⟩ মিজমোৰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "মহাগায়কৰ বাবে"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্ৰসকলৰ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোৰহ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিজমোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:42:31.023103797Z",
+  "model": "glm-5.3"
+}

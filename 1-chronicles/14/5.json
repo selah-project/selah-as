@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু ইভহৰ, আৰু এলিশ্বুৱা, আৰু এলপালেত।",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "আৰু ইভহৰ"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "আৰু এলিশ্বুৱা"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "আৰু এলপালেত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:39.697993948Z",
+  "model": "glm-5.3"
+}

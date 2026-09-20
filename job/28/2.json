@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "ধুলিৰ পৰা লো লোৱা হয়, আৰু শিলৰ পৰা তাম গলোৱা হয়।",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "লো"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "ধুলিৰ পৰা"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "লোৱা হয়"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "আৰু শিলৰ পৰা"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "গলোৱা হয়"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "তাম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:40:15.866992797Z",
+  "model": "glm-5.3"
+}

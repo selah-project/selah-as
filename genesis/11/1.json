@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "সমগ্ৰ পৃথিৱীত এক ⟨ভাষা⟩ আছিল, আৰু মাতবোৰ একেই আছিল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীত"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ওঁঠ ⟨ভাষা⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "আৰু মাতবোৰ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "একেই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:58:15.935629251Z",
+  "model": "glm-5.3"
+}

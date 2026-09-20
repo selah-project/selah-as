@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "যাতে পৃথিৱীৰ সকলো প্ৰজাই জানে যে ইয়াহৱেহেই ⟨সেই⟩ এলোহিম — আন একো নাই।",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "যাতে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "প্ৰজাই"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁেই"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আন অধিক"
+    }
+  ],
+  "timestamp": "2026-09-20T00:07:32.477748176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "কিয়নো ইয়াহৱেহৰ ডাঙৰ সকলো কাৰ্য ⟨את⟩ তোমালোকৰ চকুৱে নিজে দেখিছে, যি তেওঁ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "তোমালোকৰ চকুৱে"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "দেখিছে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ডাঙৰ সকলো কাৰ্য"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কাৰ্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "তেওঁ কৰিলে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:55:15.258966756Z",
+  "model": "glm-5.3"
+}

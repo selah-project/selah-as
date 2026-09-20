@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "সেই সময়ত ৰজা আহাজে অসূৰৰ ৰজাসকলৰ ওচৰলৈ তেওঁক সহায় কৰিবলৈ ⟨মানুহ⟩ পঠিয়ালে।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "সময়ত"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "পঠিয়ালে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "আহাজে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ৰজাসকলৰ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "অসূৰৰ"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "সহায় কৰিবলৈ"
+    },
+    {
+      "surface": "লו",
+      "gloss": "তেওঁক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:52:16.815880862Z",
+  "model": "glm-5.3"
+}

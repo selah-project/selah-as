@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 45,
+  "translation": "ইয়াহৱেহে, ইস্ৰায়েলৰ এলোহিমে, তোমাৰ বিষয়ত, হে বাৰুখ, এই দৰে কৈছে:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "এই দৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "তোমাৰ বিষয়ত"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "বাৰুখ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:22:40.320623911Z",
+  "model": "glm-5.3"
+}

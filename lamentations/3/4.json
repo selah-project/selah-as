@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ মোৰ মাংস আৰু মোৰ ছাল ক্ষয় কৰিছে; মোৰ হাড়বোৰ ভাঙিছে।",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "ক্ষয় কৰিছে"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "মোৰ মাংস"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "আৰু মোৰ ছাল"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ভাঙিছে"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "মোৰ হাড়বোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:18.188757534Z",
+  "model": "glm-5.3"
+}

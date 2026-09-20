@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তুমিও মাতাল হ'বা, লুকাই থাকিবা; তুমিও শত্ৰুৰ বশত দুৰ্গ বিচাৰিবা।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "את",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "মাতাল হ'বা"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "হ'বা"
+    },
+    {
+      "surface": "נעলמה",
+      "gloss": "লুকাই থাকিবা"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "את",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "বিচাৰিবা"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "দুৰ্গ"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "শত্ৰুৰ বশত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:16:14.948904099Z",
+  "model": "glm-5.3"
+}

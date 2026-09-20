@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "⟨את⟩ সৰু ফেঁচা, ⟨את⟩ ডাঙৰ ফেঁচা আৰু বগা ফেঁচা।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সৰু ফেঁচা"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "সৰু ফেঁচা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨আৰু ⟨את⟩⟩",
+      "marks": "ডাঙৰ ফেঁচা"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ডাঙৰ ফেঁচা"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "আৰু বগা ফেঁচা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:05:14.282691792Z",
+  "model": "glm-5.3"
+}

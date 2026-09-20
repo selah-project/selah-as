@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 12:26",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোলৈ আহিল, কৈছিল —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু আহিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈছিল"
+    }
+  ],
+  "timestamp": "2026-09-20T01:33:47.073938104Z",
+  "model": "glm-5.3"
+}

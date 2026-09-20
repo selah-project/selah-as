@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "কিয়নো মৃত্যুত আপোনাৰ স্মৰণ নাই; শ্বেওলত কোনে আপোনাক স্তুতি কৰিব?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "במות",
+      "gloss": "মৃত্যুত"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "আপোনাৰ স্মৰণ"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "শ্বেওলত"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "স্তুতি কৰিব"
+    },
+    {
+      "surface": "לך",
+      "gloss": "আপোনাক"
+    }
+  ],
+  "timestamp": "2026-09-20T02:28:51.994619572Z",
+  "model": "glm-5.3"
+}

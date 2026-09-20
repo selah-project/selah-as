@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "তাৰ পাছত এলোহিমে ⟨את⟩ এই সকলো কথা ক'লে, কৈ থাকিবলৈ যে —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো কথা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ থাকিবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:01:03.476054390Z",
+  "model": "glm-5.3"
+}

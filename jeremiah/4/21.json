@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "“কিমান দিনলৈ মই নিচান দেখিম আৰু শিঙাৰ ধ্বনি শুনিম?”",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "কিমান দিনলৈ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "কেতিয়ালৈ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "মই দেখিম"
+    },
+    {
+      "surface": "נס",
+      "gloss": "নিচান"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "মই শুনিম"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ধ্বনি"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "শিঙা"
+    }
+  ],
+  "timestamp": "2026-09-20T00:59:05.027223882Z",
+  "model": "glm-5.3"
+}

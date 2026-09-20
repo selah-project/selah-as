@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "আৰু ছাগলীৰ পোৱালিবোৰৰ ছাল ⟨את⟩ তেওঁৰ হাতত আৰু ডিঙিৰ মসৃণ অংশত মেৰাই দিলে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ছাল"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ছাল"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "পোৱালিবোৰৰ"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ছাগলীৰ"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "মেৰাই দিলে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "তেওঁৰ হাত"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু ওপৰত"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "মসৃণ অংশ"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "ডিঙি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:39:01.137910516Z",
+  "model": "glm-5.3"
+}

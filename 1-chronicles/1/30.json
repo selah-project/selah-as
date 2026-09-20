@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "মিশ্মা, দুমা, মাচা, হাদাদ আৰু তেমা।",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "মিশ্মা"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "আৰু দুমা"
+    },
+    {
+      "surface": "משא",
+      "gloss": "মাচা"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "হাদাদ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "আৰু তেমা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:31.776203328Z",
+  "model": "glm-5.3"
+}

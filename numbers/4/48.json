@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু তেওঁলোকৰ গণনাকৃতসকল আঠ হাজাৰ পাঁচশ আৰু আশী ⟨আছিল⟩।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "তেওঁলোকৰ গণনাকৃতসকল"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "আঠ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "আৰু পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "আৰু আশী"
+    }
+  ],
+  "timestamp": "2026-09-19T22:30:37.891423245Z",
+  "model": "glm-5.3"
+}

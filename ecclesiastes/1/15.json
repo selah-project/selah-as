@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "বাঁকা হোৱাটো পোন কৰিব নোৱাৰি, আৰু অভাৱ থকাটো গণিব নোৱাৰি।",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "বাঁকা হোৱাটো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "নোৱাৰি"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "পোন কৰিব"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "আৰু অভাৱ থকাটো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "নোৱাৰি"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "গণিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:38.685124318Z",
+  "model": "glm-5.3"
+}

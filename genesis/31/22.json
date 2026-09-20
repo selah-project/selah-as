@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "তৃতীয় দিনা লাবানক জনোৱা হ'ল যে য়াকোভ পলাই গৈছে।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "জনোৱা হ'ল"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "লাবানক"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "তৃতীয়"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "পলাই গৈছে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:41:28.070644038Z",
+  "model": "glm-5.3"
+}

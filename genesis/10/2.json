@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "য়াফেতৰ পুতেকসকল — গোমেৰ, মাগোগ, মাদয়াই, য়াৱান, তুবাল, মেশ্বেখ আৰু তিৰাচ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "য়াফেতৰ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "গোমেৰ"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "মাগোগ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "মাদয়াই"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "য়াৱান"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "তুবাল"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "মেশ্বেখ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "তিৰাচ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:28:44.755442327Z",
+  "model": "glm-5.3"
+}

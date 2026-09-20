@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 39,
+  "translation": "আৰু তৃতীয় শাৰী — লেচেম, চেভ' আৰু আচলামাহ।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "আৰু শাৰী"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "তৃতীয়"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "লেচেম"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "চেভ'"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "আৰু আচলামাহ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:11:39.342882178Z",
+  "model": "glm-5.3"
+}

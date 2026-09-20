@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আজমাৱেতৰ পুত্ৰসকল — চল্লিশ দুই জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "আজমাৱেত"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:11:16.640156114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "আৰু ইয়াহৱেহৰ দাস মোশ্বে তাতে, মোৱাবৰ দেশত মৃত্যুবৰণ কৰিলে, ইয়াহৱেহৰ মুখৰ অনুসাৰে।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "আৰু মৃত্যুবৰণ কৰিলে"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোৱাবৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "অনুসাৰে"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:05:14.684139602Z",
+  "model": "glm-5.3"
+}

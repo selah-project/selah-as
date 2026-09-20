@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "ইয়াহৱেহে মোশ্বেক মাতিলে আৰু সাক্ষাৎ-তম্বুৰ পৰা তেওঁৰ লগত কথা পাতিলে ⟨কৈ⟩।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "মাতিলে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াהৱেহে"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁৰ লগত"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "তম্বুৰ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "সাক্ষাৎ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:14:04.450134994Z",
+  "model": "glm-5.3"
+}

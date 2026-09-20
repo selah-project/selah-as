@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "চেৰুগ, নাখোৰ, তেৰাখ।",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "চেৰুগ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "নাখোৰ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "তেৰাখ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:24:55.606253079Z",
+  "model": "glm-5.3"
+}

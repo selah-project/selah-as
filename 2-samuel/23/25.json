@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "শ্বাম্মাহ হাৰোদী, এলিকা হাৰোদী,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "শ্বাম্মাহ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "হাৰোদী"
+    },
+    {
+      "surface": "অলিকা",
+      "gloss": "এলিকা"
+    },
+    {
+      "surface": "হচরদি",
+      "gloss": "হাৰোদী"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:29.417612335Z",
+  "model": "glm-5.3"
+}

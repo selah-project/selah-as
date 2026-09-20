@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "শুনা ইয়াহৱেহৰ বাক্য, হে য়াকোভৰ ঘৰ, আৰু ইস্ৰায়েলৰ ঘৰৰ সকলো পৰিয়াল।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভৰ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু ... সকলো"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "পৰিয়াল"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:57:32.720438629Z",
+  "model": "glm-5.3"
+}

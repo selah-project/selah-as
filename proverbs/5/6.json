@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "জীৱনৰ পথ তাই জোখ-মাপে নাথাকে ⟨কেনে⟩; তাইৰ পথবোৰ টলমল কৰে, তাই ⟨নিজেই⟩ নাজানে।",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱনৰ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨কেনে⟩"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "জোখ-মাপে"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "টলমল কৰে"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "তাইৰ পথবোৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "নাজানে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:21.386115905Z",
+  "model": "glm-5.3"
+}

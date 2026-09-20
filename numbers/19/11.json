@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "মানুহৰ যিকোনো প্ৰাণীৰ মৃতদেহ স্পৰ্শ কৰাজন সাত দিনলৈকে অশুচি হ'ব।",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "যি স্পৰ্শ কৰে"
+    },
+    {
+      "surface": "במת",
+      "gloss": "মৃতদেহ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "যিকোনো"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণী"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "অশুচি হ'ব"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-19T22:39:25.800590162Z",
+  "model": "glm-5.3"
+}

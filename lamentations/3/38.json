@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "এলিয়োনৰ মুখৰ পৰা কিয় ওলায় নাই দুষ্টতাবোৰ আৰু মঙ্গল?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "মুখৰ পৰা"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "এলিয়োনৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ওলায়"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "দুষ্টতাবোৰ"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "আৰু মঙ্গল"
+    }
+  ],
+  "timestamp": "2026-09-20T05:25:28.713050539Z",
+  "model": "glm-5.3"
+}

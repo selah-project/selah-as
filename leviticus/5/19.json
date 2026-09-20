@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "দোষ-উৎসৰ্গ ⟨এয়া⟩; ইয়াহৱেহৰ বিৰুদ্ধে দোষী হোৱাত দোষী হ'ল।",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "দোষ-উৎসৰ্গ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "এয়া"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "দোষী হ'ল"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "দোষী হ'ল"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ বিৰুদ্ধে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:15:04.246861594Z",
+  "model": "glm-5.3"
+}

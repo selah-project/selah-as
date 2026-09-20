@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "চাওক, সিহঁতে মোৰ লগত কয়, “ইয়াহৱেহৰ বাক্য ক'ত? সি এতিয়াই আহক!”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "המה",
+      "gloss": "সিহঁতে"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "কয়"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ লগত"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ক'ত"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "আহক"
+    },
+    {
+      "surface": "נא",
+      "gloss": "এতিয়াই"
+    }
+  ],
+  "timestamp": "2026-09-20T01:07:36.190021990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "শিকলি তৈয়াৰ কৰা; কিয়নো দেশ ⟨is⟩ তেজৰ বিচাৰেৰে ভৰা, আৰু নগৰ ⟨is⟩ হিংসাৰে ভৰা।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "তৈয়াৰ কৰা"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "শিকলি"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ভৰা"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "বিচাৰেৰে"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "তেজৰ"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "আৰু নগৰ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ভৰা"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "হিংসাৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:30:24.921988117Z",
+  "model": "glm-5.3"
+}

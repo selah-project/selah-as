@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "ইস্ৰায়েল ⟨নে⟩ দাস? ঘৰত জন্ম লোৱা দাস ⟨নে⟩? তেতিয়া কিয় সি লুটপাত হ'ল?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েল"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨নে⟩"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "জন্ম লোৱা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "লুটপাত"
+    }
+  ],
+  "timestamp": "2026-09-20T00:57:05.930802035Z",
+  "model": "glm-5.3"
+}

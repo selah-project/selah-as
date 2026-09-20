@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু কথাটো আব্ৰাহামৰ চকুত তেওঁৰ পুতেকৰ হেতুকে অতি বেয়া লাগিল।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "বেয়া লাগিল"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথাটো"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চকুত"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আব্ৰাহামৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিষয়ে"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "হেতুকে"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেকৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:35:21.468259248Z",
+  "model": "glm-5.3"
+}

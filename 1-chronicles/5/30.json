@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "এলেজৰে ⟨את⟩ পিনহচৰ জন্ম দিলে, পিনহচে ⟨את⟩ আভিশ্বুৱাৰ জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "এলেজৰে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পিনহচ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "পিনহচ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "পিনহচে"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আভিশ্বুৱা"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "আভিশ্বুৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:06.686370995Z",
+  "model": "glm-5.3"
+}

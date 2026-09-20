@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 78,
+  "translation": "তেওঁলোকে ⟨את⟩ তেওঁৰ হাত মনত ৰখা নাছিল, শত্ৰুৰ পৰা তেওঁলোকক মুক্ত কৰা দিনটোৰো ⟨নহয়⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নাছিল"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "মনত ৰখা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তেওঁৰ হাত"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "তেওঁৰ হাত"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "মুক্ত কৰা"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ৰ পৰা"
+    },
+    {
+      "surface": "צר",
+      "gloss": "শত্ৰু"
+    }
+  ],
+  "timestamp": "2026-09-20T02:52:20.545637558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "মোৰ পৰা দূৰ নহ'বা, কিয়নো বিপদ ওচৰতে আহি আছে, কিয়নো ⟨কোনো⟩ সহায় কৰোঁতা নাই।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নহ'বা ⟨না⟩"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "দূৰ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোৰ পৰা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "বিপদ"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ওচৰতে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "সহায় কৰোঁতা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:33:40.938888085Z",
+  "model": "glm-5.3"
+}

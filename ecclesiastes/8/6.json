@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "কিয়নো প্ৰতিটো ইচ্ছাৰ বাবে ⟨এটা⟩ সময় আৰু ন্যায় আছে, কিয়নো মানুহৰ দুখ-কষ্ট তাৰ ওপৰত ডাঙৰ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "প্ৰতিটোৰ বাবে"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ইচ্ছা"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "আৰু ন্যায়"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "দুখ-কষ্ট"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তাৰ ওপৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:16.688028044Z",
+  "model": "glm-5.3"
+}

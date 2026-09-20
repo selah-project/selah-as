@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 30:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "তেনেকৈয়ে ব্যভিচাৰিণী নাৰীৰ পথ; তাই খালে, মুখ মচিলে, আৰু ক'লে, 'মই কোনো অকল্যাণ কৰা নাই।'",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "তেনেকৈয়ে"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "নাৰীৰ"
+    },
+    {
+      "surface": "מנאפת",
+      "gloss": "ব্যভিচাৰিণী"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "খালে"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "আৰু মচিলে"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "কৰা"
+    },
+    {
+      "surface": "און",
+      "gloss": "অকল্যাণ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:50.434085141Z",
+  "model": "glm-5.3"
+}

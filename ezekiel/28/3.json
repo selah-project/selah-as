@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "চাওক, তুমি দানিয়েলতকৈ জ্ঞানী; কোনো লুকুওৱা কথাই তোমাক এৰাই নচলা —",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "দানিয়েলতকৈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো … কথাই"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "লুকুওৱা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নচলা"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "তোমাক এৰাই"
+    }
+  ],
+  "timestamp": "2026-09-20T01:47:11.717906381Z",
+  "model": "glm-5.3"
+}

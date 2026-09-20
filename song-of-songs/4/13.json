@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "তোমাৰ শাখাবোৰ ডালিমৰ উদ্যান, উত্তম ফলসমূহৰ সৈতে; মেন্থী, নাৰ্দৰ সৈতে।",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "তোমাৰ শাখাবোৰ"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "উদ্যান"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "ডালিম"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ফল"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "উত্তম সমূহ"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "মেন্থী"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "নাৰ্দ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:34.351558856Z",
+  "model": "glm-5.3"
+}

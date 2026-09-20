@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 120,
+  "translation": "বীৰৰ ধাৰাল কাঁড়বোৰ, ৰটেম-গছৰ জুইশিলৰ সৈতে ⟨হ'ব⟩।",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "কাঁড়বোৰ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "বীৰৰ"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ধাৰাল"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…ৰ সৈতে"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "জুইশিল"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ৰটেম-গছৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:06:38.052214946Z",
+  "model": "glm-5.3"
+}

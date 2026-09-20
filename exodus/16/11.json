@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "ইয়াহৱেহে মোশ্বেক ক'লে ⟨কৈ⟩ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ক"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T22:00:03.602554673Z",
+  "model": "glm-5.3"
+}

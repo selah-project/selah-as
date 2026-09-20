@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "শ্বেওল আৰু অবাদ্দোন তৃপ্ত নহয়, আৰু মানুহৰ চকুও তৃপ্ত নহয়।",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "শ্বেওল"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "আৰু অবাদ্দোন"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "তৃপ্ত হয়"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "আৰু মানুহৰ চকু"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "তৃপ্ত হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:04.411024475Z",
+  "model": "glm-5.3"
+}

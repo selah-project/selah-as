@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "মোশ্বেৰ শহুৰেকে তেওঁক ক'লে, “তুমি যি কাৰ্য কৰি আছা সেইটো ভাল নহয়।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "শহুৰেকে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেৰ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কাৰ্যটো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰি আছা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:01:08.289668645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "সূৰ্যৰ তলত মই এটা মন্দ দেখিছোঁ — শাসকৰ সন্মুখৰ পৰা ওলাই অহা এটা ভুলৰ দৰে।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "এটা মন্দ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "মই দেখিছোঁ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্যৰ"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "ভুলৰ দৰে"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "ওলাই অহা"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "সন্মুখৰ পৰা"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "শাসকৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:08.547885815Z",
+  "model": "glm-5.3"
+}

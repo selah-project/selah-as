@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 73,
+  "translation": "আৰু তেওঁলোকে কয়, “এলে কেনেকৈ জানে? আৰু এলিয়োনত জ্ঞান ⟨আছে নেকি⟩?”",
+  "tokens": [
+    {
+      "surface": "ואমרו",
+      "gloss": "আৰু তেওঁলোকে কয়"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "কেনেকৈ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "আৰু আছে"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "এলিয়োনত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:50:18.581811044Z",
+  "model": "glm-5.3"
+}

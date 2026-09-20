@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "বেবাইৰ সন্তানসকল — ছশ বিশ আৰু তিনিজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "বেবাইৰ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "আৰু তিনি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:18.445795910Z",
+  "model": "glm-5.3"
+}

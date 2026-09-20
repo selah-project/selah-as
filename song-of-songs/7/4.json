@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "তোমাৰ দুয়োটা বক্ষ দুটা হৰিণৰ পোৱালিৰ নিচিনা, এজনী গাজেলৰ যমজ।",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "দুয়োটা"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "তোমাৰ বক্ষ"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "দুটা … ৰ নিচিনা"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "হৰিণৰ পোৱালি"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "যমজ"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "গাজেলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:50:37.532651563Z",
+  "model": "glm-5.3"
+}

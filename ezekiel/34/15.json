@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 34:15",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "মই মোৰ পালক চৰাইম আৰু মই সিহঁতক জিৰাইম — আদোনাই ইয়াহৱেহৰ ঘোষণা।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "চৰাইম"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "মোৰ পালক"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "আৰু মই"
+    },
+    {
+      "surface": "ארביצם",
+      "gloss": "জিৰাইম"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ঘোষণা"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:49:34.649805636Z",
+  "model": "glm-5.3"
+}

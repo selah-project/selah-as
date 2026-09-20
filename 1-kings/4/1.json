@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু ৰজা শ্বেলোমো সমগ্ৰ ইস্ৰায়েলৰ ওপৰত ৰজা আছিল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমো"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েল"
+    }
+  ],
+  "timestamp": "2026-09-20T00:03:12.535951314Z",
+  "model": "glm-5.3"
+}

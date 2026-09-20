@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "সিংহই গৰ্জন কৰিলে — কোনে নভয়? আদোনাই ইয়াহৱেহে কথা পাতিলে — কোনে ভাববাণী নকৰে?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "সিংহই"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "গৰ্জন কৰিলে"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "ভাববাণী কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:08:23.815584768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মাতানিয়াহ, মাতেনাই আৰু য়াআচাৱ,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "মাতানিয়াহ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "মাতেনাই"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "আৰু য়াআচাৱ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:15:55.425957105Z",
+  "model": "glm-5.3"
+}

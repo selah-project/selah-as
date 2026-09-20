@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু মানুহ মোশ্বে অতি বিনয়ী আছিল — পৃথিৱীৰ মুখত থকা সকলো মানুহতকৈও বেছি।",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "আৰু মানুহ জন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "বিনয়ী"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "সকলোতকৈ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ ওপৰত"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখৰ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "পৃথিৱীৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:35:45.462395091Z",
+  "model": "glm-5.3"
+}

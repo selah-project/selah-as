@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "ইয়াহৱেহৰ কণ্ঠই জুইৰ শিখাবোৰ কটি উলিয়ায়।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "কণ্ঠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "কটি উলিয়ায়"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "শিখাবোৰ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "জুইৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:35:23.288754953Z",
+  "model": "glm-5.3"
+}

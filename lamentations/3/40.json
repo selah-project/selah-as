@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আমাৰ পথবোৰ বিচাৰোঁ আৰু পৰীক্ষা কৰোঁ, আৰু ইয়াহৱেহলৈ ঘূৰি যাওঁ।",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "বিচাৰোঁ"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "আমাৰ পথবোৰ"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "আৰু পৰীক্ষা কৰোঁ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "আৰু ঘূৰি যাওঁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:25:41.333661774Z",
+  "model": "glm-5.3"
+}

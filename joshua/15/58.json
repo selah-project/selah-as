@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "হালহুল, বেইত-চুৰ আৰু গেদোৰ।",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "হালহুল"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "צור",
+      "gloss": "চুৰ"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "আৰু গেদোৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:42.039463226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "মই মোৰ শয্যা মাখিলোঁ — মূৰ, আহালিম ⟨কা ঠাৰু⟩ আৰু দাৰুচিনি।",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "মাখিলোঁ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "মোৰ শয্যা"
+    },
+    {
+      "surface": "מר",
+      "gloss": "মূৰ"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "আহালিম ⟨কা ঠাৰু⟩"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "আৰু দাৰুচিনি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:34.721262096Z",
+  "model": "glm-5.3"
+}

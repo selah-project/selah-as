@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 5:11",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "তেওঁ মোক ক'লে, “তাক ⟨the⟩ চিনআৰ দেশত এটা ঘৰ সজাৰ বাবে; আৰু ⟨when⟩ সাজু হ'লে তাক তাত তাৰ ভেটিৰ ওপৰত ৰখা হ'ব।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "তেওঁ ক'লে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "সজাৰ বাবে"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাক"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "চিনআৰ"
+    },
+    {
+      "surface": "והוכן",
+      "gloss": "সাজু হ'ব"
+    },
+    {
+      "surface": "והניחה",
+      "gloss": "ৰখা হ'ব"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "מכנתה",
+      "gloss": "তাৰ ভেটি"
+    }
+  ],
+  "timestamp": "2026-09-20T02:22:29.685910746Z",
+  "model": "glm-5.3"
+}

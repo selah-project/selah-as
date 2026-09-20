@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেৰ ওচৰলৈ কথা পাতিলে, ক'বলৈ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আৰু কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:15:04.246969228Z",
+  "model": "glm-5.3"
+}

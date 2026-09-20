@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু হা-আৱ্ভীম, আৰু হা-পাৰাহ, আৰু অফ্ৰাহ।",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "আৰু হা-আৱ্ভীম"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "আৰু হা-পাৰাহ"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "আৰু অফ্ৰাহ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:55.051786444Z",
+  "model": "glm-5.3"
+}

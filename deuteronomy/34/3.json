@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "আৰু ⟨את⟩ নেগেৱ, আৰু ⟨את⟩ সমতল — খৰমূজৰ নগৰ য়েৰিখোৰ উপত্যকা — চোৱৰলৈকে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "নেগেৱ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "নেগেৱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "সমতল"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "সমতল"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "উপত্যকা"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "য়েৰিখো"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "খৰমূজৰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "צער",
+      "gloss": "চোৱৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:06:02.757963536Z",
+  "model": "glm-5.3"
+}

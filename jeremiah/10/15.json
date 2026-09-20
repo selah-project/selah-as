@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "সেইবোৰ হেলা, প্ৰতাৰণাৰ কাম; সেইবোৰৰ শাস্তিৰ সময়ত সেইবোৰ নষ্ট হ'ব।",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "হেলা"
+    },
+    {
+      "surface": "המה",
+      "gloss": "সেইবোৰ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কাম"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "প্ৰতাৰণাৰ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "সময়ত"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "শাস্তিৰ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "নষ্ট হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T01:02:22.800330910Z",
+  "model": "glm-5.3"
+}

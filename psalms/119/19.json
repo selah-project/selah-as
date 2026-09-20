@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "মই ⟨এজন⟩ পৰদেশী পৃথিৱীত; তোমাৰ আজ্ঞাসমূহ মোৰ পৰা লুকুৱাই নথ'ব।",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "পৰদেশী"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "পৃথিৱীত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ন⟩"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "লুকুৱাব"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোৰ পৰা"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "তোমাৰ আজ্ঞাসমূহ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:04:40.830000247Z",
+  "model": "glm-5.3"
+}

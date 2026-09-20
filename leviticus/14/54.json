@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "এইয়ে সকলো ক্ষত, চৰ্মৰোগ আৰু নতেকৰ বাবে তোৰা ⟨শিক্ষা, নিৰ্দেশনা⟩।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এইয়ে"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "তোৰা"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সকলো … ৰ বাবে"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ক্ষত"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "চৰ্মৰোগৰ"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "আৰু নতেকৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:50.994604450Z",
+  "model": "glm-5.3"
+}

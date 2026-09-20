@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "প্ৰতিটো ঠাইত ইয়াহৱেহৰ চকুবোৰ মন্দ আৰু ভালসকলক চাই থাকে।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "প্ৰতিটো"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ঠাইত"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "চকুবোৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "চাই থাকে"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "আৰু ভালসকলক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:37.991082609Z",
+  "model": "glm-5.3"
+}

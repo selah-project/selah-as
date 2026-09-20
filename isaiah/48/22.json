@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "দুষ্টসকলৰ বাবে শান্তি নাই, ইয়াহৱেহে কয়।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "দুষ্টসকলৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T00:48:44.127822817Z",
+  "model": "glm-5.3"
+}

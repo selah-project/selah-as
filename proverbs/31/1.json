@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "লেমুৱেল ৰজাৰ বাক্যবোৰ — ⟨মশা⟩, যি তেওঁৰ মাতৃয়ে তেওঁক শিকাইছিল।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "বাক্যবোৰ"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "লেমুৱেল"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "⟨মশা⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "শিকাইছিল"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "তেওঁৰ মাতৃয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:29:16.498663129Z",
+  "model": "glm-5.3"
+}

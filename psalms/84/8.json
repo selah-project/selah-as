@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 84,
+  "translation": "তেওঁলোকে শক্তিৰ পৰা শক্তিলৈ যায়; চিয়োনত এলোহিমক দেখা পায়।",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "যায়"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "শক্তিৰ পৰা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "শক্তিলৈ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "দেখা পায়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ক"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "চিয়োনত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:55:50.194300431Z",
+  "model": "glm-5.3"
+}

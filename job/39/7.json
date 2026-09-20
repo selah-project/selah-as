@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "as",
+  "chapter": 39,
+  "translation": "সি চহৰৰ ভিৰৰ হাঁহি মাৰে, চালকৰ চিঞৰ শুনা নাপায়।",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "হাঁহি মাৰে"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "ভিৰৰ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "চহৰ"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "চিঞৰ"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "চালকৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "শুনা পায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:44:44.412813627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু ইয়েহুদ, আৰু বনী-বাৰাক, আৰু গত-ৰিমোন।",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "আৰু ইয়েহুদ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "আৰু বনী"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "বাৰাক"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "আৰু গত"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ৰিমোন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:16:53.910151177Z",
+  "model": "glm-5.3"
+}

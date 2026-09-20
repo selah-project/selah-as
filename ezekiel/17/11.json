@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 17:11",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোৰ ওচৰত আহিল, কৈছে ⟨নেছে⟩,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু … হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰত"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:36:32.921198475Z",
+  "model": "glm-5.3"
+}

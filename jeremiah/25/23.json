@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "আৰু ⟨את⟩ দেদান, আৰু ⟨את⟩ তেমা, আৰু ⟨את⟩ বুজ, আৰু ⟨את⟩ কাণৰ কাষৰ নোখ কটা সকলোক।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "দেদান"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "দেদান"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "তেমা"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "তেমা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "বুজ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "বুজ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "কাণৰ কাষৰ নোখ কটা সকলো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলোক"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "নোখ কটা"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "কাণৰ কাষৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:09:55.106891908Z",
+  "model": "glm-5.3"
+}

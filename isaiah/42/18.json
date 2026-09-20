@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 42,
+  "translation": "হে কলা সকল, শুনা; হে নিদিষ্ট সকল, চাওঁক — যেন দেখা।",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "হে কলা সকল"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "আৰু হে নিদিষ্ট সকল"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "যেন দেখা"
+    }
+  ],
+  "timestamp": "2026-09-20T00:48:00.062133064Z",
+  "model": "glm-5.3"
+}

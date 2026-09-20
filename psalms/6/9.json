@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "সকলো অনৰ্থকৰ্মী, মোৰ পৰা আঁতৰ হওঁক, কিয়নো ইয়াহৱেহে মোৰ কান্দোনৰ মাত শুনিছে।",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "আঁতৰ হওঁক"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোৰ পৰা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "কৰ্মী"
+    },
+    {
+      "surface": "און",
+      "gloss": "অনৰ্থ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "শুনিছে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "মাত"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "কান্দোনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:20:41.495587902Z",
+  "model": "glm-5.3"
+}

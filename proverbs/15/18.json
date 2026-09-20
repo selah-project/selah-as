@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "ক্ৰোধী মানুহে বিবাদ উটুৱায়, আৰু ক্ৰোধত ধীৰ হৈ থাকিলে কলহ শান্ত কৰে।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ক্ৰোধী"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "উটুৱায়"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "বিবাদ"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "আৰু ধীৰ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ক্ৰোধত"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "শান্ত কৰে"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "কলহ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:20.241749309Z",
+  "model": "glm-5.3"
+}

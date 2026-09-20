@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "তুমি পৰদেশী আৰু অনাথৰ ন্যায় বেঁকা নকৰিবা, আৰু বিধৱাৰ কাপোৰ বন্ধক হিচাপে নল'বা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "বেঁকা কৰিবা"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ন্যায়"
+    },
+    {
+      "surface": "גר",
+      "gloss": "পৰদেশী"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "অনাথ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "বন্ধক ল'বা"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "কাপোৰ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "বিধৱাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:02:03.297404982Z",
+  "model": "glm-5.3"
+}

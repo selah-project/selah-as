@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "কান্দাৰ সময়, আৰু হাঁহিৰ সময়; শোক কৰাৰ সময়, আৰু নাচাৰ সময়।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "কান্দাৰ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু হাঁহিৰ সময়"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "হাঁহিৰ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "শোক কৰাৰ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু নাচাৰ সময়"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "নাচাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:33.055648175Z",
+  "model": "glm-5.3"
+}

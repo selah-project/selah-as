@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 55,
+  "translation": "মই খৰাই কৰোঁ মোৰ পলায়ন — দৌৰি অহা বতাহৰ পৰা, ধুমুহাৰ পৰা।",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "খৰাই কৰোঁ"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "পলায়ন"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "বতাহৰ পৰা"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "দৌৰি অহা"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "ধুমুহাৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:44:13.793380744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "অংগচেপা বা নিষ্পেষিত, আৰু লিংগ কটা ব্যক্তি ইয়াহৱেহৰ সমাৱেশত সোমাব নালাগে।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "সোমাব"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "অংগচেপা"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "নিষ্পেষিত"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "আৰু কটা"
+    },
+    {
+      "surface": "שפכা",
+      "gloss": "লিংগ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "সমাৱেশত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:01:20.692197741Z",
+  "model": "glm-5.3"
+}

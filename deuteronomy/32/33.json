@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "সিহঁতৰ মদ ⟨হৈছে⟩ দানৱসকলৰ বিষ, আৰু ভাইপাৰসমূহৰ নিষ্ঠুৰ বিষ।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "বিষ"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "দানৱসকলৰ"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "সিহঁতৰ মদ"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "আৰু বিষ"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "ভাইপাৰসমূহৰ"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "নিষ্ঠুৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:04:43.454385698Z",
+  "model": "glm-5.3"
+}

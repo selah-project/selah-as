@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "কিন্তু কোৰহৰ পুতেকসকলৰ মৃত্যু হোৱা নাছিল।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু …ৰ পুতেকসকল"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোৰহৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাছিল"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "মৃত্যু হোৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:03:18.599343911Z",
+  "model": "glm-5.3"
+}

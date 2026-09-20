@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "গাঁত খান্দাজন তাতে পৰিব; আৰু শিল গড়াই নিয়াজনৰ ওচৰলৈ সেইটো ঘূৰি আহিব।",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "খান্দাজন"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "গাঁত"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "পৰিব"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "আৰু গড়াই নিয়াজন"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "শিল"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁৰ ওচৰলৈ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ঘূৰি আহিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:11.440892308Z",
+  "model": "glm-5.3"
+}

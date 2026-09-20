@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "য়াৰমুথৰ ৰজা এজন; লাখিছৰ ৰজা এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "য়াৰমুথৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "লাখিছৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:20.981117308Z",
+  "model": "glm-5.3"
+}

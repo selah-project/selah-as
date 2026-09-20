@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 44,
+  "translation": "আৰু আমাৰ পিতাই ক'লে, “ঘূৰি যাও, আমাৰ বাবে অলপ খাদ্য কিনি আনা।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "আমাৰ পিতাই"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ঘূৰি যাও"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "কিনি আনা"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাৰ বাবে"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "খাদ্য"
+    }
+  ],
+  "timestamp": "2026-09-19T21:49:49.771395154Z",
+  "model": "glm-5.3"
+}

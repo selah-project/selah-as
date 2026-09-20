@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "ফটিকলোকাৰ কোনো ৰজা নাই, তথাপি সকলোে দলবদ্ধভাৱে ওলাই যায়।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ফটিকলোকাৰ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ওলাই যায়"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "দলবদ্ধভাৱে"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "সকলো"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:16.683138727Z",
+  "model": "glm-5.3"
+}

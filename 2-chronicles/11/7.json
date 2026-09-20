@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "⟨ואת⟩ বেইত চুৰ, ⟨ואת⟩ চোকো আৰু ⟨ואת⟩ আদুল্লাম ⟨নিৰ্মাণ কৰিলে⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "বেইত চুৰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "צור",
+      "gloss": "চুৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "চোকো"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "চোকো"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "আদুল্লাম"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "আদুল্লাম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:41:37.928852751Z",
+  "model": "glm-5.3"
+}

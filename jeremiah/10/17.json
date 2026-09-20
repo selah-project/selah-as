@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মাটিৰ পৰা তোমাৰ সামগ্ৰী গোটাই লওক, হে অৱৰোধত বাস কৰোঁতা।",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "গোটাই লওক"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "মাটিৰ পৰা"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "তোমাৰ সামগ্ৰী"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "বাস কৰোঁতা"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "অৱৰোধত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:02:21.338435245Z",
+  "model": "glm-5.3"
+}

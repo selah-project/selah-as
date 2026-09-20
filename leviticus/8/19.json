@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "তেওঁ ⟨ইয়াক⟩ বধ কৰিলে; আৰু মোশ্বেই ⟨את⟩ তেজ যজ্ঞবেদীৰ চাৰিওফালে ছটিয়াই দিলে।",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "বধ কৰিলে"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ছটিয়াই দিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তেজ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "তেজ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "যজ্ঞবেদীৰ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "চাৰিওফালে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:17:34.623450201Z",
+  "model": "glm-5.3"
+}

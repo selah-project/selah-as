@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "কিয়নো ইয়াহৱেহে ধাৰ্মিকসকলৰ পথ জানে, আৰু দুষ্টসকলৰ পথ নষ্ট হ'ব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ধাৰ্মিকসকলৰ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "আৰু পথ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "תאবד",
+      "gloss": "নষ্ট হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T02:28:14.142993215Z",
+  "model": "glm-5.3"
+}

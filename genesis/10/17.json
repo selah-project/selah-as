@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু ⟨את⟩ হিভ্ৱীসকল, ⟨את⟩ আৰ্কীসকল আৰু ⟨את⟩ চিনীসকল।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "হিভ্ৱীসকল"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "হিভ্ৱীসকল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "আৰ্কীসকল"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "আৰ্কীসকল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "চিনীসকল"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "চিনীসকল"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:19.617490678Z",
+  "model": "glm-5.3"
+}

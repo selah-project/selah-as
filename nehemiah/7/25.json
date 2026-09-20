@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "গিভিয়নৰ পুতেকসকল — নৱ্বৈ আৰু পাঁচ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "গিভিয়নৰ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "নৱ্বৈ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "আৰু পাঁচ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:49.617723524Z",
+  "model": "glm-5.3"
+}

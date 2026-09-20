@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "শ্বেলোমোৰ খাদ্য আছিল এটা দিনত ত্ৰিশ কোৰ মিহি আটা আৰু ষাঠি কোৰ সাধাৰণ আটা।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "খাদ্য"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমোৰ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "এটা দিনত"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্ৰিশ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "কোৰ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "মিহি আটা"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "আৰু ষাঠি"
+    },
+    {
+      "surface": "כר",
+      "gloss": "কোৰ"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "সাধাৰণ আটা"
+    }
+  ],
+  "timestamp": "2026-09-20T00:06:08.720809083Z",
+  "model": "glm-5.3"
+}

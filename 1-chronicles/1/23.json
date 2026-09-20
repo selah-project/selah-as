@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু ⟨את⟩ ওফিৰ, আৰু ⟨את⟩ হাভিলাহ, আৰু ⟨את⟩ য়োভাভ; এই সকলোৱেই য়ক্তানৰ পুত্ৰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ওফিৰ"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ওফিৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "হাভিলাহ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "হাভিলাহ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "য়োভাভ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "য়োভাভ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "য়ক্তানৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:24:44.642815307Z",
+  "model": "glm-5.3"
+}

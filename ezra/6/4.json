@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "ডাঙৰ শিলৰ তিনিটা শাৰী আৰু নতুন কাঠৰ এটা শাৰী; আৰু খৰচ ৰজাৰ ঘৰৰ পৰা দিয়া হওক।",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "শাৰীবোৰ"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "শিলৰ"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "তিনিটা"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "আৰু এটা শাৰী"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "אע",
+      "gloss": "কাঠৰ"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "নতুন"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "আৰু খৰচ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "দিয়া হওক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:15:04.510770159Z",
+  "model": "glm-5.3"
+}

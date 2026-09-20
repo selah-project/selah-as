@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "মানুহজনীয়ে সাপটোক ক'লে, “বাৰীৰ গছবোৰৰ ফল আমি খাওঁ।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "মানুহজনীয়ে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "সাপটোক"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ফল ... পৰা"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "গছ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "বাৰীৰ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "খাওঁ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:37.179601413Z",
+  "model": "glm-5.3"
+}

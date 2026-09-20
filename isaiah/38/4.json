@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 38:4",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "তাৰ পাছত ইয়াহৱেহৰ বাক্য য়েশায়াহুৰ ওচৰলৈ আহিল, কৈ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "তাৰ পাছত হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ৰ ওচৰলৈ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "য়েশায়াহুৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:44:54.229611248Z",
+  "model": "glm-5.3"
+}

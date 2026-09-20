@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "সি হৈছে কোলাহলপূৰ্ণ আৰু অবাধ্য; তাইৰ ভৰিয়ে তাইৰ ঘৰত জিৰণি নলয়।",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "কোলাহলপূৰ্ণ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সি হৈছে"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "আৰু অবাধ্য"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "তাইৰ ঘৰত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নলয়"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "জিৰণি"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "তাইৰ ভৰিয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:36.458032888Z",
+  "model": "glm-5.3"
+}

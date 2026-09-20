@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 1:6",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "শ্বেলোমো তাত ইয়াহৱেহৰ আগত, মিলনৰ তম্বুৰ ⟨the⟩ ব্ৰঞ্জৰ বেদীখনৰ ওপৰলৈ উঠিল, আৰু তাৰ ওপৰত এহেজাৰ পোৰ-উৎসৰ্গ ⟨offered⟩ চড়াই দিলে।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমো"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰলৈ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "বেদী"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ব্ৰঞ্জৰ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "তম্বু"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "মিলনৰ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "চড়াই দিলে"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তাৰ ওপৰত"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "পোৰ-উৎসর্গ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:38:16.087262666Z",
+  "model": "glm-5.3"
+}

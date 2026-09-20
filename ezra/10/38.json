@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু বানি, আৰু বিন্নুই, শিমি,",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু বানি"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "আৰু বিন্নুই"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শিমি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:15:55.426496044Z",
+  "model": "glm-5.3"
+}

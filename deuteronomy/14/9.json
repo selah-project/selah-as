@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "পানীত থকা সকলোৰ পৰা এই ⟨את⟩ তোমালোকে খাব; যাৰ পাখনী আৰু খোলা আছে, সেই সকলো তোমালোকে খাব।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "খাব"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "সকলোৰ পৰা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "במים",
+      "gloss": "পানীত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাৰ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "পাখনী"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "আৰু খোলা"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "খাব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:55:58.017204215Z",
+  "model": "glm-5.3"
+}

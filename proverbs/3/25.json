@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আচানক ভয়ৰ পৰা আৰু দুষ্টসকলৰ বিনাশৰ পৰা, যেতিয়া ⟨সেই⟩ আহে, তেতিয়া নাভয়।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ভয় নকৰিবা"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ভয়ৰ পৰা"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "আচানক"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "আৰু বিনাশৰ পৰা"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "আহে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:04.638621884Z",
+  "model": "glm-5.3"
+}

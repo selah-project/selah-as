@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ইস্ৰায়েলৰ পুত্ৰসকলক কোৱা ⟨কৈ ক'ব⟩: গৰু, ভেড়া আৰু ছাগলীৰ ⟨কোনো⟩ চৰ্বি তোমালোকে নাখাব।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "কোৱা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকলক"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "לאমר",
+      "gloss": "কৈ ক'ব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "চৰ্বি"
+    },
+    {
+      "surface": "שור",
+      "gloss": "গৰুৰ"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "আৰু ভেড়াৰ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "আৰু ছাগলীৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "খাব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:14:47.310526270Z",
+  "model": "glm-5.3"
+}

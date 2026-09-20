@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু যোনাহৰ ওচৰত এডাল ডাঙৰ দুষ্টতা হ'ল, আৰু তেওঁ ক্ৰোধিত হ'ল।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "দুষ্ট হ'ল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ৰ ওচৰত"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "যোনাহ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "দুষ্টতা"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ক্ৰোধিত হ'ল"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:13:35.668504830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "হাশ্বুমৰ ⟨সন্তানসকল⟩ — তিনিশ বিছ আঠ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "হাশ্বুমৰ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিছ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "আঠ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:40.641381778Z",
+  "model": "glm-5.3"
+}

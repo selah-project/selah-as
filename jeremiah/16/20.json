@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "মানুহে নিজৰ বাবে দেৱতা নিৰ্মাণ কৰিব পাৰেনে, আৰু সেইবোৰ দেৱতা নহয়?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "নিৰ্মাণ কৰিব পাৰেনে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "নিজৰ বাবে"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "দেৱতা"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "আৰু সেইবোৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "দেৱতা"
+    }
+  ],
+  "timestamp": "2026-09-20T01:06:04.796285451Z",
+  "model": "glm-5.3"
+}

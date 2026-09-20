@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 52,
+  "translation": "তুমি ভালতকৈ মন্দ ভাল পালা, ধৰ্মৰ কথা কোৱাতকৈ মিথ্যা ভাল পালা। চেলাহ।",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ভাল পালা"
+    },
+    {
+      "surface": "רע",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ভালতকৈ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিথ্যা"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "কথা কোৱাতকৈ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ধৰ্ম"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "চেলাহ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:44:45.579301301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "উজিয়া আশ্তেৰাতীয়া, শ্বামা আৰু যিৱএল হোতামৰ পুতেক, আৰোৱেৰীয়া;",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "উজিয়া"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "আশ্তেৰাতীয়া"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "শ্বামা"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "আৰু যিৱএল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "হোতামৰ"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "আৰোৱেৰীয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:17.601194822Z",
+  "model": "glm-5.3"
+}

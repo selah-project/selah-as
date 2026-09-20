@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু আবিমেলেকে ইস্ৰায়েলৰ ওপৰত তিনি বছৰ ৰাজত্ব কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "ৰাজত্ব কৰিলে"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "আবিমেলেক"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ ওপৰত"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েল"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:24:35.203375854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "তেওঁ শিক্ষা নথকাকৈ মৰিব, আৰু নিজৰ প্ৰচুৰ মূৰ্খতাতে তেওঁ পথভ্ৰষ্ট হ'ব।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "মৰিব"
+    },
+    {
+      "surface": "באין",
+      "gloss": "নথকাকৈ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শিক্ষা"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "আৰু প্ৰচুৰতাত"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "মূৰ্খতাৰ"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "পথভ্ৰষ্ট হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:08.475680428Z",
+  "model": "glm-5.3"
+}

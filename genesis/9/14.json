@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু এয়া হ'ব — মই পৃথিৱীৰ ওপৰত মেঘ আনোঁতে ধনুখন মেঘত দেখা দ'ব,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "আৰু এয়া হ'ব"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "মই ... আনোঁতে"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "মেঘ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "দেখা দ'ব"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "ধনুখন"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "মেঘত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:28:30.523542846Z",
+  "model": "glm-5.3"
+}

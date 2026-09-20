@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "আৰু মোশ্বে আৰু আহৰোনে সাক্ষাৎ-কক্ষৰ সন্মুখলৈ আহিল।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "আৰু আহৰোনে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "সন্মুখ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "কক্ষ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "সাক্ষাৎ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:36:47.740650253Z",
+  "model": "glm-5.3"
+}

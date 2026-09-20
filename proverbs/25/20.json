@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "শীতল দিনত কাপোৰ খোলাৰ দৰে, আৰু খাৰৰ ওপৰত ভিনেগাৰ ঢালি দিয়াৰ দৰে — দুখী হৃদয়ৰ ওপৰত গীত গোৱা।",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "খোলাৰ দৰে"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "কাপোৰ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "শীতল"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ভিনেগাৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "খাৰ"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "গীত গোৱা"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ৰ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "দুখী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:27.530308996Z",
+  "model": "glm-5.3"
+}

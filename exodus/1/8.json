@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "তাৰ পাছত মিৎচৰায়িমত এজন নতুন ৰজা উত্থিত হ'ল, যিজনে ⟨את⟩ য়োচেফক নাজানিছিল।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "উত্থিত হ'ল"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "নতুন"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "মিৎচৰায়িম"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিজনে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানিছিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "য়োচেফ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "য়োচেফ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:51:49.275859404Z",
+  "model": "glm-5.3"
+}

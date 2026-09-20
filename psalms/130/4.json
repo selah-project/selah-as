@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 130,
+  "translation": "কিয়নো আপোনাৰ লগত ক্ষমা আছে, যাতে আপোনাক ভয় কৰা হয়।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "আপোনাৰ লগত"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ক্ষমা"
+    },
+    {
+      "surface": "למען",
+      "gloss": "যাতে"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ভয় কৰা হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:07:20.449753127Z",
+  "model": "glm-5.3"
+}

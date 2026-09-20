@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "ব্যভিচাৰ আৰু মদ আৰু নতুন মদে হৃদয় ⟨খহাই⟩ নিয়ে।",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "ব্যভিচাৰ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "আৰু মদ"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "আৰু নতুন মদ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "খহাই নিয়ে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    }
+  ],
+  "timestamp": "2026-09-20T02:01:20.060640856Z",
+  "model": "glm-5.3"
+}

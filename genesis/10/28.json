@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু ⟨את⟩ ওভাল, ⟨את⟩ আভিমাএল, আৰু ⟨את⟩ চেভা ⟨য়ক্তানে জন্ম দিলে⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ওভাল"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ওভাল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "আভিমাএল"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "আভিমাএল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "চেভা"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "চেভা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:22.758765103Z",
+  "model": "glm-5.3"
+}

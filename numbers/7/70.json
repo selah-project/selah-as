@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ছাগলীৰ পোৱালি এটা, পাপ-উৎসৰ্গৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "שעিন",
+      "gloss": "ছাগলীৰ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "পোৱালি"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "পাপ-উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:32:49.718230844Z",
+  "model": "glm-5.3"
+}

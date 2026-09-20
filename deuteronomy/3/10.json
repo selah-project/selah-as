@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "সমতলৰ সকলো নগৰ, আৰু সমগ্ৰ গিলআদ, আৰু চলখা আৰু এদ্ৰেই পৰ্যন্ত সমগ্ৰ বাশান — বাশানত ওগৰ ৰাজ্যৰ নগৰসমূহ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "সমতলৰ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সমগ্ৰ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "গিলআদ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সমগ্ৰ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "বাশান"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পৰ্যন্ত"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "চলখা"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "আৰু এদ্ৰেই"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "নগৰসমূহ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ৰাজ্যৰ"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ওগ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "বাশানত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:50:06.517589480Z",
+  "model": "glm-5.3"
+}

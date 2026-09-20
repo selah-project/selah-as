@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 42,
+  "translation": "আমি বাৰোটা ভাই, এজন পিতৃৰ পুতেক; এজন নাই, আৰু সৰুজন আজি আমাৰ পিতৃৰ লগত কনান দেশত আছে।",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "বাৰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ভাই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "আমাৰ পিতৃৰ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "আৰু সৰুজন"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজি"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨আমাৰ পিতৃৰ লগত⟩"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "আমাৰ পিতৃ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনান"
+    }
+  ],
+  "timestamp": "2026-09-19T21:48:55.812536046Z",
+  "model": "glm-5.3"
+}

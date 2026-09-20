@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "মই ক'লোঁ, “এইবোৰ কি, মোৰ আদোনাই?” আৰু মোৰ লগত কথা পাতি থকা দূতজনে মোক ক'লে, “মই তোমাক দেখুৱাম এইবোৰ কি।”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ক'লোঁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ কাষলৈ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "দূতজনে"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথা পাতি থকা"
+    },
+    {
+      "surface": "בי",
+      "gloss": "মোৰ লগত"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "তোমাক দেখুৱাম"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "המה",
+      "gloss": "সিহঁত"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:20:35.461344310Z",
+  "model": "glm-5.3"
+}

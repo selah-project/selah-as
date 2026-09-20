@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "এলকানাৰ পুতেক, য়ৰোহামৰ পুতেক, এলিয়েলৰ পুতেক, তোৱাহৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "এলকানাৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "য়ৰোহামৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "এলিয়েলৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "তোৱাহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:01.869550042Z",
+  "model": "glm-5.3"
+}

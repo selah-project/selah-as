@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "দুষ্কৰ্মত মানুহ স্থিৰ নহয় হয়, কিন্তু ধাৰ্মিকসকলৰ শিপা একেও নকঁপে।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "স্থিৰ হয়"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "দুষ্কৰ্মত"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "আৰু শিপা"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ধাৰ্মিকসকলৰ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "একেও নহয়"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "নকঁপে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:10.174260657Z",
+  "model": "glm-5.3"
+}

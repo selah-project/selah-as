@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "লেৱীৰ হৈছিল হাশ্ববিয়াহ কমুৱেলৰ পুতেক; আহৰোনৰ হৈছিল চাদোক।",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "লেৱীৰ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "হাশ্ববিয়াহ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "কমুৱেলৰ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "আহৰোনৰ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "চাদোক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:37:12.636603578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "আৰু লেয়াৰ দাসী জিল্পাই য়াকোভৰ এটা পুতেক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "আৰু জন্ম দিলে"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "জিল্পাই"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "দাসী"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লেয়াৰ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "য়াকোৱৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:38:51.427540569Z",
+  "model": "glm-5.3"
+}

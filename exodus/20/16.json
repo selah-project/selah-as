@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "তুমি তোমাৰ সহিতীয়ৰ বিপৰীতে মিছা সাক্ষী নিদিবা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "নিদিবা"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "তোমাৰ সহিতীয়ৰ বিপৰীতে"
+    },
+    {
+      "surface": "עד",
+      "gloss": "সাক্ষী"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিছা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:59:58.686514635Z",
+  "model": "glm-5.3"
+}

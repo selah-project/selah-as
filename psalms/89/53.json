@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 89,
+  "translation": "ধন্য ইয়াহৱেহ ⟨অনন্তকাললৈ⟩। আমিন, আৰু আমিন।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "অনন্তকাললৈ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমিন"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "আৰু আমিন"
+    }
+  ],
+  "timestamp": "2026-09-20T02:56:13.654803434Z",
+  "model": "glm-5.3"
+}

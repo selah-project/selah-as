@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু তেওঁ এটা পুতেক জগায় — হিংসুক এজন, তেজ ঢালোতা; আৰু এইবোৰৰ এটা ⟨ভাতৃৰ⟩ ওপৰত কৰে।",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "আৰু জগায়"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "হিংসুক জন"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ঢালোতা"
+    },
+    {
+      "surface": "דם",
+      "gloss": "তেজ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "আৰু কৰে"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ভাতৃৰ ওপৰত"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "এইবোৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:37:06.799665600Z",
+  "model": "glm-5.3"
+}

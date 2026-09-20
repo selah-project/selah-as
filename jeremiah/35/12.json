@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "তাৰ পাছত ইয়াহৱেহৰ বাক্য য়িৰ্মিয়াহুৰ ওচৰলৈ আহিল, এই কথা কৈ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "য়িৰ্মিয়াহুৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই কথা কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:15:41.852911780Z",
+  "model": "glm-5.3"
+}

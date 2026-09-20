@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 114,
+  "translation": "সাগৰে দেখিলে আৰু পলাই গ'ল; য়াৰ্দন পিছুৱাই গ'ল।",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "সাগৰে"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "দেখিলে"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "আৰু পলাই গ'ল"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "য়াৰ্দন"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ঘূৰি গ'ল"
+    },
+    {
+      "surface": "লאחור",
+      "gloss": "পিছুৱাই"
+    }
+  ],
+  "timestamp": "2026-09-20T03:03:09.751441308Z",
+  "model": "glm-5.3"
+}

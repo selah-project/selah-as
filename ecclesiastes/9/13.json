@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "এইও মই দেখিলোঁ — সূৰ্যৰ তলত প্ৰজ্ঞা, আৰু সেয়া মোৰ দৃষ্টিত ডাঙৰ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "এইও"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "মই দেখিলোঁ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "প্ৰজ্ঞা"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্যৰ"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সেয়া"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:54.469589340Z",
+  "model": "glm-5.3"
+}

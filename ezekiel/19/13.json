@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু এতিয়া তাক মৰুভূমিত ৰোপণ কৰা হ’ল, শুষ্ক আৰু পিপাসিত দেশত।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "আৰু এতিয়া"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "ৰোপণ কৰা হ’ল"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "মৰুভূমিত"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "শুষ্ক"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "আৰু পিপাসিত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:38:47.063847902Z",
+  "model": "glm-5.3"
+}

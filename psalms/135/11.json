@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 135,
+  "translation": "চিহোন এমোৰীসকলৰ ৰজাক, ওগ বাশানৰ ৰজাক, আৰু কনানৰ সকলো ৰাজ্যক —",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "চিহোনক"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "এমোৰীসকলৰ"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "আৰু ওগক"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "বাশানৰ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ৰাজ্য"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনানৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:07:28.147719347Z",
+  "model": "glm-5.3"
+}

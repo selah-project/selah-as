@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু ⟨את⟩ ৰেচেন — নিনৱেহ আৰু কেলাহৰ মাজত; সেইটোৱেই ⟨হৈছে⟩ ডাঙৰ চহৰখন।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ৰেচেন"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "ৰেচেন"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "নিনৱেহ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "আৰু … ৰ মাজত"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "কেলাহ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইটোৱেই"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "চহৰখন"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ডাঙৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:24.110664406Z",
+  "model": "glm-5.3"
+}

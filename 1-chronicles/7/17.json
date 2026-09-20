@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু ঊলামৰ পুতেকসকল আছিল বেদান। এইসকল গিলআদৰ পুতেক — মাখিৰৰ পুতেক, মেনাশ্বেহৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ঊলামৰ"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "বেদান"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইসকল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "গিলআদৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "মাখিৰৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মেনাশ্বেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:38.608541913Z",
+  "model": "glm-5.3"
+}

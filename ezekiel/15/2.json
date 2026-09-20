@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "“হে মানুহৰ পুত্ৰ, আঙুৰলতাৰ কাঠ আন সকলো গছতকৈ কি? বনৰ গছসমূহৰ মাজত থকা আঙুৰৰ ডালটো ⟨কি⟩?”",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "কাঠ"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "আঙুৰলতাৰ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "আন সকলো ... তকৈ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "গছতকৈ"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "আঙুৰৰ ডালটো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "היה",
+      "gloss": "থকা"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "গছসমূহৰ মাজত"
+    },
+    {
+      "surface": "היער",
+      "gloss": "বনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:18:39.074643162Z",
+  "model": "glm-5.3"
+}

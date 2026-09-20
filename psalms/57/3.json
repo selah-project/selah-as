@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 57,
+  "translation": "মই এলোহিম এলিয়োনক মাতিম, মোৰ কাৰণে সম্পূৰ্ণ কৰা ⟨এল⟩ক মাতিম।",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "মাতিম"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "এলোহিমক"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "এলিয়োন"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "এলক"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "সম্পূৰ্ণ কৰা"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মোৰ কাৰণে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:45:35.086005999Z",
+  "model": "glm-5.3"
+}

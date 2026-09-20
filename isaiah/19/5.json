@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু সাগৰৰ পৰা পানী ক্ষয় হ’ব, আৰু নদী শুকাই শুষ্ক হ’ব।",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ক্ষয় হ’ব"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "সাগৰৰ পৰা"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "আৰু নদী"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "শুকাই ধ্বংস হ’ব"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "শুষ্ক হ’ব"
+    }
+  ],
+  "timestamp": "2026-09-20T00:38:32.099635427Z",
+  "model": "glm-5.3"
+}

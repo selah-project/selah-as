@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "সেয়ে জনসাধাৰণে সপ্তম দিনা জিৰাই থাকিলে।",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "জিৰাই থাকিলে"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনসাধাৰণে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "সপ্তম"
+    }
+  ],
+  "timestamp": "2026-09-19T22:01:02.443543355Z",
+  "model": "glm-5.3"
+}

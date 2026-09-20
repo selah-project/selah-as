@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেতিয়া তুমি এলোহিম আৰু মানুহৰ চকুত অনুগ্ৰহ আৰু উত্তম বুদ্ধি পাব।",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "তেতিয়া তুমি পাব"
+    },
+    {
+      "surface": "חן",
+      "gloss": "অনুগ্ৰহ"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "আৰু বুদ্ধি"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চকুত"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "আৰু মানুহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:59.186254210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "এইবোৰো জ্ঞানীসকলৰ ⟨কথা⟩: বিচাৰত মুখ চিনাক্ত কৰাটো ভাল নহয়।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "এইবোৰো"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "জ্ঞানীসকলৰ"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "চিনাক্ত কৰা"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "বিচাৰত"
+    },
+    {
+      "surface": "בל",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:00.263450538Z",
+  "model": "glm-5.3"
+}

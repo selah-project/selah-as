@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "শ্বেওলৰ পথবোৰ ⟨আছিল⟩ তেওঁৰ ঘৰ — মৃত্যুৰ কোঠালিবোৰলৈ নামি যোৱা।",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "পথবোৰ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বেওলৰ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "তেওঁৰ ঘৰ"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "নামি যোৱা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "কোঠালিবোৰলৈ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যুৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:21.042661193Z",
+  "model": "glm-5.3"
+}

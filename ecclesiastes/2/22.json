@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "কাৰণ সূৰ্য্যৰ তলত মানুহৰ সকলো পৰিশ্ৰম আৰু মনৰ চিন্তাৰ পৰা — যি সি তাত কষ্ট কৰে — তাৰ ⟨অংশ⟩ কি?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨হয়⟩"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "মানুহৰ বাবে"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "পৰিশ্ৰমৰ পৰা"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "আৰু চিন্তাত"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "তাৰ হৃদয়ৰ"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "যি সি"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "কষ্ট কৰে"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্য্যৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:57.373461026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "দিনে দিনলৈ বাক্য উকলি দিয়ে, আৰু ৰাতিয়ে ৰাতিলৈ জ্ঞান প্ৰকাশ কৰে।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "দিনলৈ"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "উকলি দিয়ে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "আৰু ৰাতিয়ে"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ৰাতিলৈ"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "প্ৰকাশ কৰে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    }
+  ],
+  "timestamp": "2026-09-20T02:34:24.317912301Z",
+  "model": "glm-5.3"
+}

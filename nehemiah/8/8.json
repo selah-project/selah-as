@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু তেওঁলোকে ⟨the⟩ কিতাপত পঢ়িলে — এলোহিমৰ তোৰাত — স্পষ্টকৈ, আৰু ⟨they⟩ অৰ্থ দি বুজালে; আৰু তেওঁলোকে পাঠত বুজ পালে।",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "পঢ়িলে"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "⟨the⟩ কিতাপত"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "তোৰাত"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "স্পষ্টকৈ"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "দি"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "অৰ্থ"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "বুজালে"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "পাঠত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:10.698763379Z",
+  "model": "glm-5.3"
+}

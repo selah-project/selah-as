@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "তাহাতৰ পুতেক, আচিৰৰ পুতেক, এভিয়াচাফৰ পুতেক, কোৰাহৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তাহাতৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "আচিৰৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "এভিয়াচাফৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোৰাহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:44.653713736Z",
+  "model": "glm-5.3"
+}

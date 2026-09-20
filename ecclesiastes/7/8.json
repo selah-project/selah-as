@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "কাৰ্যৰ শেষ আৰম্ভণিতকৈ ভাল; দীৰ্ঘৰূচি মনোভাৱ উচ্চ মনোভাৱতকৈ ভাল।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "শেষ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কাৰ্যৰ"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "আৰম্ভণিতকৈ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "দীৰ্ঘৰূচি"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "মনোভাৱ"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "উচ্চ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "মনোভাৱতকৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:23.117159434Z",
+  "model": "glm-5.3"
+}

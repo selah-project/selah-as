@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "জীৱিত মানুহে কিয় গুণা-গনা কৰিব লাগে, ⟨a⟩ মানুহে ⟨the⟩ নিজৰ পাপৰ শাস্তিৰ বাবে?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "গুণা-গনা কৰিব লাগে"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীৱিত"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "על",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "নিজৰ পাপৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:25:41.331602966Z",
+  "model": "glm-5.3"
+}

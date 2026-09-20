@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 1:3",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "খানোখ্ব, মেতুচ্বেলাখ্ব, লেমেখ্ব।",
+  "tokens": [
+    {
+      "surface": "חנוך",
+      "gloss": "খানোখ্ব"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "মেতুচ্বেলাখ্ব"
+    },
+    {
+      "surface": "למך",
+      "gloss": "লেমেখ্ব"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:07.028361963Z",
+  "model": "glm-5.3"
+}

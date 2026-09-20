@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু সাত দিনৰ পাছত মহাপ্লাৱনৰ পানীবোৰ পৃথিৱীৰ ওপৰত আছিল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "সাত দিনৰ পাছত"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "আৰু পানীবোৰ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "মহাপ্লাৱনৰ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:44.583673885Z",
+  "model": "glm-5.3"
+}

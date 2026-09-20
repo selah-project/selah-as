@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 48:30",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "মই জানো — ইয়াহৱেহৰ উক্তি — সিৰ ক্ৰোধ; কিন্তু তেনে নহ'ব; সিৰ মিছা কথাবোৰে তেনে কৰা নাই।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "জানো"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "উক্তি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "সিৰ ক্ৰোধ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "কিন্তু নহয়"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেনে"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "সিৰ মিছা কথাবোৰে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেনে"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "কৰা নাই"
+    }
+  ],
+  "timestamp": "2026-09-20T01:25:55.699131552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "এই ⟨কথাবোৰ⟩ মই মোৰ হৃদয়লৈ ঘুৰাই আনোঁ; সেয়েহে মই আশা কৰোঁ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ঘুৰাই আনোঁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "মোৰ হৃদয়"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ বাবে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "আশা কৰোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:10.941551953Z",
+  "model": "glm-5.3"
+}

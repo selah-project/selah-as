@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "একবিংশ য়াখিনৰ ⟨আছিল⟩, বাইশ গামুলৰ ⟨আছিল⟩।",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "য়াখিনৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "আৰু বিশ"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "গামুলৰ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "আৰু বিশ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:36:01.270434553Z",
+  "model": "glm-5.3"
+}

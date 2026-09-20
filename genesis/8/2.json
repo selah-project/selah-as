@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "তেহোমৰ উৎসবোৰ আৰু আকাশৰ জানলাবোৰ বন্ধ কৰা হ'ল, আৰু আকাশৰ পৰা বৰষুণ ৰোধ হ'ল।",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "বন্ধ কৰা হ'ল"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "উৎসবোৰ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "তেহোমৰ"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "জানলাবোৰ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "আকাশৰ"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "ৰোধ হ'ল"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "বৰষুণ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "আকাশ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:08.452924069Z",
+  "model": "glm-5.3"
+}

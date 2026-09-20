@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "আৰু বিনয়ীসকলে ⟨the⟩ পৃথিৱী উত্তৰাধিকাৰী হ'ব, আৰু প্ৰচুৰ শান্তিত ⟨themselves⟩ আনন্দ ল'ব।",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "আৰু বিনয়ীসকলে"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "উত্তৰাধিকাৰী হ'ব"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিৱী"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "আনন্দ ল'ব"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "רב",
+      "gloss": "প্ৰচুৰ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    }
+  ],
+  "timestamp": "2026-09-20T02:37:56.988050729Z",
+  "model": "glm-5.3"
+}

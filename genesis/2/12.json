@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু সেই দেশৰ সোণ ভাল; তাত বেদোলখ আৰু শ্বোহামৰ শিল ⟨আছে⟩।",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "আৰু সোণ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশৰ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "বেদোলখ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "আৰু শিল"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "শ্বোহামৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:25:57.935506545Z",
+  "model": "glm-5.3"
+}

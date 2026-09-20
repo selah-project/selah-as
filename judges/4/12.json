@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু চিচেৰাক কোৱা হ'ল যে আবিনো'মৰ পুতেক বাৰাক তাবোৰ পৰ্বতলৈ উঠিছে।",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "কোৱা হ'ল"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "চিচেৰাক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "উঠিছে"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "বাৰাক"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "আবিনো'মৰ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পৰ্বতলৈ"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "তাবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:22:15.696028623Z",
+  "model": "glm-5.3"
+}

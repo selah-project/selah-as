@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ওলমি থকা অলংকাৰবোৰ, হাৰবোৰ আৰু মুখাৱৰণবোৰ।",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "ওলমি থকা অলংকাৰবোৰ"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "হাৰবোৰ"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "মুখাৱৰণবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:33:46.524961585Z",
+  "model": "glm-5.3"
+}

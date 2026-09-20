@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু শ্বেবুএল — মোশ্বেৰ পুত্ৰ গেৰশ্বোমৰ পুত্ৰ — ভঁৰালসমূহৰ ওপৰত অধ্যক্ষ আছিল।",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "আৰু শ্বেবুএল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "গেৰশ্বোমৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেৰ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "অধ্যক্ষ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "ভঁৰালসমূহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:37:13.923833973Z",
+  "model": "glm-5.3"
+}

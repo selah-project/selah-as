@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ঢেত শিল পেলাবলৈ, আৰু ঢেত শিল গোটাবলৈ; ঢেত আলিংগন কৰিবলৈ, আৰু ঢেত আলিংগনৰ পৰা আঁতৰি থাকিবলৈ।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ঢেত"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "পেলাবলৈ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "শিল"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু ঢেত"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "গোটাবলৈ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "শিল"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ঢেত"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "আলিংগন কৰিবলৈ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু ঢেত"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "আঁতৰি থাকিবলৈ"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "আলিংগনৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:05.337833562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু আনাব, আৰু এশ্বতেমোহ, আৰু আনিম।",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "আৰু আনাব"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "আৰু এশ্বতেমোহ"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "আৰু আনিম"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:39.466952630Z",
+  "model": "glm-5.3"
+}

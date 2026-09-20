@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "দাৱিদে মৰুভূমিত শুনিলে যে নাবালে ⟨את⟩ নিজৰ পালৰ পশম কাটি আছে।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "শুনিলে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "মৰুভূমিত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "পশম কাটি আছে"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "নাবালে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিজৰ পাল"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "নিজৰ পাল"
+    }
+  ],
+  "timestamp": "2026-09-19T23:44:30.094072729Z",
+  "model": "glm-5.3"
+}

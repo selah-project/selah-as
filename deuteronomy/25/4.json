@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "শস্য দলিয়াই থকা বলধৰ মুখ বন্ধ কৰিব নালাগে।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "মুখ বন্ধ কৰিব"
+    },
+    {
+      "surface": "שור",
+      "gloss": "বলধ"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "শস্য দলিয়াই থকা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:47.856327392Z",
+  "model": "glm-5.3"
+}

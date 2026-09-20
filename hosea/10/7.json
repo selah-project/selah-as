@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "শোমৰোন ধ্বংস হ'ব; তাৰ ৰজা পানীৰ পৃষ্ঠত থকা ফেনৰ দৰে ⟨নাই হ'ব⟩।",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "ধ্বংস হ'ব"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "শোমৰোন"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "তাৰ ৰজা"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "ফেনৰ দৰে"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ৰ ওপৰত"
+    },
+    {
+      "surface": "פני",
+      "gloss": "পৃষ্ঠত"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানীৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:06:13.785883187Z",
+  "model": "glm-5.3"
+}

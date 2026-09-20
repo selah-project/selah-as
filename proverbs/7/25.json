@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "তেওঁৰ পথবোৰৰ ফালে তোমাৰ হৃদয় নিকুণিব; তেওঁৰ পথিকাবোৰত ভুল-পথ নল'ব।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নকৰিব"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "নিকুণিব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ফালে"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "তেওঁৰ পথবোৰৰ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "তোমাৰ হৃদয়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নল'ব"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "ভুল-পথ"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "তেওঁৰ পথিকাবোৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:21.042009311Z",
+  "model": "glm-5.3"
+}

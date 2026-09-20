@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "সেই চিয়োন পৰ্ব্বতৰ বাবে, যি উজাড হৈ আছে — শিয়ালবোৰে তাত খোজ কাঢ়িছে।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পৰ্ব্বত"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "চিয়োন"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "উজাড হৈ আছে"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "শিয়ালবোৰে"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "খোজ কাঢ়িছে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:30.845232989Z",
+  "model": "glm-5.3"
+}

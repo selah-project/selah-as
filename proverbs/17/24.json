@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "বুদ্ধিমান জনৰ মুখৰ সন্মুখত ⟨את⟩ জ্ঞান, আৰু নিৰ্বোধৰ চকুহাল পৃথিৱীৰ শেষত।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মুখ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখৰ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "বুদ্ধিমান জনৰ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "আৰু চকুহাল"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "নিৰ্বোধৰ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "শেষত"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিৱীৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:03.145412563Z",
+  "model": "glm-5.3"
+}

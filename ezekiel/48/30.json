@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "আৰু এইবোৰ নগৰখনৰ সীমা: উত্তৰ দিশৰ পৰা পাঁচশ আৰু চাৰি হাজাৰ মাপ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আৰু এইবোৰ"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "সীমা"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগৰখনৰ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "দিশৰ পৰা"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "উত্তৰ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "আৰু চাৰি"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "মাপ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:01:29.763026634Z",
+  "model": "glm-5.3"
+}

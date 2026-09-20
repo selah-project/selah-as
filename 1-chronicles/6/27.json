@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "এইতানৰ পুতেক, জিম্মাৰ পুতেক, শ্বিমিৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "এইতানৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "জিম্মাৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শ্বিমিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:01.650424455Z",
+  "model": "glm-5.3"
+}

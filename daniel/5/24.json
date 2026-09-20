@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "তেতিয়া তেওঁৰ সন্মুখৰ পৰা হাতৰ তলুটো পঠোৱা হ'ল, আৰু এই লিখনি লিখা হ'ল।",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ৰ পৰা"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "তেওঁৰ সন্মুখৰ"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "পঠোৱা হ'ল"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "হাতৰ তলুটো"
+    },
+    {
+      "surface": "די",
+      "gloss": "…"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "হাতৰ"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "আৰু লিখনি"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "লিখা হ'ল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:06:18.942253992Z",
+  "model": "glm-5.3"
+}

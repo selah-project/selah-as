@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "কেদেশৰ ৰজা এজন, কাৰ্মেলৰ য়কনে'মৰ ৰজা এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "কেদেশৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "য়কনে'মৰ"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "কাৰ্মেলৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:18.525666244Z",
+  "model": "glm-5.3"
+}

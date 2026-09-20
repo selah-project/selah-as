@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "প্ৰথম দিনত তোমালোকৰ বাবে পবিত্ৰ সভা ⟨হ'ব⟩; কোনো দাসতুল্য কাম তোমালোকে কৰিব নালাগিব।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "প্ৰথম"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "সভা"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "পবিত্ৰ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকৰ বাবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "কাম"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "দাসতুল্য"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নালাগিব"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "কৰিব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:24:39.674695007Z",
+  "model": "glm-5.3"
+}

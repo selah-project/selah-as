@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "আৰু প্ৰথম মাহত, মাহটোৰ চৈধ্য দিনত, ইয়াহৱেহৰ পেচা ⟨মুক্তি-উৎসৱ⟩।",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "আৰু মাহত"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "প্ৰথম"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ ⟨চৈধ্য⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাহটোৰ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "পেচা"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:43:56.404508909Z",
+  "model": "glm-5.3"
+}

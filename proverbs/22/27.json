@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "যদি তোমাৰ শুধুবাৰ মতা একো নাই, তেন্তে কিয় তেওঁ তোমাৰ শয্যা তোমাৰ তলৰ পৰা লৈ যাব?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ"
+    },
+    {
+      "surface": "লשלם",
+      "gloss": "শুধুবাৰ মতা"
+    },
+    {
+      "surface": "למה",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "লৈ যাব"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "তোমাৰ শয্যা"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "তোমাৰ তলৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:15.646082320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "তোমাৰ মাজত এনে এজন মানুহ থাকিলে যি নিশাৰ ঘটনাবশতঃ পবিত্ৰ নহয়, তেওঁ শিবিৰৰ বাহিৰলৈ ওলাই যাব; শিবিৰৰ মাজত তেওঁ সোমাব নল'ব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকিলে"
+    },
+    {
+      "surface": "בך",
+      "gloss": "তোমাৰ মাজত"
+    },
+    {
+      "surface": "איש",
+      "gloss": "এজন মানুহ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "পবিত্ৰ"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "ঘটনাবশতঃ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "নিশাৰ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ওলাই যাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "বাহিৰ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "শিবিৰৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নল'ব"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "সোমাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ত"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "শিবিৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:28.504856293Z",
+  "model": "glm-5.3"
+}

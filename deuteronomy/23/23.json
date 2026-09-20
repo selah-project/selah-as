@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আৰু যেতিয়া তুমি প্ৰতিজ্ঞা কৰাত বিৰত থাকা, তেতিয়া তোমাৰ মাজত পাপ নহ'ব।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "আৰু যেতিয়া"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "তুমি বিৰত থাকা"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "প্ৰতিজ্ঞা কৰাত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "בך",
+      "gloss": "তোমাৰ মাজত"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "পাপ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:31.461869240Z",
+  "model": "glm-5.3"
+}

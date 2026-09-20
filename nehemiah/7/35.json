@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "⟨হাৰিম⟩-ৰ সন্তানসকল, তিনিশ বিশজন <...>।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "হাৰিম"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "আৰু বিশ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:38.208008533Z",
+  "model": "glm-5.3"
+}

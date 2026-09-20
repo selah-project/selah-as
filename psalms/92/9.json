@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 92,
+  "translation": "আৰু তুমি উচ্চতাত অনন্তকাললৈ, হে ইয়াহৱেহ।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "আৰু তুমি"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "উচ্চতাত"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "অনন্তকাললৈ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:56:52.645126546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 77,
+  "translation": "হে এলোহিম, পৱিত্ৰতাতে তোমাৰ পথ ⟨আছে⟩; এলোহিমৰ দৰে ডাঙৰ কোন এল?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "হে এলোহিম"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "পৱিত্ৰতাতে"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "তোমাৰ পথ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "এলোহিমৰ দৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:51:00.853780709Z",
+  "model": "glm-5.3"
+}

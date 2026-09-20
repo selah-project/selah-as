@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 127,
+  "translation": "বীৰৰ হাতত কাঁড়ৰ দৰে, সেইদৰে ⟨আছে⟩ যৌৱনৰ পুতেকসকল।",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "কাঁড়ৰ দৰে"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতত"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "বীৰৰ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেইদৰে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "যৌৱনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:08:32.904817708Z",
+  "model": "glm-5.3"
+}

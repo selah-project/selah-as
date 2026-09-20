@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "কাৰণ প্ৰজ্ঞা তোমাৰ হৃদয়ত প্ৰৱেশ কৰিব, আৰু জ্ঞান তোমাৰ প্ৰাণক মনাব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "প্ৰৱেশ কৰিব"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "প্ৰজ্ঞা"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "তোমাৰ হৃদয়ত"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "আৰু জ্ঞান"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "তোমাৰ প্ৰাণক"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "মনাব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:30.285963673Z",
+  "model": "glm-5.3"
+}

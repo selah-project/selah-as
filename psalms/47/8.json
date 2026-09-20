@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 47,
+  "translation": "কিয়নো সমগ্ৰ পৃথিৱীৰ ৰজা ⟨হৈছে⟩ এলোহিম; বুদ্ধিসহকাৰে গীত গাআঁক।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "গীত গাআঁক"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "বুদ্ধিসহকাৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:42:48.901283874Z",
+  "model": "glm-5.3"
+}

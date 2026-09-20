@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "বিন্যামিমৰ শাখাৰ পৰা পল্টি, ৰাফুৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "শাখাৰ পৰা"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "বিন্যামিন"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "পল্টি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "ৰাফু"
+    }
+  ],
+  "timestamp": "2026-09-19T22:34:13.103015976Z",
+  "model": "glm-5.3"
+}

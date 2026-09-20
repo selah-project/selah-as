@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 45,
+  "translation": "ন্যায্য তাক, ন্যায্য এইফা আৰু ন্যায্য বাথ তোমালোকৰ হওক।",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "তাক"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ন্যায্য"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "আৰু এইফা"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ন্যায্য"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "আৰু বাথ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ন্যায্য"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "হওক"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:57:33.319838874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 60,
+  "translation": "সংকটৰ পৰা আমাক সহায় দিয়া; কিয়নো মানুহৰ উদ্ধাৰ ⟨⟨হৈছে⟩⟩ নিষ্ফল।",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "দিয়া"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাক"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "সহায়"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "সংকটৰ পৰা"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "কিয়নো নিষ্ফল"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "উদ্ধাৰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:45:50.440633832Z",
+  "model": "glm-5.3"
+}

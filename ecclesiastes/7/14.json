@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ভাল দিনত ভাল কৰি থাকিবা, আৰু বেয়া দিনত ⟨সেইটো⟩ চোৱা; এলোহিমে এইটোকো ⟨את⟩ সেইটোৰ সন্মুখত ৰাখিছে, যাতে মানুহে তাৰ পাছত একো নাপায়।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "היה",
+      "gloss": "থাকিবা"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ভালকৈ"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "আৰু দিনত"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "চোৱা"
+    },
+    {
+      "surface": "גם",
+      "gloss": "কিমানো"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এইটো"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "זה",
+      "gloss": "সেইটো"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰিছে"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "על",
+      "gloss": "যাতে"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "কাৰণে"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "পাব"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "তাৰ পাছত"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "একো"
+    }
+  ],
+  "timestamp": "2026-09-20T05:26:12.336212099Z",
+  "model": "glm-5.3"
+}

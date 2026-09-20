@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "হেলেৎ পল্তী, ইক্কেশৰ পুতেক ইৰা তেকোৱী,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "হেলেৎ"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "পল্তী"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ইৰা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ইক্কেশৰ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "তেকোৱী"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:29.417847021Z",
+  "model": "glm-5.3"
+}

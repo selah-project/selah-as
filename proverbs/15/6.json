@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "ধাৰ্মিকৰ ঘৰত প্ৰচুৰ ধন-সম্পত্তি, কিন্তু দুষ্টসকলৰ আয়ত বিঘ্ন হয়।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিকৰ"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ধন-সম্পত্তি"
+    },
+    {
+      "surface": "רב",
+      "gloss": "প্ৰচুৰ"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "কিন্তু আয়ত"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "বিঘ্ন হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:58.480167797Z",
+  "model": "glm-5.3"
+}

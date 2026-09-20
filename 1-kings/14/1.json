@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "সেই সময়ত য়াৰব্বামৰ পুতেক আবিয়াহ ৰোগী হ'ল।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "সেই সময়ত"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ৰোগী হ'ল"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "আবিয়াহ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "য়াৰব্বামৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:11:26.548860977Z",
+  "model": "glm-5.3"
+}

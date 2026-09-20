@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু চেইৰ পৰ্বতত, মৰুভূমিৰ ওচৰৰ এইল-পাৰানলৈকে ⟨ואת⟩ হৰীসকলক ⟨পৰাস্ত কৰিলে⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "হৰীসকলক"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "হৰীসকলক"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "তেওঁলোকৰ পৰ্বতত"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "চেইৰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "איל",
+      "gloss": "এইল"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "পাৰান"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওচৰত"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "মৰুভূমিৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:30:15.311514765Z",
+  "model": "glm-5.3"
+}

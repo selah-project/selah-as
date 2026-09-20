@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু চেইৰৰ পুতেকসকল আছিল লোতান, শ্বোৱাবাল, চিবে'অন, আনহ, দিচন, এজেৰ আৰু দিচন।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "চেইৰৰ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "লোতান"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "শ্বোৱাবাল"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "চিবে'অন"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "আনহ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "দিচন"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "এজেৰ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "দিচন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:24:57.871421724Z",
+  "model": "glm-5.3"
+}

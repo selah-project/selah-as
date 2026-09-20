@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু ৰে'উৱে বত্ৰিশ বছৰ জীয়াই থাকিল, আৰু ⟨את⟩ চেৰুগক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "জীয়াই থাকিল"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ৰে'উৱে"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "আৰু তেৰ্শী"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চেৰুগক"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "চেৰুগ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:39.420781531Z",
+  "model": "glm-5.3"
+}

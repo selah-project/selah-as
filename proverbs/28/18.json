@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "যি নিষ্ঠাৰে চলে সি উদ্ধাৰ হ'ব, আৰু যি নিজৰ বাটবোৰত বাঁকা সি একেলগে পৰিব।",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "চলে"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "নিষ্ঠাৰে"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "উদ্ধাৰ হ'ব"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "আৰু বাঁকা"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "বাটবোৰত"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "পৰিব"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "একেলগে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:39.062429330Z",
+  "model": "glm-5.3"
+}

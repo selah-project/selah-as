@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "আৰু তেওঁ ইয়াহৱেহৰ চকুত যি সঠিক ⟨সেয়া⟩ কৰিলে, কেৱল অখণ্ড হৃদয়েৰে নহয়।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "আৰু কৰিলে"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "সঠিক ⟨সেয়া⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চকুত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "হৃদয়েৰে"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "অখণ্ড"
+    }
+  ],
+  "timestamp": "2026-09-20T04:51:32.291977811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 105,
+  "translation": "তেওঁ পঠালে মোশ্বেক, তেওঁৰ দাসক, আৰু আহৰোনক, যাক তেওঁ বাছনি কৰিছিল।",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "পঠালে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "তেওঁৰ দাসক"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোনক"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাক"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "বাছনি কৰিছিল"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তেওঁক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:00:55.177436264Z",
+  "model": "glm-5.3"
+}

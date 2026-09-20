@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 36:4",
+  "book": "job",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "কিয়নো সঁচাকৈ মোৰ কথাত মিছা নাই; জ্ঞানত পূৰ্ণ জন তোমাৰ লগত আছে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "সঁচাকৈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিছা"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "মোৰ কথাত"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "পূৰ্ণ জন"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "জ্ঞানত"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "তোমাৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:44:02.495279707Z",
+  "model": "glm-5.3"
+}

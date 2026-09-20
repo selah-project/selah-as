@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 115,
+  "translation": "কাণ সিহতৰ আছে, কিন্তু নুশুনে; নাক সিহতৰ আছে, কিন্তু গন্ধ নাপায়।",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "কাণ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "সিহতৰ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "কিন্তু নহয়"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "নুশুনে"
+    },
+    {
+      "surface": "אף",
+      "gloss": "নাক"
+    },
+    {
+      "surface": "להם",
+      "gloss": "সিহতৰ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "কিন্তু নহয়"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "গন্ধ নাপায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:03:05.246085188Z",
+  "model": "glm-5.3"
+}

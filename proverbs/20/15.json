@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "সোণ আছে আৰু মুকুতাৰ প্ৰাচুৰ্য; কিন্তু জ্ঞানৰ ওঁঠ ⟨হৈছে⟩ এক মূল্যবান পাত্ৰ।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "আৰু প্ৰাচুৰ্য"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "মুকুতা"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "আৰু পাত্ৰ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "মূল্যবান"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:11.867974539Z",
+  "model": "glm-5.3"
+}

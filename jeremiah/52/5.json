@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 52,
+  "translation": "আৰু চহৰখন অৱৰোধত সোমাই ৰ'ল, চিদ্কিয়াহু ৰজাৰ একাদশ বছৰলৈকে।",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "আৰু ... সোমাই ৰ'ল"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "চহৰখন"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "অৱৰোধত"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "একাদশ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨বছৰৰ⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "চিদ্কিয়াহু"
+    }
+  ],
+  "timestamp": "2026-09-20T01:29:10.591120351Z",
+  "model": "glm-5.3"
+}

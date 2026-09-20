@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বাৰ দিনৰ দিনা নফতালিৰ সন্তানসকলৰ নেতা এনানৰ পুতেক আখিৰাই ⟨উৎসৰ্গ আগবঢ়াইলে⟩।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নেতা"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "সন্তানসকলৰ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "নফতালিৰ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "আখিৰাই"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "এনানৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:33:19.162955032Z",
+  "model": "glm-5.3"
+}

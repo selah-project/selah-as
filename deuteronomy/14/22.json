@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "দশাংশ অৱশ্যে দিবা — ⟨את⟩ তোমাৰ বীজৰ সকলো ফচলৰ, যি পথাৰৰ পৰা ওলায়, বছৰি বছৰি।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "দশাংশ"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "অৱশ্যে দিবা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো ফচল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ফচল"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "তোমাৰ বীজৰ"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ওলায়"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "পথাৰৰ পৰা"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰি"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:56:25.953974810Z",
+  "model": "glm-5.3"
+}

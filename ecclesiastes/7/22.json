@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "কিয়নো বহুবাৰ তোমাৰ নিজৰ মনে জানে যে তুমি নিজেও আনসকলক অভিশাপ দিছিলা।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "বহুবাৰ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "তোমাৰ মন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "את",
+      "gloss": "তুমি নিজে"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "অভিশাপ দিছিলা"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "আনসকলক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:24.483426263Z",
+  "model": "glm-5.3"
+}

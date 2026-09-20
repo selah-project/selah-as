@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "সকলো মানুহে ⟨তাক⟩ দেখিছে; মানুহে দূৰৰ পৰা ⟨তাক⟩ চাই থাকে।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "দেখিছে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨তাক⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "চাই থাকে"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "দূৰৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:44:02.143181621Z",
+  "model": "glm-5.3"
+}

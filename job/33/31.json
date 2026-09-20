@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "কাণ দিয়া, ইয়োৱ, মোৰ কথা শুনা; নীৰৱ থাকা, আৰু মই ক'ম।",
+  "tokens": [
+    {
+      "surface": "הקשব",
+      "gloss": "কাণ দিয়া"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ইয়োৱ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ কথা"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "নীৰৱ থাকা"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "আৰু মই"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ক'ম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:42:48.705411650Z",
+  "model": "glm-5.3"
+}

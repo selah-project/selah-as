@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু এলতোলাদ, আৰু বেথুল, আৰু হৰ্মা।",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "আৰু এলতোলাদ"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "আৰু বেথুল"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "আৰু হৰ্মা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:15:56.040309976Z",
+  "model": "glm-5.3"
+}

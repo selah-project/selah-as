@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "তৃপ্ত প্ৰাণে মৌৰ লেহু দলিয়াই পেলায়, আৰু ভোকাতুৰ প্ৰাণে সকলো তিতা বস্তু মিঠা পায়।",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণে"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "তৃপ্ত"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "দলিয়াই পেলায়"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "মৌৰ লেহু"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "আৰু প্ৰাণে"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "ভোকাতুৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מר",
+      "gloss": "তিতা"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "মিঠা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:26.775665028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "মহৰাই নেতোফাতীয়া, খেলেদ বানাৰ পুতেক নেতোফাতীয়া।",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "মহৰাই"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "নেতোফাতীয়া"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "খেলেদ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "বানা"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "নেতোফাতীয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T04:30:04.154593295Z",
+  "model": "glm-5.3"
+}

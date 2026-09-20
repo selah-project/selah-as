@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু ইয়াহৱেহে মিৎচৰায়িমৰ দেশত মোশ্বে আৰু আহৰোনক ক'লে, ⟨কৈ⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু ...লৈ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোনক"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "...ৰ দেশত"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "মিৎচৰায়িমৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T21:57:27.580676755Z",
+  "model": "glm-5.3"
+}

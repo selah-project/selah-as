@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 3:15",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "সি মণিমুকুতাতকৈও মূল্যবান; তোমাৰ সকলো কামনা তাৰ সৈতে মিলোৱা নাযায়।",
+  "tokens": [
+    {
+      "surface": "יקרה",
+      "gloss": "মূল্যবান"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "מפניים",
+      "gloss": "মণিমুকুতাতকৈও"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "חפציך",
+      "gloss": "তোমাৰ কামনা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাযায়"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "মিলোৱা"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাৰ সৈতে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:00.021190881Z",
+  "model": "glm-5.3"
+}

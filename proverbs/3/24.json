@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তুমি শুই পৰিলে ভয় নাখাবা; শুই পৰাতে তোমাৰ টোপনি মিঠা হ'ব।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "শুই পৰিলে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "ভয় নাখাবা"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "শুই পৰাতে"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "মিঠা হ'ব"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "তোমাৰ টোপনি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:40.821844871Z",
+  "model": "glm-5.3"
+}

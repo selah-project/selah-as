@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "অষ্টম দিনা ⟨আগবাঢ়ি আহিল⟩ মনশ্বেৰ পুত্ৰসকলৰ নায়ক, পেদাহচুৰৰ পুতেক গামলিএল।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "অষ্টম"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নায়ক"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্ৰসকলৰ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনশ্বেৰ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "গামলিএল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "পেদাহ-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "চুৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:30:20.813381796Z",
+  "model": "glm-5.3"
+}

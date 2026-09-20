@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু ইয়াহৱেহে আহৰোনৰ সৈতে কথা পাতিলে, কৈ—",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোনৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:16:40.969524955Z",
+  "model": "glm-5.3"
+}

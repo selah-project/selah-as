@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 103,
+  "translation": "কিয়নো তেওঁ ⟨এনেকৈ⟩ জানে আমাৰ গঠন; মনত ৰাখে যে আমি ধূলি।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "আমাৰ গঠন"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "মনত ৰাখে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ধূলি"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "আমি"
+    }
+  ],
+  "timestamp": "2026-09-20T02:58:42.448709267Z",
+  "model": "glm-5.3"
+}

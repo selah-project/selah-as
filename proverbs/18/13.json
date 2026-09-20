@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "যি শুনাৰ আগতেই কথাৰ উত্তৰ দিয়ে, তেওঁৰ বাবে সেয়া মূৰ্খতা আৰু ⟨এই⟩ লজ্জা।",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "উত্তৰ দিয়ে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথাৰ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "আগতেই"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "শুনাৰ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "মূৰ্খতা"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সেয়া"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ বাবে"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "আৰু লজ্জা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:33.313938441Z",
+  "model": "glm-5.3"
+}

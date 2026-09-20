@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু যাৰ পাখনী আৰু খোলা নাই, তাক তোমালোকে নাখাব; সেই তোমালোকৰ বাবে অশুচি।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাৰ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "পাখনী"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "আৰু খোলা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "খাব"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "অশুচি"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:55:58.017389519Z",
+  "model": "glm-5.3"
+}

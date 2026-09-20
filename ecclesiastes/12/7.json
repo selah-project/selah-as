@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু ধূলি যিদৰে আছিল সেইদৰে পৃথিৱীত ঘূৰি যাব, আৰু ৰুৱাখ ⟨তেওঁক⟩ দিলোঁতা এলোহিমৰ ওচৰলৈ ঘূৰি যাব।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ঘূৰি যাব"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ধূলি"
+    },
+    {
+      "surface": "על",
+      "gloss": "পৃথিৱীত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱী"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "যিদৰে আছিল সেইদৰে"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "আৰু ৰুৱাখ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ঘূৰি যাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিয়ে"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "দিছিল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:00:11.203795983Z",
+  "model": "glm-5.3"
+}

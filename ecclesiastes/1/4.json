@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "এটা প্ৰজন্ম যায় আৰু এটা প্ৰজন্ম আহে; কিন্তু পৃথিৱী চিৰকাল থিয় হৈ থাকে।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "এটা প্ৰজন্ম"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "যায়"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "আৰু এটা প্ৰজন্ম"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহে"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "কিন্তু পৃথিৱী"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিৰকাল"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "থিয় হৈ থাকে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:01.907190289Z",
+  "model": "glm-5.3"
+}

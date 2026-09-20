@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু শ্বেলাহে ত্ৰিশ বছৰ জীয়াই থাকিল আৰু ⟨את⟩ এভেৰক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "আৰু শ্বেলাহ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীয়াই থাকিল"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্ৰিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এভেৰক"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "এভেৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:45.764982343Z",
+  "model": "glm-5.3"
+}

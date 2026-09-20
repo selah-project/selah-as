@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "কিয়নো পৰৰ তিৰোতাৰ ওঁঠে মৌ টপায়, আৰু তাইৰ তালু মঘাতকৈও মিঠা ⟨লাগে⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "মৌ"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "টপায়"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "পৰৰ তিৰোতাৰ"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "আৰু মিঠা"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "মঘাতকৈ"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "তাইৰ তালু"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:42.091005848Z",
+  "model": "glm-5.3"
+}

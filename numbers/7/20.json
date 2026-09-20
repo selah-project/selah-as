@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "সোণৰ এটা কলহ, দহ শ্বেকেল ⟨ওজনৰ⟩, ধূপিৰে ভৰ্তি;",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "কলহ ⟨হাতৰ তলুৱা-আকৃতিৰ পাত্ৰ⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ভৰ্তি"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ধূপি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:30:43.135496148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 36:22",
+  "book": "job",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "চাওঁক, এল নিজ শক্তিত উচ্চ ⟨হয়⟩; তেওঁৰ সমান কোন শিক্ষক?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "ישגיב",
+      "gloss": "উচ্চ ⟨হয়⟩"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "নিজ শক্তিত"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোন"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "তেওঁৰ সমান"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "শিক্ষক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:43:10.472275623Z",
+  "model": "glm-5.3"
+}

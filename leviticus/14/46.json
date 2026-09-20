@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু ঘৰটো বন্ধ ৰখা সকলো দিনৰ ভিতৰত ঘৰটোত সোমাই থকাজনে ⟨את⟩ সন্ধিয়ালৈকে অশুচি হৈ থাকিব।",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "সোমাই থকাজনে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ঘৰটোত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "বন্ধ ৰখা"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ঘৰটো"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "অশুচি হৈ থাকিব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "সন্ধিয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T22:20:26.396911802Z",
+  "model": "glm-5.3"
+}

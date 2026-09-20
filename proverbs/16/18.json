@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "ধ্বংসৰ আগত থাকে অহংকাৰ, আৰু পতনৰ আগত থাকে উন্নত মনৰ ভাৱ।",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ধ্বংসৰ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "অহংকাৰ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "আৰু আগত"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "পতনৰ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "উন্নত"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "মনৰ ভাৱ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:46.381404770Z",
+  "model": "glm-5.3"
+}

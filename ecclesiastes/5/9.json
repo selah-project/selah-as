@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "টকা ভাল পোৱাজনে টকাতে তৃপ্ত নাপায়; আৰু যি প্ৰচুৰতা ভাল পায়, তাৰ কোনো ⟨আয়⟩ নাই; এইটোও হেবেল ⟨বাষ্প, অসাৰতা⟩।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ভাল পোৱাজনে"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "টকা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "তৃপ্ত পায়"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "টকাতে"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "আৰু যি"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ভাল পায়"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "প্ৰচুৰতা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "⟨আয়⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:50.684889424Z",
+  "model": "glm-5.3"
+}

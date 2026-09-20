@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "আৰু সমাজখনৰ আধা অংশ আছিল — ভেড়াৰ পৰা তিনি লাখ, তিৰিশ হেজাৰ, সাত হেজাৰ আৰু পাঁচশ",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "আধা অংশ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "সমাজখনৰ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ভেড়া"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হেজাৰ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "আৰু তিৰিশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হেজাৰ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হেজাৰ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "আৰু পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:10.063363065Z",
+  "model": "glm-5.3"
+}

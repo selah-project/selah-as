@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু ⟨ואת⟩ ভেটি দহটা, আৰু ⟨ואת⟩ বেচিন দহটা ভেটিবোৰৰ ওপৰত।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ভেটিবোৰ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ভেটিবোৰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "বেচিনবোৰ"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "বেচিনবোৰ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহটা"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ভেটিবোৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:05:32.638325002Z",
+  "model": "glm-5.3"
+}

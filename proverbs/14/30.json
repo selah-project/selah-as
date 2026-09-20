@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰোগ্য দিয়া হৃদয় ⟨একে⟩ শৰীৰৰ প্ৰাণ, আৰু হাড়ৰ পচন ⟨হৈছে⟩ ঈৰ্ষা।",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "প্ৰাণ"
+    },
+    {
+      "surface": "বשरים",
+      "gloss": "শৰীৰৰ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "আৰোগ্য দিয়া"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "আৰু পচন"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "হাড়ৰ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ঈৰ্ষা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:12.980630130Z",
+  "model": "glm-5.3"
+}

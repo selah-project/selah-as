@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "তেওঁ নিজৰ জিভাৰে পৰনিন্দা নকৰে, নিজৰ লগৰীক বেয়া নকৰে, আৰু নিজৰ ওচৰৰ জনৰ বিৰুদ্ধে অপমান নলয়।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "পৰনিন্দা কৰে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰে"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "নিজৰ জিভা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰে"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "নিজৰ লগৰীক"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "আৰু অপমান"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "লয়"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ বিৰুদ্ধে"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "নিজৰ ওচৰৰ জন"
+    }
+  ],
+  "timestamp": "2026-09-20T02:32:56.864681785Z",
+  "model": "glm-5.3"
+}

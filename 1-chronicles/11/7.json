@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "দাৱিদে দুৰ্গত বাস কৰিলে; সেয়ে সেই ঠাইক ⟨আকৌ⟩ দাৱিদৰ নগৰ বুলি মাতিলে।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "বাস কৰিলে"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "দুৰ্গত"
+    },
+    {
+      "surface": "על",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেই কাৰণে"
+    },
+    {
+      "surface": "קראু",
+      "gloss": "মাতিলে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "সেই ঠাইক"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:27:34.688683146Z",
+  "model": "glm-5.3"
+}

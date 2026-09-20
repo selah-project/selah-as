@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "মূৰ্খৰ পথ তেওঁৰ চকুত ঠিক, কিন্তু পৰামৰ্শ শুনাজন জ্ঞানী।",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "মূৰ্খৰ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ঠিক"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "তেওঁৰ চকুত"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "আৰু শুনা"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "পৰামৰ্শ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:18:40.428586235Z",
+  "model": "glm-5.3"
+}

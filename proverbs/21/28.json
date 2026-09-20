@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "মিছা সাক্ষী নষ্ট হ'ব; কিন্তু শুনি থকা মানুহজনে চিৰদিন কথা পাতিব।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "সাক্ষী"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "মিছা"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "নষ্ট হ'ব"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "কিন্তু মানুহজনে"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "শুনি থকা"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "চিৰদিন"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "কথা পাতিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:48.832577760Z",
+  "model": "glm-5.3"
+}

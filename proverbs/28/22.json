@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "ধনৰ বাবে ব্যাকুল মানুহজন বেয়া চকুৰ, আৰু তেওঁ নাজানে যে অভাৱ তেওঁৰ ওপৰত আহিব।",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "ব্যাকুল"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ধনৰ বাবে"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চকু"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "অভাৱ"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "তেওঁৰ ওপৰত আহিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:16.352672689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 91,
+  "translation": "তেওঁলোকে হাতত তোমাক তুলি ল'ব, যাতে তুমি শিলত ভৰি নলগাই।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "-ত"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "তোমাক তুলি ল'ব"
+    },
+    {
+      "surface": "פן",
+      "gloss": "যাতে নহয়"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ভৰি নলগাই"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "শিলত"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "তোমাৰ ভৰি"
+    }
+  ],
+  "timestamp": "2026-09-20T02:56:28.776686338Z",
+  "model": "glm-5.3"
+}

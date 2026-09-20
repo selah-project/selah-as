@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু ইয়াহৱেহে ইয়েহোশ্বুৱাক ক'লে ⟨কৈ⟩,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ইয়েহোশ্বুৱাক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T23:07:13.937087056Z",
+  "model": "glm-5.3"
+}

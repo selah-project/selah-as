@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু এলোহিমে নোহক কথা পাতিলে, কৈ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আৰু কথা পাতিলে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোহক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:28:27.613923835Z",
+  "model": "glm-5.3"
+}

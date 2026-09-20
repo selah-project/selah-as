@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "দশম শ্বিমি, তেওঁৰ পুতেকসকল আৰু তেওঁৰ ভাতৃসকল — বাৰ জন।",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "দশম"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শ্বিমি"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তেওঁৰ পুতেকসকল"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "আৰু তেওঁৰ ভাতৃসকল"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বাৰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨জন⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:59.044245111Z",
+  "model": "glm-5.3"
+}

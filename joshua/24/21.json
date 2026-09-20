@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "আৰু লোকসকলে য়েহোশ্বুৱাক ক'লে, “নহয়; বৰং আমি ⟨את⟩ ইয়াহৱেহৰ সেৱা কৰিম।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকসকলে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ক"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "য়েহোশ্বুৱাক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "כי",
+      "gloss": "বৰং"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "সেৱা কৰিম"
+    }
+  ],
+  "timestamp": "2026-09-19T23:19:45.586638963Z",
+  "model": "glm-5.3"
+}

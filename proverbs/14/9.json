@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "মূৰ্খসকলে অপৰাধক উপহাস কৰে, আৰু সৰলসকলৰ মাজত ⟨আছে⟩ প্ৰীতি।",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "মূৰ্খসকলে"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "উপহাস কৰে"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "অপৰাধক"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "আৰু …ৰ মাজত"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "সৰলসকলৰ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "প্ৰীতি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:18:10.529367731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোৰ ওচৰত আহিল ⟨কৈ⟩ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু ... আহিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰত"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T01:34:22.450002297Z",
+  "model": "glm-5.3"
+}

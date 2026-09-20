@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 17:29",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "দাৱিদে ক'লে, “মই এতিয়া কি কৰিলোঁ? এইটো ⟨কেৱল⟩ এটা কথা নহয়নে?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "কৰিলোঁ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "এতিয়া"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "নহয়নে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "এইটো"
+    }
+  ],
+  "timestamp": "2026-09-19T23:40:50.496210128Z",
+  "model": "glm-5.3"
+}

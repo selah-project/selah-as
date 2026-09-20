@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 56,
+  "translation": "এলোহিমত মই ভৰসা কৰিলোঁ, মই ভয় নকৰোঁ — মানুহে মোৰ ⟨কি⟩ কৰিব?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "এলোহিমত"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "মই ভৰসা কৰিলোঁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "মই ভয় কৰোঁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨কি⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "কৰিব"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ ⟨কাৰণে⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T02:44:21.641097680Z",
+  "model": "glm-5.3"
+}

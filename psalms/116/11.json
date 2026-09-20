@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 116,
+  "translation": "মই খেদাতে ক'লোঁ, “প্ৰতিজন মানুহেই মিথ্যাবাদী।”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ক'লোঁ"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "খেদাতে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্ৰতিজন"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহেই"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "মিথ্যাবাদী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:03:40.944351834Z",
+  "model": "glm-5.3"
+}

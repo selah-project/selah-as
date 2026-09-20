@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "মই মোৰ বাবে পানীৰ পুখুৰী সাজিলোঁ, সেই পানীেৰে গছ ওলাই থকা অৰণ্য জীৰাণ কৰিবলৈ।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "সাজিলোঁ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ বাবে"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "পুখুৰী"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "জীৰাণ কৰিবলৈ"
+    },
+    {
+      "surface": "মהם",
+      "gloss": "সেই পানীেৰে"
+    },
+    {
+      "surface": "יער",
+      "gloss": "অৰণ্য"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ওলাই থকা"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "গছ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:25:18.948181124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এটা সোণৰ কাহ, দহ শ্বেকেলৰ, ধূপেৰে ভৰ্তি।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "কাহ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ভৰ্তি"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ধূপেৰে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:30:56.806015217Z",
+  "model": "glm-5.3"
+}

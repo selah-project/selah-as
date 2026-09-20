@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 1:40",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু তোমালোকে ⟨নিজৰ বাবে⟩ ঘূৰি যোৱা, কৰিকটীয়া সাগৰৰ পথেৰি মৰুভূমিলৈ যাত্ৰা কৰা।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "আৰু তোমালোকে"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ঘূৰি যোৱা"
+    },
+    {
+      "surface": "লכם",
+      "gloss": "নিজৰ বাবে"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "যাত্ৰা কৰা"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "মৰুভূমিলৈ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথেৰি"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সাগৰৰ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "কৰিকটীয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:03.226897916Z",
+  "model": "glm-5.3"
+}

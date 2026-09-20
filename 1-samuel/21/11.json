@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "তাৰ পাছত দাৱিদে উঠিল আৰু সেই দিনাই শ্বাউলৰ মুখৰ পৰা পলাই গ'ল, আৰু গতৰ ৰজা আকিশৰ ওচৰলৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "পলাই গ'ল"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনাই"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "মুখৰ পৰা"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বাউলৰ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "আকিশৰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "גת",
+      "gloss": "গতৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:43:24.529875861Z",
+  "model": "glm-5.3"
+}

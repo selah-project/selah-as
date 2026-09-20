@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "এফ্ৰায়িম পাহাৰত এজন মানুহ আছিল, তাৰ নাম আছিল মিখায়েহু।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "איש",
+      "gloss": "এজন মানুহ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "পাহাৰত"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "এফ্ৰায়িম"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "আৰু তাৰ নাম"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "মিখায়েহু"
+    }
+  ],
+  "timestamp": "2026-09-19T23:29:53.561016652Z",
+  "model": "glm-5.3"
+}

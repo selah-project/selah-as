@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "মাক্কেদাহৰ ৰজা এজন; বেইত-এলৰ ৰজা এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "মাক্কেদাহৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-এলৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:26.161191329Z",
+  "model": "glm-5.3"
+}

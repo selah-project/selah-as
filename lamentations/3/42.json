@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আমি পাপ কৰিছোঁ আৰু বিদ্ৰোহ কৰিছোঁ; তুমি ক্ষমা কৰা নাই।",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "পাপ কৰিছোঁ"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "আৰু বিদ্ৰোহ কৰিছোঁ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "ক্ষমা কৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:54.421390228Z",
+  "model": "glm-5.3"
+}

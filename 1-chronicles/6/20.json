@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "ৎচুপৰ পুতেক, এলকানাৰ পুতেক, মাহতৰ পুতেক, আমাচাইৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "ৎচুপৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "এলকানাৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "মাহতৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "আমাচাইৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:01.869695533Z",
+  "model": "glm-5.3"
+}

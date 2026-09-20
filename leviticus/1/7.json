@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু আহৰোনৰ পুতেক পুৰোহিতজনে বেদীত জুই দিব, আৰু জুইৰ ওপৰত কাঠ সজাই থৈ দিব।",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "আৰু … দিব"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোনৰ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতজন"
+    },
+    {
+      "surface": "אש",
+      "gloss": "জুই"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ত"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "বেদী"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "আৰু … সজাই থৈ দিব"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "কাঠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "האש",
+      "gloss": "জুইৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:31:37.912142090Z",
+  "model": "glm-5.3"
+}

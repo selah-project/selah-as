@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "বুক্কি তেওঁৰ পুতেক, উজ্জি তেওঁৰ পুতেক, জেৰাখ্যাহ তেওঁৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "বুক্কি"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "উজ্জি"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "জেৰাখ্যাহ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:14.223799794Z",
+  "model": "glm-5.3"
+}

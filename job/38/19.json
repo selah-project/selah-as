@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "পোহৰে বাস কৰে ⟨সেই⟩ পথটো ক'ত? আৰু অন্ধকাৰৰ — তাৰ স্থান ক'ত?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ক'ত"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨সেই⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "পথটো"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "বাস কৰে"
+    },
+    {
+      "surface": "אור",
+      "gloss": "পোহৰে"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "আৰু অন্ধকাৰৰ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ক'ত"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨সেই⟩"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "তাৰ স্থান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:45:28.830608730Z",
+  "model": "glm-5.3"
+}

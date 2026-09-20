@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "দাসসকলে আমাৰ ওপৰত ৰাজত্ব কৰিলে; তেওঁলোকৰ হাতৰ পৰা ⟨উদ্ধাৰ কৰিবলৈ⟩ কোনো নাই।",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "দাসসকলে"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ৰাজত্ব কৰিলে"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "আমাৰ ওপৰত"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "⟨উদ্ধাৰ কৰিবলৈ⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "কোনো নাই"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "তেওঁলোকৰ হাতৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:32.759865360Z",
+  "model": "glm-5.3"
+}

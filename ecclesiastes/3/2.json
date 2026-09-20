@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "জন্ম লোৱাৰ সময়, আৰু মৰাৰ সময়; ৰোপণ কৰাৰ সময়, আৰু ৰোপিত ⟨বস্তু⟩ উঘালি পেলোৱাৰ সময়।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "জন্ম লোৱাৰ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু মৰাৰ সময়"
+    },
+    {
+      "surface": "למות",
+      "gloss": "মৰাৰ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ৰোপণ কৰাৰ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু উঘালি পেলোৱাৰ সময়"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "উঘালি পেলোৱাৰ"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ৰোপিত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:33.055221898Z",
+  "model": "glm-5.3"
+}

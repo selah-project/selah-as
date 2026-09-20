@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "এস্তেৰে মৰ্দখাইৰ ওচৰলৈ উত্তৰ পঠিয়ালে:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "এস্তেৰে"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "উত্তৰ পঠিয়ালে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এইলৈ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "মৰ্দখাইৰ ওচৰলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:00:31.266475961Z",
+  "model": "glm-5.3"
+}

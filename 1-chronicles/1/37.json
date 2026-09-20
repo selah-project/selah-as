@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "ৰেউএলৰ পুতেকসকল আছিল নহত, জেৰহ, শ্বাম্মাহ আৰু মিজ্জাহ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ৰেউএলৰ"
+    },
+    {
+      "surface": "নחת",
+      "gloss": "নহত"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "জেৰহ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "শ্বাম্মাহ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "আৰু মিজ্জাহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:24:57.871105387Z",
+  "model": "glm-5.3"
+}

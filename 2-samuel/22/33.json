@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 22:33",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "এল ⟨হৈছে⟩ মোৰ শক্তিৰ দুৰ্গ, আৰু তেওঁ নিষ্ঠাৱানৰ পথ সমতল কৰে।",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "মোৰ দুৰ্গ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "শক্তি"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "আৰু তেওঁ সমতল কৰে"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "নিষ্ঠাৱানৰ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "পথ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:18.713237057Z",
+  "model": "glm-5.3"
+}

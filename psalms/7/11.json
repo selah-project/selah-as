@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "মোৰ ঢাল ⟨আছে⟩ এলোহিমৰ ওপৰত, যিয়ে সৰল হৃদয়সকলক উদ্ধাৰ কৰে।",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "মোৰ ঢাল"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "উদ্ধাৰ কৰোঁতা"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "সৰল"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়সকলক"
+    }
+  ],
+  "timestamp": "2026-09-20T02:28:13.219538714Z",
+  "model": "glm-5.3"
+}

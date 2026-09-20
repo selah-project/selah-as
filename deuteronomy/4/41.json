@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "তেতিয়া মোশ্বেই য়ৰ্দেনৰ সেইফালে, সূৰ্যোদয়ৰ দিশে ⟨the⟩ তিনিখন নগৰ পৃথক কৰিলে।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "পৃথক কৰিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনিখন"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "সেইফালে"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "য়ৰ্দেনৰ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "সূৰ্যোদয়ৰ দিশে"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "সূৰ্য"
+    }
+  ],
+  "timestamp": "2026-09-19T22:51:55.580789710Z",
+  "model": "glm-5.3"
+}

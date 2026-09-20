@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আলস্যাই গভীৰ টোপনি নমাই আনে, আৰু শৈথিল্যৰ প্ৰাণে ভোকত ভুগিব।",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "আলস্যাই"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "নমাই আনে"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "গভীৰ টোপনি"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "আৰু প্ৰাণে"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "শৈথিল্যৰ"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "ভোকত ভুগিব"
+    }
+  ],
+  "timestamp": "2026-09-20T05:24:51.151375345Z",
+  "model": "glm-5.3"
+}

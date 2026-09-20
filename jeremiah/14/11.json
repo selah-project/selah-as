@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু ইয়াহৱেহে মোক ক'লে, “এই জাতিৰ মংগলৰ বাবে প্ৰাৰ্থনা নকৰিব।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নকৰিব"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "প্ৰাৰ্থনা কৰিব"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জাতিৰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "মংগলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:05:34.394138366Z",
+  "model": "glm-5.3"
+}

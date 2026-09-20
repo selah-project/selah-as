@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 22:14",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "পৰদেশী নাৰীসকলৰ মুখ ⟨⟨⟩⟩ এটা গভীৰ গৰ্ত; যাৰ প্ৰতি ইয়াহৱেহৰ ক্ৰোধ, সি তাত পৰিব।",
+  "tokens": [
+    {
+      "surface": "שוחה",
+      "gloss": "গৰ্ত"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "গভীৰ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "পৰদেশী নাৰীসকলৰ"
+    },
+    {
+      "surface": "זעום",
+      "gloss": "ক্ৰোধ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "পৰিব"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:28.121983033Z",
+  "model": "glm-5.3"
+}

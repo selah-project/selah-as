@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 17:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "নিজৰ কথাবোৰ ৰোধ কৰাজনে জ্ঞান বুজে, আৰু শীতল মনৰ মানুহ ⟨হয়⟩ বুদ্ধিমান।",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "ৰোধ কৰে"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "নিজৰ কথাবোৰ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জ্ঞান বুজে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "আৰু শীতল"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "মন"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "বুদ্ধিমান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:09.164284189Z",
+  "model": "glm-5.3"
+}

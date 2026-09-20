@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "ইৰা ⟨ইথৰীয়া⟩, গাৰেব ⟨ইথৰীয়া⟩।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ইৰা"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ইথৰীয়া"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "গাৰেব"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ইথৰীয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:26.821202373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "ইয়াহৱেহে তেওঁক ক'লে, “তোমাৰ হাতত ⟨এয়া⟩ কি?” তেওঁ ক'লে, “এডাল লাখুটি।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "তোমাৰ হাতত"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "লাখুটি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:54:08.041703161Z",
+  "model": "glm-5.3"
+}

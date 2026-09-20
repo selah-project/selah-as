@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আৰু আভ্ৰাহামে উঠিল আৰু দেশৰ লোকসকলক — চেতৰ পুত্ৰসকলক — প্ৰণাম কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্ৰাহামে"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "প্ৰণাম কৰিলে"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "লোকসকলক"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশৰ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্ৰসকলক"
+    },
+    {
+      "surface": "חת",
+      "gloss": "চেতৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:36:19.204892795Z",
+  "model": "glm-5.3"
+}

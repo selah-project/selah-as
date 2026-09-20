@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক আৰু আহৰোনক কথা পাতিলে, এই বুলি —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ক"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু …ক"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোনক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বুলি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:28:27.361565850Z",
+  "model": "glm-5.3"
+}

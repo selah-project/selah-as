@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু তেওঁলোকে ⟨את⟩ ইয়াক আৰু ⟨את⟩ ইয়াৰ সকলো পাত্ৰ তাচশ্ব-চামৰাৰ আৱৰণত দিব, আৰু লাঠিত দিব।",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "দিব"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াক"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো পাত্ৰক"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ইয়াৰ পাত্ৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "আৱৰণ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "চামৰাৰ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "তাচশ্ব"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "দিব"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "লাঠি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:29:57.772757864Z",
+  "model": "glm-5.3"
+}

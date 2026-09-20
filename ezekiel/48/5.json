@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "আৰু মেনাচ্বেৰ সীমাৰ ওপৰত, পূব দিশৰ পৰা পশ্চিম দিশলৈ, এফ্ৰায়িমৰ ⟨এটা ভাগ⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ ওপৰত"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমা"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মেনাচ্বেৰ"
+    },
+    {
+      "surface": "মפאת",
+      "gloss": "…দিশৰ পৰা"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "পূব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "দিশ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "পশ্চিম"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "এফ্ৰায়িমৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:00:08.094256719Z",
+  "model": "glm-5.3"
+}

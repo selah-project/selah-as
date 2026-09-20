@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "দীৰ্ঘ জীৱন তাৰ সোঁ হাতত, আৰু বাওঁ হাতত সম্পদ আৰু মান-মৰ্যাদা।",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "দীৰ্ঘ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "জীৱন"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "সোঁ হাতত"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "বাওঁ হাতত"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "সম্পদ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "আৰু মান-মৰ্যাদা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:00.024232857Z",
+  "model": "glm-5.3"
+}

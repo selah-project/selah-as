@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 43,
+  "translation": "ওলাই আনা ⟨⟨the⟩⟩ জাতিক — অন্ধ অথচ চকু আছে, আৰু বধিৰসকল অথচ কাণ তেওঁলোকৰ আছে।",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "ওলাই আনা"
+    },
+    {
+      "surface": "עם",
+      "gloss": "জাতিক"
+    },
+    {
+      "surface": "עור",
+      "gloss": "অন্ধ"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "অথচ চকু"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "আৰু বধিৰসকল"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "অথচ কাণ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "তেওঁলোকৰ আছে"
+    }
+  ],
+  "timestamp": "2026-09-20T00:47:25.447752830Z",
+  "model": "glm-5.3"
+}

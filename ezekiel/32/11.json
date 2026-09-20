@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "কিয়নো আদোনাই ইয়াহৱেহে এইদৰে কৈছে: বাৱেলৰ ৰজাৰ তৰোৱাল তোমাৰ ওপৰত আহিব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "তৰোৱাল"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাৱেল"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "তোমাৰ ওপৰত আহিব"
+    }
+  ],
+  "timestamp": "2026-09-20T01:47:52.627385933Z",
+  "model": "glm-5.3"
+}

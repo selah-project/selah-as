@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু চল্লিশ দিন আৰু চল্লিশ ৰাতিৰ শেষত এই হ'ল যে ইয়াহৱেহে মোক ⟨את⟩ শিলৰ ফলক দুখন — চুক্তিৰ ফলক — দিলে।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "শেষত"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "আৰু চল্লিশ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ৰাতিৰ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শিলৰ ফলক দুখন"
+    },
+    {
+      "surface": "שני",
+      "gloss": "দুখন"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ফলক"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "শিলৰ"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "ফলক"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "চুক্তিৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:54:29.233251675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু পলিষ্টীসকলৰ সেনা-চকী মিকমাচ্চৰ ঘাটলৈ ওলাই গ'ল।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "আৰু ওলাই গ'ল"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "সেনা-চকী"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "পলিষ্টীসকলৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ঘাট"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "মিকমাচ্চৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:36:05.256598542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "ইয়াহৱেহৰ প্ৰদীপ মানুহৰ প্ৰাণ-শ্বাস; সি উদৰৰ সকলো ভিতৰভাগ বিচাৰে।",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "প্ৰদীপ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "প্ৰাণ-শ্বাস"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "বিচাৰে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ভিতৰভাগ"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "উদৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:10.954017401Z",
+  "model": "glm-5.3"
+}

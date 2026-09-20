@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "শুনা এই কথা, হে সকলো জাতি; কাণ পাতা, হে নশা জগতৰ সকলো বাসিন্দা।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এই কথা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "কাণ পাতা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "বাসিন্দা"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "নশা জগতৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:42:31.023353361Z",
+  "model": "glm-5.3"
+}

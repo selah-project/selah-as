@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু মোশ্বে শিবিৰলৈ ঘূৰি গ'ল — তেওঁ আৰু ইস্ৰায়েলৰ জ্যেষ্ঠসকল।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ঘূৰি গ'ল"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "শিবিৰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "আৰু জ্যেষ্ঠসকল"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:36:02.653117610Z",
+  "model": "glm-5.3"
+}

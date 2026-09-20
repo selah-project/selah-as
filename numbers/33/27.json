@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "তেওঁলোকে তাহাতৰ পৰা যাত্ৰা কৰিলে আৰু তৰাহত শিবিৰ পাতিলে।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "যাত্ৰা কৰিলে"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "তাহাতৰ পৰা"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "শিবিৰ পাতিলে"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "তৰাহত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:47:23.285993634Z",
+  "model": "glm-5.3"
+}

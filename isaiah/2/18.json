@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু নিষ্ফল দেৱমূৰ্তিবোৰ সম্পূৰ্ণকৈ লোপ পাব।",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "নিষ্ফল দেৱমূৰ্তিবোৰ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "সম্পূৰ্ণকৈ"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "লোপ পাব"
+    }
+  ],
+  "timestamp": "2026-09-20T00:31:41.834043279Z",
+  "model": "glm-5.3"
+}

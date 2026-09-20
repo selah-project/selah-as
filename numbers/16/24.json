@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "সমাজক কৈ দিয়ক, “কোৰাহ, দাতান আৰু আভিৰামৰ আবাসৰ চাৰিওফালৰ পৰা উঠি যাওক।”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "কৈ দিয়ক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "העদה",
+      "gloss": "সমাজক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "উঠি যাওক"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "চাৰিওফালৰ পৰা"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "আবাসৰ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোৰাহ"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "দাতান"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "আৰু আভিৰাম"
+    }
+  ],
+  "timestamp": "2026-09-19T22:36:39.946738582Z",
+  "model": "glm-5.3"
+}

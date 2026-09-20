@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "এনে কোনো কথা আছে নেকি, যাৰ বিষয়ে কোনোবাই ক'ব, 'চাওঁ, এইটো নতুন'? বহু পুৰণি কালতে সেই আছিল, আমাৰ আগৰ যুগসমূহত।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "যাৰ বিষয়ে কোনোবাই ক'ব"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "চাওঁ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "নতুন"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨এইটো⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "বহু পুৰণি কালতে"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "যুগসমূহত"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "আমাৰ আগৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:02.092715737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "তাক নাখাবা; পৃথিৱীত পানীৰ দৰে তাক ঢালি দিবা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "তাক খোৱা"
+    },
+    {
+      "surface": "על",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীত"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "তাক ঢালি দিবা"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "পানীৰ দৰে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:56:04.635205410Z",
+  "model": "glm-5.3"
+}

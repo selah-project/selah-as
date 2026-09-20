@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু গেদোৰ, আৰু আহিয়ো, আৰু জখৰিয়াহ, আৰু মিক্লোত।",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "আৰু গেদোৰ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "আৰু আহিয়ো"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "আৰু জখৰিয়াহ"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "আৰু মিক্লোত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:56.995157604Z",
+  "model": "glm-5.3"
+}

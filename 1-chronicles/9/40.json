@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু য়েহোনাতনৰ পুতেক আছিল মেৰিভ-বাআল; আৰু মেৰিভ-বাআলে ⟨את⟩ মিখাক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "আৰু পুতেক"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "য়েহোনাতনৰ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "মেৰিভ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "বাআল"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "আৰু মেৰিভ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "বাআলে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মিখাক"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "মিখাক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:56.996321535Z",
+  "model": "glm-5.3"
+}

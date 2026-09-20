@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "দুষ্টজনে বক্ষৰ পৰা ঘুষ লয়, ন্যায়ৰ পথবোৰ বেকাবঙা কৰিবলৈ।",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "ঘুষ"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "বক্ষৰ পৰা"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্টজনে"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "লয়"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "বেকাবঙা কৰিবলৈ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "পথবোৰ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ন্যায়ৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:03.143369189Z",
+  "model": "glm-5.3"
+}

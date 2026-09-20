@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "কাৰণ তুমি গোপনে কৰিলা; কিন্তু মই ⟨the⟩ এই ⟨את⟩ কাম সমগ্ৰ য়িস্ৰায়েলৰ আগত আৰু সূৰ্যৰ আগত কৰিম।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "কৰিলা"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "গোপনে"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "কিন্তু মই"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "কৰিম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই কাম"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কাম"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িস্ৰায়েলৰ"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "আৰু আগত"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্যৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:52:48.996576067Z",
+  "model": "glm-5.3"
+}

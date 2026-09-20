@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ছাগলীৰ পঠা এটা পাপ-উৎসৰ্গৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "שעিন",
+      "gloss": "পঠা"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ছাগলীৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "পাপ-উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:30:49.924796847Z",
+  "model": "glm-5.3"
+}

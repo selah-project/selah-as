@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "তোমাৰ বাক্য মোৰ তালুত কিমান মিঠা — মুখত মৌতকৈও অধিক মিঠা!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কিমান"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "মিঠা"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "মোৰ তালুত"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "তোমাৰ বাক্য"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "মৌতকৈও অধিক"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "মুখত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:05:10.370714972Z",
+  "model": "glm-5.3"
+}

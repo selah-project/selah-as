@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আম্তচিৰ পুতেক, বানিৰ পুতেক, শেমেৰৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "আম্তচিৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বানিৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "শেমেৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:59.333862674Z",
+  "model": "glm-5.3"
+}

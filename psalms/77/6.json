@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 77,
+  "translation": "মই পুৰণি দিনবোৰ ভাবিলোঁ, অনন্ত কালৰ বছৰবোৰ।",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "মই ভাবিলোঁ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিনবোৰ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "পুৰণি"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "বছৰবোৰ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "অনন্ত কালৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:50:36.041152342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "এটা ঘৰতে সেয়া খোৱা হ'ব; ঘৰৰ পৰা মাংসৰ একো বাহিৰলৈ নিনিব, আৰু তাৰ কোনো হাড় নভাঙিব।",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "ঘৰত"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটাতে"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খোৱা হ'ব"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "নিনিব"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "বাহিৰলৈ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "আৰু হাড়"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "নভাঙিব"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:58:21.427774685Z",
+  "model": "glm-5.3"
+}

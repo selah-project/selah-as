@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "যাৰ নাকত জীৱনৰ উশাহ-বতাহ আছিল, শুকান মাটিত থকা সকলোৰে মৃত্যু হ'ল।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "উশাহ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "বতাহ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱনৰ"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "নাকত"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "সকলোৰে — মাজৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "শুকান মাটিত"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "মৃত্যু হ'ল"
+    }
+  ],
+  "timestamp": "2026-09-19T21:28:06.149169577Z",
+  "model": "glm-5.3"
+}

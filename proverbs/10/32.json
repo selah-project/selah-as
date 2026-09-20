@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ধৰ্মীৰ ওঁঠে প্ৰীতিকৰ কথা জানে, আৰু দুষ্টসকলৰ মুখ ⟨কয়⟩ বিকৃতি।",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধৰ্মীৰ"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "প্ৰীতি"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "আৰু মুখ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "বিকৃতি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:55.475451423Z",
+  "model": "glm-5.3"
+}

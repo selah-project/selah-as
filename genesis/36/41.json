@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "অহলিভামাৰ সৰদাৰ, এলাৰ সৰদাৰ, পিনোনৰ সৰদাৰ।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "অহলিভামাৰ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এলাৰ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "পিনোনৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:16.440118447Z",
+  "model": "glm-5.3"
+}

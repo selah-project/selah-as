@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তুমি ইয়াক ⟨את⟩ টুকুৰা টুকুৰকৈ ভাঙিবা, আৰু তাৰ ওপৰত তেল ঢালিবা; ই ⟨⟨এক⟩⟩ খাদ্য-উৎসৰ্গ।",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "ভাঙিবা"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "টুকুৰাবোৰ"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "টুকুৰাবোৰ"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ঢালিবা"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "তাৰ ওপৰত"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "তেল"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "খাদ্য-উৎসৰ্গ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:13:30.745416354Z",
+  "model": "glm-5.3"
+}

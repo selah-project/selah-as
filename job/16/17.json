@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 16:17",
+  "book": "job",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "মোৰ হাতত কোনো হিংসা নাই, আৰু মোৰ প্ৰাৰ্থনা ⟨নিৰ্মল⟩।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "হিংসা"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "মোৰ হাতত"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "আৰু মোৰ প্ৰাৰ্থনা"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "নিৰ্মল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:35:19.133559089Z",
+  "model": "glm-5.3"
+}

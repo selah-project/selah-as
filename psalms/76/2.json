@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 76,
+  "translation": "যিহূদাত এলোহিম জ্ঞাত ⟨হয়⟩, ইস্ৰায়েলত তেওঁৰ নাম মহান।",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "জ্ঞাত"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "যিহূদাত"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ইস্ৰায়েলত"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তেওঁৰ নাম"
+    }
+  ],
+  "timestamp": "2026-09-20T02:51:05.979068534Z",
+  "model": "glm-5.3"
+}

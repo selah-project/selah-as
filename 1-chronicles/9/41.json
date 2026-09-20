@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু মিখাহৰ পুতেকসকল আছিল পিথোন, মেলেখ আৰু তহ্ৰেয়া।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "মিখাহৰ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "পিথোন"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "আৰু মেলেখ"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "আৰু তহ্ৰেয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:48.135589878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "উজিয়েলৰ পুতেকসকল — মিখা ⟨গৰাকী⟩ মুখিয়া, আৰু য়িশ্বিয়াহ দ্বিতীয়।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "উজিয়েলৰ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "মিখা"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "মুখিয়া"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "আৰু য়িশ্বিয়াহ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "দ্বিতীয়"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:50.294865329Z",
+  "model": "glm-5.3"
+}

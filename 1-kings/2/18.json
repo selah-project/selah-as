@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "বৎ-চেবাই ক'লে, “ভাল; মই আপোনাৰ বাবে ৰজাৰ ওচৰত কম।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "בת",
+      "gloss": "বৎ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "চেবা"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "কম"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "আপোনাৰ বাবে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ৰ ওচৰত"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজা"
+    }
+  ],
+  "timestamp": "2026-09-20T00:04:00.830620140Z",
+  "model": "glm-5.3"
+}

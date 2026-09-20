@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "সেয়েহে আদোনাই ইয়াহৱেহে এইদৰে ক'লে: “হায়, তেজৰ নগৰ! মইও জুইৰ মচল ডাঙৰ কৰিম।”",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "সেয়েহে"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "হায়"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "তেজৰ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "মইও"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨মোক বুজায়⟩"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "ডাঙৰ কৰিম"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "জুইৰ মচল"
+    }
+  ],
+  "timestamp": "2026-09-20T01:42:06.114419915Z",
+  "model": "glm-5.3"
+}

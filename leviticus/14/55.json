@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু কাপোৰৰ চৰ্মৰোগ, আৰু ঘৰৰ ⟨চৰ্মৰোগ⟩ৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "আৰু চৰ্মৰোগৰ বাবে"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "কাপোৰৰ"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "আৰু ঘৰৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:50.994730384Z",
+  "model": "glm-5.3"
+}

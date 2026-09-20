@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "শ্বাৰাৰ জীৱনকাল হ'ল এশ বছৰ আৰু বিশ বছৰ আৰু সাত বছৰ — এইবোৰ ⟨আছিল⟩ শ্বাৰাৰ জীৱনৰ বছৰ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "জীৱনকাল"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "শ্বাৰাৰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "আৰু বিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "আৰু সাত"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "বছৰবোৰ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "জীৱনৰ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "শ্বাৰাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:35:09.017934912Z",
+  "model": "glm-5.3"
+}

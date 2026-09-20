@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "ষোল্হ নম্বৰৰ হানান্যাহু, তেওঁৰ পুতেকসকল আৰু তেওঁৰ ভাতৃসকল — বাৰ্হৈ গণ।",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "ছয়ক"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "সৈতে দহ"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "হানান্যাহু"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তেওঁৰ পুতেকসকল"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "আৰু তেওঁৰ ভাতৃসকল"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשর",
+      "gloss": "দহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:23.281076742Z",
+  "model": "glm-5.3"
+}

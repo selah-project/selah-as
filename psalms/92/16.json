@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 92,
+  "translation": "এই কথা ঘোষণা কৰিবলৈ যে ইয়াহৱেহ সৰল, মোৰ শিল, আৰু তেওঁত কোনো অন্যায় নাই।",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ঘোষণা কৰিবলৈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "সৰল"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "মোৰ শিল"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নাই"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "অন্যায়"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তেওঁত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:57:00.031090366Z",
+  "model": "glm-5.3"
+}

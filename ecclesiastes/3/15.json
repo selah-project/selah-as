@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "যি হৈছিল, সেয়া আগতেই হৈ আছিল; আৰু যি হ'বলগীয়া, সেয়া আগতেই হৈ গৈছে; আৰু এলোহিমে ⟨את⟩ খেদি যোৱাটো বিচাৰে।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "যি"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "হৈছিল"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "আগতেই"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেয়া"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "আৰু যি"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "হ'বলৈ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "আগতেই"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হৈছিল"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "আৰু এলোহিমে"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "বিচাৰে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "খেদি যোৱাটো"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "খেদি যোৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:37.888848271Z",
+  "model": "glm-5.3"
+}

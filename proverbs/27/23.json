@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "তোমাৰ ভেড়াৰ অৱস্থা ভালকৈ জানিবা; পালবোৰৰ প্ৰতি তোমাৰ মন দিয়া।",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ভালকৈ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "জানিবা"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখ\/অৱস্থা"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "তোমাৰ ভেড়া"
+    },
+    {
+      "surface": "שית",
+      "gloss": "দিয়া"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "তোমাৰ মন"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "পালবোৰৰ প্ৰতি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:24.378554664Z",
+  "model": "glm-5.3"
+}

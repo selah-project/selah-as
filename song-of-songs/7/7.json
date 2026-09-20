@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "হে প্ৰেমিকা, আনন্দসমূহৰ মাজত, তুমি কিমান ধুনীয়া আৰু কিমান মনোৰম!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কিমান"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "ধুনীয়া"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "আৰু কিমান"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "মনোৰম"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "হে প্ৰেমিকা"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "আনন্দসমূহৰ মাজত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:49:33.962963042Z",
+  "model": "glm-5.3"
+}

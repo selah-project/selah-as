@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "আৰু কেৱল ⟨את⟩ তোমালোকৰ সৈতে একেলগে নহয় — মই ⟨את⟩ এই চুক্তি আৰু ⟨את⟩ এই শপথ কৰ্তন কৰোঁ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ তোমালোকৰ সৈতে"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "কেৱল তোমালোক একেলগে"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "কৰ্তন কৰোঁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই চুক্তি"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "এই চুক্তি"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "এই শপথ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই শপথ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T23:02:55.418426281Z",
+  "model": "glm-5.3"
+}

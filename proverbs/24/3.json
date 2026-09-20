@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "প্ৰজ্ঞাৰে ⟨the⟩ ঘৰ নিৰ্মাণ কৰা হয়, আৰু বুদ্ধিৰে সুস্থাপিত হয়।",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "প্ৰজ্ঞাৰে"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "নিৰ্মাণ কৰা হয়"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "আৰু বুদ্ধিৰে"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "সুস্থাপিত হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:04.769832444Z",
+  "model": "glm-5.3"
+}

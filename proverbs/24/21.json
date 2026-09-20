@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "মোৰ পুতেক, ইয়াহৱেহক আৰু ৰজাক ভয় কৰা; সলনি হোৱাসকলৰ সৈতে মিলাপ নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ভয় কৰা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াহৱেহক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "মোৰ পুতেক"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "আৰু ৰজাক"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "সলনি হোৱাসকলৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "মিলাপ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:00.262548044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "নিশ্চিন্তিৰে ভৰা এমুঠি তালু, কষ্ট আৰু বতাহৰ যন্ত্ৰণাৰে দুমুঠি ভৰোৱাতকৈ ভাল।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ভৰা"
+    },
+    {
+      "surface": "כף",
+      "gloss": "এমুঠি তালু"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "নিশ্চিন্তিৰে"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "তকৈ ভৰোৱা"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "দুমুঠি"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "কষ্ট"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "আৰু যন্ত্ৰণা"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "বতাহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:06.803263342Z",
+  "model": "glm-5.3"
+}

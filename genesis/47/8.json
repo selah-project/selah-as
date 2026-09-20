@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 47,
+  "translation": "আৰু পাৰ'অে য়াকোভক ক'লে, “তোমাৰ জীৱনৰ বছৰবোৰৰ দিন কিমান?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "পাৰ'অ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ক"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভক"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "কিমান"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "שני",
+      "gloss": "বছৰবোৰৰ"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "তোমাৰ জীৱনৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:50:46.265027196Z",
+  "model": "glm-5.3"
+}

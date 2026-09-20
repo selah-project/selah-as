@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "মোৰ ওঁঠেৰে মই তোমাৰ মুখৰ সকলো বিধান বৰ্ণনা কৰিছোঁ।",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "মোৰ ওঁঠেৰে"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "মই বৰ্ণনা কৰিছোঁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "বিধান"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "তোমাৰ মুখৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:04:12.894713808Z",
+  "model": "glm-5.3"
+}

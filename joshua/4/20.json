@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু য়েহোশ্বুৱাই য়ৰ্দনৰ পৰা লোৱা এই বাৰটা শিল গিলগলত স্থাপন কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "এই বাৰটা শিল"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "বাৰ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨বাৰ⟩"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "শিল"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিবোৰ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "লোৱা"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "য়ৰ্দনৰ"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "স্থাপন কৰিলে"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "য়েহোশ্বুৱাই"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "গিলগলত"
+    }
+  ],
+  "timestamp": "2026-09-19T23:07:21.794670953Z",
+  "model": "glm-5.3"
+}

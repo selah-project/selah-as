@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "আৰু যদি সি দুখীয়া মানুহ, তাৰ বন্ধক লৈ তুমি শুই নাথাকিবা।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "দুখীয়া"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাথাকিবা"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "শুই"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "তাৰ বন্ধক লৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:49.556378315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "পশ্চ্চূৰৰ পুতেকসকল — এহেজাৰ দুই শ সৈতাল্লিছ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "পশ্চ্চূৰৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুই শ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিছ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "আৰু সাত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:22.544541980Z",
+  "model": "glm-5.3"
+}

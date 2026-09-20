@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 40,
+  "translation": "আৰু তেওঁ ⟨את⟩ সোণৰ যজ্ঞবেদী মিলনৰ তম্বুত পৰ্দাৰ সন্মুখত ৰাখিলে।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ৰাখিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সোণৰ যজ্ঞবেদী"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "যজ্ঞবেদী"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "তম্বুত"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "মিলনৰ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "পৰ্দাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:12:32.932460873Z",
+  "model": "glm-5.3"
+}

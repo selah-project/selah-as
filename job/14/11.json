@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "সাগৰৰ পৰা পানী আঁতৰি যায়, আৰু নদী শুকাই তিঙি যায়।",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "আঁতৰি যায়"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ৰ পৰা"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সাগৰ"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "আৰু নদী"
+    },
+    {
+      "surface": "יחרব",
+      "gloss": "শুকাই"
+    },
+    {
+      "surface": "ובש",
+      "gloss": "তিঙি যায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:34:13.484493588Z",
+  "model": "glm-5.3"
+}

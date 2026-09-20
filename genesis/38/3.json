@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "তাই গৰ্ভৱতী হ'ল আৰু এটা পুতেক জন্ম দিলে; আৰু তেওঁ ⟨את⟩ তাৰ নাম ৰাখিলে এৰ।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "গৰ্ভৱতী হ'ল"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "এটা পুতেক"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "মাতিলে \/ ৰাখিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তাৰ নাম"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তাৰ নাম"
+    },
+    {
+      "surface": "ער",
+      "gloss": "এৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:45:40.599362908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "নম্ৰতাৰ ফল ইয়াহৱেহৰ ভয় — সম্পদ, মান-মৰ্যাদা আৰু জীৱন।",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ফল"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "নম্ৰতাৰ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "সম্পদ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "মান-মৰ্যাদা"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "জীৱন"
+    }
+  ],
+  "timestamp": "2026-09-20T05:24:32.479701211Z",
+  "model": "glm-5.3"
+}

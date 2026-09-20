@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ নিজৰ গাল আঘাত কৰাজনক দিওক; অপমানেৰে পৰিপূৰ্ণ হওক।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "দিওক"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "আঘাত কৰাজনক"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "নিজৰ গাল"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "পৰিপূৰ্ণ হওক"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "অপমানেৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:32.781974260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 65,
+  "translation": "সংগীত-পৰিচালকৰ বাবে; দাৱিদৰ মিজমোৰ, শংগ্ৰহ-গীত।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সংগীত-পৰিচালকৰ বাবে"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিজমোৰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "শংগ্ৰহ-গীত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:46:57.904226060Z",
+  "model": "glm-5.3"
+}

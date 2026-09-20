@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "ক'লে, “তোমাক মই কনান দেশ দিম, তোমালোকৰ উত্তৰাধিকাৰৰ দগা ⟨হিচাপে⟩।”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাক"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "দিম"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "ছנען",
+      "gloss": "কনান"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "দগা ⟨মাপ-ৰেখা\/অংশ⟩"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "তোমালোকৰ উত্তৰাধিকাৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:57.134607231Z",
+  "model": "glm-5.3"
+}

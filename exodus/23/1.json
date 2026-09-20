@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "তুমি মিছা খবৰ নুতুলিবা; দুষ্টৰ লগত হাত এৰা নকৰিবা, হিংসাৰ সাক্ষী হ'বলৈ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "নুতুলিবা"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "খবৰ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "মিছা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "এৰা"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "তোমাৰ হাত"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্টৰ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "হ'বলৈ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "সাক্ষী"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "হিংসাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:03:38.958561155Z",
+  "model": "glm-5.3"
+}

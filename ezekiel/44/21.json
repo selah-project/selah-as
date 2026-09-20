@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 44,
+  "translation": "আৰু কোনো পুৰোহিতেও ভিতৰৰ চোতালত সোমাওঁতে মদ নপান কৰিব।",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "আৰু মদ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יִשְׁתּוּ",
+      "gloss": "পান কৰিব"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "כֹהֵן",
+      "gloss": "পুৰোহিত"
+    },
+    {
+      "surface": "בְּבוֹאָם",
+      "gloss": "তেওঁলোকে সোমাওঁতে"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "הֶחָצֵר",
+      "gloss": "চোতাল"
+    },
+    {
+      "surface": "הַפְּנִימִית",
+      "gloss": "ভিতৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:57:55.034693198Z",
+  "model": "glm-5.3"
+}

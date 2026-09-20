@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "আৰু লাৱানে ক'লে, “আমাৰ ঠাইত এইদৰে কৰা নহয় — সৰু জনীক ডাঙৰ জনীৰ আগত দিয়া।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "লাৱানে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "কৰা হয়"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "আমাৰ ঠাইত"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "দিবলৈ"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "সৰু জনীক"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "ডাঙৰ জনীৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:40:02.508677278Z",
+  "model": "glm-5.3"
+}

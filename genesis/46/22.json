@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 46,
+  "translation": "এই সকল আছিল ৰাহেলৰ পুতেকসকল, যিসকল য়াকোভৰ জন্ম হৈছিল; সকলো প্ৰাণ মিলি চৈধ্য।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এই সকল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ৰাহেলৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিসকল"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম হৈছিল"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "য়াকোৱলৈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ (চৈধ্য)"
+    }
+  ],
+  "timestamp": "2026-09-19T21:49:16.089432439Z",
+  "model": "glm-5.3"
+}

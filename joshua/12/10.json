@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "য়েৰুশ্বালায়িমৰ ৰজা এজন; খেভ্ৰোনৰ ৰজা এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "য়েৰুশ্বালায়িমৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "খেভ্ৰোনৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:20.980987043Z",
+  "model": "glm-5.3"
+}

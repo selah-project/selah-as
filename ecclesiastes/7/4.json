@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "জ্ঞানীসকলৰ হৃদয় শোকগৃহত ⟨থাকে⟩, আৰু মূৰ্খসকলৰ হৃদয় আনন্দগৃহত ⟨থাকে⟩।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "জ্ঞানীসকলৰ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "শোকগৃহত"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "শোক"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "আৰু হৃদয়"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "মূৰ্খসকলৰ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "আনন্দগৃহত"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "আনন্দ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:10.050000266Z",
+  "model": "glm-5.3"
+}

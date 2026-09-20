@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "খুৰাই গাআশ্বৰ নদীবোৰৰ পৰা, আভিএল আৰবতীয়া।",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "খুৰাই"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "নদীবোৰৰ পৰা"
+    },
+    {
+      "surface": "געש",
+      "gloss": "গাআশ্ব"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "আভিএল"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "আৰবতীয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T04:30:04.154934637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু যদি খালটোৱে তেওঁৰ শুদ্ধ হোৱাৰ পাছত ছালত নিবিয়াই যায়,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "নিবিয়াব"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "নিবিয়াই যায়"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "খালটোৱে"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ছালত"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পাছত"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "তেওঁৰ শুদ্ধতা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:28.392149756Z",
+  "model": "glm-5.3"
+}

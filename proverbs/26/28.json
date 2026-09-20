@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 26:28",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "মিছা জিভাই ⟨তাৰ⟩ পিষ্ট কৰা সকলক ঘৃণা কৰে; আৰু চিকুণ মুখে ধ্বংস ঘটায়।",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "জিভাই"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিছা"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ঘৃণা কৰে"
+    },
+    {
+      "surface": "דכיו",
+      "gloss": "তাৰ পিষ্ট কৰা সকলক"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "আৰু মুখে"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "চিকুণ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ঘটায়"
+    },
+    {
+      "surface": "מדחה",
+      "gloss": "ধ্বংস"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:11.441788240Z",
+  "model": "glm-5.3"
+}

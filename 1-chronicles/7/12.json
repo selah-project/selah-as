@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু চুপ্পিম আৰু হুপ্পিম ইৰৰ পুতেক; হুচিম আহেৰৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "আৰু চুপ্পিম"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "আৰু হুপ্পিম"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ইৰৰ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "হুচিম"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "আহেৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:22.893991274Z",
+  "model": "glm-5.3"
+}

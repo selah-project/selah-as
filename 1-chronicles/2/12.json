@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু বোৱাজে ⟨את⟩ ওবেদৰ জন্ম দিলে, আৰু ওবেদে ⟨את⟩ য়িচাইৰ জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "আৰু বোৱাজে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ওবেদ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ওবেদ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "আৰু ওবেদে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "য়িচাই"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "য়িচাই"
+    }
+  ],
+  "timestamp": "2026-09-20T05:27:20.228148035Z",
+  "model": "glm-5.3"
+}

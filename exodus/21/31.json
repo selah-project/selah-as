@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "সি পুতেকক খুন্দা মাৰে বা জীয়েকক খুন্দা মাৰে — এই বিধি অনুসাৰে তাৰ লগতেই কৰা হ'ব।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "খুন্দা মাৰে"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "খুন্দা মাৰে"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "এই বিধি অনুসাৰে"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "কৰা হ'ব"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:03:50.451210875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "তেওঁ নিজৰ ভাতৃসকলৰ ওচৰলৈ ঘূৰি গ'ল আৰু ক'লে, “ল'ৰাটো নাই; আৰু মই — মই ক'লৈ যাওঁ?”",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ঘূৰি গ'ল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "নিজৰ ভাতৃসকলৰ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ল'ৰাটো"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "আৰু মই"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ক'লৈ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "בא",
+      "gloss": "যাওঁ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:45:14.059877066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আয়িন, ৰিমোন, এতেৰ আৰু আচান — চাৰিখন নগৰ আৰু সিহঁতৰ গাঁওবোৰ।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "আয়িন"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ৰিমোন"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "আৰু এতেৰ"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "আৰু আচান"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "আৰু সিহঁতৰ গাঁওবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:15:37.690555886Z",
+  "model": "glm-5.3"
+}

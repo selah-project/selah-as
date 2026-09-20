@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু ⟨את⟩ গোটেই সমাজখিনি মিলনৰ তম্বুৰ প্ৰৱেশদ্বাৰলৈ একগোট কৰা।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "গোটেই সমাজখিনি"
+    },
+    {
+      "surface": "כל",
+      "gloss": "গোটেই"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "সমাজখিনি"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "একগোট কৰা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "প্ৰৱেশদ্বাৰ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "তম্বু"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "মিলনৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:14:23.186830562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু দাৱিদে গুপ্তচৰ পঠিয়াই জানিলে যে শ্বাউল নিশ্চিতভাৱে আহিছে ⟨নাখোনলৈ⟩।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "পঠিয়ালে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "গুপ্তচৰ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "জানিলে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহিছে"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বাউল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "নাখোন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:46:04.739344936Z",
+  "model": "glm-5.3"
+}

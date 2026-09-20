@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "গৰ্বৰ ভৰিয়ে মোলৈ নাহক, আৰু দুষ্টসকলৰ হাতে মোক খেদি নিয়াক।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নাহক"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "মোলৈ আহিব"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ভৰি"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "গৰ্বৰ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "আৰু হাত"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নাহক"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "মোক খেদি নিয়াক"
+    }
+  ],
+  "timestamp": "2026-09-20T02:37:26.983545785Z",
+  "model": "glm-5.3"
+}

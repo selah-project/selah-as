@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "এইদৰে এলোহিমে তোমালোকৰ পিতৃৰ ⟨את⟩ পশুধন কাঢ়ি লৈ মোক দিলে।",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "কাঢ়ি লৈছে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পশুধন"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "পশুধন"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "তোমালোকৰ পিতৃৰ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:41:50.627579388Z",
+  "model": "glm-5.3"
+}

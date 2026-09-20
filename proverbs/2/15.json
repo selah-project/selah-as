@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "যাৰ পথবোৰ বাঁকা, আৰু যিসকলে নিজৰ পথবোৰত বাঁকাভাৱে ঘূৰে।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যাৰ"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "পথবোৰ"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "বাঁকা"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "আৰু বাঁকাভাৱে ঘূৰে"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "নিজৰ পথবোৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:51.875406120Z",
+  "model": "glm-5.3"
+}

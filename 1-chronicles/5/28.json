@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু কেহাতৰ পুত্ৰসকল: আমৰাম, য়িৎচহাৰ, চেভৰোন আৰু উজিএল।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু …ৰ পুত্ৰসকল"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কেহাত"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "আমৰাম"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "য়িৎচহাৰ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "আৰু চেভৰোন"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "আৰু উজিএল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:03.585625738Z",
+  "model": "glm-5.3"
+}

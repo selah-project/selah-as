@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "চাওঁক, মই আজি তোমালোকৰ সন্মুখত আশীৰ্বাদ আৰু অভিশাপ থৈ দিছোঁ।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "থৈ দিছোঁ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "তোমালোকৰ সন্মুখত"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজি"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "আশীৰ্বাদ"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "আৰু অভিশাপ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:53:35.420664620Z",
+  "model": "glm-5.3"
+}

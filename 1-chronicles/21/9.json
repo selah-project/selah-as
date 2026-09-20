@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "ইয়াহৱেহে দাৱিদৰ দৰ্শক গাদক ক'লে, এইদৰে কৰিবলৈ কৈ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…লৈ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদক"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "দৰ্শক"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এইদৰে কৰিবলৈ কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:34:44.493117151Z",
+  "model": "glm-5.3"
+}

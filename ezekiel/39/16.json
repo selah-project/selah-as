@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 39,
+  "translation": "আৰু চহৰখনৰ নামো ⟨হ'ব⟩ হামোনা ⟨ভিৰ⟩; সেইদৰে তেওঁলোকে দেশখন পৰিষ্কাৰ কৰিব।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "আৰু...ও"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "চহৰৰ"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "হামোনা"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "পৰিষ্কাৰ কৰিব"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশখন"
+    }
+  ],
+  "timestamp": "2026-09-20T01:52:12.982506535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "সেই ৰাতি এলোহিমে শ্বেলোমোক দেখা দিলে, আৰু তেওঁক ক'লে, “সোধা, মই তোমাক কি দিম?”",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "দেখা দিলে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "শ্বেলোমোক"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "সোধা"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "দিম"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:38:16.087827658Z",
+  "model": "glm-5.3"
+}

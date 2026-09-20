@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "ভৰিয়ে সেইক পেলনি কৰিব — দুখীয়াসকলৰ ভৰি, নিঃস্বসকলৰ পদ।",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "পেলনি কৰিব"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ভৰি"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ভৰি"
+    },
+    {
+      "surface": "עני",
+      "gloss": "দুখীয়াসকলৰ"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "পদ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "নিঃস্বসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:40:32.645009715Z",
+  "model": "glm-5.3"
+}

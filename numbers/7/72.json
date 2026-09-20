@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "একাদশ দিনা আশেৰৰ পুত্ৰসকলৰ নেতা, অক্ৰানৰ পুতেক পগিএলে ⟨উৎসৰ্গ আগবঢ়াইলে⟩।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "একাদশ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নেতা"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্ৰসকলৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "আশেৰৰ"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "পগিএল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "অক্ৰান"
+    }
+  ],
+  "timestamp": "2026-09-19T22:32:49.718873017Z",
+  "model": "glm-5.3"
+}

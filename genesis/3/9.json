@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ইয়াহৱেহ এলোহিমে মানুহজনক মাতিলে আৰু তেওঁক ক'লে, “তুমি ক'ত?”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "মাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ক…লৈ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহজনক"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ক'ত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:25:34.162026672Z",
+  "model": "glm-5.3"
+}

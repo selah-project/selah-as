@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "আৰু খচৰ এক আৰু ষাঠি হাজাৰ।",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "আৰু খচৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "আৰু ষাঠি"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:51.919422002Z",
+  "model": "glm-5.3"
+}

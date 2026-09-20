@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "গৰু আৰু গধূৰ কাষে কাষে লগাই হাল নাখোৱাবা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "হাল নাখোৱাবা"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "আৰু গধূৰ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "লগত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:58:16.276348889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "চেনাহৰ পুতেকসকল — তিনি হাজাৰ ছশ ত্ৰিশ জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "চেনাহ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "আৰু ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "আৰু ত্ৰিশ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:14.339985009Z",
+  "model": "glm-5.3"
+}

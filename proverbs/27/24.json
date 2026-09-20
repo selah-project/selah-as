@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "কাৰণ সম্পদ চিৰকালৰ বাবে নাথাকে; আৰু মুকুট কি প্ৰজন্মৰ পৰা প্ৰজন্মলৈ থাকে?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাথাকে"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিৰকালৰ বাবে"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "সম্পদ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "আৰু কি"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "মুকুট"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "প্ৰজন্মৰ বাবে"
+    },
+    {
+      "surface": "דור",
+      "gloss": "প্ৰজন্ম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:24.379410853Z",
+  "model": "glm-5.3"
+}

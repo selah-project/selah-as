@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "দুই বস্তু মই ⟨את⟩ তোমাৰ পৰা বিচাৰিছোঁ; মই মৰাৰ আগতে মোৰ পৰা নিদিবা।",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "দুই বস্তু"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "মই বিচাৰিছোঁ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩",
+      "marks": "তোমাৰ পৰা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নিদিবা"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "অস্বীকাৰ কৰিবা"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোৰ পৰা"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "আগতে"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "মই মৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:04.024774161Z",
+  "model": "glm-5.3"
+}

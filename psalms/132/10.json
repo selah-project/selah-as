@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 132,
+  "translation": "তোমাৰ দাস দাৱিদৰ বাবে তোমাৰ মাশ্বিয়াহৰ মুখ ঘূৰাই নিদিব।",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "তোমাৰ দাস"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ঘূৰাই নিদিব"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "তোমাৰ মাশ্বিয়াহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:07:14.452739485Z",
+  "model": "glm-5.3"
+}

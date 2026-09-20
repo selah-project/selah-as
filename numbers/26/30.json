@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "এইসকল গিল'দৰ পুতেক — ই'এজেৰ, ই'এজেৰীয়া বংশ; খেলেক, খেলেকীয়া বংশ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এইসকল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "গিল'দৰ"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "ই'এজেৰ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "ই'এজেৰীয়া"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "খেলেক"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "খেলেকীয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T22:43:09.755203866Z",
+  "model": "glm-5.3"
+}

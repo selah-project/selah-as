@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু ⟨את⟩ ইয়েবুচী, ⟨את⟩ এমোৰী আৰু ⟨את⟩ গিৰগাচী।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "ইয়েবুচী"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ইয়েবুচী"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "এমোৰী"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "এমোৰী"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "গিৰগাচী"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "গিৰগাচী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:34.374046020Z",
+  "model": "glm-5.3"
+}

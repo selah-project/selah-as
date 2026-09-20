@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "পাপ-উৎসৰ্গৰ বাবে ছাগলীৰ এটা পোৱালি।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ছাগলীৰ পোৱালি"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ছাগলীৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "পাপ-উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:30:31.714914749Z",
+  "model": "glm-5.3"
+}

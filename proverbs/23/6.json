@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "বেয়া চকুৰ লোকৰ ⟨את⟩ ভাত ⟨তুমি⟩ নাখাবা, আৰু তেওঁৰ সোৱাদৰ খাদ্যবোৰ কামনা নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "খাবা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ভাত"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ভাত"
+    },
+    {
+      "surface": "רע",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চকু"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু না"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "কামনা কৰিবা"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "তেওঁৰ সোৱাদৰ খাদ্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:13.218226456Z",
+  "model": "glm-5.3"
+}

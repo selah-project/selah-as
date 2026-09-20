@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "ধন্য হ'ব ⟨তুমিৰ⟩ টোকৰা-টুকুৰা পাত্ৰ আৰু তোমাৰ মথনা-পাত্ৰ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ধন্য হ'ব"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "তোমাৰ টোকৰা-টুকুৰা পাত্ৰ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "আৰু তোমাৰ মথনা-পাত্ৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:05:29.766434563Z",
+  "model": "glm-5.3"
+}

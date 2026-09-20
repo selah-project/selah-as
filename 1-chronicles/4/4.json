@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 4:4",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু পেনুএল আছিল গদোৰৰ পিতা, আৰু এজেৰ খূশাৰ পিতা; এওঁলোক খূৰৰ পুত্ৰ — এফ্ৰতাৰ জ্যেষ্ঠ, বেইত-লেখেমৰ পিতা।",
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "আৰু পেনুএল"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "গদোৰৰ"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "আৰু এজেৰ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "খূশাৰ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এওঁলোক"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "খূৰৰ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "জ্যেষ্ঠ"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "এফ্ৰতাৰ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "লেখেমৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:05.027161845Z",
+  "model": "glm-5.3"
+}

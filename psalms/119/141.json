@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "সৰু আৰু অৱজ্ঞিত মই, কিন্তু তোমাৰ বিধানবোৰ মই পাহৰা নাই।",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "সৰু"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "আৰু অৱজ্ঞিত"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "তোমাৰ বিধানবোৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "পাহৰালোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:05:46.785916389Z",
+  "model": "glm-5.3"
+}

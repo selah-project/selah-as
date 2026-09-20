@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "এয়া সমগ্ৰ পৃথিৱীৰ ওপৰত লোৱা ⟨পৰামৰ্শ⟩, আৰু এয়া সকলো জাতিৰ ওপৰত প্ৰসাৰিত হাত।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এয়া"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "⟨পৰামৰ্শ⟩"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "লোৱা"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "আৰু এয়া"
+    },
+    {
+      "surface": "היד",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "প্ৰসাৰিত"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:15:14.650670839Z",
+  "model": "glm-5.3"
+}

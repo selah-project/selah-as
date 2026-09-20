@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 40,
+  "translation": "আৰু যদি ডাৱৰখিনি উঠি নগ'ল, তেতিয়া তেওঁলোকে যাত্ৰা নকৰিলে, সেই উঠাৰ দিনলৈকে।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "উঠিব"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ডাৱৰখিনি"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "তেতিয়া ন"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "যাত্ৰা কৰিব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "তাৰ উঠাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:12:29.948763073Z",
+  "model": "glm-5.3"
+}

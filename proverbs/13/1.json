@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "জ্ঞানী পুতেকে পিতৃৰ শিক্ষা ⟨মানে⟩, কিন্তু বিদ্ৰূপকাৰীয়ে গালি নুশুনে।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শিক্ষা"
+    },
+    {
+      "surface": "אב",
+      "gloss": "পিতৃৰ"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "কিন্তু বিদ্ৰূপকাৰীয়ে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নো"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "শুনে"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "গালি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:18.437040999Z",
+  "model": "glm-5.3"
+}

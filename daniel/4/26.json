@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "বাৰ মাহৰ শেষত তেওঁ ববিলৰ ৰাজ্যৰ প্ৰাসাদত খোজ কৰি ফুৰিছিল।",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "শেষত"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "মাহৰ"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "প্ৰাসাদ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "ৰাজ্যৰ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ৰ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ববিল"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "খোজ কৰি"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "ফুৰিছিল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:06:38.910581524Z",
+  "model": "glm-5.3"
+}

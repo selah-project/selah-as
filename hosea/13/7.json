@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "সেয়ে মই তেওঁলোকৰ বাবে সিংহৰ দৰে হ'ম, পথত নকুলৰ দৰে গুটি থাকিম।",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "মই হ'ম"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকৰ বাবে"
+    },
+    {
+      "surface": "কמו",
+      "gloss": "দৰে"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "সিংহ"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "নকুলৰ দৰে"
+    },
+    {
+      "surface": "על",
+      "gloss": "তত্ত্বত"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "গুটি থাকিম"
+    }
+  ],
+  "timestamp": "2026-09-20T02:04:43.038525656Z",
+  "model": "glm-5.3"
+}

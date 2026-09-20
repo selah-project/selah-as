@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এটা গৰু, গৰুৰ পোৱালি, এটা মেৰপোৱালি, এটা এবছৰীয়া পোৱালি ভেড়া, পূৰ্ণ উৎসৰ্গৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পোৱালি"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "איל",
+      "gloss": "মেৰপোৱালি"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ভেড়াৰ পোৱালি"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পোৱালি"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "এবছৰীয়া"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "পূৰ্ণ উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:31:20.170872656Z",
+  "model": "glm-5.3"
+}

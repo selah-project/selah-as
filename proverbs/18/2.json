@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "মূৰ্খে বুদ্ধিত প্ৰীতি নাপায়, কেৱল ⟨এইটোতে যে⟩ তাৰ হৃদয় প্ৰকাশ পাওক।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "প্ৰীতি পায়"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "মূৰ্খে"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "বুদ্ধিত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "אם",
+      "gloss": "এইটোতে"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "প্ৰকাশ পোৱাত"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "তাৰ হৃদয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:31.758033475Z",
+  "model": "glm-5.3"
+}

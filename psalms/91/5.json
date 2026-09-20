@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 91,
+  "translation": "ৰাতিৰ আতংকৰ পৰা তুমি ভৰা নাই, দিনত উৰি অহা কাঁড়ৰ পৰাও নহয়।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ভৰা নাই"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "আতংকৰ পৰা"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ৰাতিৰ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "কাঁড়ৰ পৰা"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "উৰি অহা"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "দিনত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:57:33.812127809Z",
+  "model": "glm-5.3"
+}

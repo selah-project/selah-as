@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু ⟨את⟩ বা'লাত, আৰু ⟨את⟩ দেশৰ মৰুভূমিত থকা তামাৰ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "বা'লাত"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "বা'লাত"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "তামাৰ"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "তামাৰ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "মৰুভূমিত"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:08:18.243873216Z",
+  "model": "glm-5.3"
+}

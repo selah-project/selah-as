@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "বৃদ্ধ আৰু মুখত সন্মান পোৱা জন — সিয়েই ⟨the⟩ মূৰ; আৰু মিছা শিকোৱা ভাববাদী — সিয়েই ⟨the⟩ নেজ।",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "বৃদ্ধ"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "আৰু সন্মান পোৱা"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সিয়েই"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "মূৰ"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "আৰু ভাববাদী"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "শিকোৱা"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিছা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সিয়েই"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "নেজ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:36:50.108286733Z",
+  "model": "glm-5.3"
+}

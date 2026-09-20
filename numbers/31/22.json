@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "কেৱল ⟨את⟩ সোণ আৰু ⟨ואת⟩ ৰূপ, ⟨את⟩ তাম, ⟨את⟩ লো, ⟨את⟩ টিন আৰু ⟨ואת⟩ সীহা —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সোণ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "সোণ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ৰূপ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ৰূপ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তাম"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "তাম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "লো"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "লো"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "টিন"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "টিন"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "সীহা"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "সীহা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:16.766830568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "সেয়েহে মই তোমাক আদেশ দিছোঁ, ক'বলৈ — তুমি নিজৰ বাবে তিনিখন নগৰ পৃথক কৰিবা।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেই কাৰণে"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "তোমাক আদেশ দিছোঁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনিখন"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "পৃথক কৰিবা"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:58:55.287039573Z",
+  "model": "glm-5.3"
+}

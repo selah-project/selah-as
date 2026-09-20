@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "শিশুৰ পৰা শৃঙ্খলা নেৰাবা; কিয়নো তুমি তেওঁক লাখুটিৰে মাৰিলে, তেওঁ নমৰিব।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "নেৰাবা"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "শিশুৰ পৰা"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শৃঙ্খলা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "তুমি তেওঁক মাৰিলে"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "লাখুটিৰে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "নমৰিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:33.930743196Z",
+  "model": "glm-5.3"
+}

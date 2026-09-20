@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "অভিশপ্ত সি, যি এই তোৰাৰ বাক্যবোৰ ⟨את⟩ পালন কৰিবলৈ সেইবোৰ ⟨את⟩ ⟨אותם⟩ কৰাত স্থিৰ নকৰে; আৰু সকলো লোকে ক'ব, আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নকৰে"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "স্থিৰ কৰে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বাক্যবোৰ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "বাক্যবোৰ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "তোৰাৰ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "কৰিবলৈ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "সেইবোৰ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আৰু ক'ব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকে"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:02:22.288204511Z",
+  "model": "glm-5.3"
+}

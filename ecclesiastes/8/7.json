@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "কিয়নো তেওঁ নাজানে কি হ'ব, কিয়নো যেতিয়া হ'ব ⟨তেতিয়া⟩ কোনে তেওঁক ⟨আগতীয়াকৈ⟩ কব?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "নাজানে (নাই তেওঁ)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "কব"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:16.688148181Z",
+  "model": "glm-5.3"
+}

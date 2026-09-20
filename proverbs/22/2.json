@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "ধনী আৰু দুখীয়াই ইজনে সিজনক লগ পায়; সকলোৰে সৃষ্টিকৰ্তা ইয়াহৱেহ।",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ধনী"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "আৰু দুখীয়া"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "লগ পায়"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "সৃষ্টিকৰ্তা"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "সকলোৰে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:24:28.431178351Z",
+  "model": "glm-5.3"
+}

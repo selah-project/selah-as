@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "এই য়োবেল-ৰ বছৰত তোমালোকে ⟨the⟩ উভতি যাব, প্ৰত্যেক মানুহ ⟨to⟩ নিজৰ অধিকাৰভূমিলৈ।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "বছৰত"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "য়োবেল-ৰ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "উভতি যাব"
+    },
+    {
+      "surface": "איש",
+      "gloss": "প্ৰত্যেক মানুহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "নিজৰ অধিকাৰভূমি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:25:46.037443009Z",
+  "model": "glm-5.3"
+}

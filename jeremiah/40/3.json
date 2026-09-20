@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 40:3",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 40,
+  "translation": "And Yahweh brought it and did it as He spoke, because you sinned against Yahweh and did not listen to His voice; therefore this thing has come to pass upon you.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "and brought"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "and did"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "He spoke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "because"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "you (pl.) sinned"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "against Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and did not"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "you listened"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "to His voice"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and it has come to pass"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to you"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "this thing"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "this"
+    }
+  ],
+  "timestamp": "2026-09-20T01:20:55.817709Z",
+  "model": "glm-5.3"
+}

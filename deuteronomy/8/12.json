@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "যেন নহয় তুমি খাই তৃপ্ত হ'বা, আৰু ভাল ঘৰবোৰ সাজি সেইবোৰত বাস কৰিবা,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "যেন নহয়"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "খাবা"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "তৃপ্ত হ'বা"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "আৰু ঘৰবোৰ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "সাজিবা"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "বাস কৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:53:29.568842380Z",
+  "model": "glm-5.3"
+}

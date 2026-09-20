@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু টিকলাগত, মিকোনাত আৰু তাৰ গাঁওবোৰত।",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "টিকলাগত"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "মিকোনাত"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "আৰু তাৰ গাঁওবোৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:40.665770273Z",
+  "model": "glm-5.3"
+}

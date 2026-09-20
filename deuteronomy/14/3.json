@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "কোনো ঘৃণিত বস্তু নাখাবা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নাখাবা"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "খাবা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ঘৃণিত বস্তু"
+    }
+  ],
+  "timestamp": "2026-09-19T22:55:47.801141545Z",
+  "model": "glm-5.3"
+}

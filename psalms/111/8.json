@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 111,
+  "translation": "স্থিৰ সদায়, চিৰকাললৈ; সত্য আৰু সৰলতাত ⟨কৰা⟩।",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "স্থিৰ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "সদায়"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিৰকাললৈ"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "কৰা"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "সত্যত"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "আৰু সৰলতাত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:03:05.143841595Z",
+  "model": "glm-5.3"
+}

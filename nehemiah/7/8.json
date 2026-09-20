@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "পাৰ'অচৰ সন্তানসকল — দুহেজাৰ এশ বাহাত্তৰ জন;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "পাৰ'অচ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুহেজাৰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "সত্তৰ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T05:26:49.640291336Z",
+  "model": "glm-5.3"
+}

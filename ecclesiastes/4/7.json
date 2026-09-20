@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "মই আকৌ ঘূৰি আহিলোঁ আৰু দেখিলোঁ সূৰ্যৰ তলত ⟨এক⟩ অসাৰতা।",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "আৰু ঘূৰি আহিলোঁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "আৰু দেখিলোঁ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "অসাৰতা"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্যৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:06.803419730Z",
+  "model": "glm-5.3"
+}

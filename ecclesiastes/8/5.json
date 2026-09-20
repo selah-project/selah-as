@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "যি⟩ ⟨সকলোৱে⟩ আজ্ঞা ৰাখে ⟨তেওঁ⟩ কোনো বেয়া কথা নজানে; আৰু বুদ্ধিমানৰ হৃদয়ে সময় আৰু ন্যায় ⟨জানে⟩।",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ৰাখে"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "আজ্ঞা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "רע",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু সময়"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "আৰু ন্যায়"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ে"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "বুদ্ধিমানৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:16.687824231Z",
+  "model": "glm-5.3"
+}

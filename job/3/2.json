@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু ইয়োভে উত্তৰ দিলে আৰু ক'লে —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "আৰু উত্তৰ দিলে"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ইয়োভ"
+    },
+    {
+      "surface": "ৱিয়োমৰ",
+      "gloss": "আৰু ক'লে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:29:40.053301299Z",
+  "model": "glm-5.3"
+}

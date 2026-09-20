@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ধাৰ্মিকৰ ওঁঠে বহুতক পুষ্টি দিয়ে, আৰু মূৰ্খসকল হৃদয়ৰ অভাৱত মৰিব।",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিকৰ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "পুষ্টি দিয়ে"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহুতক"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "আৰু মূৰ্খসকল"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "অভাৱত"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ৰ"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "মৰিব"
+    }
+  ],
+  "timestamp": "2026-09-20T05:23:48.962119915Z",
+  "model": "glm-5.3"
+}

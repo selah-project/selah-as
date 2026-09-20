@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু ফুলা, আৰু খজুৱত, আৰু উজ্জ্বল দাগৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "আৰু ফুলাৰ বাবে"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "আৰু খজুৱতৰ বাবে"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "আৰু উজ্জ্বল দাগৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:50.994848704Z",
+  "model": "glm-5.3"
+}

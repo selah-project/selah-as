@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "মোৰ লগত কথা পাতি থকা ⟨the⟩ স্বৰ্গদূতজনক মই সুধিলোঁ, “এওঁলোকে ⟨את⟩ এইফা ক'লৈ লৈ গৈ আছে?”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "মই সুধিলোঁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ক"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "⟨the⟩ স্বৰ্গদূত"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথা পাতি থকা"
+    },
+    {
+      "surface": "בי",
+      "gloss": "মোৰ লগত"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ক'লৈ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "এওঁলোকে"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "লৈ গৈ আছে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এইফা"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "⟨the⟩ এইফা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:22:29.685744789Z",
+  "model": "glm-5.3"
+}

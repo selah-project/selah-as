@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "য়োশিয়াহুৰ ৰাজত্বৰ অষ্টাদশ বছৰত এই পেচহ পালন কৰা হ'ল।",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "অষ্টাদশত"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ৰাজত্বৰ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "য়োশিয়াহুৰ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "কৰা হ'ল"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "পেচহ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:56:15.675197273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু তেওঁৰ ভনীয়ে আঁতৰত থিয় হ'ল, জানিবলৈ তাৰ লগত কি কৰা হ'ব।",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "থিয় হ'ল"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "তেওঁৰ ভনীয়ে"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "আঁতৰত"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "জানিবলৈ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "কৰা হ'ব"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:52:50.610117645Z",
+  "model": "glm-5.3"
+}

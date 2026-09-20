@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 50,
+  "translation": "কিয়নো বনাঞ্চলৰ সকলো জীৱ-জন্তু মোৰ, আৰু সহস্ৰ পাহাৰৰ গৰু-গাই মোৰ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "জীৱ-জন্তু"
+    },
+    {
+      "surface": "יער",
+      "gloss": "বনাঞ্চলৰ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "গৰু-গাই"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "পাহাৰৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "সহস্ৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:41:52.965983989Z",
+  "model": "glm-5.3"
+}

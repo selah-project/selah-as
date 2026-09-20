@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "নাদবৰ পুতেকসকল আছিল চেলেদ আৰু আপ্পায়িম; চেলেদৰ মৃত্যু হ'ল, পুতেক নাছিল।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "নাদবৰ"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "চেলেদ"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "আৰু আপ্পায়িম"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "মৃত্যু হ'ল"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "চেলেদৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাছিল"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:06.309305674Z",
+  "model": "glm-5.3"
+}

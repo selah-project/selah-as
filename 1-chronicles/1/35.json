@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "এচাভৰ পুত্ৰসকল আছিল এলিফাজ, ৰেউএল, য়েউশ, য়ালাম আৰু কোৰাহ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এচাভৰ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "এলিফাজ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ৰেউএল"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "আৰু য়েউশ"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "আৰু য়ালাম"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "আৰু কোৰাহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:45.554327918Z",
+  "model": "glm-5.3"
+}

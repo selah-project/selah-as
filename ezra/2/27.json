@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "মিকমাচৰ মানুহসকল — এশ বিশ দুজন।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহসকল"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "মিকমাচ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:15.497937828Z",
+  "model": "glm-5.3"
+}

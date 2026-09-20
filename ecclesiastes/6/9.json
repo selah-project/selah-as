@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "চকুৰ দেখাতকৈ প্ৰাণৰ ঘূৰণীয়া ভাল; এইটোও হেবেল ⟨বাষ্প-সদৃশ অসাৰ⟩ আৰু বতাহৰ বেদনা।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "দেখা"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "চকুৰ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "চলাচল"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণৰ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এও"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "আৰু বেদনা"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "বতাহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:37.493877315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "ইয়াৰ বাবে আমাৰ হিয়া অসুস্থ হৈ আছে, এইবোৰৰ বাবে আমাৰ চকুহাল ক'লা হৈছে।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ইয়াৰ বাবে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হৈ আছে"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "অসুস্থ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "আমাৰ হিয়া"
+    },
+    {
+      "surface": "על",
+      "gloss": "এইবোৰৰ বাবে"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ক'লা হৈছে"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "আমাৰ চকুহাল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:30.844971551Z",
+  "model": "glm-5.3"
+}

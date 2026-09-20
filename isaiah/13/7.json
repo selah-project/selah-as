@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "সেয়েহে সকলো হাত শিথিল হ'ব, আৰু মানুহৰ প্ৰতিটো হৃদয় গলি যাব।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "כן",
+      "gloss": "কাৰণে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "শিথিল হ'ব"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু প্ৰতিটো"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "গলি যাব"
+    }
+  ],
+  "timestamp": "2026-09-20T00:36:03.646192794Z",
+  "model": "glm-5.3"
+}

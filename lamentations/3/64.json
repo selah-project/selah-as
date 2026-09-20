@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ইয়াহৱেহ, তুমি তেওঁলোকক প্ৰতিদান ঘূৰাই দিবা, তেওঁলোকৰ হাতৰ কৰ্ম অনুসৰি।",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "ঘূৰাই দিবা"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকক"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "প্ৰতিদান"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "কৰ্ম অনুসৰি"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "তেওঁলোকৰ হাতৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:22.469272082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 68,
+  "translation": "এলোহিমৰ পৰ্বত ⟨সেয়া⟩ বাচানৰ পৰ্বত; শিখৰসমূহৰ পৰ্বত ⟨সেয়া⟩ বাচানৰ পৰ্বত।",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "পৰ্বত"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পৰ্বত"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "বাচানৰ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পৰ্বত"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "শিখৰসমূহৰ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পৰ্বত"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "বাচানৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:22:21.273860676Z",
+  "model": "glm-5.3"
+}

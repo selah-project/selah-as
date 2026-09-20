@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 68,
+  "translation": "সংগীত-নায়কৰ বাবে; দাৱিদৰ ⟨এটা⟩ বাদ্য-গীত, এটা গীত।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সংগীত-নায়কৰ বাবে"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "বাদ্য-গীত"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:47:31.452339686Z",
+  "model": "glm-5.3"
+}

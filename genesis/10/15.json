@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু কনানে ⟨את⟩ চিদোনক — তেওঁৰ জ্যেষ্ঠজনক — আৰু ⟨ואת⟩ হেতক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "আৰু কনানে"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চিদোনক"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "চিদোনক"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "তেওঁৰ জ্যেষ্ঠজনক"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "হেতক"
+    },
+    {
+      "surface": "חת",
+      "gloss": "হেতক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:24.996146872Z",
+  "model": "glm-5.3"
+}

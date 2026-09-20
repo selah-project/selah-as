@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "য়েহুদাৰ ⟨বাবে⟩ — অম্মিনাদবৰ পুতেক নখশোন।",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "য়েহুদাৰ বাবে"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "নখশোন"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "অম্মিনাদব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:06.161457229Z",
+  "model": "glm-5.3"
+}

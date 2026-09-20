@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "তোমাৰ ভৰিৰ পথ ⟨সমান⟩ কৰা, আৰু তেতিয়া তোমাৰ সকলো পথ স্থিৰ হ'ব।",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "সমান কৰা"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "তোমাৰ ভৰিৰ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "তোমাৰ পথ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "স্থিৰ হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:47.060224747Z",
+  "model": "glm-5.3"
+}

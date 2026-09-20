@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "খেৎচৰো কৰ্মলী, পাআৰাই আৰ্বী।",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "খেৎচৰো"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "কৰ্মলী"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "পাআৰাই"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "আৰ্বী"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:36.224459717Z",
+  "model": "glm-5.3"
+}

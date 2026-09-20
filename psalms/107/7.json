@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 107,
+  "translation": "আৰু তেওঁ তেওঁলোকক সৰল পথেৰে বাসস্থানৰ চহৰলৈ যাবলৈ লৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "তেওঁলোকক লৈ গ'ল"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথেৰে"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "সৰল"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "যাবলৈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "চহৰ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "বাসস্থান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:01:31.406181545Z",
+  "model": "glm-5.3"
+}

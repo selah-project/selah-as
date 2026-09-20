@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "শ্বেতৰ সকলো দিন বাৰ বছৰ আৰু ন'শ বছৰ হ'ল, আৰু তেওঁ মৃত্যুবৰণ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "שת",
+      "gloss": "শ্বেতৰ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "বাৰ ⟨দুই⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨ৰ সৈতে দহ⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "আৰু ন'শ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨শতসমূহ⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "মৃত্যুবৰণ কৰিলে"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:51.702257428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "আৰু এইবোৰ হ'ল ⟨এচভাৰ⟩ বংশাৱলী — সেইয়ে ⟨এদোম⟩।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আৰু এইবোৰ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "বংশাৱলী"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এচভাৰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইয়ে"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:21.657106819Z",
+  "model": "glm-5.3"
+}

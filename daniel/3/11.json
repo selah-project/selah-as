@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "“আৰু যি নপৰে আৰু প্ৰণাম নকৰে, তেওঁক জ্বলা জুইৰ ভাটিত পেলোৱা হ'ব।”",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "আৰু যি"
+    },
+    {
+      "surface": "די",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "নপৰে"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "প্ৰণাম নকৰে"
+    },
+    {
+      "surface": "יתרমא",
+      "gloss": "পেলোৱা হ'ব"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "ভাটিত"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "জুইৰ"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "জ্বলা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:06:01.310505894Z",
+  "model": "glm-5.3"
+}

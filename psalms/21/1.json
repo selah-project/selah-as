@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "সংগীত-পৰিচালকৰ বাবে; দাৱিদৰ এটা মিজমোৰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সংগীত-পৰিচালকৰ বাবে"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিজমোৰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:34:15.046034581Z",
+  "model": "glm-5.3"
+}

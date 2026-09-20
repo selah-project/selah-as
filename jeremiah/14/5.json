@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "কিয়নো পথাৰত মাইকী হৰিণেও ⟨⟩ পোৱালি জন্ম দি তাক এৰি থৈ দিলে, কিয়নো ঘাঁহ নাছিল।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "মাইকী হৰিণে"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "পথাৰত"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "পোৱালি জন্ম দিলে"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "আৰু এৰি থৈ দিলে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাছিল"
+    },
+    {
+      "surface": "היה",
+      "gloss": "নাছিল"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ঘাঁহ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:04:52.776646594Z",
+  "model": "glm-5.3"
+}

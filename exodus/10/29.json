@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মোশ্বে ক'লে, “ঠিককৈ কৈছা; মই আৰু তোমাৰ মুখ দেখা নকৰোঁ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ঠিককৈ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "কৈছা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "যোগ কৰিম"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আৰু"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "দেখা"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "তোমাৰ মুখ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:55:22.485446742Z",
+  "model": "glm-5.3"
+}

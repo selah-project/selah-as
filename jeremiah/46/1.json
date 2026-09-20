@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 46,
+  "translation": "যি কথা ইয়াহৱেহৰ পৰা ভাববাদী য়িৰমিয়াহুৰ ওচৰলৈ জাতিসমূহৰ বিষয়ে আহিছিল।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আহিছিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "য়িৰমিয়াহুৰ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ভাববাদী"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিষয়ে"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতিসমূহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:22:12.440674536Z",
+  "model": "glm-5.3"
+}

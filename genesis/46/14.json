@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 46,
+  "translation": "আৰু চেবুলুনৰ পুতেকসকল: চেৰেদ, এলোন আৰু ইয়াহলেএল।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "চেবুলুনৰ"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "চেৰেদ"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "আৰু এলোন"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "আৰু ইয়াহলেএল"
+    }
+  ],
+  "timestamp": "2026-09-19T21:49:35.709052157Z",
+  "model": "glm-5.3"
+}

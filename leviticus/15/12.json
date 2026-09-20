@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু মাটিৰ পাত্ৰ, যাক অসুস্থ জনে স্পৰ্শ কৰে, সেয়া ভাঙি দিব; আৰু কাঠৰ পাত্ৰ পানীত ধুৱা হ'ব।",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "আৰু পাত্ৰ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "মাটিৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাক"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "স্পৰ্শ কৰে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাক"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "অসুস্থ জনে"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ভাঙি দিব"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "পাত্ৰ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "কাঠৰ"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "ধুৱা হ'ব"
+    },
+    {
+      "surface": "במים",
+      "gloss": "পানীত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:21:17.527031818Z",
+  "model": "glm-5.3"
+}

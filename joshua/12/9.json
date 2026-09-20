@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "য়েৰীখোৰ ৰজা এজন; হায়ৰ ৰজা, যিজন বেইত-এলৰ কাষত, এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "য়েৰীখোৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "העי",
+      "gloss": "হায়ৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিজন"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "কাষত"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এলৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:20.980773800Z",
+  "model": "glm-5.3"
+}

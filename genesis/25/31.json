@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "য়াকোভে ক'লে, “আজিই মোক ⟨את⟩ তোমাৰ জ্যেষ্ঠত্ব বেচি দিয়া।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভে"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "বেচি দিয়া"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "আজিই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তোমাৰ জ্যেষ্ঠত্ব"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "তোমাৰ জ্যেষ্ঠত্ব"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:37:46.488184281Z",
+  "model": "glm-5.3"
+}

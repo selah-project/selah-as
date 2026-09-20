@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 65,
+  "translation": "প্ৰাৰ্থনা শুনোঁতা ⟨তুমি⟩ — তোমাৰ ওচৰলৈ সকলো মৰ্ত্যশৰীৰ আহিব।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "শুনোঁতা"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "প্ৰাৰ্থনা"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "তোমাৰ ওচৰলৈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মৰ্ত্যশৰীৰ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "আহিব"
+    }
+  ],
+  "timestamp": "2026-09-20T02:46:57.904593455Z",
+  "model": "glm-5.3"
+}

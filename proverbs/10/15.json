@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ধনীৰ সম্পত্তি ⟨তেওঁৰ⟩ সবল নগৰ, দুখীয়াসকলৰ ধ্বংস ⟨হৈছে⟩ তেওঁলোকৰ দাৰিদ্ৰ্য।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "সম্পত্তি"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ধনীৰ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "সবল"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "ধ্বংস"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "দুখীয়াসকলৰ"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "দাৰিদ্ৰ্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:45.686968375Z",
+  "model": "glm-5.3"
+}

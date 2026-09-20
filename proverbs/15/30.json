@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "চকুৰ পোহৰে হৃদয় আনন্দিত কৰে, আৰু ⟨এটা⟩ ভাল সংবাদে হাড়বোৰ সিঁচিত কৰে।",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "পোহৰ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "চকুৰ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "আনন্দিত কৰে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "সংবাদ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "সিঁচিত কৰে"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "হাড়বোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:21.398806524Z",
+  "model": "glm-5.3"
+}

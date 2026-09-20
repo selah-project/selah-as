@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "তেওঁলোকৰ ঔৰষত জন্ম লোৱা সন্তানসকলে তৃতীয় প্ৰজন্মত ইয়াহৱেহৰ সমাজত সোমাব পাৰিব।",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "সন্তানসকলে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "জন্ম ল'ব"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকৰ ঔৰষত"
+    },
+    {
+      "surface": "דור",
+      "gloss": "প্ৰজন্ম"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "তৃতীয়"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "সোমাব পাৰিব"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকে"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "সমাজত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:28.504339494Z",
+  "model": "glm-5.3"
+}

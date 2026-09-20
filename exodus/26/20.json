@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু আবাসৰ দ্বিতীয় কাষৰ বাবে, উত্তৰ দিশৰ ফালে, বিশখন ফলক।",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "আৰু কাষৰ বাবে"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "আবাসৰ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "…ৰ ফালে"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "উত্তৰ দিশৰ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "ফলক"
+    }
+  ],
+  "timestamp": "2026-09-19T22:04:19.149081650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু তেওঁ তেওঁক ক'লে, “⟨את⟩ মোৰ লগত ঘৰলৈ আহা, আৰু ৰুটি খোৱা।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "לך",
+      "gloss": "আহা"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ মোৰ লগত"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ঘৰলৈ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "আৰু খোৱা"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ৰুটি"
+    }
+  ],
+  "timestamp": "2026-09-20T00:10:17.333597728Z",
+  "model": "glm-5.3"
+}

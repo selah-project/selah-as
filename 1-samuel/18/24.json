@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু শ্বাউলৰ দাসসকলে তেওঁক জনালে, “এই কথাবোৰৰ দৰেই দাৱিদে কৈছে।”",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "আৰু জনালে"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "দাসসকলে"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বাউলৰ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "לאমר",
+      "gloss": "বুলি"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "এই কথাবোৰৰ দৰে"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদে"
+    }
+  ],
+  "timestamp": "2026-09-19T23:40:59.657387326Z",
+  "model": "glm-5.3"
+}

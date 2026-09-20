@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "সেই দিনা মোশ্বেই ⟨את⟩ জাতিটোক আদেশ দিলে ⟨কৈ⟩:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "আদেশ দিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "জাতিটোক"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জাতিটোক"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:44.261402271Z",
+  "model": "glm-5.3"
+}

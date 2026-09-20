@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "সাক্ষ্যৰ সন্দুক বহন কৰা ⟨the⟩ পুৰোহিতসকলক আদেশ দিয়া, আৰু ⟨the⟩ যৰ্দনৰ পৰা তেওঁলোক উঠি আহক।",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "আদেশ দিয়া"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পুৰোহিতসকলক"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨the⟩ পুৰোহিতসকল"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "বহন কৰা"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "সন্দুক"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "⟨the⟩ সাক্ষ্যৰ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "আৰু উঠি আহক"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "⟨the⟩ যৰ্দন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:07:13.937262093Z",
+  "model": "glm-5.3"
+}

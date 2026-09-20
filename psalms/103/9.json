@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 103,
+  "translation": "তেওঁ চিৰকাল বিবাদ নকৰে, আৰু চিৰকাললৈ ক্ৰোধ ⟨নাথাকে⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "চিৰকাললৈ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "বিবাদ নকৰে"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "অনন্তলৈ"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ক্ৰোধ ৰাখে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:58:25.927634794Z",
+  "model": "glm-5.3"
+}

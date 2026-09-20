@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "আৰু পৱিত্ৰ কৰা বস্তুবোৰ ⟨আছিল⟩ — গৰু ছশটা, আৰু ভেড়া-ছাগলী তিনি হাজাৰ।",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "পৱিত্ৰ কৰা বস্তুবোৰ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ভেড়া-ছাগলী"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:52:55.993491805Z",
+  "model": "glm-5.3"
+}

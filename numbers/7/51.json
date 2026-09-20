@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এটা পোৱালি গৰু, এটা মেৰা, এটা এবছৰীয়া পাহা, পূৰ্ণ-দগ্ধ উৎসৰ্গৰ বাবে;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পোৱালি"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "গৰুৰ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "মেৰা"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "পাহা"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "এবছৰীয়া"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "বছৰৰ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "পূৰ্ণ-দগ্ধ উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:31:37.012116175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 95,
+  "translation": "কিয়নো ইয়াহৱেহ ⟨মহান⟩ এল, আৰু সকলো দেৱতাৰ ওপৰত ⟨মহান⟩ ৰজা।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "আৰু ৰজা"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "দেৱতাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:57:13.721060386Z",
+  "model": "glm-5.3"
+}

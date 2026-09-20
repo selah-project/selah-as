@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "চাওঁক, মই ইয়াহৱেহ, সকলো মাংসৰ এলোহিম; মোৰ পৰা কোনো কথা কি অসম্ভৱ হ'ব?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংসৰ"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "মোৰ পৰা"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "অসম্ভৱ হ'ব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা"
+    }
+  ],
+  "timestamp": "2026-09-20T01:16:08.733074467Z",
+  "model": "glm-5.3"
+}

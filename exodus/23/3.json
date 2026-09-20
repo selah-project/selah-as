@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আৰু দুখীয়াজনক তেওঁৰ বিবাদত ⟨মৰ্যাদা⟩ নিদিবা।",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "আৰু দুখীয়াজনক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "নিদিবা"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "তেওঁৰ বিবাদত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:03:38.963228764Z",
+  "model": "glm-5.3"
+}

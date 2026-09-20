@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "ইয়াহৱেহৰ বাবে নিজকে পৃথক কৰি ৰখা সকলো দিন মৃত ব্যক্তিৰ ⟨সন্মুখত⟩ নাযাব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "নিজকে পৃথক কৰি ৰখা"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ বাবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ সন্মুখত"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "মৃত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "নাযাব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:31:02.785421519Z",
+  "model": "glm-5.3"
+}

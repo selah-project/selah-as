@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু সেইবোৰ তোমাৰ ঘৰৰ দুৱাৰৰ খুঁটিত আৰু তোমাৰ দুৱাৰদলিত লিখিব।",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "লিখিব"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "দুৱাৰৰ খুঁটিত"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "তোমাৰ ঘৰৰ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "আৰু তোমাৰ দুৱাৰদলিত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:51:27.896021743Z",
+  "model": "glm-5.3"
+}

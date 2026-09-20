@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "আৰু শান্তিৰ চৰণীথলবোৰ নীৰৱ হ'ল, ইয়াহৱেহৰ প্ৰচণ্ড ক্ৰোধৰ মুখত।",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "নীৰৱ হ'ল"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "চৰণীথলবোৰ"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "শান্তিৰ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "মুখত"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "প্ৰচণ্ড জ্বলনৰ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ক্ৰোধৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:09:56.216662695Z",
+  "model": "glm-5.3"
+}

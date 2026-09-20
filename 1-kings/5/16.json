@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু শ্বেলোমোৱে হিৰামৰ ওচৰলৈ পঠালে, কৈ —",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "পঠালে"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমোৱে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ ওচৰলৈ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "হিৰাম"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:05:10.306076694Z",
+  "model": "glm-5.3"
+}

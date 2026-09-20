@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 15:46",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "একৰোনৰ পৰা সাগৰলৈ — আশ্বদোদৰ কাষৰ সকলো আৰু সিহঁতৰ গাঁওবোৰ।",
+  "tokens": [
+    {
+      "surface": "מעקרון",
+      "gloss": "একৰোনৰ পৰা"
+    },
+    {
+      "surface": "וימה",
+      "gloss": "আৰু সাগৰলৈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাতৰ"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "আশ্বদোদৰ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "আৰু সিহঁতৰ গাঁওবোর"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:47.368405047Z",
+  "model": "glm-5.3"
+}

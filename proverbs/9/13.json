@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "নিৰ্বোধতাৰ নাৰী হৈছে কোলাহলপূৰ্ণ; সি ⟨is⟩ মোহনীয় আৰু একো নাজানে।",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "নাৰী"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "নিৰ্বোধতাৰ"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "কোলাহলপূৰ্ণ হৈছে"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "মোহনীয়"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "একো"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:51.187781735Z",
+  "model": "glm-5.3"
+}

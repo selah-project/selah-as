@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 58,
+  "translation": "তেওঁলোকৰ বিষ সাপৰ বিষৰ দৰে; বধিৰ ফেঁটীসদৃশ, যিয়ে ⟨তেওঁৰ⟩ নিজৰ কাণ বন্ধ কৰি ৰাখে।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "বিষ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "তেওঁলোকৰ"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "সদৃশ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "বিষ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "সাপৰ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "দৰে"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ফেঁটী"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "বধিৰ"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "বন্ধ কৰে"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "কাণ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:45:26.619701364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "তুমি হত্যা নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "হত্যা কৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:51:00.141932811Z",
+  "model": "glm-5.3"
+}

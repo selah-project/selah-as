@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু দ্বিতীয় নদীখনৰ নাম ⟨is⟩ গিহোন — সেইটোৱেই ⟨את⟩ কূশৰ গোটা দেশ পৰিক্ৰমা কৰে।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "আৰু …ৰ নাম"
+    },
+    {
+      "surface": "হנהר",
+      "gloss": "নদীখনৰ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "গিহোন"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইটোৱেই"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "পৰিক্ৰমা কৰে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কূশৰ গোটা দেশ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "গোটা"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "কূশৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:16.593634632Z",
+  "model": "glm-5.3"
+}

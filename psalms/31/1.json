@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "সংগীত-নেতাৰ বাবে; দাৱিদৰ ⟨মিজমোৰ⟩।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সংগীত-নেতাৰ বাবে"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "⟨মিজমোৰ⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:36:22.543957854Z",
+  "model": "glm-5.3"
+}

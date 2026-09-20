@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "শ্বিম'অনৰ পুতেকসকল: নেমুৱেল, য়ামিন, য়াৰিভ, জেৰাহ, শ্বাউল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "শ্বিম'অনৰ"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "নেমুৱেল"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "আৰু য়ামিন"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "য়াৰিভ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "জেৰাহ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বাউল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:31.506585474Z",
+  "model": "glm-5.3"
+}

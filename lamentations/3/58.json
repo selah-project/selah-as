@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আদোনাই, তুমি মোৰ প্ৰাণৰ দৰ্পণ ⟨কৰিলা⟩; তুমি মোৰ জীৱন ⟨উদ্ধাৰ কৰিলা⟩।",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "তুমি … দৰ্পণ কৰিলা"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "দৰ্পণ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "মোৰ প্ৰাণৰ"
+    },
+    {
+      "surface": "গאלת",
+      "gloss": "তুমি … উদ্ধাৰ কৰিলা"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "মোৰ জীৱন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:04.720819073Z",
+  "model": "glm-5.3"
+}

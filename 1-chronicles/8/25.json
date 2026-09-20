@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু ইফদেয়াহ আৰু পনুএল — শ্বাশাকৰ পুতেকসকল।",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "আৰু ইফদেয়াহ"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "আৰু পনুএল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "শ্বাশাকৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:33.058125633Z",
+  "model": "glm-5.3"
+}

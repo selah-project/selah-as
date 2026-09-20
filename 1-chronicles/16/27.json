@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "তেওঁৰ সন্মুখত মহিমা আৰু গৌৰৱ; তেওঁৰ স্থানত শক্তি আৰু আনন্দ।",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "মহিমা"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "আৰু গৌৰৱ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "তেওঁৰ সন্মুখত"
+    },
+    {
+      "surface": "עז",
+      "gloss": "শক্তি"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "আৰু আনন্দ"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "তেওঁৰ স্থানত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:50.066234880Z",
+  "model": "glm-5.3"
+}

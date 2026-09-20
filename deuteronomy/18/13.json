@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "তুমি ইয়াহৱেহ তোমাৰ এলোহিমৰ লগত নিষ্ঠাৱান হ'বা।",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "নিষ্ঠাৱান"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হ'বা"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "তোমাৰ এলোহিম"
+    }
+  ],
+  "timestamp": "2026-09-20T05:05:18.985234407Z",
+  "model": "glm-5.3"
+}

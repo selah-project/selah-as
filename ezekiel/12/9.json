@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "হে মানুহৰ পুতেক, বিদ্ৰোহী ঘৰ য়িস্ৰায়েলৰ ঘৰে ⟨নে⟩ তোমাক ক'লে, “তুমি কি কৰি আছা?”",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "নে"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাক"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িস্ৰায়েলৰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰে"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "বিদ্ৰোহী"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰি আছা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:17:38.268869616Z",
+  "model": "glm-5.3"
+}

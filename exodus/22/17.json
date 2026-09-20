@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "যাদুকৰীক ⟨তুমি⟩ জীৱাই নথ'বা।",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "যাদুকৰী"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "জীৱাই ৰখা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:03:15.533666976Z",
+  "model": "glm-5.3"
+}

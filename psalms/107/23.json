@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 107,
+  "translation": "সাগত নাৱত নামি যোৱাসকলে, বহু পানীত কাৰ্য্য কৰাসকলে —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "নামি যোৱাসকলে"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সাগত"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "নাৱত"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "কৰাসকলে"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "কাৰ্য্য"
+    },
+    {
+      "surface": "במים",
+      "gloss": "পানীত"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহু"
+    }
+  ],
+  "timestamp": "2026-09-20T03:00:46.219930637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "এলকানাহৰ পুতেক, য়োএলৰ পুতেক, আজাৰিয়াহৰ পুতেক, চেফানিয়াহৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "এলকানাহৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "য়োএলৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "আজাৰিয়াহৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "চেফানিয়াহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:44.653379169Z",
+  "model": "glm-5.3"
+}

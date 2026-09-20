@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "চাওঁচা, মই আজি তোমাৰ সন্মুখত ⟨את⟩ জীৱন আৰু ⟨את⟩ মঙ্গল, আৰু ⟨את⟩ মৃত্যু আৰু ⟨את⟩ অকল্যাণ ৰাখিছোঁ।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "চাওঁচা"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "মই ৰাখিছোঁ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "তোমাৰ সন্মুখত"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজি"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "জীৱন"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "জীৱন"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "মঙ্গল"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "মঙ্গল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "মৃত্যু"
+    },
+    {
+      "surface": "המות",
+      "gloss": "মৃত্যু"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "অকল্যাণ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "অকল্যাণ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:04:03.397820174Z",
+  "model": "glm-5.3"
+}

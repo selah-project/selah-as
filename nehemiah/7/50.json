@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ৰেআয়াহৰ পুতেকসকল, ৰেৎচিনৰ পুতেকসকল, নেকোদাৰ পুতেকসকল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ৰেআয়াহৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ৰেৎচিনৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "নেকোদাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:51.335031864Z",
+  "model": "glm-5.3"
+}

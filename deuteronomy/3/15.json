@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু মাখিৰক মই ⟨את⟩ গিলআদ দিলোঁ।",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "আৰু মাখিৰক"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "মই দিলোঁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "গিলআদ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "গিলআদ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:50:21.006648423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু এতিয়া তোমালোক পুৰোহিতসকলৰ প্ৰতি ⟨আছে⟩ এই আজ্ঞা ⟨এইটো⟩।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "আৰু এতিয়া"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "তোমালোকৰ প্ৰতি"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "আজ্ঞা"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "পুৰোহিতসকল"
+    }
+  ],
+  "timestamp": "2026-09-20T02:27:17.849627029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "আৰু পাৰ'অে য়োচেফক ক'লে, “মোৰ সপোনত চাওঁক, মই নদীৰ পাৰত থিয় হৈ আছিলোঁ।”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "পাৰ'অে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ক"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "য়োচেফক"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "মোৰ সপোনত"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "থিয় হৈ আছিলোঁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ৰ ওপৰত"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "পাৰত"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "নদীৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:46:36.949182357Z",
+  "model": "glm-5.3"
+}

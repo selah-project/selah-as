@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "তেওঁ ⟨את⟩ বেইত লেহেম, ⟨ואת⟩ এইটাম আৰু ⟨ואת⟩ টেকোৱা নিৰ্মাণ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "আৰু নিৰ্মাণ কৰিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বেইত লেহেম"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "লেহেম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "এইটাম"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "এইটাম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "টেকোৱা"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "টেকোৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:41:37.928636226Z",
+  "model": "glm-5.3"
+}

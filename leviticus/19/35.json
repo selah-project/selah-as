@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "তোমালোকে বিচাৰত, দৈৰ্ঘ্য-মাপত, ওজনত আৰু পৰিমাণত অন্যায় নকৰিবা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "কৰিবা"
+    },
+    {
+      "surface": "עול",
+      "gloss": "অন্যায়"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "বিচাৰত"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "দৈৰ্ঘ্য-মাপত"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "ওজনত"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "আৰু পৰিমাণত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:23:09.333812509Z",
+  "model": "glm-5.3"
+}

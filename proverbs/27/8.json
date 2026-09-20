@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 27:8",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "নিজৰ বাহৰ পৰা উৰি যোৱা চৰাইৰ দৰে, তেনেদৰেই মানুহ নিজৰ ঠাইৰ পৰা ঘূৰি ফুৰে।",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "চৰাইৰ দৰে"
+    },
+    {
+      "surface": "נודדת",
+      "gloss": "উৰি যোৱা"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "নিজৰ বাহ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেনেদৰেই"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "ঘূৰি ফুৰে"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "নিজৰ ঠাইৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:26.776015382Z",
+  "model": "glm-5.3"
+}

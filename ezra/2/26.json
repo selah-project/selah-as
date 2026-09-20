@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "ৰামা আৰু গেবাৰ পুত্ৰসকল — ছশ বিশ এজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ৰামা"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "আৰু গেবা"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "আৰু এজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:15.497834245Z",
+  "model": "glm-5.3"
+}

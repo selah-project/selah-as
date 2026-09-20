@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আনাতোতৰ মানুহসকল — এশ বিশ আৰু আঠ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহসকল"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "আনাতোতৰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "আৰু আঠ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:49.618173198Z",
+  "model": "glm-5.3"
+}

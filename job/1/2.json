@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "তেওঁৰ সাতোটা পুতেক আৰু তিনিগৰাকী জীয়েক জন্ম ল'লে।",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "জন্ম ল'লে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাতোটা"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "আৰু তিনি"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "জীয়েক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:30:07.077138785Z",
+  "model": "glm-5.3"
+}

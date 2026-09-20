@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "চাকিৰ ওপৰত মঢ়া ৰূপৰ গলিত শেলী — সেয়ে ⟨হৈছে⟩ জ্বলা ওঁঠ আৰু অকল্যাণকৰ হৃদয়।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ৰূপ"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "গলিত শেলী"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "মঢ়া"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "চাকি"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "জ্বলা"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "আৰু হৃদয়"
+    },
+    {
+      "surface": "רע",
+      "gloss": "অকল্যাণকৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:46.543897360Z",
+  "model": "glm-5.3"
+}

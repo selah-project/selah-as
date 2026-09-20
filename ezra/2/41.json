@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "গায়কসকল — আছাফৰ সন্তানসকল — এশ বিশ আৰু আঠজন।",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "গায়কসকল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "আছাফৰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "আৰু আঠজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:52.192458767Z",
+  "model": "glm-5.3"
+}

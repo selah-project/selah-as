@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 14:39",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু সপ্তম দিনা পুৰোহিতজনে ঘূৰি আহি চাব, আৰু চাওক, ক্ষতটো ঘৰৰ বেৰবোৰত বিয়পিছে;",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "ঘূৰি আহিব"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতজনে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "সপ্তম"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "চাব"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চাওক"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "বিয়পিছে"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ক্ষতটো"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "বেৰবোৰত"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ঘৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:43.338349892Z",
+  "model": "glm-5.3"
+}

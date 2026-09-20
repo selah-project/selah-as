@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "মনত পৰে মনত পৰে, আৰু মোৰ প্ৰাণ মোৰ ভিতৰত হনু হৈ পৰে।",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "মনত পৰে"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "মনত পৰে"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "আৰু হনু হৈ পৰে"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মোৰ ওপৰত"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "মোৰ প্ৰাণ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:13.831838427Z",
+  "model": "glm-5.3"
+}

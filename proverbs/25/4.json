@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "ৰূপৰ পৰা গছা আঁতৰাওক, আৰু পৰিশোধকৰ বাবে এটা পাত্ৰ ওলাই আহিব।",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "আঁতৰাওক"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "গছা"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ৰূপৰ পৰা"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ওলাই আহিব"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "পৰিশোধকৰ বাবে"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "পাত্ৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:37.138149436Z",
+  "model": "glm-5.3"
+}

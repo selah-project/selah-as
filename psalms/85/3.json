@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 85,
+  "translation": "তুমি নিজৰ জাতিৰ অসৎতা ⟨কাঢ়ি⟩ ল'লা, সিহঁতৰ সকলো পাপ ঢাকি দিলা। চেলাহ।",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "⟨কাঢ়ি⟩ ল'লা"
+    },
+    {
+      "surface": "עון",
+      "gloss": "অসৎতা"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "নিজৰ জাতিৰ"
+    },
+    {
+      "surface": "ছסית",
+      "gloss": "ঢাকি দিলা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "পাপ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "চেলাহ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:55:19.751691714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "সেয়েহে হে গোৱালসকল, ইয়াহৱেহৰ বাক্য শুনা।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "সেয়েহে"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "হে গোৱালসকল"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:49:16.296408545Z",
+  "model": "glm-5.3"
+}

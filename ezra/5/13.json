@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "কিন্তু বাবেলৰ কোৰেশ ৰজাৰ ⟨প্ৰথম⟩ বছৰত কোৰেশ ৰজাই এই এলাহাৰ ঘৰ নিৰ্মাণ কৰিবলৈ আদেশ দিলে।",
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "কিন্তু"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "বছৰত"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "প্ৰথম"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "কোৰেশৰ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "די",
+      "gloss": "-ৰ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাবেল"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "কোৰেশ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "שם",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "আদেশ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "এলাহাৰ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "নিৰ্মাণ কৰিবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:14:35.385972956Z",
+  "model": "glm-5.3"
+}

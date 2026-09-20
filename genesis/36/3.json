@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "আৰু ⟨ואת⟩ বচমতক — ইচ্মাএলৰ জীয়েক, নেভায়োতৰ ভনী।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "বচমতক"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "বচমতক"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ইচ্মাএলৰ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ভনী"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "নেভায়োতৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:21.657673906Z",
+  "model": "glm-5.3"
+}

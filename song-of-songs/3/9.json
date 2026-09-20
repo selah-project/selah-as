@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "শ্বেলোমো ৰজাই লেবাননৰ গছৰ কাঠেৰে ⟨নিজৰ বাবে⟩ এখন পালকি নিৰ্মাণ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "পালকি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "নিৰ্মাণ কৰিলে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "নিজৰ বাবে"
+    },
+    {
+      "surface": "হמلচ",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমো"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "গছৰ কাঠেৰে"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "লেবাননৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:13.173209776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 25:8",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "এইদৰে আদোনাই ইয়াহৱেহে কৈছে: যিহেতু মোৱাব আৰু ছেইৰে কৈছে, 'চাওঁ, যিহূদাৰ ঘৰ ⟨is⟩ সকলো জাতিৰ দৰে।'",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "যিহেতু"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোৱাব"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "আৰু ছেইৰে"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওঁ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "দৰে"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "সকলো জাতিৰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:44:09.900437802Z",
+  "model": "glm-5.3"
+}

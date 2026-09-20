@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু মোশ্বেই ইস্ৰায়েলৰ সন্তানসকলক পেচাহ পালন কৰিবলৈ ক'লে।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ক"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "পালন কৰিবলৈ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "পেচাহ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:32:15.209622352Z",
+  "model": "glm-5.3"
+}

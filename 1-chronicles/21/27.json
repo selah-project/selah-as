@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "ইয়াהৱেহে দূতক ক'লে, আৰু তেওঁ ⟨দূতজনে⟩ নিজৰ তৰোৱাল নিজৰ নোৱানীলৈ ঘূৰাই নিলে।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "দূতক"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ঘূৰাই নিলে"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "নিজৰ তৰোৱাল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "নিজৰ নোৱানী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:33:35.528624842Z",
+  "model": "glm-5.3"
+}

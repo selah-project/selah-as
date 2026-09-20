@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোলৈ আহিল, এই বুলি ⟨কৈ⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু ... আহিল হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বুলি ⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T00:57:32.719778435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "বৰষুণৰ পিতৃ ⟨আছেনে⟩? অথবা শিপৰ্ণৰ টোপালবোৰক কোনে জন্ম দিলে?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "⟨আছেনে⟩"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "বৰষুণৰ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "পিতৃ"
+    },
+    {
+      "surface": "או",
+      "gloss": "অথবা"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "টোপালবোৰক"
+    },
+    {
+      "surface": "טל",
+      "gloss": "শিপৰ্ণৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:45:01.374910830Z",
+  "model": "glm-5.3"
+}

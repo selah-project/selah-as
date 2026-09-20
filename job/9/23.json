@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 9:23",
+  "book": "job",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "যদি চাবুকে হঠাৎ মাৰে, নিৰ্দোষসকলৰ বিপদত ⟨তেওঁ⟩ হাঁসে।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "চাবুক"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "মাৰে"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "হঠাৎ"
+    },
+    {
+      "surface": "למסת",
+      "gloss": "বিপদত"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "নিৰ্দোষসকলৰ"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "হাঁসে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:32:50.455131837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "পূৰ্বতে এমীমসকলে তাত বাস কৰিছিল — এক ডাঙৰ, বহুসংখ্যক আৰু ওখ জাতি, আনাকীমসকলৰ ⟨দৰে⟩।",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "এমীমসকলে"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "পূৰ্বতে"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "বাস কৰিছিল"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "עם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "আৰু বহুসংখ্যক"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "আৰু ওখ"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "আনাকীমসকলৰ দৰে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:24.929567991Z",
+  "model": "glm-5.3"
+}

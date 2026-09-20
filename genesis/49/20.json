@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "আশেৰৰ পৰা তেওঁৰ খাদ্য ডাঠ হ'ব, আৰু তেওঁ ৰজাৰ সুস্বাদু পদাৰ্থ দিব।",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "আশেৰৰ পৰা"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ডাঠ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "তেওঁৰ খাদ্য"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "আৰু তেওঁ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "দিব"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "সুস্বাদু পদাৰ্থ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:51:52.635174247Z",
+  "model": "glm-5.3"
+}

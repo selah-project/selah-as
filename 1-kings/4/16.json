@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "বাআনা, হুশ্বাইৰ পুতেক, আশ্বেৰত আৰু বেআলোতত ⟨আছিল⟩।",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "বাআনা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "হুশ্বাইৰ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "আশ্বেৰত"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "আৰু বেআলোতত"
+    }
+  ],
+  "timestamp": "2026-09-20T00:02:41.907325367Z",
+  "model": "glm-5.3"
+}

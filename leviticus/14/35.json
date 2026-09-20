@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "তেতিয়া ঘৰৰ গৰাকীজন আহি পুৰোহিতক জনাব ⟨কৈ⟩, “মোৰ ঘৰত আঘাতৰ দৰে একো এটা দেখা দিছে।”",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "তেতিয়া আহিব"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাৰ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "আৰু জনাব"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "পুৰোহিতক"
+    },
+    {
+      "surface": "লאמר",
+      "gloss": "কৈ"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "আঘাতৰ দৰে"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "দেখা দিছে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ ⟨লৈ⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ঘৰত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:20:16.822464602Z",
+  "model": "glm-5.3"
+}

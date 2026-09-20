@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "হামৰ পুত্ৰসকল — কুশ, মিৎচৰায়িম, পুট আৰু কনান।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "חם",
+      "gloss": "হামৰ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "কুশ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "আৰু মিৎচৰায়িম"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "পুট"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "আৰু কনান"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:00.424796352Z",
+  "model": "glm-5.3"
+}

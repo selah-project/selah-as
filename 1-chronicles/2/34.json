@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু শেশানৰ পুতেক নাছিল, কেৱল জীয়েকহে আছিল; আৰু শেশানৰ এজন মিছৰীয়া দাস আছিল, তাৰ নাম য়াৰহা।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নাছিল"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨আছিল⟩"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "শেশানৰ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "אם",
+      "gloss": "হে"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "আৰু শেশানৰ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "মিছৰীয়া"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "আৰু তাৰ নাম"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "য়াৰহা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:50.565300754Z",
+  "model": "glm-5.3"
+}

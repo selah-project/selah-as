@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "ধাৰ্মিকৰ ফল ⟨⟨⟩⟩ ⟨is⟩ জীৱনৰ গছ, আৰু প্ৰাণসমূহ লাভ কৰাজন বুদ্ধিমান।",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "ফল"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিকৰ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "গছ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱনৰ"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "আৰু লাভ কৰাজন"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "প্ৰাণসমূহ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "বুদ্ধিমান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:15.401421285Z",
+  "model": "glm-5.3"
+}

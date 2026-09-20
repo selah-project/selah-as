@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আঙঠিবোৰ আৰু নাকৰ অলংকাৰ,",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "আঙঠিবোৰ"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "আৰু নাকৰ অলংকাৰ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "নাক"
+    }
+  ],
+  "timestamp": "2026-09-20T00:33:46.250897409Z",
+  "model": "glm-5.3"
+}

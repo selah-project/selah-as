@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ খোদিত শিলেৰে মোৰ পথবোৰ বন্ধ কৰিলে, মোৰ বাটবোৰ বাঁকা কৰি পেলালে।",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "বন্ধ কৰিলে"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "মোৰ পথবোৰ"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "খোদিত শিলেৰে"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "মোৰ বাটবোৰ"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "বাঁকা কৰি পেলালে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:06.243795274Z",
+  "model": "glm-5.3"
+}

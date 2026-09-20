@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু খামৰ পুতেকসকল আছিল কুশ, মিৎচৰায়িম, পুট আৰু কনান।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু … পুতেকসকল"
+    },
+    {
+      "surface": "חם",
+      "gloss": "খামৰ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "কুশ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "আৰু মিৎচৰায়িম"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "আৰু পুট"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "আৰু কনান"
+    }
+  ],
+  "timestamp": "2026-09-19T21:28:27.749408498Z",
+  "model": "glm-5.3"
+}

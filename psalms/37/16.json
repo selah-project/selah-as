@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "ধাৰ্মিকৰ হাতৰ অলপ বস্তু বহু দুষ্টৰ সম্পত্তিতকৈ উত্তম।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "অলপ বস্তু"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ধাৰ্মিকৰ"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "সম্পত্তিৰ পৰা"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহু"
+    }
+  ],
+  "timestamp": "2026-09-20T02:38:36.822364586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "মৰুভূমিত ⟨আছিল⟩ বেইত হা-আৰবা, মিদ্দিন আৰু ছেকাখা।",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "মৰুভূমিত"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "হা-আৰবা"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "মিদ্দিন"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "আৰু ছেকাখা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:41.692494780Z",
+  "model": "glm-5.3"
+}

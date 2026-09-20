@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 94,
+  "translation": "ইয়াহৱেহে মানুহৰ চিন্তাবোৰ জানে, যে সেইবোৰ ⟨ব্যৰ্থ⟩।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "চিন্তাবোৰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "המה",
+      "gloss": "সেইবোৰ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ব্যৰ্থ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:57:02.556195647Z",
+  "model": "glm-5.3"
+}

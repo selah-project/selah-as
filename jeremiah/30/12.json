@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "কাৰণ ইয়াহৱেহে এইদৰে কৈছে: তোমাৰ ভাঙ নিৰাময়ৰ অতীত, তোমাৰ আঘাত অতি গধুৰ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "নিৰাময়ৰ অতীত"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "তোমাৰ ভাঙ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "অতি গধুৰ"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "তোমাৰ আঘাত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:14:11.195521430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "বন্য গাধে ঘাঁহ পাওঁতে হাঁকেনে? বলধে নিজৰ দানাৰ ওপৰত গৰজেনে?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "হাঁকেনে"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "বন্য গাধে"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "পাওঁতে"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ঘাঁহ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "গৰজেনে"
+    },
+    {
+      "surface": "שור",
+      "gloss": "বলধে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "নিজৰ দানা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:31:46.627309967Z",
+  "model": "glm-5.3"
+}

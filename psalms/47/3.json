@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 47,
+  "translation": "কিয়নো ইয়াহৱেহ এলিয়োন ⟨আছে⟩ ভয়ংকৰ, সমগ্ৰ পৃথিৱীৰ ওপৰত এজন ডাঙৰ ৰজা।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "এলিয়োন ⟨সৰ্বোচ্চ⟩"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ভয়ংকর"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:42:53.222391672Z",
+  "model": "glm-5.3"
+}

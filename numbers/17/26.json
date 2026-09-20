@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "মোশ্বেই ইয়াহৱেহে তেওঁক যি আদেশ দিছিল ⟨আচলতে ⟨את⟩⟩ সেইদৰে কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "কৰিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "যেনেদৰে"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "আদেশ দিছিল"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "মোশ্বেক"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেইদৰে"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰিলে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:37:38.498316212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "এলকানা — ⟨তেওঁৰ পুতেকসকল⟩: চোফাই ⟨তেওঁৰ পুতেক⟩ আৰু নখত ⟨তেওঁৰ পুতেক⟩।",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "এলকানা"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "এলকানা"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "চোফাই"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "আৰু নখত"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:19.778368940Z",
+  "model": "glm-5.3"
+}

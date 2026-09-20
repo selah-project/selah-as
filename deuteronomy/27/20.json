@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "অভিশপ্ত সি, যি নিজৰ পিতৃৰ পত্নীৰ সৈতে শয়ন কৰে, কিয়নো সি পিতৃৰ আঁচল উন্মোচন কৰিছে; আৰু সকলো লোকে ক'ব: আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "শয়ন কৰে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "পত্নীৰ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "নিজৰ পিতৃৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "উন্মোচন কৰিছে"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "আঁচল"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "পিতৃৰ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আৰু … ক'ব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকে"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:02:21.533227348Z",
+  "model": "glm-5.3"
+}

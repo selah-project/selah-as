@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আগৰ সকলোৰ কোনো স্মৃতি নাই; আৰু পাছৰ সকলোৰো — যি হ'ব — তেওঁলোকৰ কোনো স্মৃতি নাথাকিব, শেষৰ সকলোৰৰ সৈতে।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "স্মৃতি"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "আগৰ সকলোৰ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "আৰু…ও"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "পাছৰ সকলোৰো"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "যি হ'ব"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাথাকিব"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": ""
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকৰ"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "স্মৃতি"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "যি হ'ব"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "শেষৰ সকলোৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:02.092924649Z",
+  "model": "glm-5.3"
+}

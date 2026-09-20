@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "মোৰ পুতেক, মৌ খাঁ, কিয়নো সেই ভাল; আৰু মৌফাল তোমাৰ তালুত মিঠা।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "খাঁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "মোৰ পুতেক"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "মৌ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "আৰু মৌফাল"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "মিঠা"
+    },
+    {
+      "surface": "על",
+      "gloss": "তালুত"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "তোমাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:56.838360984Z",
+  "model": "glm-5.3"
+}

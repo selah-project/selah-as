@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "শেষ আহিছে, আহিছে ⟨the⟩ শেষ; সি তোমাৰ বিৰুদ্ধে জাগিছে; চাওঁচকি, সি আহি আছে।",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "শেষ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহিছে"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহিছে"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "শেষ"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "জাগিছে"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাৰ বিৰুদ্ধে"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওঁচকি"
+    },
+    {
+      "surface": "বאה",
+      "gloss": "আহি আছে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:30:49.537874379Z",
+  "model": "glm-5.3"
+}

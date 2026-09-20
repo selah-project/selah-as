@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "ক্ষোভত মোৰ চকু ম্লান হৈছে; মোৰ সকলো শত্ৰুৰ বাবে ই বুঢ়া হৈছে।",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "ম্লান হৈছে"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "ক্ষোভত"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "মোৰ চকু"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "বুঢ়া হৈছে"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "মোৰ শত্ৰুৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:28:51.994884363Z",
+  "model": "glm-5.3"
+}

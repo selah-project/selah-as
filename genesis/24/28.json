@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "তেতিয়া ছোৱালীজনী দৌৰি গ'ল আৰু এই কথাখিনি মতে তেওঁৰ মাকৰ ঘৰত জনালে।",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "দৌৰি গ'ল"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ছোৱালীজনী"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "জনালে"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ঘৰত"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "তেওঁৰ মাকৰ"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "কথামতে"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T21:36:57.744732248Z",
+  "model": "glm-5.3"
+}

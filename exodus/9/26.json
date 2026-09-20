@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "কেৱল গোচেন দেশত, য'ত ইস্ৰায়েলৰ পুত্ৰসকল আছিল, তাত শিলাবৃষ্টি নাছিল।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "গোচেন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "য'ত"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "শিলাবৃষ্টি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:56:32.610795381Z",
+  "model": "glm-5.3"
+}

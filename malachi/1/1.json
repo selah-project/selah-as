@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "বোজা — ইয়াহৱেহৰ বাক্য, ইস্ৰায়েলৰ প্ৰতি, মালাখিৰ হাতত।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "বোজা"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "প্ৰতি"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতত"
+    },
+    {
+      "surface": "মלאכי",
+      "gloss": "মালাখিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:27:44.397301469Z",
+  "model": "glm-5.3"
+}

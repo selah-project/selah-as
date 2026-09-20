@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "তেতিয়া হাতাখ ৰজাৰ দুৱাৰৰ সন্মুখত থকা চহৰৰ চকখনলৈ মৰদখাইৰ ওচৰলৈ ওলাই গ'ল।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ওলাই গ'ল"
+    },
+    {
+      "surface": "התך",
+      "gloss": "হাতাখ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "מৰदখাইৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "চকখন"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "চহৰৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "שער",
+      "gloss": "দুৱাৰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:01:58.511955266Z",
+  "model": "glm-5.3"
+}

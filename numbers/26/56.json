@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "বহু আৰু কমৰ মাজত চোৰাখৰ মুখ অনুসাৰে উত্তৰাধিকাৰ বিভক্ত হ'ব।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "অনুসাৰে"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "চোৰাখৰ"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "বিভক্ত হ'ব"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "উত্তৰাধিকাৰ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "רב",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "আৰু কমৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:43:09.025196833Z",
+  "model": "glm-5.3"
+}

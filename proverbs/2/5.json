@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তেতিয়া তুমি ইয়াহৱেহৰ ভয় বুজিবা, আৰু এলোহিমৰ জ্ঞান লাভ কৰিবা।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "বুজিবা"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "আৰু জ্ঞান"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "লাভ কৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:31.270309024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বিন্যামিনৰ — বেলা, বেখেৰ আৰু য়েদিয়াএল, তিনিজন।",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "বিন্যামিনৰ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "বেলা"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "আৰু বেখেৰ"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "আৰু য়েদিয়াএল"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিনিজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:09.661371929Z",
+  "model": "glm-5.3"
+}

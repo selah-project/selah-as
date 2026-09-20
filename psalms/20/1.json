@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "পৰিচালকৰ বাবে; দাৱিদৰ ⟨ৰচিত⟩ এটা মিজমোৰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "পৰিচালকৰ বাবে"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিজমোৰ ⟨গীত⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ ⟨ৰচিত⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T02:34:03.928068305Z",
+  "model": "glm-5.3"
+}

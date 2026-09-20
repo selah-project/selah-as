@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "অতলে ক'লে, “মোৰ ভিতৰত নহয়”; আৰু সাগৰে ক'লে, “মোৰ লগত নাই।”",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "অতল"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "בי",
+      "gloss": "মোৰ ভিতৰত"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨সেইটো⟩"
+    },
+    {
+      "surface": "וים",
+      "gloss": "আৰু সাগৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "মোৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:39:39.151426251Z",
+  "model": "glm-5.3"
+}

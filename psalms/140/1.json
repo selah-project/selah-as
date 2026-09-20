@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 140,
+  "translation": "সংগীত-নেতাৰ বাবে; দাৱিদৰ এক মিজমোৰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সংগীত-নেতাৰ বাবে"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিজমোৰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:10:44.523365975Z",
+  "model": "glm-5.3"
+}

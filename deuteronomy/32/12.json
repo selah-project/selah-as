@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "ইয়াহৱেহে অকলশৰীয়াকৈ তেওঁক পথ দেখুৱালে, আৰু তেওঁৰ লগত কোনো পৰদেশী এল নাছিল।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "অকলশৰীয়াকৈ"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "পথ দেখুৱালে"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "আৰু … নাছিল"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "তেওঁৰ লগত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "পৰদেশী"
+    }
+  ],
+  "timestamp": "2026-09-19T23:04:49.197398223Z",
+  "model": "glm-5.3"
+}

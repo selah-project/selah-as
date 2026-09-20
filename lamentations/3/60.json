@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তুমি সিহঁতৰ প্ৰতিশোধৰ সকলো আৰু মোৰ বিষয়ে সিহঁতৰ সকলো চিন্তা দেখিছা।",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "তুমি দেখিছা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "সিহঁতৰ প্ৰতিশোধৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "সিহঁতৰ চিন্তা"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ বিষয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:04.721175502Z",
+  "model": "glm-5.3"
+}

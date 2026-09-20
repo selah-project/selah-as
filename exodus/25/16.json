@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "আৰু তুমি চন্দুকত ⟨את⟩ সাক্ষ্য সুমুৱাই দিবা, যিটো মই তোমাক দিম।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "সুমুৱাই দিবা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "চন্দুকত"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "চন্দুক"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সাক্ষ্য"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "সাক্ষ্য"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিটো"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "দিম"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাক"
+    }
+  ],
+  "timestamp": "2026-09-19T22:04:27.657988257Z",
+  "model": "glm-5.3"
+}

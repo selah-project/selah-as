@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "মানুহৰ সকলো পৰিশ্ৰম ⟨ৰূপত⟩ তাৰ মুখৰ বাবে, আৰু তথাপি প্ৰাণে পৰিতৃপ্ত নহয়।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "পৰিশ্ৰম"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "তাৰ মুখৰ বাবে"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "আৰু তথাপি"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "প্ৰাণে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "পৰিতৃপ্ত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:39.791549526Z",
+  "model": "glm-5.3"
+}

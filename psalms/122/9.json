@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 122,
+  "translation": "আমাৰ এলোহিম ইয়াহৱেহৰ ঘৰৰ কাৰণে মই তোমাৰ মংগল বিচাৰিম।",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "কাৰণে"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "আমাৰ এলোহিম"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "বিচাৰিম"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "মংগল"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:06:36.075035662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "দানিয়েল, গিন্নেতোন, বাৰুখ।",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "দানিয়েল"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "গিন্নেতোন"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "বাৰুখ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:10.455855173Z",
+  "model": "glm-5.3"
+}

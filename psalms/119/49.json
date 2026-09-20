@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "তোমাৰ দাসৰ বাবে ⟨the⟩ বাক্য মনত ৰখা, যাৰ ওপৰত তুমি মোক আশা দিছিলা।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "মনত ৰখা"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "তোমাৰ দাসৰ বাবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "যাৰ ওপৰত"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "তুমি মোক আশা দিছিলা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:04:48.959925307Z",
+  "model": "glm-5.3"
+}

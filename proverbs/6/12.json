@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "এজন নিকৃষ্ট মানুহ, এজন অকল্যাণৰ মানুহ — সি বেকা মুখেৰে খোজ কাঢ়ে।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "মানুহ এজন"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "নিকৃষ্ট"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ এজন"
+    },
+    {
+      "surface": "און",
+      "gloss": "অকল্যাণৰ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "খোজ কাঢ়ে"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "বেকা"
+    },
+    {
+      "surface": "פה",
+      "gloss": "মুখেৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:56.499197900Z",
+  "model": "glm-5.3"
+}

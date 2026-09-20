@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ভাল মানুহৰ বাবে, যে তেওঁ নিজৰ ডেকালিৰ দিনত জোঁ বহন কৰে।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "মানুহৰ বাবে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "বহন কৰে"
+    },
+    {
+      "surface": "על",
+      "gloss": "জোঁ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "নিজৰ ডেকালিৰ দিনত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:36.559863421Z",
+  "model": "glm-5.3"
+}

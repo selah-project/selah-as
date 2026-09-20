@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু দিনবোৰৰ শেষত হ'ল, কাইনে মাটিৰ ফলৰ পৰা ইয়াহৱেহৰ বাবে এক উৎসৰ্গ আনিলে।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "শেষত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিনবোৰৰ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "আৰু আনিলে"
+    },
+    {
+      "surface": "קין",
+      "gloss": "কাইনে"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ফলৰ পৰা"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "মাটিৰ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "উৎসৰ্গ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:00.405386921Z",
+  "model": "glm-5.3"
+}

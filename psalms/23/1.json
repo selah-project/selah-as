@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "দাৱিদৰ গীত। ইয়াহৱেহ ⟨আছে⟩ মোৰ গোহাঁৰি; মই কোনো অভাৱ নাপাম।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "মোৰ গোহাঁৰি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "মই অভাৱ নাপাম"
+    }
+  ],
+  "timestamp": "2026-09-20T02:34:39.137102935Z",
+  "model": "glm-5.3"
+}

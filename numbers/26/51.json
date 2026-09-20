@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "এইবোৰ ইস্ৰায়েলৰ পুত্ৰসকলৰ গণনা — ছশ হাজাৰ এক হাজাৰ সাতশ আৰু ত্ৰিশ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "গণনা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকলৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছশ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨শ⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "আৰু এক হাজাৰ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "আৰু ত্ৰিশ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:43:01.334023614Z",
+  "model": "glm-5.3"
+}

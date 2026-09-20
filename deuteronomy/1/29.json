@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "মই তোমালোকক ক'লোঁ, “ভয় নাখাবা, আৰু তেওঁলোকৰ পৰা নাভৰিবা।”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ক'লোঁ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "তোমালোকক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ভয় নাখাবা"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নাই"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "নাভৰিবা"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "তেওঁলোকৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:34.746014885Z",
+  "model": "glm-5.3"
+}

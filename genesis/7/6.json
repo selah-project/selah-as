@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু নোহা ছশো বছৰীয়া আছিল, যেতিয়া পানীৰ মহাপ্ৰলয় ⟨স⟩ পৃথিৱীৰ ওপৰত হ'ল।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "আৰু নোহা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বছৰীয়া"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰৰ"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "আৰু মহাপ্ৰলয়"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানীৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:58:39.698445593Z",
+  "model": "glm-5.3"
+}

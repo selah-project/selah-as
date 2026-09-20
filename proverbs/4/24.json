@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "বাঁকা মুখৰ কথা তোমাৰ পৰা আঁতৰাওক, আৰু বিকৃত ওঁঠ তোমাৰ পৰা বহুদূৰ ৰাখক।",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "আঁতৰাওক"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "তোমাৰ পৰা"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "বাঁকা কথা"
+    },
+    {
+      "surface": "פה",
+      "gloss": "মুখৰ"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "আৰু বিকৃতি"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ওঁঠৰ"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "বহুদূৰ ৰাখক"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "তোমাৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:35.983682792Z",
+  "model": "glm-5.3"
+}

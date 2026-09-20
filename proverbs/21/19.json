@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "কলহপ্ৰিয় আৰু খঙাল স্ত্ৰীৰ লগত থকাতকৈ মৰুভূমিৰ দেশত বাস কৰাটো ভাল।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "বাস কৰা"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "মৰুভূমিৰ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "স্ত্ৰীৰ পৰা"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "কলহপ্ৰিয়"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "আৰু খঙাল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:22:14.173966267Z",
+  "model": "glm-5.3"
+}

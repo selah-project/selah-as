@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু ⟨তেওঁ⟩ মোৰ প্ৰাণক শান্তিৰ পৰা আঁতৰাই পেলালে; মই মংগল পাহৰালোঁ।",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "আৰু আঁতৰাই পেলালে"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "শান্তিৰ পৰা"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "মোৰ প্ৰাণক"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "মই পাহৰালোঁ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "মংগল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:13.831302840Z",
+  "model": "glm-5.3"
+}

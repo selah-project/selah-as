@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "ইৰা, ইক্কেচৰ পুতেক, হাতেকোৱী; আবিয়েজেৰ হাআনাতোতী,",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ইৰা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ইক্কেচৰ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "হাতেকোৱী"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "আবিয়েজেৰ"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "হাআনাতোতী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:50.560296833Z",
+  "model": "glm-5.3"
+}

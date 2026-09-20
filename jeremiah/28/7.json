@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "তথাপি মই তোমাৰ কাণত আৰু সকলো লোকৰ কাণত যি কথা কওঁ, সেই কথাষাৰ এতিয়াই শুনা।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "তথাপি"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "נא",
+      "gloss": "এতিয়াই"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথাষাৰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কওঁ"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "তোমাৰ কাণত"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "আৰু কাণত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:14:01.755937050Z",
+  "model": "glm-5.3"
+}

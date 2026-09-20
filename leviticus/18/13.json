@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "তোমাৰ মাতৃৰ ভনীৰ নগ্নতা তুমি দেখুৱাব নালাগে, কিয়নো তেওঁ তোমাৰ মাতৃৰ নিজৰ মাংস।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "নগ্নতা"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ভনী"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "তোমাৰ মাতৃৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "দেখুৱাব"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "নিজৰ মাংস"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "তোমাৰ মাতীৰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:21:17.754324128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "ইয়াহৱেহে অহংকাৰীসকলৰ ঘৰ উখালি পেলায়, কিন্তু বিধৱাৰ সীমা স্থিৰ কৰে।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "অহংকাৰীসকলৰ"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "উখালি পেলায়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "স্থিৰ কৰে"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমা"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "বিধৱাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:59.200645935Z",
+  "model": "glm-5.3"
+}

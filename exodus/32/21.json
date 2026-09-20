@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "মোশ্বেই আহৰোনক ক'লে, “এই জনতাই তোমাক কি কৰিলে, যে তুমি তাৰ ওপৰত ইমান ডাঙৰ পাপ আনিলে?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ক"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোনক"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰিলে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাক"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনতাই"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "আনিলে"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তাৰ ওপৰত"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "পাপ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ইমান ডাঙৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:09:00.399523361Z",
+  "model": "glm-5.3"
+}

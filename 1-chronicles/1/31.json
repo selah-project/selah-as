@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "য়িতুৰ, নাফিশ আৰু কেদেমা — এইবোৰেই য়িশ্মাএলৰ পুতেকসকল।",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "য়িতুৰ"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "নাফিশ"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "আৰু কেদেমা"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰেই"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨এইবোৰেই⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "য়িশ্মাএলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:31.776343861Z",
+  "model": "glm-5.3"
+}

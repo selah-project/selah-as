@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "ইয়াহৱেহে মোশ্বেলৈ ক'লে,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ বুলি"
+    }
+  ],
+  "timestamp": "2026-09-20T05:03:46.075224617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "শিথিল হাতবোৰ মজবুত কৰা, আৰু লৰলৰীয়া আঁঠুবোৰ দৃঢ় কৰা।",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "মজবুত কৰা"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "হাতবোৰ"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "শিথিল"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "আৰু আঁঠুবোৰ"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "লৰলৰীয়া"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "দৃঢ় কৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T00:44:53.541781179Z",
+  "model": "glm-5.3"
+}

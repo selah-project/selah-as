@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু তুমি তাৰ ওপৰত তেল ঢালিবা, আৰু তুমি তাৰ ওপৰত ধূপ দিবা; ই শস্য-উৎসৰ্গ।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "আৰু তুমি দিবা"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "তাৰ ওপৰত"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "তেল"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "আৰু তুমি থৈ দিবা"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "তাৰ ওপৰত"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ধূপ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "শস্য-उৎসर्ग"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ই ⟨হৈছে⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T22:13:39.667079363Z",
+  "model": "glm-5.3"
+}

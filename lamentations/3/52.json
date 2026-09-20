@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "চিকাৰ কৰি চিকাৰ কৰিলে মোৰ শত্ৰুৱে মোক, চৰাইৰ দৰে, কাৰণ অবিহনে।",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "চিকাৰ কৰি"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "চিকাৰ কৰিলে মোক"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "চৰাইৰ দৰে"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "মোৰ শত্ৰুৱে"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "কাৰণ অবিহনে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:51.091295765Z",
+  "model": "glm-5.3"
+}

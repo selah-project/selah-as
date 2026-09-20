@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "আৰু য়াকোভে পিতৃ আৰু মাতৃৰ কথা মানিলে, আৰু পদ্দন-আৰামলৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "মানিলে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ৰ কথা"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "পিতৃৰ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু …ৰ কথা"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "মাতৃৰ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "পদ্দন"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "আৰামলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:39:09.549570580Z",
+  "model": "glm-5.3"
+}

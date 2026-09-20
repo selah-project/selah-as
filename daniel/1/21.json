@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু দানিয়েল কোৰেচ্ব ৰজাৰ প্ৰথম বছৰলৈকে ⟨আছিল⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "দানিয়েল"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "প্ৰথম"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "কোৰেচ্বৰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:02:03.111424343Z",
+  "model": "glm-5.3"
+}

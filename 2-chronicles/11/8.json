@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "⟨ואת⟩ গত, ⟨ואת⟩ মাৰেচা আৰু ⟨ואת⟩ জিফ ⟨নিৰ্মাণ কৰিলে⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "গত"
+    },
+    {
+      "surface": "גת",
+      "gloss": "গত"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "মাৰেচা"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "মাৰেচা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "জিফ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "জিফ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:41:37.929048881Z",
+  "model": "glm-5.3"
+}

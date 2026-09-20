@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু এভেৰে চাৰি আৰু ত্ৰিশ বছৰ জীয়াই থাকিল আৰু ⟨את⟩ পেলেগক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "জীয়াই থাকিল"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "এভেৰ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "আৰু ত্ৰিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পেলেগক"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "পেলেগ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:45.765259775Z",
+  "model": "glm-5.3"
+}

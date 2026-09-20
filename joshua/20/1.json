@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "আৰু ইয়াহৱেহে য়েহোশ্বুৱাক ক'লে, কৈ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "য়েহোশ্বুৱাক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:17:21.014734190Z",
+  "model": "glm-5.3"
+}

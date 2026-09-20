@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ইয়াহৱেহৰ পৰা য়িৰ্মিয়াহুলৈ অহা বাক্য ⟨এইটো আছিল⟩, কৈ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "য়িৰ্মিয়াহু"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨מאת⟩",
+      "marks": "ইয়াহৱেহৰ পৰা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:01:23.524040536Z",
+  "model": "glm-5.3"
+}

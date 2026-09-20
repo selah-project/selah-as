@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "এনেদৰে সকলো অন্যায় লাভ কৰাৰ পথ; সেই লাভে ⟨את⟩ তাৰ গৰাকীৰ প্ৰাণ কাঢ়ি নিয়ে।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "এনেদৰে"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "অন্যায় লাভ কৰাৰ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "প্ৰাণ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "তাৰ গৰাকীৰ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "কাঢ়ি নিয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:16.248873931Z",
+  "model": "glm-5.3"
+}

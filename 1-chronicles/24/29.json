@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "কিছৰ — কিছৰ পুতেক ⟨আছিল⟩ য়েৰাখমেএল।",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "কিছৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "קישׁ",
+      "gloss": "কিছৰ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "য়েৰাখমেএল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:36:09.798786949Z",
+  "model": "glm-5.3"
+}

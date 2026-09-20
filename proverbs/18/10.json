@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "ইয়াহৱেহৰ নাম ⟨এটা⟩ শক্তিশালী বুৰুজ; ধাৰ্মিকে তাত দৌৰি যায় আৰু নিৰাপদ হয়।",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "বুৰুজ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "শক্তি"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "দৌৰি যায়"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিক"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "আৰু নিৰাপদ হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:29.848179169Z",
+  "model": "glm-5.3"
+}

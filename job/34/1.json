@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 34:1",
+  "book": "job",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "এলিহুৱে উত্তৰ দিলে আৰু ক'লে,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "উত্তৰ দিলে"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "এলিহুৱে"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:43:16.823351965Z",
+  "model": "glm-5.3"
+}

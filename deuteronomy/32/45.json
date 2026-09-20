@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "আৰু মোশ্বেই সকলো ইস্ৰায়েলৰ ওচৰত এই সকলো কথা কৈ সাঙৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "সাঙৰিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "কৈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো কথা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েল"
+    }
+  ],
+  "timestamp": "2026-09-19T23:05:32.731522087Z",
+  "model": "glm-5.3"
+}

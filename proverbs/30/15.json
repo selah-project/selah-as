@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "জোঁকাইৰ দুগৰাকী জীয়েক আছে: “দিয়া, দিয়া।” তিনিটা বস্তু তৃপ্ত নহয়, আৰু চাৰিটাই “যথেষ্ট” নকয়:",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "জোঁকাইৰ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "הב",
+      "gloss": "দিয়া"
+    },
+    {
+      "surface": "הב",
+      "gloss": "দিয়া"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "সেইবোৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "তৃপ্ত হয়"
+    },
+    {
+      "surface": "ארবע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "কয়"
+    },
+    {
+      "surface": "הון",
+      "gloss": "যথেষ্ট"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:39.844036155Z",
+  "model": "glm-5.3"
+}

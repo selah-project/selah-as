@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "উদ্ধত, অহংকাৰী — ঠাট্টাকৰোঁতা তাৰ নাম, অহংকাৰী ক্ৰোধত চলাজন।",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "উদ্ধত"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "অহংকাৰী"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ঠাট্টাকৰোঁতা"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তাৰ নাম"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "চলাজন"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "ক্ৰোধত"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "অহংকাৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:55.848579492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "হাশ্বেম হগিজোনীৰ পুতেকসকল, য়োনাতান শ্বাগেহৰ পুতেক হহৰাৰী।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "השם",
+      "gloss": "হাশ্বেম"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "হগিজোনীৰ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "য়োনাতান"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "শ্বাগেহৰ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "হহৰাৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:45.781145159Z",
+  "model": "glm-5.3"
+}

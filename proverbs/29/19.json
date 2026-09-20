@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "কথাৰে দাস শুধৰোৱা নাযায়, কিয়নো তেওঁ বুজে যদিও উত্তৰ নাথাকে।",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "কথাৰে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাযায়"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "শুধৰোৱা"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "বুজে যদিও"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "নাথাকে"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "উত্তৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:58.483280456Z",
+  "model": "glm-5.3"
+}

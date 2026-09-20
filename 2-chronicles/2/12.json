@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু এতিয়া মই এজন জ্ঞানী মানুহ পঠাইছোঁ, বুদ্ধি জনা এজনক — মোৰ পিতৃ হুৰামক।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "আৰু এতিয়া"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "মই পঠাইছোঁ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জনা"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বুদ্ধি"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "হুৰামক"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "মোৰ পিতৃ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:39:51.164040732Z",
+  "model": "glm-5.3"
+}

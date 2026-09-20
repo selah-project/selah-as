@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "⟨এনে এক⟩ প্ৰজন্ম ⟨আছে⟩ — পিতৃক অভিশাপ দিয়ে, আৰু ⟨את⟩ মাতৃক আশীৰ্বাদ নিদিয়ে।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "প্ৰজন্ম"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "পিতৃক"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "অভিশাপ দিয়ে"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "মাতৃক"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "মাতৃক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "আশীৰ্বাদ দিয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:44.665038858Z",
+  "model": "glm-5.3"
+}

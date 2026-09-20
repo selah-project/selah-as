@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "দাগৰ বদলি দাগ, ঘাঁৰ বদলি ঘাঁ, আঘাতৰ চিনৰ বদলি আঘাতৰ চিন।",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "দাগ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ৰ বদলি"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "দাগ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ঘাঁ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ৰ বদলি"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ঘাঁ"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "আঘাতৰ চিন"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ৰ বদলি"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "আঘাতৰ চিন"
+    }
+  ],
+  "timestamp": "2026-09-19T22:02:29.262563370Z",
+  "model": "glm-5.3"
+}

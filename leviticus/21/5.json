@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "তেওঁলোকে নিজৰ মূৰত টকলা নকৰিব, নিজৰ দাড়িৰ কাষ নেপৰাব, আৰু নিজৰ দেহত কটা নকটিব।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "টকলা কৰিব"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "টকলা"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "নিজৰ মূৰত"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "আৰু কাষ"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "নিজৰ দাড়ি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "নেপৰাব"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "আৰু নিজৰ দেহত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "কটিব"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "কটা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:24:16.238630931Z",
+  "model": "glm-5.3"
+}

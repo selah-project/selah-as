@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "দাৱিদে ⟨את⟩ এই কথাবোৰ নিজৰ হৃদয়ত ৰাখিলে, আৰু গথৰ ৰজা আখিছৰ সন্মুখত বৰ ভয় খালে।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ৰাখিলে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই কথাবোৰ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "নিজৰ হৃদয়ত"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ভয় খালে"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "বৰ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "আখিছৰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "גת",
+      "gloss": "গথৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:42:49.404917723Z",
+  "model": "glm-5.3"
+}

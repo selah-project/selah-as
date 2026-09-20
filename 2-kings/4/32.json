@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "এলিচাই ঘৰত সোমাল; আৰু চাওঁক — ল'ৰাটি মৃত, তাৰ শয্যাত শুৱাই আছে।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "সোমাল"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "এলিচাই"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ঘৰত"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চাওঁক"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ল'ৰাটি"
+    },
+    {
+      "surface": "מת",
+      "gloss": "মৃত"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "শুৱাই আছে"
+    },
+    {
+      "surface": "על",
+      "gloss": "তাৰ … ত"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "শয্যাত"
+    }
+  ],
+  "timestamp": "2026-09-20T00:20:13.886429732Z",
+  "model": "glm-5.3"
+}

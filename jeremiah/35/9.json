@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 35:9",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "আৰু বাস কৰিবলৈ ঘৰ নিৰ্মাণ নকৰাকৈ; আৰু আঙুৰবাৰী, পথাৰ আৰু বীজ — এয়া আমাৰ নাথাকিব।",
+  "tokens": [
+    {
+      "surface": "ולבלתי",
+      "gloss": "নকৰাকৈ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "নিৰ্মাণ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "לשבתנו",
+      "gloss": "আমাৰ বাস কৰাৰ"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "আৰু আঙুৰবাৰী"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "আৰু পথাৰ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "আৰু বীজ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:15:41.852338061Z",
+  "model": "glm-5.3"
+}

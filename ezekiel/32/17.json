@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 32:17",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "বাৰশ বছৰৰ, মাহৰ পোন্ধৰ তাৰিখত ইয়াহৱেহৰ বাক্য মোৰ ওচৰলৈ আহিল, ক'বলৈ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰৰ"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাহৰ পোন্ধৰ তাৰিখত"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰলৈ"
+    },
+    {
+      "surface": "লאמר",
+      "gloss": "ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:48:39.322017269Z",
+  "model": "glm-5.3"
+}

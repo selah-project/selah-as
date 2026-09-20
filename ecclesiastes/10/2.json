@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "জ্ঞানীজনৰ হৃদয় ⟨তেওঁৰ⟩ সোঁফালে, আৰু মূৰ্খৰ হৃদয় ⟨তেওঁৰ⟩ বাওঁফালে।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানীজনৰ"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "তেওঁৰ সোঁফালে"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "আৰু হৃদয়"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "মূৰ্খৰ"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "তেওঁৰ বাওঁফালে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:57.307759924Z",
+  "model": "glm-5.3"
+}

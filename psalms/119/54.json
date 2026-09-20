@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "তোমাৰ বিধানসমূহ মোৰ গীত হৈছিল মোৰ প্ৰবাসৰ ঘৰত।",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "היו",
+      "gloss": "হৈছিল"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "তোমাৰ বিধানসমূহ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "...ৰ ঘৰত"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "মোৰ প্ৰবাস"
+    }
+  ],
+  "timestamp": "2026-09-20T03:04:42.747688180Z",
+  "model": "glm-5.3"
+}

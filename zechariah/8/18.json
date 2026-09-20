@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zechariah 8:18",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "তাৰ পাছত ইয়াহৱেহ চেভাওতৰ বাক্য মোৰ ওচৰত আহিল, কৈ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "তাৰ পাছত হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "চেভাওতৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰত"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:24:09.844472087Z",
+  "model": "glm-5.3"
+}

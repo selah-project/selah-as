@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু পুৱাত ইয়াহৱেহৰ বাক্য মোৰ ওচৰলৈ আহিল, কৈ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰলৈ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "পুৱাত"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:33:39.293957823Z",
+  "model": "glm-5.3"
+}

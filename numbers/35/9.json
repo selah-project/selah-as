@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 35:9",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "ইয়াহৱেহে মোশ্বেক ক'লে, এই বুলি —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "তাৰ পাছত ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ক"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বুলি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:48:16.977029556Z",
+  "model": "glm-5.3"
+}

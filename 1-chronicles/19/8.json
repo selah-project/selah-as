@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "দাৱিদে শুনি ⟨את⟩ য়োৱাব আৰু ⟨את⟩ সকলো বীৰ যোদ্ধাৰ সেনাক পঠালে।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "শুনিলে"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "পঠালে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "য়োৱাব"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "য়োৱাব"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো বীৰ যোদ্ধাৰ সেনা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "সেনা"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "বীৰ যোদ্ধাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:34:48.873819019Z",
+  "model": "glm-5.3"
+}

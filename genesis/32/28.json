@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "তেওঁ তেওঁক ক'লে, “তোমাৰ নাম কি?” তেওঁ ক'লে, “য়াকোভ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "তোমাৰ নাম"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:40:49.140763287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 23:6",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "দাৱিদে লেৱীসকলৰ পুত্ৰসকলক — গেৰ্শোন, কেহাত আৰু মেৰাৰী — বিভাগত ভাগ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "ভাগ কৰিলে"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "বিভাগত"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্ৰসকলক"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লেৱী"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "গেৰ্শোন"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কেহাত"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "আৰু মেৰাৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:26.690388912Z",
+  "model": "glm-5.3"
+}

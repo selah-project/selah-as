@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু তেওঁলোকে মৰ্দখয়ক ⟨את⟩ এস্তেৰৰ কথাবোৰ জনালে।",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "জনালে"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "মৰ্দখয়ক"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এস্তেৰৰ কথাবোৰ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "এস্তেৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:59:45.819982963Z",
+  "model": "glm-5.3"
+}

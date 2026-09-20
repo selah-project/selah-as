@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 42,
+  "translation": "“আমি সকলো এজন মানুহৰ পুতেক; আমি সৎ লোক; আপোনাৰ দাসসকল গুপ্তচৰ নহয়।”",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "আমি সকলো"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "সৎ লোক"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "היו",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "আপোনাৰ দাসসকল"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "গুপ্তচৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:47:33.675598334Z",
+  "model": "glm-5.3"
+}

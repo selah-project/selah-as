@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "ইম্মেৰৰ পুতেকসকল — এহেজাৰ বাহাত্তৰ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ইম্মেৰৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:22.543984462Z",
+  "model": "glm-5.3"
+}

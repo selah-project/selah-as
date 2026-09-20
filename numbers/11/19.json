@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "তোমালোকে এদিন নহয় খাবা, আৰু দুদিন নহয়, আৰু পাঁচ দিন নহয়, আৰু দহ দিন নহয়, আৰু বিশ দিনো নহয়।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "খাবা"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "দুদিন"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-19T22:36:15.319525441Z",
+  "model": "glm-5.3"
+}

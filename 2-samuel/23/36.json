@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "ইয়িগ্আল — নাতানৰ পুতেক, চোবাৰ; বানী গদ্দী।",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "ইয়িগ্আল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতানৰ"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "চোবাৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বানী"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "গদ্দী"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:36.224687837Z",
+  "model": "glm-5.3"
+}

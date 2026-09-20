@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "মোৰ শক্তি কেৱল শিলৰ শক্তি নেকি? মোৰ দেহ পিতলৰ নেকি?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "নেকি"
+    },
+    {
+      "surface": "כח",
+      "gloss": "শক্তি"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "শিলৰ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "মোৰ শক্তি"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নেকি"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "মোৰ দেহ"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "পিতলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:31:14.720727553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "গেৰ্শোনীসকলৰ ভিতৰত আছিল লাদন আৰু শ্বিমি।",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "গেৰ্শোনীসকলৰ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "লাদন"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "আৰু শ্বিমি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:26.691012575Z",
+  "model": "glm-5.3"
+}

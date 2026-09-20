@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "বিনয়ামিনৰ ⟨মুৰব্বী⟩ — গিদিয়োনিৰ পুত্ৰ আবিদান।",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "বিনয়ামিনৰ"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "আবিদান"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "গিদিয়োনিৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:09.010101079Z",
+  "model": "glm-5.3"
+}

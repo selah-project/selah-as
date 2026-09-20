@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "তেতিয়া চোফৰ নাআমতীয়ে উত্তৰ দিলে আৰু ক'লে:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "উত্তৰ দিলে"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "চোফৰ"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "নাআমতীয়ে"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:38:10.392076229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "তোমাৰ ওৰণিৰ পিছফালে তোমাৰ কাষলি নিমাষৰ এটুকুৰাৰ দৰে ⟨দেখা যায়⟩।",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "ফাল-এটুকুৰাৰ দৰে"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "নিমাষৰ"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "তোমাৰ কাষলি"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "পিছফালে"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "তোমাৰ ওৰণিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:50.807780764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু হুচিমৰ পৰা তেওঁ ⟨את⟩ আবিতুব আৰু ⟨את⟩ এলপালক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "আৰু হুচিমৰ পৰা"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আবিতুব"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "আবিতুব"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "এলপাল"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "এলপাল"
+    }
+  ],
+  "timestamp": "2026-09-20T05:27:17.260577088Z",
+  "model": "glm-5.3"
+}

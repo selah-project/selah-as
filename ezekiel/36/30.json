@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 36:30",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "আৰু মই ⟨את⟩ গছৰ ফল আৰু ⟨the⟩ পথাৰৰ উৎপন্ন বঢ়াইম, যাতে তোমালোকে জাতিসমূহৰ মাজত দুৰ্ভিক্ষৰ অপমান আৰু নল'ব।",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "বঢ়াইম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "গছৰ ফল"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ফল"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "⟨the⟩ গছৰ"
+    },
+    {
+      "surface": "ותנובת",
+      "gloss": "আৰু উৎপন্ন"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨the⟩ পথাৰৰ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "যাতে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ল'ব"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আৰু"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "অপমান"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "দুৰ্ভিক্ষৰ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "জাতিসমূহৰ মাজত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:52:26.921002183Z",
+  "model": "glm-5.3"
+}

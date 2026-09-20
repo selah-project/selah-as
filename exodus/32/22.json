@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "আৰু আহৰোনে ক'লে, “মোৰ প্ৰভুৰ ক্ৰোধ জ্বলিব নালাগে; আপুনি ⟨את⟩ এই জনতাক জানে, যে সি দুষ্ট।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোনে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "জ্বলিব"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ক্ৰোধ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "মোৰ প্ৰভুৰ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "আপুনি"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই জনতাক"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনতাক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "দুষ্ট"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:09:00.399927147Z",
+  "model": "glm-5.3"
+}

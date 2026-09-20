@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "তেওঁ পেৰেচৰ পুত্ৰসকলৰ পৰা ⟨আছিল⟩, প্ৰথম মাহৰ বাবে সকলো সেনাবাহিনীৰ সৰদাৰৰ মুৰব্বী।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকলৰ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "পেৰেচ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "মুৰব্বী"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সকলো…ৰ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "সৰদাৰৰ"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "সেনাবাহিনীৰ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাহৰ বাবে"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "প্ৰথম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:38:09.745860940Z",
+  "model": "glm-5.3"
+}

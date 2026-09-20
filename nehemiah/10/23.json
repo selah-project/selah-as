@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "পেলাতিয়াহ, চানান, অনায়াহ।",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "পেলাতিয়াহ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "চানান"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "অনায়াহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:18.525242176Z",
+  "model": "glm-5.3"
+}

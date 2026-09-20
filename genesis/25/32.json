@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "ঢাচুৱে ক'লে, “চাওক, মই মৰিবলৈ গৈ আছোঁ; তেনেহ'লে মোৰ বাবে জ্যেষ্ঠত্ব ⟨নেকি⟩?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ঢাচুৱে"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "গৈ আছোঁ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "মৰিবলৈ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "তেনেহ'লে কিয়"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ বাবে"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "জ্যেষ্ঠত্ব"
+    }
+  ],
+  "timestamp": "2026-09-19T21:37:46.488302532Z",
+  "model": "glm-5.3"
+}

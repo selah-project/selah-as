@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "অভিশপ্ত সেইজন, যিয়ে নিজৰ দেউতাক আৰু মাকক তুচ্ছ কৰে; আৰু সকলো জনতাই ক'ব, আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "তুচ্ছ কৰে"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "নিজৰ দেউতাকক"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "আৰু মাকক"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ক'ব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনতাই"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:01:45.202060940Z",
+  "model": "glm-5.3"
+}

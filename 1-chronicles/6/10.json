@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু এলকানাৰ পুতেকসকল ⟨আছিল⟩: আমাচাই আৰু অহিমোত।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "এলকানাৰ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "আমাচাই"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "আৰু অহিমোত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:19.778151716Z",
+  "model": "glm-5.3"
+}

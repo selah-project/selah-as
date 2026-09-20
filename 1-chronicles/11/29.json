@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "ছিব্বেখাই হুশ্বতীয়া, ইলাই আহোহীয়া।",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "ছিব্বেখাই"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "হুশ্বতীয়া"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "ইলাই"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "আহোহীয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T04:30:04.154303430Z",
+  "model": "glm-5.3"
+}

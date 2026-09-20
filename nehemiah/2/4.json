@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তেতিয়া ৰজাই মোক ক'লে, “তুমি এই কাৰণে কি বিচাৰিছা?” তেতিয়া মই আকাশৰ এলোহিমক প্ৰাৰ্থনা কৰিলোঁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "על",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "বিচাৰিছা"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "মই প্ৰাৰ্থনা কৰিলোঁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এলোহিমক"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "আকাশৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:18:03.004897938Z",
+  "model": "glm-5.3"
+}

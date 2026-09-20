@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "এষ্টৰে ক'লে, “ৰজাৰ প্ৰতি ভাল হ'লে, ৰজা আৰু হামান আজি মোৰ প্ৰস্তুত কৰা ভোজলৈ আহক।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "এষ্টৰে"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "על",
+      "gloss": "সম্পৰ্কে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল লাগে"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "আহক"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "আৰু হামানে"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজি"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ভোজ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "মই প্ৰস্তুত কৰা"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T04:01:56.020842550Z",
+  "model": "glm-5.3"
+}

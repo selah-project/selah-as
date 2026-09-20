@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "আৰু সিহঁত মোৰ বাবে জাতি হ'ব, আৰু মই সিহঁতৰ বাবে এলোহিম হ'ম।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ বাবে"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "আৰু মই"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "হ'ম"
+    },
+    {
+      "surface": "להם",
+      "gloss": "সিহঁতৰ বাবে"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "এলোহিম"
+    }
+  ],
+  "timestamp": "2026-09-20T01:15:52.981363063Z",
+  "model": "glm-5.3"
+}

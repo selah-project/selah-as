@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "তেওঁলোকে ইজনে সিজনক ক'লে, “চাওঁক, সেই সপোনৰ গৰাকীজন আহি আছে!”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "তেওঁলোকে ক'লে"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ইজনে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "সিজনক"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "গৰাকী"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "সপোনৰ"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহি আছে"
+    }
+  ],
+  "timestamp": "2026-09-19T21:44:15.918121346Z",
+  "model": "glm-5.3"
+}

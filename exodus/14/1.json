@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক ক'লে, এইদৰে কৈ যে,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এইদৰে কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:59:07.464293116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "অলপ টোপনি, অলপ নিদ্ৰা, অলপ হাত দুখন মেলাই জাতিয়াই থকা — শুই পৰিবলৈ;",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "টোপনি"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "নিদ্ৰা"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "মেলাই জাতিয়াই থকা"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "হাত দুখন"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "শুই পৰিবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:57.169912286Z",
+  "model": "glm-5.3"
+}

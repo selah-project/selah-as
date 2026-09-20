@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আদিতে এলোহিমে ⟨את⟩ আকাশমণ্ডল আৰু ⟨את⟩ পৃথিৱী সৃষ্টি কৰিলে।",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "আদিতে"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "সৃষ্টি কৰিলে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আকাশমণ্ডল"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "আকাশমণ্ডল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "পৃথিৱী"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱী"
+    }
+  ],
+  "timestamp": "2026-09-19T13:52:34.772655463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "মই সূৰ্যৰ তলত কৰা ⟨את⟩ সকলো কাৰ্য দেখিলোঁ, আৰু চাওঁ — সকলোয়ে অসাৰ, আৰু বতাহৰ পীড়ন।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "মই দেখিলোঁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো কাৰ্য"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "কাৰ্য"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "যি কৰা হৈছে"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্যৰ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চাওঁ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "সকলোয়ে"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "অসাৰ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "আৰু পীড়ন"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "বতাহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:38.684923229Z",
+  "model": "glm-5.3"
+}

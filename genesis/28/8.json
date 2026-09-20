@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "আৰু এচাভে দেখিলে যে পিতৃ ইৎচহাকৰ চকুত কনানৰ জীয়েকসকল বেয়া লাগে।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "দেখিলে"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এচাভে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "বেয়া লাগে"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "জীয়েকসকল"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনানৰ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চকুত"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ইৎচহাকৰ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "পিতৃ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:39:09.549701124Z",
+  "model": "glm-5.3"
+}

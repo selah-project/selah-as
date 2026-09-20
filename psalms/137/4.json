@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 137,
+  "translation": "কেনেকৈ আমি ⟨את⟩ ইয়াহৱেহৰ গীত গাম বিদেশী মাটিত?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "কেনেকৈ"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "আমি গাম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াহৱেহৰ গীত"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ত"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "মাটিত"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "বিদেশী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:10:42.307824122Z",
+  "model": "glm-5.3"
+}

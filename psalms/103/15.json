@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 103,
+  "translation": "নশ্বৰ মানুহ — তাৰ দিনবোৰ ঘাঁহৰ দৰে; পথাৰৰ ফুলৰ দৰে সি ফুলে।",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "নশ্বৰ মানুহ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ঘাঁহৰ দৰে"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "তাৰ দিনবোৰ"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "ফুলৰ দৰে"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "পথাৰৰ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেনেদৰে"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ফুলে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:58:42.448866213Z",
+  "model": "glm-5.3"
+}

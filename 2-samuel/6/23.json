@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু শ্বাউলৰ জীয়েক মিখালৰ ⟨কোনো⟩ সন্তান নাছিল, তেওঁৰ মৃত্যুৰ দিনলৈকে।",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "আৰু মিখালৰ ক্ষেত্ৰত"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বাউলৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাছিল"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "সন্তান"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "মৃত্যুৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:50:02.127394749Z",
+  "model": "glm-5.3"
+}

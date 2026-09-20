@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "ইয়াহৱেহে তোমালোকৰ পিতৃসকলৰ ওপৰত ক্ৰোধ কৰিছিল — ঘন ক্ৰোধ।",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "ক্ৰোধ কৰিছিল"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "তোমালোকৰ পিতৃসকলৰ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ঘন ক্ৰোধ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:21:27.277046837Z",
+  "model": "glm-5.3"
+}

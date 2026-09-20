@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "অভিশপ্ত সি যি নিজ ভনীৰ সৈতে শুৱে — পিতৃৰ জীয়েক হওক বা মাতৃৰ জীয়েক; আৰু সকলো জনতাই ক'ব, আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "শুৱে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "নিজ ভনীৰ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "পিতৃৰ"
+    },
+    {
+      "surface": "או",
+      "gloss": "হওক বা"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "মাতৃৰ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আৰু ক'ব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনতাই"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:02:14.888840406Z",
+  "model": "glm-5.3"
+}

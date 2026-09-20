@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "কিয়নো তুমি দুষ্কাৰ্য্যত সন্তুষ্ট হোৱা এল নহয়; অকল্যাণে তোমাৰ লগত বাস নকৰিব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "সন্তুষ্ট হোৱা"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্কাৰ্য্যত"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "বাস নকৰিব"
+    },
+    {
+      "surface": "רע",
+      "gloss": "অকল্যাণে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:28:43.295738064Z",
+  "model": "glm-5.3"
+}

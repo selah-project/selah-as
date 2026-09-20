@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু হামতৰ ৰজা তোউ-এ শুনিলে যে দাৱিদে ⟨את⟩ চোবাৰ ৰজা হাদাদেজেৰৰ সমগ্ৰ সেনা পৰাস্ত কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "শুনিলে"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "তোউ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "হামতৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "পৰাস্ত কৰিলে"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সমগ্ৰ সেনা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "সেনা"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "হাদাদেজেৰৰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "চোবাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:34:10.532340650Z",
+  "model": "glm-5.3"
+}

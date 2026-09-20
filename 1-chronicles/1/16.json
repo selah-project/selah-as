@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু ⟨את⟩ আৰ্বাদী, ⟨את⟩ চমাৰী আৰু ⟨את⟩ হামাতী।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "আৰ্বাদী"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "আৰ্বাদী"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "চমাৰী"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "চমাৰী"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আৰু ⟨את⟩",
+      "marks": "হামাতী"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "হামাতী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:34.374434020Z",
+  "model": "glm-5.3"
+}

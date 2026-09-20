@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আনাতোত, নোৱ, আনান্‌ইয়াহ ⟨-ত বাস কৰিলে⟩।",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "আনাতোত"
+    },
+    {
+      "surface": "נב",
+      "gloss": "নোৱ"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "আনান্‌ইয়াহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:23:15.982393935Z",
+  "model": "glm-5.3"
+}

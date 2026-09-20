@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "অকল্যাণ কল্পনা কৰাজনক দুষ্ট ষড়যন্ত্ৰৰ গৰাকী বুলি মাতিব।",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "কল্পনা কৰাজনক"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "অকল্যাণ"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "בעל",
+      "gloss": "গৰাকী"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "দুষ্ট ষড়যন্ত্ৰৰ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "মাতিব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:23.839335900Z",
+  "model": "glm-5.3"
+}

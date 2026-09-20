@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "এজন মানুহৰ পথ ⟨অতি⟩ বাঁকা আৰু অপৰাধীৰ দৰে; আনহাতে নিৰ্মলজনৰ কাৰ্য সজা।",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "বাঁকা-বাঁকা"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "এজন মানুহৰ"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "অপৰাধী"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "আনহাতে নিৰ্মলজনৰ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "সজা"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "কাৰ্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:22:36.790965521Z",
+  "model": "glm-5.3"
+}

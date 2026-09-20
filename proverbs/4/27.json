@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "সোঁফালে বা বাওঁফালে হালি নাযাবা; তোমাৰ ভৰি বেয়াৰ পৰা আঁতৰাবা।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "תט",
+      "gloss": "হালি যাবা"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "সোঁফালে"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "আৰু বাওঁফালে"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "আঁতৰাবা"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "তোমাৰ ভৰি"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "বেয়াৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:47.063736514Z",
+  "model": "glm-5.3"
+}

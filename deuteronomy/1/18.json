@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু মই সেই সময়ত তোমালোকক ⟨אתכם⟩ আদেশ দিলোঁ ⟨את⟩ সকলো কথা, যিবোৰ তোমালোকে কৰিবা।",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "আৰু মই আদেশ দিলোঁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "তোমালোকক"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "সময়ত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো কথা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিবোৰ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "কৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:50:02.264973345Z",
+  "model": "glm-5.3"
+}

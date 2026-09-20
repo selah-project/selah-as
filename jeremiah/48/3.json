@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "হোৰোনায়িমৰ পৰা চিঞৰাৰ মাত ⟨আহে⟩ — বিনাশ আৰু মহাধ্বংস।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "মাত"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "চিঞৰাৰ"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "হোৰোনায়িমৰ পৰা"
+    },
+    {
+      "surface": "שד",
+      "gloss": "বিনাশ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "আৰু ভঙ্গ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহাধ্বংস (ডাঙৰ)"
+    }
+  ],
+  "timestamp": "2026-09-20T01:24:05.567845383Z",
+  "model": "glm-5.3"
+}

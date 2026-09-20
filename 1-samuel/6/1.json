@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু ইয়াহৱেহৰ চন্দুক পলিশ্তীসকলৰ পথাৰত সাত মাহ ধৰি আছিল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "চন্দুক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়אহৱেহৰ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "পথাৰত"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "পলিশ্তীসকলৰ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "মাহ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:08:37.633065144Z",
+  "model": "glm-5.3"
+}

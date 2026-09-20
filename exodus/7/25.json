@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু ইয়াহৱেহে ⟨את⟩ নদীখনক আঘাত কৰাৰ পাছত সাতোটা দিন পূৰ হ'ল।",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "পূৰ হ'ল"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাতোটা"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পাছত"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "আঘাত কৰাৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নদীখনক"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "নদীখন"
+    }
+  ],
+  "timestamp": "2026-09-19T21:55:34.479663274Z",
+  "model": "glm-5.3"
+}

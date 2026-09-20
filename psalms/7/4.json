@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ইয়াহৱেহ, মোৰ এলোহিম, মই এই কাম ⟨কৰিলোঁনে⟩, মোৰ হাতত অন্যায় ⟨আছেনে⟩?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "মোৰ এলোহিম"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "কৰিলোঁ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এই কাম"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "עול",
+      "gloss": "অন্যায়"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "মোৰ হাতত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:29:35.991583098Z",
+  "model": "glm-5.3"
+}

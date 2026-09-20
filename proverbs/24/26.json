@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "সঠিক কথাবোৰ উত্তৰ দিওঁতাক ওঁঠেৰে চুমা দিয়া হয়।",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "চুমা দিয়ে"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "উত্তৰ দিওঁতা"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "সঠিক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:01.785154004Z",
+  "model": "glm-5.3"
+}

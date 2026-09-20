@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু মোশ্বেই শুনিলে, আৰু তেওঁৰ চকুত সেয়া ভাল লাগিল।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "শুনিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ভাল লাগিল"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "তেওঁৰ চকুত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:18:21.161457434Z",
+  "model": "glm-5.3"
+}

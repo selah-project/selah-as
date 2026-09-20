@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু তোমালোকে কোনো তেজ নাখাব — চৰাইৰ বা জন্তুৰ — তোমালোকৰ সকলো বাসস্থানত।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আৰু কোনো"
+    },
+    {
+      "surface": "דם",
+      "gloss": "তেজ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাখাব"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "খাব"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সকলো ... ত"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "তোমালোকৰ বাসস্থান"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "চৰাইৰ"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "বা জন্তুৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:15:53.413796934Z",
+  "model": "glm-5.3"
+}

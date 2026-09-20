@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "জেবুলুনৰ ⟨মুৰব্বী⟩ — হেলোনৰ পুত্ৰ এলিয়াভ।",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "জেবুলুনৰ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "এলিয়াভ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "হেলোনৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:09.006064697Z",
+  "model": "glm-5.3"
+}

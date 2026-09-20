@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰাহৰ সন্তানসকল — ছশী বাষষ্ঠি জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "আৰাহৰ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "חמשিঝ",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:26.926065012Z",
+  "model": "glm-5.3"
+}

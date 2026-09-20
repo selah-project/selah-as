@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "আৰু ইয়াৰ্মিয়াহুৱে ক'লে, “ইয়াহৱেহৰ বাক্য মোলৈ আহিল, কৈছিল,”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ইয়াৰ্মিয়াহুৱে"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আহিছিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:16:43.891842756Z",
+  "model": "glm-5.3"
+}

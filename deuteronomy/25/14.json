@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "তোমাৰ ঘৰত এইফা আৰু এইফা — ডাঙৰ আৰু সৰু — নাথাকিব।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকিব"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "তোমাৰ ঘৰত"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "এইফা"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "আৰু এইফা"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "আৰু সৰু"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:20.913732886Z",
+  "model": "glm-5.3"
+}

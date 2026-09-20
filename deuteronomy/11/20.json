@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু সেইবোৰ নিজৰ ঘৰৰ খুঁটিত আৰু নিজৰ দুৱাৰমুখত লিখি থোৱা।",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "লিখি থোৱা"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "খুঁটিত"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "নিজৰ ঘৰৰ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "নিজৰ দুৱাৰমুখত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:54:17.882246479Z",
+  "model": "glm-5.3"
+}

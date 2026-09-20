@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু যি সকলো মাংসত জীৱনৰ উশাহ আছে, সকলোৰে পৰা দুটাকৈ দুটাকৈ নোৱাহৰ ওচৰলৈ, কিষ্টিত সোমাল।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "আৰু সোমাল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোৱাহৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "কিষ্টি"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুটা"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুটা"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "সকলোৰ পৰা"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "উশাহ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱনৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:28:30.431534144Z",
+  "model": "glm-5.3"
+}

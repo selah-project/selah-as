@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "শুদ্ধ সকলো চৰাই তোমালোকে খাব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "চৰাই"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "শুদ্ধ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "খাব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:55:58.017510844Z",
+  "model": "glm-5.3"
+}

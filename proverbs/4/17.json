@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "কিয়নো তেওঁলোকে দুষ্কৰ্মৰ ভাত খায়, আৰু হিংসাৰ মদ পান কৰে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "খায়"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ভাত"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্কৰ্মৰ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "আৰু মদ"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "হিংসাৰ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "পান কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:15.907563314Z",
+  "model": "glm-5.3"
+}

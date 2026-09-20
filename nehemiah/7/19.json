@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বিগৱাইৰ সন্তানসকল — দুহেজাৰ ষাঠি আৰু সাতজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "বিগৱাইৰ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুহেজাৰ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ষাঠি"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "সাত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:39.224803568Z",
+  "model": "glm-5.3"
+}

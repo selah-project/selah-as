@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "⟨the⟩ ৰজাই তেওঁক ক'লে, “মই কেইবাৰ তোমাক শপত খুৱাম ⟨যে⟩ তুমি মোৰ ওচৰত কেৱল ইয়াהৱেহৰ নামত সত্যহে ক'বা?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...লৈকে"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "কেইবাৰ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "বাৰ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "তোমাক শপত খুৱাম"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "তুমি ক'বা"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰত"
+    },
+    {
+      "surface": "רק",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "সত্য"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "...ৰ নামত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:46:26.389424965Z",
+  "model": "glm-5.3"
+}

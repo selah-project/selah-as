@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 42,
+  "translation": "আৰু যোচেফৰ দহজন ভাতৃ মিৎচৰায়িমৰ পৰা শস্য কিনিবলৈ নামি গ'ল।",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "নামি গ'ল"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ভাতৃ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোচেফৰ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহজন"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "শস্য কিনিবলৈ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "শস্য"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "মিৎচৰায়িমৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:48:41.439893268Z",
+  "model": "glm-5.3"
+}

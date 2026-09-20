@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "প্ৰতাৰকাই ⟨নিজৰ⟩ চিকাৰ নৰোৱে, আৰু মানুহৰ ধন পৰিশ্ৰমীজনৰ বাবে মূল্যৱান।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "ৰোৱে"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "প্ৰতাৰকাই"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "চিকাৰ"
+    },
+    {
+      "surface": "והון",
+      "gloss": "আৰু ধন"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "মূল্যৱান"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "পৰিশ্ৰমীজনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:11.134188878Z",
+  "model": "glm-5.3"
+}

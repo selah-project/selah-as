@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "তুমি তোমাৰ ভাতৃক সুদত ধাৰ নিদিবা — মুদ্ৰাৰ সুদ, খাদ্যৰ সুদ, যিকোনো বস্তুৰ সুদ যিটো সুদৰ বাবে ধাৰ দিয়া হয়।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "সুদত ধাৰ দিবা"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "তোমাৰ ভাতৃক"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "সুদ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ৰূপ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "সুদ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "খাদ্যৰ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "সুদ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বস্তুৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "সুদৰ বাবে ধাৰ দিয়া হয়"
+    }
+  ],
+  "timestamp": "2026-09-19T23:01:28.848883534Z",
+  "model": "glm-5.3"
+}

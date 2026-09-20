@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বিন্নুইৰ সন্তানসকল — ছশ চল্লিশ আৰু আঠ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "বিন্নুইৰ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "আৰু আঠ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:37.986940986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "তোমাৰ বাবে সোণৰ মালাবোৰ আমি নিৰ্মাণ কৰিম, ৰূপৰ বিন্দুবোৰৰ সৈতে।",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "মালাবোৰ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "আমি নিৰ্মাণ কৰিম"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ বাবে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "বিন্দুবোৰৰ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ৰূপৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:46:25.579856923Z",
+  "model": "glm-5.3"
+}

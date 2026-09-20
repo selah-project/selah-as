@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "তেওঁ ক'লে, “তুমি কি কৰিলা? তোমাৰ ভাতৃৰ তেজৰ মাত ⟨⟨⟩⟩ মাটিৰ পৰা মোলৈ চিঞৰি আছে।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "কৰিলা"
+    },
+    {
+      "surface": "קול",
+      "gloss": "মাত"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "তেজৰ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "তোমাৰ ভাতৃৰ"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "চিঞৰি আছে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোলৈ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ৰ পৰা"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "মাটিৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:29.153996312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 116,
+  "translation": "মই ইয়াহৱেহৰ সন্মুখত জীৱিতসকলৰ দেশত খোজ কাঢ়িম।",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "খোজ কাঢ়িম"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "জীৱিতসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:03:40.943861858Z",
+  "model": "glm-5.3"
+}

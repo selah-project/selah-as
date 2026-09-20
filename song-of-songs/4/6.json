@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "দিনটো উশাহ লোৱালৈকে আৰু ছাঁবোৰ পলাবলৈকে ⟨মই⟩ মোৰ বাবে মিৰৰ পাহাৰলৈ আৰু লোবানৰ টিলালৈ যাম।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "উশাহ লোৱা"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিনটো"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "আৰু পলাবলৈকে"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "ছাঁবোৰ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "যাম"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ বাবে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পাহাৰ"
+    },
+    {
+      "surface": "המור",
+      "gloss": "মিৰৰ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু …লৈ"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "টিলা"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "লোবানৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:48:31.816713869Z",
+  "model": "glm-5.3"
+}

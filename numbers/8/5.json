@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেৰ ওচৰত ক'লে, ⟨কৈ⟩ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ৰ ওচৰত"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:33:25.688584243Z",
+  "model": "glm-5.3"
+}

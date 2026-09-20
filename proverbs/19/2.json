@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আকৌ, জ্ঞান অবিহনে প্ৰাণটো ভাল নহয়; ভৰিৰে খেদাৰে চলাজন পাপ কৰে।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "আকৌ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "অবিহনে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "খেদাৰে চলা"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "ভৰিৰে"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "পাপ কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:19.328906054Z",
+  "model": "glm-5.3"
+}

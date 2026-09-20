@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 52,
+  "translation": "হে বীৰ, তুমি অকল্যাণত কিয় গৰ্ব কৰিছা? এলৰ হেচেদ সাৰা দিন থাকে।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "গৰ্ব কৰিছা"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "অকল্যাণত"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "হে বীৰ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "হেচেদ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এলৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সাৰা"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-20T02:44:40.695039327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "মানুহ নত হ'ল আৰু মানুহ হীন হ'ল — ⟨তেওঁলোকক⟩ তুলি নল'ব ⟨অৰ্থাৎ ক্ষমা নকৰিব⟩।",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "নত হ'ল"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "হীন হ'ল"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু ন'"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "তুলি নল'ব"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকক"
+    }
+  ],
+  "timestamp": "2026-09-20T00:31:04.100030732Z",
+  "model": "glm-5.3"
+}

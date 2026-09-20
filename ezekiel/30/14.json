@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "আৰু মই ⟨את⟩ পাথ্ৰোচ উজাড কৰিম, আৰু চোআনত জুই দিম, আৰু নোত বিচাৰ সম্পাদন কৰিম।",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "উজাড কৰিম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পাথ্ৰোচ"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "পাথ্ৰোচ"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "দিম"
+    },
+    {
+      "surface": "אש",
+      "gloss": "জুই"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "চোআনত"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "সম্পাদন কৰিম"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "বিচাৰ"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "নোত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:46:33.587851657Z",
+  "model": "glm-5.3"
+}

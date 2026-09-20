@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "তাৰ পাছত মোশ্বেই ⟨את⟩ নিজৰ শহুৰেকক বিদায় দিলে, আৰু তেওঁ নিজৰ দেশলৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "বিদায় দিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিজৰ শহুৰেকক"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "নিজৰ শহুৰেক"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "নিজৰ দেশ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:00:25.225993138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "মূৰ্খৰ ক্ৰোধ সেইদিনাই জনা যায়, কিন্তু বুদ্ধিমানে অপমান ঢাকি ৰাখে।",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "মূৰ্খৰ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "সেইদিনাই"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জনা যায়"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "ক্ৰোধ"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "আৰু ঢাকি ৰাখে"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "অপমান"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "বুদ্ধিমানে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:18:40.429987994Z",
+  "model": "glm-5.3"
+}

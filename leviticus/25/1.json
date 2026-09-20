@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "ইয়াহৱেহে চিনাই পৰ্বতত মোশ্বেক ক'লে,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "পৰ্বতত"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "চিনাই"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:26:17.779745225Z",
+  "model": "glm-5.3"
+}

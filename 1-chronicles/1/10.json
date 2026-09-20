@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু কূশে ⟨את⟩ নিমৰোদক জন্ম দিলে; তেওঁ পৃথিৱীত বীৰ হ'বলৈ আৰম্ভ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "আৰু কূশে"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিমৰোদক"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "নিমৰোদক"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "আৰম্ভ কৰিলে"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "হ'বলৈ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "বীৰ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "পৃথিৱীত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:38.111023210Z",
+  "model": "glm-5.3"
+}

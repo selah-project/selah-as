@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "বিচাৰৰ সিংহাসনত বহা ৰজাই নিজৰ চকুৰে সকলো অকল্যাণ আঁতৰাই দিয়ে।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "বহা"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ত"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "সিংহাসন"
+    },
+    {
+      "surface": "דין",
+      "gloss": "বিচাৰৰ"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "আঁতৰাই দিয়ে"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "নিজৰ চকুৰে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "רע",
+      "gloss": "অকল্যাণ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:51.770152659Z",
+  "model": "glm-5.3"
+}

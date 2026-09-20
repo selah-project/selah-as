@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ইয়াহৱেহৰ ভয়ে দিন বঢ়ায়; কিন্তু দুষ্টসকলৰ বছৰ চুটি হ'ব।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "বঢ়ায়"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "কিন্তু বছৰ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "תקצרנا",
+      "gloss": "চুটি হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:40.419614300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু ইয়াহচা, কেদেমোথ আৰু মিফাআথ —",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "আৰু ইয়াহচা"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "আৰু কেদেমোথ"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "আৰু মিফাআথ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:38.913405628Z",
+  "model": "glm-5.3"
+}

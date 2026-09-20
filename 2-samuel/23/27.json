@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আবিয়েজেৰ আনাতোতী, মেবুন্নাই হুশ্বতী,",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "আবিয়েজেৰ"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "আনাতোতী"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "মেবুন্নাই"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "হুশ্বতী"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:29.417971419Z",
+  "model": "glm-5.3"
+}

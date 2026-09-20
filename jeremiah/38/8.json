@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "তেতিয়া এবেদ-মেলেক ৰজাৰ ঘৰৰ পৰা ওলাই গ'ল আৰু ৰজাৰ ওচৰলৈ গৈ ক'লে ⟨এই কথা⟩ —",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ওলাই গ'ল"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "এবেদ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "মেলেক"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ঘৰৰ পৰা"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰজাৰ ওচৰলৈ গৈ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই কথা কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:19:38.321780041Z",
+  "model": "glm-5.3"
+}

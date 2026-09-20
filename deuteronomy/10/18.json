@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "তেওঁ অনাথ আৰু বিধৱাৰ বিচাৰ ⟨executes⟩ কৰে, আৰু পৰদেশীক ভালপায়, তাক খোৱা আৰু পিন্ধা দিবলৈ।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "কৰে"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "বিচাৰ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "অনাথ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "আৰু বিধৱাৰ"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "আৰু ভালপায়"
+    },
+    {
+      "surface": "גר",
+      "gloss": "পৰদেশীক"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "দিবলৈ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাক"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "খোৱা"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "আৰু পিন্ধা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:53:56.383120623Z",
+  "model": "glm-5.3"
+}

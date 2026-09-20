@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "এইবোৰ এৎচেৰৰ সন্তানসকল: বিলহান, জাৱান আৰু আকান।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "এৎচেৰৰ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "বিলহান"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "আৰু জাৱান"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "আৰু আকান"
+    }
+  ],
+  "timestamp": "2026-09-19T21:42:46.987405454Z",
+  "model": "glm-5.3"
+}

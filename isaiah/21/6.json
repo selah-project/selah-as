@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "কিয়নো এইদৰে আদোনাইয়ে মোৰ প্ৰতি ক'লে, “যোৱা, পহৰা ৰখা; যি সি দেখে, সেইটো সি জনাওক।”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ প্ৰতি"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "לך",
+      "gloss": "যোৱা"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ৰখা"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "পহৰা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "দেখে"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "জনাওক"
+    }
+  ],
+  "timestamp": "2026-09-20T05:14:51.952290677Z",
+  "model": "glm-5.3"
+}

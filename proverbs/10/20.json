@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ধাৰ্মিকৰ জিভা বাছনি কৰা ৰূপ; দুষ্টসকলৰ হৃদয় ⟨ছে⟩ প্ৰায় একো নহয়।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ৰূপ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "বাছনি কৰা"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভা"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিকৰ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "প্ৰায় একো নহয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:50.359554254Z",
+  "model": "glm-5.3"
+}

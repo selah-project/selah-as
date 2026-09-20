@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "কিয়নো পৃথিৱী ইয়াহৱেহৰ মহিমা ⟨את⟩ জানি পৰিপূৰ্ণ হ’ব, যেনে পানীয়ে সাগৰক ঢাকি থয়।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "পৰিপূৰ্ণ হ’ব"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱী"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "জানিবলৈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মহিমা"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "মহিমা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "পানীৰ দৰে"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "ঢাকিব"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সাগৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:17:58.063061811Z",
+  "model": "glm-5.3"
+}

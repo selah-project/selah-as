@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "⟨את⟩ আয়ালোন আৰু তাৰ উপকণ্ঠ, ⟨את⟩ গত-ৰিমোন আৰু তাৰ উপকণ্ঠ — চাৰিখন নগৰ।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আয়ালোন"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "আয়ালোন"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "তাৰ উপকণ্ঠ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "তাৰ উপকণ্ঠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "গত-ৰিমোন"
+    },
+    {
+      "surface": "גת",
+      "gloss": "গত"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ৰিমোন"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "তাৰ উপকণ্ঠ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "তাৰ উপকণ্ঠ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    }
+  ],
+  "timestamp": "2026-09-19T23:16:46.079840864Z",
+  "model": "glm-5.3"
+}

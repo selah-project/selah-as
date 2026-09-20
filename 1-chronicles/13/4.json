@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "গোটেই সমাজে তেনেকৈ কৰিবলৈ ক'লে, কিয়নো সেই কথাষাৰ সকলো জনতাৰ চকুত সঠিক আছিল।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "গোটেই"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "সমাজে"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "কৰিবলৈ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেনেকৈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "সঠিক আছিল"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "সেই কথাষাৰ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চকুত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনতাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:32:47.956844455Z",
+  "model": "glm-5.3"
+}

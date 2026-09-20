@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "কিন্তু এই জাতিৰ হৃদয় বিদ্ৰোহী আৰু অবাধ্য; সিহত আঁতৰি গ'ল আৰু গুচি গ'ল।",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "আৰু জাতিৰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "বিদ্ৰোহী"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "আৰু অবাধ্য"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "আঁতৰি গ'ল"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "গুচি গ'ল"
+    }
+  ],
+  "timestamp": "2026-09-20T01:00:42.808607945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 104,
+  "translation": "য'ত চৰাইবোৰে বাহ সাজে; হাড়গিলাৰ বাবে বাৰুশ গছবোৰ ⟨তাৰ ঘৰ⟩।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "য'ত"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "চৰাইবোৰ"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "বাহ সাজে"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "হাড়গিলা"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "বাৰুশ গছবোৰ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "তাৰ ঘৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:23:42.387101049Z",
+  "model": "glm-5.3"
+}

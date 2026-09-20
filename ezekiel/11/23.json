@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "তেতিয়া ইয়াহৱেহৰ মহিমাই নগৰৰ মাজৰ পৰা উঠি গ'ল আৰু নগৰৰ পূব দিশৰ পৰ্বতৰ ওপৰত থিয় হ'ল।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "আৰু উঠি গ'ল"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "মহিমাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "মাজৰ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগৰৰ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "আৰু থিয় হ'ল"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "পৰ্বতৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "পূব দিশৰ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "নগৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:33:11.971393807Z",
+  "model": "glm-5.3"
+}

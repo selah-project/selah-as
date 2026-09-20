@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "হায় তোমাৰ বাবে, হে দেশ, যেতিয়া তোমাৰ ৰজা ⟨is⟩ এজন ল'ৰা, আৰু তোমাৰ অমাত্যসকলে পুৱাই খায়!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "হায়"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ বাবে"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "হে দেশ"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "তোমাৰ ৰজা"
+    },
+    {
+      "surface": "נער",
+      "gloss": "এজন ল'ৰা"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "আৰু তোমাৰ অমাত্যসকলে"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "পুৱাই"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "খায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:05.787991924Z",
+  "model": "glm-5.3"
+}

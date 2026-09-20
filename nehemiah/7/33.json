@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আন ⟨নেবো⟩-ৰ মানুহ, বাষষ্ঠি <...>।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "নেবো"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "আন"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:38.207652104Z",
+  "model": "glm-5.3"
+}

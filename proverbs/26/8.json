@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "গলপটোত শিল বান্ধি থোৱাৰ দৰে, মূৰ্খক সন্মান দিয়াও তেনে।",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "বান্ধি থোৱাৰ দৰে"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "শিল"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "গলপটোত"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেনেদৰে"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "দিয়ে"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "মূৰ্খক"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "সন্মান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:45.567611784Z",
+  "model": "glm-5.3"
+}

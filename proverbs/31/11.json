@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "তেওঁৰ স্বামীৰ হৃদয়ে তেওঁৰ ওপৰত ভৰষা কৰে, আৰু লাভৰ অভাৱ তেওঁৰ নহ'ব।",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ভৰষা কৰে"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তেওঁৰ ওপৰত"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "তেওঁৰ স্বামীৰ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "আৰু লাভ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহ'ব"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "অভাৱ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:39.179745125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু ছেগুৱে ⟨את⟩ য়াইৰক জন্ম দিলে; আৰু তেওঁৰ গিল'আদ দেশত তেইশটা নগৰ আছিল।",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "আৰু ছেগুৱে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "য়াইৰক"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "য়াইৰক"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "আৰু তিনি"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "গিল'আদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:14.699119243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু ⟨ואת⟩ জোঁটনিৰ জীয়েক, আৰু ⟨ואת⟩ তখমচ, আৰু ⟨ואת⟩ শখফ, আৰু ⟨ואת⟩ নেৎ, তাৰ প্ৰকাৰ অনুসাৰে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "জোঁটনিৰ জীয়েক"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "היענা",
+      "gloss": "জোঁটনিৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "তখমচ"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "তখমচ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "শখফ"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "শখফ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "নেৎ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "নেৎ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "তাৰ প্ৰকাৰ অনুসাৰে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:16:55.618621755Z",
+  "model": "glm-5.3"
+}

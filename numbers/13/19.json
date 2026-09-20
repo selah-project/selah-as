@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 13:19",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু দেশখন কেনেকুৱা য'ত সি বাস কৰে — সি ভাল নে বেয়া; আৰু চহৰবোৰ কেনেকুৱা য'ত সি তাৰ মাজত বাস কৰে — শিবিৰত নে দুৰ্গত।",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "আৰু কেনেকুৱা"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশখন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "বাস কৰে"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "বেয়া"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "আৰু কেনেকুৱা"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "চহৰবোৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "বাস কৰে"
+    },
+    {
+      "surface": "בהנה",
+      "gloss": "সেইবোৰত"
+    },
+    {
+      "surface": "הבמחנים",
+      "gloss": "শিবিৰত"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "במבצרים",
+      "gloss": "দুৰ্গত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:35:09.099096430Z",
+  "model": "glm-5.3"
+}

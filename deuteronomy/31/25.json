@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "মোশ্বেই ⟨את⟩ লেৱীসকলক — ইয়াহৱেহৰ চুক্তিৰ বাকচ বহন কৰা সকলক — আদেশ দিলে, এই কৈ:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "আদেশ দিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "লেৱীসকলক"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "লেৱীসকলক"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "বহন কৰা সকলক"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "বাকচ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "চুক্তিৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:05:29.807634229Z",
+  "model": "glm-5.3"
+}

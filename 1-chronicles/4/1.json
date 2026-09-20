@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "য়িহূদাৰ পুত্ৰসকল ⟨আছিল⟩ — পেৰেৎচ, খেৎচৰোন, কাৰমি, খূৰ আৰু শোৱাবল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "য়িহূদাৰ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "পেৰেৎচ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "খেৎচৰোন"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "আৰু কাৰমি"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "আৰু খূৰ"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "আৰু শোৱাবল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:05.026087528Z",
+  "model": "glm-5.3"
+}

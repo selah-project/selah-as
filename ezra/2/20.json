@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "গিব্বাৰৰ সন্তানসকল — পঁচানব্বৈ জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "গিব্বাৰৰ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "নব্বৈ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "আৰু পাঁচ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:23.848389168Z",
+  "model": "glm-5.3"
+}

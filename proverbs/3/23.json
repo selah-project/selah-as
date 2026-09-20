@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেতিয়া তুমি তোমাৰ পথত নিৰাপদে খোজ কাঢ়িবা, আৰু তোমাৰ ভৰি লৰি নাযাব।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "খোজ কাঢ়িবা"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "নিৰাপদে"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "তোমাৰ পথত"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "আৰু তোমাৰ ভৰি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "লৰি নাযাব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:40.819759868Z",
+  "model": "glm-5.3"
+}

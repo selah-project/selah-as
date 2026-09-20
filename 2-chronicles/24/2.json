@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "আৰু য়োৱাশে ইয়াহৱেহৰ চকুত যি সঠিক সেয়া পুৰোহিত য়েহোয়াদাহৰ সকলো দিনত কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "আৰু কৰিলে"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "য়োৱাশে"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "যি সঠিক"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চকুত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "য়েহোয়াদাহৰ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:48:12.586828012Z",
+  "model": "glm-5.3"
+}

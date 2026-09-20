@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 129,
+  "translation": "তেওঁলোক চালৰ ঘাঁহৰ দৰে হওঁক, যি ⟨এইটো⟩ ওলাবৰ আগতেই শুকাই যায়।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "হওঁক"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ঘাঁহৰ দৰে"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "চালৰ"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "আগতেই"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ওলাবৰ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "শুকাই যায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:07:51.942030988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "মই মোৰ প্ৰিয়জনৰ, আৰু তেওঁৰ বাসনা ⟨মোৰ ফালে⟩।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "মোৰ প্ৰিয়জনৰ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "আৰু মোৰ ফালে"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "তেওঁৰ বাসনা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:49:26.483640524Z",
+  "model": "glm-5.3"
+}

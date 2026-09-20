@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "শ্বেতে এশ পাঁচ বছৰ জীয়াই থাকি ⟨את⟩ এনোচ্বক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "জীয়াই থাকিলে"
+    },
+    {
+      "surface": "שת",
+      "gloss": "শ্বেতে"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "আৰু এশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এনোচ্বক"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "এনোচ্বক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:51.701996410Z",
+  "model": "glm-5.3"
+}

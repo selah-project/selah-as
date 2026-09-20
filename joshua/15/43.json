@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "য়িফতাখ, আশনাহ আৰু নেৎচিভ।",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "য়িফতাখ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "আশনাহ"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "নেৎচিভ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:31.570030701Z",
+  "model": "glm-5.3"
+}

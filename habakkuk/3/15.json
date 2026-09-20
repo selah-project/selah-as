@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তুমি তোমাৰ ঘোঁৰাবোৰেৰে সাগৰত দৰি গ'লা, বহু পানীৰ ঢৌৰ মাজেৰে।",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "দৰি গ'লা"
+    },
+    {
+      "surface": "בים",
+      "gloss": "সাগৰত"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "তোমাৰ ঘোঁৰাবোৰেৰে"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ঢৌৰ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানীৰ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহু"
+    }
+  ],
+  "timestamp": "2026-09-20T02:19:35.896665046Z",
+  "model": "glm-5.3"
+}

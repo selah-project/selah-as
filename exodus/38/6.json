@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 38,
+  "translation": "আৰু তেওঁ ⟨את⟩ মুৰিবোৰ শিমলু কাঠেৰে সাজিলে, আৰু সেইবোৰক তামেৰে মোৰাই দিলে।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "সাজিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মুৰিবোৰ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "মুৰিবোৰ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "কাঠ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "শিমলু"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "মোৰাই দিলে"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "সেইবোৰক"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "তাম"
+    }
+  ],
+  "timestamp": "2026-09-19T22:10:55.377210145Z",
+  "model": "glm-5.3"
+}

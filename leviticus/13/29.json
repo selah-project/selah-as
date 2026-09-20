@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু যেতিয়া কোনো মানুহ বা নাৰীৰ মূৰত বা দাড়িত ক্ষত হ'ব, ",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "আৰু এজন মানুহ"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "নাৰী"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ক্ষত"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "মূৰত"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "দাড়িত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:53.473936653Z",
+  "model": "glm-5.3"
+}

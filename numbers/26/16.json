@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "অজনীৰ — অজনীসকলৰ বংশ; এৰীৰ — এৰীসকলৰ বংশ।",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "অজনীৰ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "অজনীসকলৰ"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "এৰীৰ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "এৰীসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:40:49.081518884Z",
+  "model": "glm-5.3"
+}

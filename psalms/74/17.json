@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 74,
+  "translation": "তুমি পৃথিৱীৰ সকলো সীমা স্থিৰ কৰিলা; গ্ৰীষ্ম আৰু শীত তুমি গঢ়ি ল'লা।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "স্থিৰ কৰিলা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "সীমা"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "গ্ৰীষ্ম"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "আৰু শীত"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "গঢ়ি ল'লা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:51:03.733065424Z",
+  "model": "glm-5.3"
+}

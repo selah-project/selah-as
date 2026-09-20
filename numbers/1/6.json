@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "চিম'নৰ ⟨বাবে⟩ — চুৰিশ্বাদ্দাইৰ পুতেক শ্বেলুমিয়েল।",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "চিম'নৰ বাবে"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "শ্বেলুমিয়েল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "চুৰিশ্বাদ্দাই"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:06.159759600Z",
+  "model": "glm-5.3"
+}

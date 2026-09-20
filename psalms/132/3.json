@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 132,
+  "translation": "মই যদি মোৰ ঘৰৰ তম্বুত সোমাঁওঁ, মোৰ বিছনাৰ শয্যাত যদি উঠাঁওঁ।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "সোমাঁওঁ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "তম্বুত"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "মোৰ ঘৰৰ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "উঠাঁওঁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ত"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "শয্যাত"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "মোৰ বিছনাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:07:59.661944551Z",
+  "model": "glm-5.3"
+}

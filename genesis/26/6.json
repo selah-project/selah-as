@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "তাৰ পাছত ইৎচহাকে গেৰাৰত বাস কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "বাস কৰিলে"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ইৎচহাকে"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "গেৰাৰত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:38:23.930296583Z",
+  "model": "glm-5.3"
+}

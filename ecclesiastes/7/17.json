@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বৰকৈ অধৰ্ম নকৰিবা, আৰু মূৰ্খ নহ'বা; তোমাৰ সময়তকৈ আগতে কিয় মৰিবা?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "অধৰ্ম কৰিবা"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "বৰকৈ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু নহ'বা"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "হ'বা"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "মূৰ্খ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "মৰিবা"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "অবিহনে"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "তোমাৰ সময়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:07.365610837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "য়িভহাৰ, এলিশ্বুৱা, নেফেগ আৰু য়াফিয়া।",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "য়িভহাৰ"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "এলিশ্বুৱা"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "নেফেগ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "য়াফিয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T23:49:57.997667427Z",
+  "model": "glm-5.3"
+}

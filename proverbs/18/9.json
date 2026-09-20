@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "নিজৰ কামত লগতে শিথিল হোৱাজনো, সি ধ্বংসকাৰী গৰাকীৰ ভাতৃ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "লগতে"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "শিথিল"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "নিজৰ কামত"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ভাতৃ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "গৰাকীৰ"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ধ্বংসকাৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:29.846240774Z",
+  "model": "glm-5.3"
+}

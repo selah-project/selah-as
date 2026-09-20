@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "কাৰণ যিয়ে সকলো জীৱন্তৰ সৈতে জড়িত হৈ থাকে, তাৰ ভৰসা আছে; কিয়নো জীৱন্ত কুকুৰ মৃত সিংহতকৈ ভাল।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "যি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "জড়িত হৈ থাকে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ সৈতে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "জীৱন্ত"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "ভৰসা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "কুকুৰৰ বাবে"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীৱন্ত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "מן",
+      "gloss": "তকৈ"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "সিংহ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "মৃত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:59:01.346866813Z",
+  "model": "glm-5.3"
+}

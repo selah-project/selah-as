@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক ক'লে, এই কৈ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ক"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:30:52.032175226Z",
+  "model": "glm-5.3"
+}

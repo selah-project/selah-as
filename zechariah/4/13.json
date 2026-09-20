@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "তেওঁ মোৰ ওচৰত ক'লে ⟨কৈ⟩, “এইবোৰ কি তুমি নাজানানে?” মই ক'লোঁ, “নহয়, মোৰ প্ৰভু।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "তেওঁ ক'লে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰত"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "নে"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "তুমি নাজানা"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "মই ক'লোঁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "মোৰ প্ৰভু"
+    }
+  ],
+  "timestamp": "2026-09-20T02:21:55.403549882Z",
+  "model": "glm-5.3"
+}

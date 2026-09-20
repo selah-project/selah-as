@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "মানুহৰ শৰীৰত চৰ্মৰোগৰ নেগে ⟨সংঘটিত⟩ হ'লে, তেওঁক পুৰোহিতৰ ওচৰলৈ অনা হ'ব।",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "নেগে"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "চৰ্মৰোগৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "মানুহৰ শৰীৰত"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "অনা হ'ব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:05.223537961Z",
+  "model": "glm-5.3"
+}

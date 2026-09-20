@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "বেন-আবিনাদাব — সকলো নাফত-দোৰত; শ্বেলোমোৰ জীয়েক টাফত তেওঁৰ পত্নী হৈছিল।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "আবিনাদাব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "নাফত-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "দোৰত"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "টাফত"
+    },
+    {
+      "surface": "בת",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমোৰ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "হৈছিল"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "পত্নী"
+    }
+  ],
+  "timestamp": "2026-09-20T00:02:05.107951216Z",
+  "model": "glm-5.3"
+}

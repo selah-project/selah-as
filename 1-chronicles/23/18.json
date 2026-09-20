@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "যিৎচহাৰৰ পুতেকসকল — শ্বেলোমিত ⟨গৰাকী⟩ মুখিয়া।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "যিৎচহাৰৰ"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "শ্বেলোমিত"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "মুখিয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:50.293995246Z",
+  "model": "glm-5.3"
+}

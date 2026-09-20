@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 9:15",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "পথেৰে পাৰ হোৱাসকলক — সৰল পথত খোজ কৰাসকলক — মাতিবলৈ।",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "মাতিবলৈ"
+    },
+    {
+      "surface": "לעברי",
+      "gloss": "পাৰ হোৱাসকলক"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথেৰে"
+    },
+    {
+      "surface": "המישרים",
+      "gloss": "সৰল পথত"
+    },
+    {
+      "surface": "ארחותם",
+      "gloss": "খোজ কৰাসকলক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:51.188364399Z",
+  "model": "glm-5.3"
+}

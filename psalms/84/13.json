@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 84,
+  "translation": "হে ইয়াহৱেহ চেভাওত, তোমাৰ ওপৰত ভৰষা কৰা মানুহজন কল্যাণৱান!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "চেভাওত"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "কল্যাণৱান"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ভৰষা কৰা"
+    },
+    {
+      "surface": "בך",
+      "gloss": "তোমাৰ ওপৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:54:19.936650071Z",
+  "model": "glm-5.3"
+}

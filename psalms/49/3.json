@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "মানৱ সন্তানসকলো, মানুহ-পুত্ৰসকলো, একেলগে ধনী আৰু দৰিদ্ৰ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ও...ও"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানৱ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ-পুৰুষ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "একেলগে"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ধনী"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "আৰু দৰিদ্ৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:42:31.023532519Z",
+  "model": "glm-5.3"
+}

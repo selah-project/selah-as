@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 105,
+  "translation": "তেওঁৰ বাক্য অহা সময়লৈকে ইয়াহৱেহৰ বচনে তেওঁক পৰিশোধন কৰিলে।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "בא",
+      "gloss": "অহা"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "তেওঁৰ বাক্য"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "বচন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "তেওঁক পৰিশোধন কৰিলে"
+    }
+  ],
+  "timestamp": "2026-09-20T05:23:26.039170225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু যদি তেওঁৰ মুখৰ কাষৰ পৰা তেওঁৰ মূৰ মূকলি হয়, তেওঁ কপাল-টোপনি; তেওঁ পৰিষ্কাৰ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "কাষৰ পৰা"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "তেওঁৰ মুখৰ"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "মূকলি হয়"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "মূৰ"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "কপাল-টোপনি"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨তেওঁ⟩"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "পৰিষ্কাৰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨তেওঁ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:20.656804321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "ইয়াহৱেহে কাইনক সুধিলে, “তোমাৰ ভাতৃ হেবেল ক'ত?” তেওঁ ক'লে, “মই নাজানোঁ; মই মোৰ ভাতৃৰ ⟨নেকি⟩ ৰক্ষক?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ক"
+    },
+    {
+      "surface": "קין",
+      "gloss": "কাইনক"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ক'ত"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "তোমাৰ ভাতৃ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "জানোঁ"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ৰক্ষক"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "মোৰ ভাতৃৰ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:29.153779787Z",
+  "model": "glm-5.3"
+}

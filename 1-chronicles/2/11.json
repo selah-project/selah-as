@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু নাহচোনে ⟨את⟩ চল্মাৰ জন্ম দিলে, আৰু চল্মাই ⟨את⟩ বোৱাজৰ জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "আৰু নাহচোনে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চল্মা"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "চল্মা"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "আৰু চল্মাই"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বোৱাজ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "বোৱাজ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:27:20.226401303Z",
+  "model": "glm-5.3"
+}

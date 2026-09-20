@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 132,
+  "translation": "যদি মই মোৰ চকুলৈ টোপনি দিওঁ, মোৰ চকুৰ পতালৈ তন্দ্ৰা দিওঁ।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "দিওঁ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "টোপনি"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "মোৰ চকুলৈ"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "মোৰ চকুৰ পতালৈ"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "তন্দ্ৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:07:59.662128598Z",
+  "model": "glm-5.3"
+}

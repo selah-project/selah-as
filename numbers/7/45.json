@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এটা বলধ, গৰু-জাতীয় ⟨এটা⟩, এটা মেৰপোঁজ, এটা এবছৰীয়া মেন্দা, পূৰ্ণদগ্ধ উৎসৰ্গৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "বলধ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "জাতীয়"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "איל",
+      "gloss": "মেৰপোঁজ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "মেন্দা"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "এবছৰীয়া"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "এটা বছৰৰ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "পূৰ্ণদগ্ধ উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:30:49.924546935Z",
+  "model": "glm-5.3"
+}

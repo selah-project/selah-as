@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "শিক্ষাক বলকে ধৰি ৰাখা, ঢিলা নকৰিবা; সেইটো ৰক্ষা কৰা, কিয়নো সি তোমাৰ জীৱন।",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "বলকে ধৰি ৰাখা"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "শিক্ষা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "ঢিলা কৰিবা"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "ৰক্ষা কৰিবা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "তোমাৰ জীৱন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:23.327344160Z",
+  "model": "glm-5.3"
+}

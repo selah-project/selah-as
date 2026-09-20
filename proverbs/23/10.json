@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "পুৰণি সীমাচিহ্ন ঠাই নানহিব, আৰু অনাথসকলৰ পথাৰত সোমাব নালাগে।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নানহিব"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ঠাই"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমাচিহ্ন"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "পুৰণি"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "আৰু পথাৰত"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "অনাথসকলৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "সোমাব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:05.399381063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু আভনেৰে পিছলৈ চাই ক'লে, “তুমিয়েই নে আচাহেল?” তেওঁ ক'লে, “ময়েই।”",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "চাই"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "আভনেৰে"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "পিছলৈ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "তুমিয়েই নে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এইজন"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "আচাহেল"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ময়েই"
+    }
+  ],
+  "timestamp": "2026-09-19T23:48:52.054695581Z",
+  "model": "glm-5.3"
+}

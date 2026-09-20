@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "বহু মধু খোৱাটো ভাল নহয়, আৰু ⟨নিজৰ⟩ মহিমা অন্বেষণ কৰাটো ⟨কেৱল⟩ মহিমাৰ কথা নহয়।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "খোৱা"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "মধু"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "আৰু অন্বেষণ কৰা"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "সিহঁতৰ মহিমা"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "মহিমা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:40.242966122Z",
+  "model": "glm-5.3"
+}

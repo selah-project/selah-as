@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "শুনা, কিয়নো মহান কথাহে মই কওঁ, আৰু মোৰ ওঁঠৰ মুকলিৰ পৰা ⟨ওলায়⟩ সৰলতা।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "মহান কথা"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "মই কওঁ"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "আৰু মুকলি"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "মোৰ ওঁঠৰ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "সৰলতা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:54.096519161Z",
+  "model": "glm-5.3"
+}

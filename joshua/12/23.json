@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "নফত-দোৰত দোৰৰ ৰজা এজন, গিলগালত গোয়ীমসকলৰ ৰজা এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "דור",
+      "gloss": "দোৰৰ"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "নফত-দোৰত"
+    },
+    {
+      "surface": "דור",
+      "gloss": "দোৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "গোয়ীমসকলৰ"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "গিলগালত"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:18.525782050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু জেৰাখৰ পুতেকসকলৰ পৰা — য়েউৱেল আৰু তেওঁলোকৰ ভাতৃসকল, ছশ নব্বৈ জন।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "আৰু …ৰ পৰা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকলৰ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "জেৰাখ"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "য়েউৱেল"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "আৰু তেওঁলোকৰ ভাতৃসকল"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছশ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "আৰু নব্বৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:31.870023310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "তোমালোক ইয়াহৱেহৰ লগত বিদ্ৰোহী আছিলাৎ, যি দিনৰ পৰা মই ⟨את⟩ তোমালোকক জানিছোঁ।",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "বিদ্ৰোহী"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "তোমালোক আছিলাৎ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ৰ লগত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "যি দিনৰ পৰা"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "মই জানিছোঁ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "তোমালোক"
+    }
+  ],
+  "timestamp": "2026-09-19T22:53:55.600167074Z",
+  "model": "glm-5.3"
+}

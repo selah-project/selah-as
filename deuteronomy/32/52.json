@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "কিয়নো আপুনি দূৰৰ পৰা ⟨the⟩ ⟨את⟩ দেশ দেখিব, কিন্তু তালৈ — সেই দেশলৈ যি মই য়িচ্ৰাএলৰ পুত্ৰসকলক দিছোঁ — সোমাব নোৱাৰিব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "দূৰৰ পৰা \/ সন্মুখৰ পৰা"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "দেখিব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দেশ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "কিন্তু তালৈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নোৱাৰিব"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "সোমাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "দিছোঁ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্ৰসকলক"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িচ্ৰাএল"
+    }
+  ],
+  "timestamp": "2026-09-19T23:05:17.436998935Z",
+  "model": "glm-5.3"
+}

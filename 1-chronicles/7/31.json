@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বেৰিআহৰ পুতেকসকল ⟨আছিল⟩ হেবেৰ আৰু মলকিএল; তেওঁ বিৰ্জোতৰ পিতৃ আছিল।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "বেৰিআহৰ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "হেবেৰ"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "আৰু মলকিএল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতৃ"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "বিৰ্জোতৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:02.565555111Z",
+  "model": "glm-5.3"
+}

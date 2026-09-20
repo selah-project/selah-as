@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "ইয়াহৱেহক ধন্যবাদ দিয়া, কিয়নো তেওঁ ভাল, কিয়নো অনন্তলৈকে তেওঁৰ হেচেদ।",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ধন্যবাদ দিয়া"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "অনন্তলৈকে"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "তেওঁৰ হেচেদ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:33:29.956132649Z",
+  "model": "glm-5.3"
+}

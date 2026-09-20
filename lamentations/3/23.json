@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "সেইবোৰ প্ৰতিটো পুৱাতে নতুন; তোমাৰ বিশ্বাসযোগ্যতা ডাঙৰ।",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "নতুন"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "পুৱাসমূহত"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "তোমাৰ বিশ্বাসযোগ্যতা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:10.941886800Z",
+  "model": "glm-5.3"
+}

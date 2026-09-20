@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু মানুহজনে নিজৰ পত্নীৰ নাম হাভ্বা ৰাখিলে, কিয়নো তেওঁ সকলো জীৱৰ মাতৃ আছিল।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "আৰু মানুহজনে ... ৰাখিলে"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহজনে"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "নিজৰ পত্নীৰ"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "হাভ্বা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "אם",
+      "gloss": "মাতৃ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীৱৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:26:48.705723390Z",
+  "model": "glm-5.3"
+}

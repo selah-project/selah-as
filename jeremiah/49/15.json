@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "কিয়নো চাওক, মই তোমাক জাতিসমূহৰ মাজত সৰু কৰিছোঁ, মানুহৰ মাজত ঘৃণিত।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "সৰু"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "মই তোমাক কৰিছোঁ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "জাতিসমূহৰ মাজত"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "ঘৃণিত"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "মানুহৰ মাজত"
+    }
+  ],
+  "timestamp": "2026-09-20T01:26:54.174132600Z",
+  "model": "glm-5.3"
+}

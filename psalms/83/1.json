@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 83,
+  "translation": "গীত, স্তুতিগীত, আছাফৰ।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "স্তুতিগীত"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "আছাফৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:53:59.930445345Z",
+  "model": "glm-5.3"
+}

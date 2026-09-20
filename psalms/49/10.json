@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "আৰু ⟨সি⟩ আকৌ চিৰদিনলৈ জীয়াই থাকক, আৰু গৰ্ত ⟨the⟩ নেদেখাক।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "জীয়াই থাকক"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আকৌ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "চিৰদিনলৈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "দেখে"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "গৰ্ত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:42:07.187655407Z",
+  "model": "glm-5.3"
+}

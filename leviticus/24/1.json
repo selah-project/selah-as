@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক ক'লে, এইদৰে কৈছিল,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এইদৰে কৈছিল"
+    }
+  ],
+  "timestamp": "2026-09-19T22:26:04.518366483Z",
+  "model": "glm-5.3"
+}

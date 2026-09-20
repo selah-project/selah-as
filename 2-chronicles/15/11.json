@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 15:11",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু সেই দিনা তেওঁলোকে যি লুট আনিছিল, তাৰ পৰা ইয়াহৱেহক উৎসৰ্গ কৰিলে — সাতশ গৰু আৰু সাত হাজাৰ ভেড়া।",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "উৎসৰ্গ কৰিলে"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহক"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনাত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "লুট"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "যি আনিছিল"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "আৰু ভেড়া"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:44:49.527365053Z",
+  "model": "glm-5.3"
+}

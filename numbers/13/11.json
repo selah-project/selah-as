@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "যোচেফৰ শাখাৰ পৰা — মনচ্চেহৰ শাখাৰ পৰা — গদ্দি, চুচিৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "শাখাৰ পৰা"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোচেফ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "শাখাৰ পৰা"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনচ্চেহ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "গদ্দি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "চুচি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:34:13.103433033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 107,
+  "translation": "ফলবান ভূমি লৱণভূমি হয়, তাত বাস কৰোতেসকলৰ মন্দতাৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ভূমি"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ফলবান"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "লৱণভূমি হয়"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "মন্দতাৰ বাবে"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "বাস কৰোতেসকলৰ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:01:51.428915574Z",
+  "model": "glm-5.3"
+}

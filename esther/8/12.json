@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "ৰজা অহশ্বেৰোচৰ সকলো প্ৰদেশত এটা দিনত — দ্বাদশ মাহৰ তেৰ তাৰিখত, সেয়ে আদাৰ মাহত।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "প্ৰদেশত"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "অহশ্বেৰোচৰ"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "তিনিত"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাহৰ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দ্বাদশ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "মাহ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "আদাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:04:08.682708987Z",
+  "model": "glm-5.3"
+}

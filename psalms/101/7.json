@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 101,
+  "translation": "প্ৰতাৰণা কৰা জনে মোৰ ঘৰৰ মাজত বাস নকৰিব; মিছা কোৱা জন মোৰ চকুৰ সন্মুখত থিয় নহ'ব।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "বাস কৰিব"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "মোৰ ঘৰৰ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰা"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "প্ৰতাৰণা"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কোৱা"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "মিছা কথা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "থিয় নহ'ব"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "মোৰ চকুৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:59:44.809359658Z",
+  "model": "glm-5.3"
+}

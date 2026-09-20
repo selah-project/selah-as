@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "সত্যতাৰ ওঁঠ ⟨এ⟩ চিৰকাল স্থিৰ থাকে; কিন্তু মিছা জিভা ক্ষণিকৰ বাবেহে।",
+  "tokens": [
+    {
+      "surface": "সপত",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "এমত",
+      "gloss": "সত্যতাৰ"
+    },
+    {
+      "surface": "তকোন",
+      "gloss": "স্থিৰ থাকে"
+    },
+    {
+      "surface": "লাওদ",
+      "gloss": "চিৰকাল"
+    },
+    {
+      "surface": "ওঅদ",
+      "gloss": "কিন্তু পৰ্যন্ত"
+    },
+    {
+      "surface": "অৰগিঅহ",
+      "gloss": "ক্ষণিক"
+    },
+    {
+      "surface": "লসোন",
+      "gloss": "জিভা"
+    },
+    {
+      "surface": "সকেৰ",
+      "gloss": "মিছা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:18:58.115670269Z",
+  "model": "glm-5.3"
+}

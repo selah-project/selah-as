@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "সেই দিনা ⟨এজন⟩ পলায়ন হোৱা জনে তোমাৰ ওচৰলৈ আহিব, কাণেৰে শুনাবলৈ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "আহিব"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "পলায়ন হোৱা জন"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাৰ ওচৰলৈ"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "শুনাবলৈ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "কাণেৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:43:12.241896489Z",
+  "model": "glm-5.3"
+}

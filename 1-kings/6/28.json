@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু ⟨he⟩ কৰুববোৰক ⟨את⟩ সোণেৰে মেৰাই দিলে।",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "মেৰাই দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কৰুববোৰক"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "কৰুববোৰক"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণেৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T00:05:26.394610414Z",
+  "model": "glm-5.3"
+}

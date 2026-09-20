@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 89,
+  "translation": "তেওঁ মোক মাতিব: “তুমি মোৰ পিতা, মোৰ এল, আৰু মোৰ মুক্তিৰ শিল।”",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "মোক মাতিব"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "মোৰ পিতা"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ এল"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "আৰু শিল"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "মোৰ মুক্তি"
+    }
+  ],
+  "timestamp": "2026-09-20T05:22:42.273781170Z",
+  "model": "glm-5.3"
+}

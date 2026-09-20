@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু মে-ইয়াৰকোন, আৰু হাৰাকোন, ইয়াফোৰ সন্মুখৰ সীমাটোৰ লগত।",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "আৰু মে"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "ইয়াৰকোনৰ"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "আৰু হাৰাকোন"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "সীমাটো"
+    },
+    {
+      "surface": "מול",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "ইয়াফো"
+    }
+  ],
+  "timestamp": "2026-09-19T23:16:53.910367214Z",
+  "model": "glm-5.3"
+}

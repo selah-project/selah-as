@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 84,
+  "translation": "মংগল সেই মানুহৰ, যাৰ শক্তি তোমাত ⟨আছে⟩; তেওঁলোকৰ হৃদয়ত ⟨আছে⟩ মহাপথ।",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "মংগল"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "শক্তি"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "তোমাত"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "মহাপথ"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "তেওঁলোকৰ হৃদয়ত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:55:50.194005050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 11:14",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "তাৰ পাছত ইয়াহৱেহৰ বাক্য মোলৈ আহিল, কৈছে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "তাৰ পাছত হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈছে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:34:16.058392443Z",
+  "model": "glm-5.3"
+}

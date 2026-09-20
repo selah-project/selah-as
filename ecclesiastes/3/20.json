@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "সকলো একেঠাইলৈ যায়; সকলো ধূলিৰ পৰা হৈছিল, আৰু সকলো ধূলিলৈ ঘূৰি যাব।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "যায়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ঠাই"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একে"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হৈছিল"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ৰ পৰা"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ধূলিৰ"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ঘূৰি যাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ধূলি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:31.680740381Z",
+  "model": "glm-5.3"
+}

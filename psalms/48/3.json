@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "উচ্চতাত সুন্দৰ, সমগ্ৰ পৃথিৱীৰ আনন্দ — চিয়োন পৰ্বত, উত্তৰ দিশৰ অন্তভাগ, মহান ৰজাৰ নগৰ।",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "সুন্দৰ"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "উচ্চতা"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "আনন্দ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পৰ্বত"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "চিয়োন"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "অন্তভাগ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "উত্তৰ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "মহান"
+    }
+  ],
+  "timestamp": "2026-09-20T02:43:12.133690084Z",
+  "model": "glm-5.3"
+}

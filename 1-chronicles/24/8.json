@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "তৃতীয়টো হাৰিমৰ বাবে, চতুৰ্থটো চে'অৰিমৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "হাৰিমৰ বাবে"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "তৃতীয়টো"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "চে'অৰিমৰ বাবে"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "চতুৰ্থটো"
+    }
+  ],
+  "timestamp": "2026-09-20T04:36:11.764314064Z",
+  "model": "glm-5.3"
+}

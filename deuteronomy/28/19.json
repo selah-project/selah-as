@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "তুমি প্ৰৱেশ কৰোঁতে অভিশাপ্ত হ'বা, আৰু তুমি ওলাই যাওঁতে অভিশাপ্ত হ'বা।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশাপ্ত হ'বা"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "প্ৰৱেশ কৰোঁতে"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "আৰু অভিশাপ্ত হ'বা"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ওলাই যাওঁতে"
+    }
+  ],
+  "timestamp": "2026-09-19T23:03:46.666813409Z",
+  "model": "glm-5.3"
+}

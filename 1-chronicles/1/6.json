@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু গোমেৰৰ পুত্ৰসকল — আশ্কেনাচ, দিফাত আৰু তোগাৰমাহ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুত্ৰসকল"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "গোমেৰৰ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "আশ্কেনাচ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "אৰু দিফাত"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "আৰু তোগাৰমাহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:00.424495381Z",
+  "model": "glm-5.3"
+}

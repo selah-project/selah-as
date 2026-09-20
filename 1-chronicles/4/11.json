@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু কেলুব, শুহাৰ ভায়ে, ⟨את⟩ মেহিৰক জন্ম দিলে; তেওঁ এশ্তনৰ পিতৃ আছিল।",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "আৰু কেলুব"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ভায়ে"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "শুহাৰ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মেহিৰক"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "মেহিৰক"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতৃ"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "এশ্তনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:19.197619440Z",
+  "model": "glm-5.3"
+}

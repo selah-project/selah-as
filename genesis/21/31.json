@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "সেইবাবে ⟨তেওঁ⟩ সেই ঠাইখনৰ নাম বেৰ-শ্বেভা থ’লে, কিয়নো তাত দুয়োজনে শপত খালে।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "כן",
+      "gloss": "বাবে"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "নাম থ’লে"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "সেই ঠাইখনৰ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "באר",
+      "gloss": "বেৰ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "শ্বেভা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "শপত খালে"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "দুয়োজনে"
+    }
+  ],
+  "timestamp": "2026-09-19T21:35:37.247761669Z",
+  "model": "glm-5.3"
+}

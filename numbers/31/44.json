@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "আৰু গৰু ছত্ৰিশ হেজাৰ,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "আৰু গৰু"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "আৰু তিৰিশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হেজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:10.063499336Z",
+  "model": "glm-5.3"
+}

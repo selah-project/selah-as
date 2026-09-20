@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু গদৰ গোত্ৰ; আৰু গদৰ সন্তানসকলৰ প্ৰধান হ'ব এলিয়াচাফ, তেওঁ ৰে'উএলৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "আৰু গোত্ৰ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গদ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "আৰু প্ৰধান"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "সন্তানসকলৰ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গদ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "এলিয়াচাফ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ৰে'উএল"
+    }
+  ],
+  "timestamp": "2026-09-19T22:29:10.212246840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "“আহা, মোৰ ভাত খাই লোৱা, আৰু মই মিহলাই দিয়া মদ পান কৰা।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "আহা"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "খাই লোৱা"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "মোৰ ভাত"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "আৰু পান কৰা"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "মই মিহলাই দিয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:53.408302287Z",
+  "model": "glm-5.3"
+}

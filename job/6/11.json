@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "মোৰ শক্তি কি, যে মই আশা কৰিম? আৰু মোৰ অন্ত কি, যে মই ধৈৰ্য্য ধৰিম?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "মোৰ শক্তি"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "মই আশা কৰিম"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "আৰু কি"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "মোৰ অন্ত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "মই ধৈৰ্য্য ধৰিম"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-20T03:31:14.720616706Z",
+  "model": "glm-5.3"
+}

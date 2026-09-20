@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "অভিশাপ্ত হ'ব তোমাৰ টুকুৰা আৰু তোমাৰ মথন-বাচি।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশাপ্ত হ'ব"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "তোমাৰ টুকুৰা"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "আৰু তোমাৰ মথন-বাচি"
+    }
+  ],
+  "timestamp": "2026-09-19T23:03:46.666285295Z",
+  "model": "glm-5.3"
+}

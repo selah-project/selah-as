@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আমাৰ সকলো শত্ৰুৱে আমাৰ বিপৰীতে নিজৰ মুখ মেলিলে।",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "মেলিলে"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "আমাৰ বিপৰীতে"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "নিজৰ মুখ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "শত্ৰুৱে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:45.066949327Z",
+  "model": "glm-5.3"
+}

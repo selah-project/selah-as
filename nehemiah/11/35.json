@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "লদ, আৰু ওনো, কাৰিকৰসকলৰ উপত্যকা।",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "লদ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "আৰু ওনো"
+    },
+    {
+      "surface": "גי",
+      "gloss": "উপত্যকা"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "কাৰিকৰসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:23:11.101285984Z",
+  "model": "glm-5.3"
+}

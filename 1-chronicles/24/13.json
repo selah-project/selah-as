@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "তেৰ নম্বৰ হুপ্পাহলৈ, চৌদ্দ নম্বৰ য়েশেবেআভলৈ।",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "হুপ্পাহলৈ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "তেৰ"
+    },
+    {
+      "surface": "লישבאב",
+      "gloss": "য়েশেবেআৱলৈ"
+    },
+    {
+      "surface": "ארבעা",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "চৌদ্দ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:41.332838922Z",
+  "model": "glm-5.3"
+}

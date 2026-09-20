@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "আৰু মানুহৰ প্ৰাণ ষোল্ল হাজাৰ।",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "আৰু প্ৰাণ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ষোল্ল ⟨ষাঠি⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-হাজাৰ⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:29.245310980Z",
+  "model": "glm-5.3"
+}

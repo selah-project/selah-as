@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু শামশেৰাই, আৰু শ্বেহৰয়াহ, আৰু আতালয়াহ।",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "আৰু শামশেৰাই"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "আৰু শ্বেহৰয়াহ"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "আৰু আতালয়াহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:33.058359271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "⟨পুৰোহিতসকল⟩: য়েদাইয়াহৰ পুত্ৰসকল, য়েশ্বুৱাৰ ঘৰৰ — ন শ, সত্তৰ আৰু তিনি।",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "পুৰোহিতসকল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "য়েদাইয়াহ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "য়েশ্বুৱা"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "সত্তৰ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "আৰু তিনি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:09.859390177Z",
+  "model": "glm-5.3"
+}

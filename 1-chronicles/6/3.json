@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু কেহাতৰ পুতেকসকল: আমৰাম, ইৎচহাৰ, হেভ্ৰোন আৰু উজ্জিএল।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কেহাতৰ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "আমৰাম"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "ইৎচহাৰ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "হেভ্ৰোন"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "আৰু উজ্জিএল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:17.996945988Z",
+  "model": "glm-5.3"
+}

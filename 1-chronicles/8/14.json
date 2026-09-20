@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু আহিয়ো, শ্বাশাক আৰু য়েৰেমোত।",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "আৰু আহিয়ো"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "শ্বাশাক"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "আৰু য়েৰেমোত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:50.949699517Z",
+  "model": "glm-5.3"
+}

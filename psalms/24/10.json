@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "এই মহিমাৰ ৰজা কোন? ইয়াহৱেহ চেভাওত — তেওঁই সেই মহিমাৰ ৰজা। סלה",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোন"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "মহিমাৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "চেভাওত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁই"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "মহিমাৰ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "סלה"
+    }
+  ],
+  "timestamp": "2026-09-20T02:34:58.609273497Z",
+  "model": "glm-5.3"
+}

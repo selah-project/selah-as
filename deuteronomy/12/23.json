@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "কেৱল দৃঢ় হ'বা যে তেজ নাখাবা, কিয়নো তেজেই ⟨হৈছে⟩ প্ৰাণ; আৰু তুমি মাংসৰ লগত প্ৰাণ নাখাবা।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "দৃঢ় হ'বা"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "নাখাবা যে"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "খোৱা"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "তেজ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "তেজেই"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨হৈছে⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "প্ৰাণ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নালাগে"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "তুমি খাবা"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "প্ৰাণ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "মাংসৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:56:04.635065297Z",
+  "model": "glm-5.3"
+}

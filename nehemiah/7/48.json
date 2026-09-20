@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "লেবানাৰ সন্তানসকল, খাগাবাৰ সন্তানসকল, শ্বালমাইৰ সন্তানসকল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "লেবানাৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "খাগাবাৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "শ্বালমাইৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:55.167165967Z",
+  "model": "glm-5.3"
+}

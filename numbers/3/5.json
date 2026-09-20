@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক কথা পাতিলে, কৈ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আৰু কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:29:36.225911297Z",
+  "model": "glm-5.3"
+}

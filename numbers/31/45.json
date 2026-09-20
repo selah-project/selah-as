@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "আৰু গধূৰ ত্ৰিশ হাজাৰ পাঁচশ",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "আৰু গধূৰ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্ৰিশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:29.245107725Z",
+  "model": "glm-5.3"
+}

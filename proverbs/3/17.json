@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁৰ পথবোৰ ⟨হৈছে⟩ মনোৰম পথ, আৰু তেওঁৰ সকলো পগাই শান্তি।",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "তেওঁৰ পথবোৰ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "মনোৰম"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "তেওঁৰ পগাবোৰ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:42.963584310Z",
+  "model": "glm-5.3"
+}

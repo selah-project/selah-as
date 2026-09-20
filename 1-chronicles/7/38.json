@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু য়েতেৰৰ পুতেকসকল: য়েফুন্নেহ, আৰু পিচপাহ, আৰু আৰা।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "য়েতেৰৰ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "য়েফুন্নেহ"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "আৰু পিচপাহ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "আৰু আৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:24.628692436Z",
+  "model": "glm-5.3"
+}

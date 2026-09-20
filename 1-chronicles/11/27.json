@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "শ্বাম্মোত হাৰোৰী, হেলেৎ হাপেলোনী,",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "শ্বাম্মোত"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "হাৰোৰী"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "হেলেৎ"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "হাপেলোনী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:50.560014162Z",
+  "model": "glm-5.3"
+}

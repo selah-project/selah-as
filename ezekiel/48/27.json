@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "আৰু জেবুলুনৰ সীমাৰ লগত, পূব দিশৰ পৰা পশ্চিম দিশলৈকে — গদৰ ⟨এটা ভাগ⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আৰু …ৰ লগত"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমাৰ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "জেবুলুনৰ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "…ৰ দিশৰ পৰা"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "পূব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "দিশ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "পশ্চিম"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গদৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-09-20T02:00:54.847259509Z",
+  "model": "glm-5.3"
+}

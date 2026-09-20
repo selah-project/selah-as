@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "নহয় তেওঁ পান কৰি ⟨את⟩ বিধান পাহৰিব, আৰু দুখীয়াসকলৰ সকলোৰে বিচাৰ বিকৃত কৰিব।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "পান কৰিব"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "আৰু পাহৰিব"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "বিধান"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "আৰু বিকৃত কৰিব"
+    },
+    {
+      "surface": "דין",
+      "gloss": "বিচাৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলোৰে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "...সকলৰ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "দুখীয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:40.562423943Z",
+  "model": "glm-5.3"
+}

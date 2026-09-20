@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু ⟨את⟩ হাদোৰাম, ⟨את⟩ উজাল, আৰু ⟨את⟩ দিকলাহ ⟨য়ক্তানে জন্ম দিলে⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "হাদোৰাম"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "হাদোৰাম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "উজাল"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "উজাল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "দিকলাহ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "দিকলাহ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:22.758580638Z",
+  "model": "glm-5.3"
+}

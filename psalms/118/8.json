@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 118,
+  "translation": "ইয়াহৱেহত ⟨আশ্ৰয়⟩ লোৱাটো ভাল, মানুহত ভৰষা কৰাতকৈ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "আশ্ৰয় লোৱাটো"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ইয়াহৱেহত"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ভৰষা কৰাতকৈ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "মানুহত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:04:01.911772349Z",
+  "model": "glm-5.3"
+}

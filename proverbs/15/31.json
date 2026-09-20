@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "জীৱন-অনুশাসন শুনা কাণ ⟨জন⟩ জ্ঞানীসকলৰ মাজত বাস কৰে।",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "কাণ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "অনুশাসন-তিৰস্কাৰ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱনৰ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "জ্ঞানীসকলৰ"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "বাস কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:21.400674582Z",
+  "model": "glm-5.3"
+}

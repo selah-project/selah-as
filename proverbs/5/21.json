@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "কিয়নো ইয়াহৱেহৰ চকুৰ সন্মুখত মানুহৰ পথবোৰ ⟨আছে⟩, আৰু তেওঁৰ সকলো পথ তেওঁ মাপি চায়।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "চকুৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "পথবোৰ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "মাপি চায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:14:08.468921894Z",
+  "model": "glm-5.3"
+}

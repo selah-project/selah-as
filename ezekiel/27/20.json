@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "দেদান তোমাৰ বেপাৰী আছিল, ৰ'দাই যোৱা মচলীয়া কাপোৰবোৰত।",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "দেদান"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "তোমাৰ বেপাৰী আছিল"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "কাপোৰবোৰত"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "মচলীয়া"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "ৰ'দাই যোৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:18:14.928339185Z",
+  "model": "glm-5.3"
+}

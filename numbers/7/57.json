@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ষাঁড় পোৱালি এটা, মতা ভেড়া এটা, এবছৰীয়া মেৰপোৱালি এটা দাহ উৎসৰ্গৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ষাঁড়"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পোৱালি"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "איל",
+      "gloss": "মতা ভেড়া"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "মেৰপোৱালি"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "এবছৰীয়া"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "বছৰৰ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "দাহ উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:31:25.838415068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ ⟨את⟩ মোৰ দাঁত বালিৰ শিলেৰে গুহি পেলালে, তেওঁ মোক ছাইত দলিয়াই দিলে।",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "গুহি পেলালে"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "বালিৰ শিলেৰে"
+    },
+    {
+      "surface": "שני",
+      "gloss": "মোৰ দাঁত"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "মোক দলিয়াই দিলে"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "ছাইত"
+    }
+  ],
+  "timestamp": "2026-09-20T05:31:46.568271198Z",
+  "model": "glm-5.3"
+}

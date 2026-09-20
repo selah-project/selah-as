@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু তেওঁ ৰজাৰ দুৱাৰৰ আগলৈকে আহিল, কিয়নো মোটা কাপোৰ পিন্ধি ৰজাৰ দুৱাৰত সোমাব নোৱাৰিছিল।",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "আগলৈ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "দুৱাৰৰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নোৱাৰে"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "সোমাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "দুৱাৰত"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "পিন্ধি"
+    },
+    {
+      "surface": "שק",
+      "gloss": "মোটা কাপোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:01:51.240974446Z",
+  "model": "glm-5.3"
+}

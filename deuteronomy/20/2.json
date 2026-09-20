@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "আৰু তোমালোকে যুদ্ধৰ ওচৰলৈ অহাত পুৰোহিতজনে আগবাঢ়ি আহি জনগোষ্ঠীক ক'ব;",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "আৰু হ'ব"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "তোমালোকে ওচৰ চাপোঁতে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "যুদ্ধৰ"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "আৰু আগবাঢ়ি আহিব"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতজন"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "আৰু ক'ব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনগোষ্ঠীক"
+    }
+  ],
+  "timestamp": "2026-09-19T22:59:25.483851834Z",
+  "model": "glm-5.3"
+}

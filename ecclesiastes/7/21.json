@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "লগতে সকলো কথাত, যি কথা মানুহে কয়, তুমি মন নিদিবা, যাতে তুমি ⟨את⟩ তোমাৰ দাসৰ তোমাক অভিশাপ দিয়া নুশুনা।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "লগতে"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথাত"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "কয়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ন-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "দিবা"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "তোমাৰ মন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাতে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তোমাৰ দাস"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "তোমাৰ দাস"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "তোমাক অভিশাপ দিয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:24.483137864Z",
+  "model": "glm-5.3"
+}

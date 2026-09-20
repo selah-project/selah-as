@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "যাবাদে ⟨את⟩ এফলালক জন্ম দিলে, আৰু এফলালে ⟨את⟩ অভেদক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "যাবাদে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এফলালক"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "এফলাল"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "এফলালে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "অভেদক"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "অভেদ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:20.390499507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "⟨את⟩ দিমনাহ তাৰ চুবুৰী সমেত, ⟨את⟩ নহলাল তাৰ চুবুৰী সমেত — চাৰিখন চহৰ।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দিমনাহ"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "দিমনাহ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "তাৰ চুবুৰী"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "তাৰ চুবুৰী"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নহলাল"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "নহলাল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "তাৰ চুবুৰী"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "তাৰ চুবুৰী"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "চহৰ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰিখন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:16:54.579051741Z",
+  "model": "glm-5.3"
+}

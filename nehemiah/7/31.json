@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "মিখমাচৰ মানুহ — এশ বিশ দুজন।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "মিখমাচ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "আৰু বিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:10.450254564Z",
+  "model": "glm-5.3"
+}

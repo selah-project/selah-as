@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু শ্বেলোমো হামাত-চোবালৈ গ'ল, আৰু তাৰ ওপৰত বলৱান হ'ল।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমো"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "হামাত"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "চোবা"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "বলৱান হ'ল"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "তাৰ ওপৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:41:49.030301570Z",
+  "model": "glm-5.3"
+}

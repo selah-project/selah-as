@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "কিয়নো গাখীৰ মৰহালে মাখন ওলায়, আৰু নাক মৰহালে তেজ ওলায়, আৰু ক্ৰোধ মৰহালে বিবাদ ওলায়।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "মৰহালে"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "গাখীৰ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ওলায়"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "মাখন"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "আৰু মৰহালে"
+    },
+    {
+      "surface": "אף",
+      "gloss": "নাক"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ওলায়"
+    },
+    {
+      "surface": "דם",
+      "gloss": "তেজ"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "আৰু মৰহালে"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ক্ৰোধ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ওলায়"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "বিবাদ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:24.745317012Z",
+  "model": "glm-5.3"
+}

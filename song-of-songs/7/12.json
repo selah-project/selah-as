@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আহা, মোৰ প্ৰিয়জন, আমি পথাৰলৈ ওলাই যাওঁ, গাঁৱবোৰত ⟨ৰাতি⟩ থাকোঁ আহক।",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "আহা"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "মোৰ প্ৰিয়জন"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "ওলাই যাওঁ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "পথাৰলৈ"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "থাকোঁ আহক"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "গাঁৱবোৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:49:26.483856282Z",
+  "model": "glm-5.3"
+}

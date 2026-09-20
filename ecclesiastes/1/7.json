@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "সকলো নদী সাগৰলৈ বৈ যায়, তথাপি সাগৰ ⟨পূৰ্ণ নহয়⟩; নদীবোৰ যিঠাইলৈ বৈ যায়, তালৈকে সেইবোৰ পুনৰ বৈ যাবলৈ ঘূৰি যায়।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "নদী"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "বৈ যায়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সাগৰ"
+    },
+    {
+      "surface": "והים",
+      "gloss": "আৰু সাগৰ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "পূৰ্ণ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ঠাইলৈ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ঠাই"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "যিখিনি নদীবোৰ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "বৈ যায়"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তালৈকে"
+    },
+    {
+      "surface": "הם",
+      "gloss": "সেইবোৰে"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "ঘূৰি যায়"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "বৈ যাবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:21.348964013Z",
+  "model": "glm-5.3"
+}

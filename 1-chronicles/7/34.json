@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু শ্বেমেৰৰ পুতেকসকল আছিল আহি, ৰোহগহ, য়েহুব্বহ আৰু আৰাম।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "শ্বেমেৰৰ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "আহি"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "আৰু ৰোহগহ"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "য়েহুব্বহ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "আৰু আৰাম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:18.338592078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "হাচোৰ, ৰামা, গিত্তয়িম।",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "হাচোৰ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ৰামা"
+    },
+    {
+      "surface": "গתים",
+      "gloss": "গিত্তয়িম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:23:11.101016584Z",
+  "model": "glm-5.3"
+}

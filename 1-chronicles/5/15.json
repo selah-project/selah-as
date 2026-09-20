@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "অহী — অবদিএলৰ পুতেক, গূনিৰ পুতেক — ⟨আছিল⟩ তেওঁলোকৰ পিতৃ-ঘৰসমূহৰ মুৰব্বী।",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "অহী"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "অবদিএলৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "গূনিৰ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "মুৰব্বী"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ঘৰসমূহৰ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "তেওঁলোকৰ পিতৃৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:54.217630941Z",
+  "model": "glm-5.3"
+}

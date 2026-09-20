@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "মানুহৰ সকলো পথ তেওঁৰ চকুত নিৰ্মল, কিন্তু ৰুৱাখবোৰ ইয়াহৱেহে জুখি চায়।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "זך",
+      "gloss": "নিৰ্মল"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "তেওঁৰ চকুত"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "কিন্তু জুখি চায়"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ৰুৱাখবোৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:46.793217116Z",
+  "model": "glm-5.3"
+}

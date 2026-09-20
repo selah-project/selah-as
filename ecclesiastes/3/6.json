@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ঢেত বিচাৰিবলৈ, আৰু ঢেত নষ্ট কৰিবলৈ; ঢেত ৰাখিবলৈ, আৰু ঢেত পেলাই দিবলৈ।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ঢেত"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "বিচাৰিবলৈ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু ঢেত"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "নষ্ট কৰিবলৈ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ঢেত"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ৰাখিবলৈ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আৰু ঢেত"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "পেলাই দিবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:55:05.338133485Z",
+  "model": "glm-5.3"
+}

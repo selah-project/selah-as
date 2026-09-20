@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "এলিফাজৰ পুত্ৰসকল আছিল তেমান, ওমাৰ, চেফি, গাতাম, কেনাজ, তিমনা আৰু আমালেক।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "এলিফাজৰ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "তেমান"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "আৰু ওমাৰ"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "চেফি"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "আৰু গাতাম"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "কেনাজ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "আৰু তিমনা"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "আৰু আমালেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:45.554463701Z",
+  "model": "glm-5.3"
+}

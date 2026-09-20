@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "গিল'অদ ⟨হৈছে⟩ অনীতি-কৰ্মীসকলৰ নগৰ, তেজৰ পদচিহ্নেৰে ভৰা।",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "গিল'অদ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "কৰ্মীসকলৰ"
+    },
+    {
+      "surface": "און",
+      "gloss": "অনীতিৰ"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "পদচিহ্নেৰে ভৰা"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "তেজৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:01:28.193739081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "অটল মনক তুমি শান্তি, শান্তি ৰক্ষা কৰিবা, কিয়নো তোমাতেই ⟨তাৰ⟩ ভৰষা।",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "মন"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "অটল"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ৰক্ষা কৰিবা"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "בך",
+      "gloss": "তোমাত"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "ভৰষা কৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T00:41:15.381440115Z",
+  "model": "glm-5.3"
+}

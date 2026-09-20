@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "এই সকলো কথা আৰু এই সমগ্ৰ দৰ্শন অনুসৰি নাতানে দাৱিদৰ আগত এইদৰে ক'লে।",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "সকলো … অনুসৰি"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "আৰু সমগ্ৰ … অনুসৰি"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "দৰ্শন"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতানে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ৰ আগত"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:33:41.906340545Z",
+  "model": "glm-5.3"
+}

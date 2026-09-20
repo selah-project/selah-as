@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আমি আমাৰ হৃদয় হাতবোৰৰ সৈতে আকাশমণ্ডলৰ এলৰ ফালে তুলিছোঁ।",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "তুলিছোঁ"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "আমাৰ হৃদয়"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ক⟩ সৈতে"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "হাতবোৰৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ফালে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এলৰ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "আকাশমণ্ডলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:54.421096521Z",
+  "model": "glm-5.3"
+}

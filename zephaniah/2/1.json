@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "সমবেত হোৱা, সমবেত হোৱা, হে জাতি, যি প্ৰত্যাশিত নহয়।",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "সমবেত হোৱা"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "সমবেত হোৱা"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "হে জাতি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "প্ৰত্যাশিত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:20:08.102421691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "ইয়াহৱেহে মোশ্বেৰ সৈতে কথা পাতিলে ⟨কৈ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T22:04:57.539710333Z",
+  "model": "glm-5.3"
+}

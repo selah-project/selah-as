@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "তোমালোকৰ বাবে ইয়াহৱেহ মোৰ ওপৰতো ক্ৰোধিত হ'ল, ক'লে, “তুমিও তালৈ নাহাব।”",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ওপৰতো"
+    },
+    {
+      "surface": "בי",
+      "gloss": "মোৰ ওপৰত"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "ক্ৰোধিত হ'ল"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "তোমালোকৰ বাবে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "גם",
+      "gloss": "তুমিও"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাহাব"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "নাহাব"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তালৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:03.226269292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 108,
+  "translation": "গীত, মিজমোৰ, দাৱিদৰ।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিজমোৰ ⟨বাদ্যৰ সৈতে গীত⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:02:31.514195436Z",
+  "model": "glm-5.3"
+}

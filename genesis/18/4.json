@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "অলপ পানী অনা হওক, আৰু আপোনালোকে ভৰি ধুই লওক, আৰু গছৰ তলত জিৰাই লওক।",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "অনা হওক"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨…⟩"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "আৰু ধুই লওক"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "আপোনালোকৰ ভৰি"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "আৰু জিৰাই লওক"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "গছৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:33:42.090710456Z",
+  "model": "glm-5.3"
+}

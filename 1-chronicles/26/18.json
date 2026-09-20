@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "পাৰবাৰত, পশ্চিম দিশত চাৰিজন, পথত দুজন, পাৰবাৰত ⟨আৰু দুজন⟩।",
+  "tokens": [
+    {
+      "surface": "לפרבר",
+      "gloss": "পাৰবাৰত"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "পশ্চিম দিশত"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চাৰিজন"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "পথত"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুজন"
+    },
+    {
+      "surface": "לפרবר",
+      "gloss": "পাৰবাৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:37:12.061048478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু এতিয়া, সঁচাকৈয়ে, মই ⟨এজন⟩ গো-এল; কিন্তু মোতকৈ নিকটাত আন এজন গো-এল আছে।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "আৰু এতিয়া"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "সঁচাকৈয়ে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨যদিও⟩"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "গো-এল"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "আৰু"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "গো-এল"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "নিকটাত"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোতকৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:49:53.286302926Z",
+  "model": "glm-5.3"
+}

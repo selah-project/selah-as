@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "বেয়াৰ পৰা আঁতৰ হওক, ভাল কৰা, আৰু চিৰকাল বাস কৰা।",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "আঁতৰ হওক"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "বেয়াৰ পৰা"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "আৰু কৰা"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "আৰু বাস কৰা"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিৰকাল"
+    }
+  ],
+  "timestamp": "2026-09-20T02:39:29.001054721Z",
+  "model": "glm-5.3"
+}

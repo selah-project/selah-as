@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "চল্মোন আহোহী, মহৰাই নেতোফতী,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "চল্মোন"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "আহোহী"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "মহৰাই"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "নেতোফতী"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:29.418099448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "কিয়নো ইস্ৰায়েলৰ ঘৰৰ মাজত আৰু কোনো ব্যৰ্থ দৰ্শন বা মসৃণ যাদু ⟨নাথাকিব⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকিব"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আৰু"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "দৰ্শন"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ব্যৰ্থ"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "আৰু যাদু"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "মসৃণ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:34:37.028507636Z",
+  "model": "glm-5.3"
+}

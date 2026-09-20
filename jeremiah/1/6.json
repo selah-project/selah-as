@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "মই ক'লোঁ, “আহা! আদোনাই ইয়াহৱেহ, চাওঁক, মই ক'ব নাজানোঁ, কিয়নো মই ⟨এজন⟩ ডেকা ল'ৰা।”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "মই ক'লোঁ"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "আহা!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "মই জানোঁ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কোৱা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ডেকা ল'ৰা"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    }
+  ],
+  "timestamp": "2026-09-20T00:57:24.256937894Z",
+  "model": "glm-5.3"
+}

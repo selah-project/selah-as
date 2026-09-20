@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "তেওঁ উঠিল আৰু তেওঁ গ'ল; আৰু য়োনাতন চহৰখনলৈ সোমাল।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "আৰু য়োনাতন"
+    },
+    {
+      "surface": "בא",
+      "gloss": "সোমাল"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "চহৰখনলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:43:17.133239317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু ইয়াহৱেহ সমগ্ৰ পৃথিৱীৰ ৰজা হ'ব; সেই দিনত ইয়াহৱেহ এক হ'ব, আৰু তেওঁৰ নাম এক।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "আৰু হ'ব"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ৰজা হিচাপে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "আৰু তেওঁৰ নাম"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-09-20T02:26:50.067724962Z",
+  "model": "glm-5.3"
+}

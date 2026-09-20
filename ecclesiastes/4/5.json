@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "মূৰ্খজনে ⟨את⟩ নিজৰ দুহাত সাৱটি ধৰি ⟨আছে⟩, আৰু ⟨את⟩ নিজৰ মাংস খায়।",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "মূৰ্খজনে"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "সাৱটি ধৰে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিজৰ দুহাত"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "নিজৰ দুহাত"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "আৰু খায়"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিজৰ মাংস"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "নিজৰ মাংস"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:06.802988843Z",
+  "model": "glm-5.3"
+}

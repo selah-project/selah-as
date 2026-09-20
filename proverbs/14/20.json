@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "দুখীয়া ⟨মানুহ⟩ তাৰ নিজৰ বন্ধুৰ দ্বাৰাও ঘৃণিত, কিন্তু ধনীৰ প্ৰেমিক বহু।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "তাৰ নিজৰ বন্ধুৰ দ্বাৰাও"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ঘৃণিত"
+    },
+    {
+      "surface": "רש",
+      "gloss": "দুখীয়া"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "আৰু প্ৰেমিক"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ধনীৰ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহু"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:37.445106229Z",
+  "model": "glm-5.3"
+}

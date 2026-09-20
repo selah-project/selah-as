@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "জ্ঞান আৰু শিক্ষা জানিবলৈ, বোধৰ কথাবোৰ বুজিবলৈ।",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "জানিবলৈ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "আৰু শিক্ষা"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "বুজিবলৈ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোধৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:13:08.186569450Z",
+  "model": "glm-5.3"
+}

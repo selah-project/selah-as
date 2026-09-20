@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "ভক্তৰ আঘাতবোৰ বিশ্বাসযোগ্য, আৰু শত্ৰুৰ চুম্বনবোৰ প্ৰচুৰ।",
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "বিশ্বাসযোগ্য"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "আঘাতবোৰ"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "ভক্তৰ"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "আৰু প্ৰচুৰ"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "চুম্বনবোৰ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "শত্ৰুৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:26.775093676Z",
+  "model": "glm-5.3"
+}

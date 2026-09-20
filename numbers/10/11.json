@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 10:11",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "দ্বিতীয় বছৰত, দ্বিতীয় মাহত, মাহটোৰ বিশ তাৰিখত সাক্ষ্যৰ আবাসৰ পৰা ⟨the⟩ মেঘ উঠিল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "বছৰত"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "মাহত"
+    },
+    {
+      "surface": "השני",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "মাহটোৰ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "মেঘ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ৰ পৰা"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "আবাস"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "সাক্ষ্যৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:32:52.914189626Z",
+  "model": "glm-5.3"
+}

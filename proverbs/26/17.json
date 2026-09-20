@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "কুকুৰৰ কাণ চেপি ধৰাজনৰ দৰেই সি — যি পাৰ হৈ যায় আৰু নিজৰ নহয় বাদ-বিবাদত খং উগৰায়।",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "চেপি ধৰাজন"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "কাণ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "কুকুৰৰ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "পাৰ হৈ যায়"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "খং উগৰায়"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ত"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "বাদ-বিবাদ"
+    },
+    {
+      "surface": "লא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "לו",
+      "gloss": "নিজৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:54.158605071Z",
+  "model": "glm-5.3"
+}

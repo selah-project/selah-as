@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 99,
+  "translation": "ইয়াহৱেহ চিয়োনত ডাঙৰ, আৰু তেওঁ সকলো জাতিৰ ঊৰ্ধ্বত উচ্চ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "চিয়োনত"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "আৰু উচ্চ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ঊৰ্ধ্বত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "জাতিৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:58:42.937892692Z",
+  "model": "glm-5.3"
+}

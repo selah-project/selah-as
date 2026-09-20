@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "পানী বিচাৰিলে — গাখীৰ দিলে; ৰাজকীয় বাটিত মাখন আগবঢ়াই দিলে।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "বিচাৰিলে"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "গাখীৰ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "বাটিত"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "ৰাজকীয়"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "আগবঢ়াই দিলে"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "মাখন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:21:35.798788876Z",
+  "model": "glm-5.3"
+}

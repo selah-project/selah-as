@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "মৃদু উত্তৰে ক্ৰোধ ⟨ঘূৰাই পঠায়⟩, আৰু বিষাদেৰ কথাই ক্ৰোধ উঠাই আনে।",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "উত্তৰ"
+    },
+    {
+      "surface": "רך",
+      "gloss": "মৃদু"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ঘূৰাই পঠায়"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ক্ৰোধ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "আৰু কথা"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "বিষাদেৰ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "উঠাই আনে"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ক্ৰোধ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:37.987387283Z",
+  "model": "glm-5.3"
+}

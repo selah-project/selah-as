@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "য়েদিয়াএল, শ্বিমৰিৰ পুতেক, আৰু তেওঁৰ ভাতৃ য়োহা ⟨তিচী⟩।",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "য়েদিয়াএল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "শ্বিমৰিৰ"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "আৰু য়োহা"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "তেওঁৰ ভাতৃ"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "⟨তিচী⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:33.881306666Z",
+  "model": "glm-5.3"
+}

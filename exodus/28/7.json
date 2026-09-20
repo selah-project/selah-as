@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "ইয়াৰ দুটা কান্ধ-পতা থাকিব, ইয়াৰ দুই মূৰত জুৰি; আৰু ই জোড়া লাগি থাকিব।",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "কান্ধ-পতা"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "জুৰি\/যুক্ত"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকিব"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ইয়াৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "মূৰবোৰত"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "আৰু জোড়া লাগিব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:05:40.100050403Z",
+  "model": "glm-5.3"
+}

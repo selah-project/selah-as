@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "কিয়নো ইয়াহৱেহে এইদৰে ক'লে, “ইস্ৰায়েলৰ ঘৰৰ সিংহাসনত বহা এজন মানুহ দাৱিদৰ পৰা কটা নহ'ব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহ'"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "কটা হ'ব"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ পৰা"
+    },
+    {
+      "surface": "איש",
+      "gloss": "এজন মানুহ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "বহা"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "সিংহাসন"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েল"
+    }
+  ],
+  "timestamp": "2026-09-20T01:16:11.119799518Z",
+  "model": "glm-5.3"
+}

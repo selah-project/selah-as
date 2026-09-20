@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "মই দেখিলোঁ, আৰু চোৱাহক — মানুহ ⟨নাই⟩, আৰু আকাশমণ্ডলৰ সকলো চৰাই পলাই গৈছে।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "মই দেখিলোঁ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চোৱাহক"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "চৰাই"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "আকাশমণ্ডলৰ"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "পলাই গৈছে"
+    }
+  ],
+  "timestamp": "2026-09-20T00:59:15.577148409Z",
+  "model": "glm-5.3"
+}

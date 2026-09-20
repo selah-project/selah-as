@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "আৰু বাকী থকা বংশসকলৰ কথা হ'ল — পূব দিশৰ পৰা পশ্চিম দিশলৈ বিন্যামিন, এটা ভাগ।",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "আৰু বাকী থকা"
+    },
+    {
+      "surface": "হש蚌טים",
+      "gloss": "বংশসকলৰ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "পূব দিশৰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "দিশ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "পশ্চিম"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "বিন্যামিন"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা ভাগ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:19:50.275953497Z",
+  "model": "glm-5.3"
+}

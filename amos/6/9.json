@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু এনে হ'ব, যদি এটা ঘৰত দহজন মানুহ জীৱিত থাকে, তেওঁলোকো মৰিব।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "আৰু এনে হ'ব"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "জীৱিত থাকে"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "এটা ঘৰত"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "তেওঁলোকো মৰিব"
+    }
+  ],
+  "timestamp": "2026-09-20T02:10:13.143331211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু ইয়াহৱেহে মোক চাৰিজন কাৰিগৰ দেখুৱালে।",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "দেখুৱালে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চাৰিজন"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "কাৰিগৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:23:51.899747767Z",
+  "model": "glm-5.3"
+}

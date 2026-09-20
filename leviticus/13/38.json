@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু যিকোনো মানুহ বা নাৰীৰ, যেতিয়া তেওঁলোকৰ দেহৰ ছালত বগা দাগ, বগা দাগ হয় —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "আৰু যিকোনো মানুহ"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "নাৰীৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হয়"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ছালত"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "তেওঁলোকৰ দেহৰ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "বগা দাগ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "দাগ"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "বগা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:12.798047021Z",
+  "model": "glm-5.3"
+}

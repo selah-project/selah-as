@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "মোৰ শৃংখলা গ্ৰহণ কৰা, ৰূপ নহয়; আৰু বাছি উলিওৱা সোণতকৈ জ্ঞান ⟨বেছি⟩।",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "গ্ৰহণ কৰা"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "মোৰ শৃংখলা"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু ... নহয়"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ৰূপ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "আৰু জ্ঞান"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "সোণতকৈ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "বাছি উলিওৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:17.253529650Z",
+  "model": "glm-5.3"
+}

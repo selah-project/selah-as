@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আদিনৰ সন্তানসকল — ছশ পঞ্চাশ আৰু পাঁচজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "আদিনৰ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "পাঁচ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:39.224919095Z",
+  "model": "glm-5.3"
+}

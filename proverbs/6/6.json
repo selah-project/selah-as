@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আলসী, পৰুৱাৰ ওচৰলৈ থাক; তাৰ পথবোৰ চাই জ্ঞানী হোৱা।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "থাক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "পৰুৱা"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "আলসী"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "চাই"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "তাৰ পথবোৰ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "আৰু জ্ঞানী হোৱা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:26.054326143Z",
+  "model": "glm-5.3"
+}

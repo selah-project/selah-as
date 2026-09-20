@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "কোনোৱে ৰেহাই শিল বা ওপৰৰ ৰেহাই শিল বন্ধক হিচাপে নল'ব, কিয়নো সি ⟨নিজেই⟩ এটা জীৱন বন্ধক লয়।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নল'ব"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "বন্ধক ল'ব"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "ৰেহাই শিল"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "আৰু ওপৰৰ ৰেহাই শিল"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "জীৱন"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "বন্ধক লয়"
+    }
+  ],
+  "timestamp": "2026-09-19T23:01:22.585375906Z",
+  "model": "glm-5.3"
+}

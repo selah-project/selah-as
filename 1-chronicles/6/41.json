@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু ⟨আৰু⟩ ⟨את⟩ নগৰৰ পথাৰ আৰু ⟨את⟩ তাৰ উপবনসমূহ কলেবৰ পুতেক য়েফুন্নেহক দিলে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "পথাৰ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "পথাৰ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগৰৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "উপবনসমূহ"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "তাৰ উপবনসমূহ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "কলেবৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "য়েফুন্নেহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:46.231360141Z",
+  "model": "glm-5.3"
+}

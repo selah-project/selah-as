@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "এলোহিমক অপকাৰ নক'বা, আৰু তোমাৰ জাতিৰ নেতাক অভিশাপ নিদিবা।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নক'বা"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "অপকাৰ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "আৰু নেতাক"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "তোমাৰ জাতিৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নিদিবা"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "অভিশাপ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:00:45.027643335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু নোৱাহ পাঁচশ বছৰৰ পুতেক হ'ল, আৰু নোৱাহে ⟨את⟩ শ্বেমক, ⟨את⟩ খামক আৰু ⟨ואת⟩ য়াফেতক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোৱাহ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোৱাহে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শ্বেমক"
+    },
+    {
+      "surface": "שם",
+      "gloss": "শ্বেমক"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "খামক"
+    },
+    {
+      "surface": "חם",
+      "gloss": "খামক"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "য়াফেতক"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "য়াফেতক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:46.698929350Z",
+  "model": "glm-5.3"
+}

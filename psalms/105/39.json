@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 105,
+  "translation": "তেওঁ আৱৰণ হিচাপে মেঘ বিয়পালে, আৰু ৰাতি পোহৰ দিবলৈ জুই।",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "বিয়পালে"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "মেঘ"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "আৱৰণ হিচাপে"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "আৰু জুই"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "পোহৰ দিবলৈ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ৰাতি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:00:20.281307513Z",
+  "model": "glm-5.3"
+}

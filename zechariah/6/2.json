@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "প্ৰথম ৰথত আছিল ৰঙা ঘোঁৰা, আৰু দ্বিতীয় ৰথত আছিল ক'লা ঘোঁৰা।",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "ৰথত"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "প্ৰথম"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ঘোঁৰা"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ৰঙা"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "আৰু ৰথত"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ঘোঁৰা"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "ক'লা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:23:34.834142858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "মাহৰ পাঁচ ⟨তাৰিখত⟩ — সেইটো ৰজা য়েহোয়াখিনৰ নিৰ্বাসনৰ পঞ্চম বছৰ।",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাহৰ তাৰিখত"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সেইটো"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "পঞ্চম"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "নিৰ্বাসনৰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "য়েহোয়াখিন"
+    }
+  ],
+  "timestamp": "2026-09-20T01:29:59.312872735Z",
+  "model": "glm-5.3"
+}

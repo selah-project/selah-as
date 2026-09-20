@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 32:7",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "“দৃঢ় হওঁক আৰু সাহসী হওঁক; অস্বৰৰ ৰজাৰ পৰা আৰু তেওঁৰ সৈতে থকা সকলো ভিৰৰ পৰা ভয় নকৰিব আৰু ভাঙি নপৰিব;",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "দৃঢ় হওঁক"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "আৰু সাহসী হওঁক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নকৰিব"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু নপৰিব"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "ভাঙি"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "অস্বৰৰ"
+    },
+    {
+      "surface": "ומלפני",
+      "gloss": "আৰু পৰা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ভিৰৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "তেওঁৰ সৈতে থকা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "আমাৰ সৈতে"
+    },
+    {
+      "surface": "רב",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "তেওঁতকৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:53:28.657463506Z",
+  "model": "glm-5.3"
+}

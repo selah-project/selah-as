@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "তাৰ পৰা তেওঁ দেবিৰৰ বাসিন্দাসকলৰ ওচৰলৈ গ'ল; দেবিৰৰ আগৰ নাম আছিল কিৰয়ত-চেফেৰ।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "משם",
+      "gloss": "তাৰ পৰা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "বাসিন্দাসকলৰ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "দেবিৰ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "আৰু নাম"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "দেবিৰৰ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "কিৰয়ত"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "চেফেৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:18:46.812208653Z",
+  "model": "glm-5.3"
+}

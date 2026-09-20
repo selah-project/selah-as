@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 52,
+  "translation": "আৰু ডালিবোৰ আছিল নৱৈশটা, এটা ফালে ⟨on a side⟩; চাৰিওফালে থকা জালখনৰ ওপৰত সকলো ডালি এশটা আছিল।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আৰু আছিল"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "ডালিবোৰ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "নৱৈশ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "আৰু ছয়"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "এটা ফালে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "ডালি"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "জালখনৰ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "চাৰিওফালে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:28:37.208426835Z",
+  "model": "glm-5.3"
+}

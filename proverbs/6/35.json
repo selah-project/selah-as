@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "তেওঁ কোনো মোক্ষমৰ কথা নুবুজিব, আৰু সন্মত নহ'ব, যদিও তুমি ঘুষ বহুগুণ কৰা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নুবুজিব"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "বুজিব ল'ব"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "মোক্ষম"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহ'ব"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "সন্মত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যদিও"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "বহুগুণ কৰা"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ঘুষ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:51.629418235Z",
+  "model": "glm-5.3"
+}

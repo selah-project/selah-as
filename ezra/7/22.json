@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ৰূপ এশ কিকাৰলৈকে, আৰু ঘেঁহু এশ কোৰলৈকে, আৰু মদ এশ বাথলৈকে, আৰু তেল এশ বাথলৈকে, আৰু নিমখ লিখি ৰখা ধৰি নহয় ⟨সীমা নাই⟩।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ৰূপ"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "কিকাৰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "আৰু লৈকে"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "ঘেঁহু"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "কোৰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "আৰু লৈকে"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "বাথ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "আৰু লৈকে"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "বাথ"
+    },
+    {
+      "surface": "משח",
+      "gloss": "তেল"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "আৰু নিমখ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ধৰি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "লিখা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:17:59.036442679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "পুৰোহিতসকলৰ মাজৰ ⟨পৰা⟩ — য়েদায়াহ, য়োয়াৰিভৰ পুতেক; য়াখিন;",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "⟨পৰা⟩"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "পুৰোহিতসকলৰ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "য়েদায়াহ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "য়োয়াৰিভৰ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "য়াখিন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:59.348081791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "এতিয়া উঠা, আৰু তোমালোকে ⟨את⟩ জাৰেদ নদী পাৰ হোৱা; আৰু আমি ⟨את⟩ জাৰেদ নদী পাৰ হ'লোঁ।",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "এতিয়া"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "উঠা"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "আৰু পাৰ হোৱা"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকৰ বাবে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "জাৰেদ নদী"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "নদী"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "জাৰেদ"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "আৰু আমি পাৰ হ'লোঁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "জাৰেদ নদী"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "নদী"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "জাৰেদ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:20.140050297Z",
+  "model": "glm-5.3"
+}

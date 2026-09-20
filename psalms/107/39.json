@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 107,
+  "translation": "আকৌ তেওঁলোক কমি গৈ সৰু হ'ল — দমন, অকল্যাণ আৰু দুখৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "কমি গ'ল"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "সৰু হ'ল"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "দমন"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "অকল্যাণ"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "দুখ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:01:56.351275245Z",
+  "model": "glm-5.3"
+}

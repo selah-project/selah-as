@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "আৰু বিন্যামিনৰ সীমাৰ লগত — পূব দিশৰ পৰা পশ্চিম দিশলৈ শ্বিম'অন, এটা ভাগ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আৰু ...ৰ লগত"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমাৰ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "বিন্যামিন"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "পূব দিশৰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "দিশ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "পশ্চিম"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "শ্বিম'অন"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা ভাগ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:19:50.277897197Z",
+  "model": "glm-5.3"
+}

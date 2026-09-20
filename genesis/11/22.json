@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "শ্বেৰুগে ত্ৰিশ বছৰ জীয়াই ৰ'ল, আৰু ⟨את⟩ নাখোৰক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "জীয়াই ৰ'ল"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "শ্বেৰুগে"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্ৰিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নাখোৰক"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "নাখোৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:29:26.164735062Z",
+  "model": "glm-5.3"
+}

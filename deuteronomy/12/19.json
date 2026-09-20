@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "নিজৰ বাবে সাৱধান হ'বা, যেন তুমি ⟨את⟩ লেৱীক নেৰাই নিদিবা — তোমাৰ সকলো দিন তোমাৰ মাটিত।",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "সাৱধান হ'বা"
+    },
+    {
+      "surface": "לך",
+      "gloss": "নিজৰ বাবে"
+    },
+    {
+      "surface": "פן",
+      "gloss": "যেন নহয়"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "নেৰাই নিদিবা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "লেৱীক"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "লেৱী"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "তোমাৰ দিন"
+    },
+    {
+      "surface": "על",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "তোমাৰ মাটিত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:56:48.549063326Z",
+  "model": "glm-5.3"
+}

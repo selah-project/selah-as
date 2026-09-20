@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু তেওঁ জীৱন্ত পানীৰ ওপৰত মাটিৰ পাত্ৰত ⟨the⟩ এটা চৰাই ⟨את⟩ ⟨the⟩ চৰাটোৰ এটাক জাহ কৰিব।",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "আৰু জাহ কৰিব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চৰাই"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "চৰাটো"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "পাত্ৰ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "মাটিৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱন্ত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:34.218864217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "ঘৰ নিৰ্মাণ কৰা আৰু বাস কৰা; উদ্যান ৰোপণ কৰা আৰু ⟨את⟩ সিহঁতৰ ফল খাওঁক।",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "নিৰ্মাণ কৰা"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "আৰু বাস কৰা"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "আৰু ৰোপণ কৰা"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "উদ্যান"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "আৰু খাওঁক"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সিহঁতৰ ফল"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "সিহঁতৰ ফল"
+    }
+  ],
+  "timestamp": "2026-09-20T01:13:28.839733882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 108,
+  "translation": "আমাক সংকটৰ পৰা সহায় দিয়ক, কিয়নো মানুহৰ উদ্ধাৰ বৃথা।",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "দিয়ক"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাক"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "সহায়"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "সংকটৰ পৰা"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "কিয়নো বৃথা"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "উদ্ধাৰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:01:37.892303248Z",
+  "model": "glm-5.3"
+}

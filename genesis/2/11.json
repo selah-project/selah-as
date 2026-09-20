@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "প্ৰথম নদীৰ নাম পিশ্বোন; সেইটোৱেই ⟨את⟩ হাৱিলাৰ সমগ্ৰ দেশ পৰিবেষ্টন কৰে — য'ত সোণ আছে।",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "প্ৰথম"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "পিশ্বোন"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেইটোৱেই"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "পৰিবেষ্টন কৰে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সমগ্ৰ দেশ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "হাৱিলাৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "সোণ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:25:57.935336118Z",
+  "model": "glm-5.3"
+}

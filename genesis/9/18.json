@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু নোৱাৰ পুতেকসকল — কিষ্টৰ পৰা ওলাই অহাসকল — শ্বেম, হাম আৰু য়াফেত; আৰু হাম ⟨হৈছে⟩ কনানৰ দেউতা।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোৱাৰ"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ওলাই অহাসকল"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "কিষ্ট"
+    },
+    {
+      "surface": "שם",
+      "gloss": "শ্বেম"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "হাম"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "য়াফেত"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "হাম"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "দেউতা"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনান"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:56.537719312Z",
+  "model": "glm-5.3"
+}

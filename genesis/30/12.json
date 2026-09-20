@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "আৰু লেয়াৰ দাসী জিল্পাই য়াকোভৰ দ্বিতীয় পুতেক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "আৰু জন্ম দিলে"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "জিল্পাই"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "দাসী"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লেয়াৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "שני",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "য়াকোৱৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:38:51.427768829Z",
+  "model": "glm-5.3"
+}

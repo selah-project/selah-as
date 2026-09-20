@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "শুনা আৰু কাণ পাতি দিয়া; উদ্ধত নহ'বা, কিয়নো ইয়াহৱেহে কথা পাতিছে।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "কাণ পাতি দিয়া"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নহ'বা"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "উদ্ধত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা পাতিছে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:05:22.638696343Z",
+  "model": "glm-5.3"
+}

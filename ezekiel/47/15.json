@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 47,
+  "translation": "আৰু এই ⟨হৈছে⟩ দেশখনৰ সীমা: উত্তৰ দিশত — মহাসাগৰৰ পৰা, হেথলনৰ পথেদি, চেদাদত প্ৰৱেশ কৰাৰ ঠাইলৈ।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "আৰু এই"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমা"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশখনৰ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "দিশত"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "উত্তৰ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সাগৰ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "মহা"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "পথেদি"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "হেথলন"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "প্ৰৱেশ কৰাৰ"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "চেদাদ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:58:43.310723870Z",
+  "model": "glm-5.3"
+}

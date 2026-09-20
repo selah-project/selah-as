@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "তেওঁ তাক শ্বিব্আহ নাম দিলে; সেয়ে নগৰটোৰ নাম বেএৰ-শ্বেবা, আজিৰ দিনলৈকে।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "নাম দিলে"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "শ্বিব্আহ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "শ্বিব্আহ"
+    },
+    {
+      "surface": "על",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগৰটোৰ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "বেএৰ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "শ্বেবা"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিনলৈকে"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-19T21:37:44.696005267Z",
+  "model": "glm-5.3"
+}

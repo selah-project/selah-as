@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "বেইত-এল আৰু হা-আইৰ মানুহসকল — দুশ বিশ তিনিজন।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহসকল"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-এল"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "আৰু হা-আই"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুশ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "আৰু তিনিজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:15.498042808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 84,
+  "translation": "ইয়াহৱেহ চেভাওত, কিমান প্ৰিয় ⟨সেই⟩ তোমাৰ আবাসসমূহ!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কিমান"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "প্ৰיׯ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "তোমাৰ আবাসসমূহ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াהৱেহ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "চেভাওত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:55:54.800576125Z",
+  "model": "glm-5.3"
+}

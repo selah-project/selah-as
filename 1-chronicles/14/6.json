@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু নোগাহ, আৰু নেফেগ, আৰু য়াফিয়া।",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "আৰু নোগাহ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "আৰু নেফেগ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "আৰু য়াফিয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:39.698207680Z",
+  "model": "glm-5.3"
+}

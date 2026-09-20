@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "মোশ্বেই ইয়াহৱেহৰ ওচৰত কথা পাতিলে, কৈ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ ওচৰত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:03:01.174866889Z",
+  "model": "glm-5.3"
+}

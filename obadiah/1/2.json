@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "চাওক, মই তোমাক জাতিসমূহৰ মাজত সৰু কৰিলোঁ; তুমি ⟨কৰি> অতি অৱজ্ঞিত ⟨হ'লা⟩।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "সৰু"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "মই তোমাক কৰিলোঁ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "জাতিসমূহৰ মাজত"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "অৱজ্ঞিত"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    }
+  ],
+  "timestamp": "2026-09-20T02:12:10.743740128Z",
+  "model": "glm-5.3"
+}

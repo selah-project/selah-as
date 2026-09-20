@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "ধাৰ্মিকতাৰ পথত জীৱন ⟨আছে⟩, আৰু তাৰ নীড়-পথত মৃত্যু ⟨নাই⟩।",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "পথত"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ধাৰ্মিকতাৰ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱন"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "আৰু পথত"
+    },
+    {
+      "surface": "נתি঑ה",
+      "gloss": "নীড়-পথত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨নাই⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যু"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:11.135393250Z",
+  "model": "glm-5.3"
+}

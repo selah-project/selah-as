@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "ইয়াহৱেহে তোমাক আশীৰ্বাদ কৰক আৰু তোমাক ৰক্ষা কৰক।",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "আশীৰ্বাদ কৰক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "আৰু ৰক্ষা কৰক"
+    }
+  ],
+  "timestamp": "2026-09-20T05:01:43.002857873Z",
+  "model": "glm-5.3"
+}

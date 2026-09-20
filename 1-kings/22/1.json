@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "তেওঁলোকে তিনি বছৰ ৰ'ল — আৰাম আৰু য়িচৰাএলৰ মাজত যুদ্ধ ⟨নাছিল⟩।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ৰ'ল"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "আৰাম"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "আৰু মাজত"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িচৰাএলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:18:12.507126891Z",
+  "model": "glm-5.3"
+}

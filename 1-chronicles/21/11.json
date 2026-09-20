@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "গাদ দাৱিদৰ ওচৰলৈ আহিল আৰু তেওঁক ক'লে: ইয়াহৱেহে এইদৰে কৈছে — ⟨সেইবোৰৰ পৰা⟩ এটা গ্ৰহণ কৰা,",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ৰ ওচৰলৈ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "গ্ৰহণ কৰা"
+    },
+    {
+      "surface": "לך",
+      "gloss": "নিজৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T04:34:44.493667824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "যি হৈ আছিল সি দূৰ, আৰু গভীৰ, গভীৰ — কোনে সেয়া বিচাৰি পাব?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "দূৰ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "যি"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "হৈ আছিল"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "আৰু গভীৰ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "গভীৰ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "বিচাৰি পাব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:24.483782832Z",
+  "model": "glm-5.3"
+}

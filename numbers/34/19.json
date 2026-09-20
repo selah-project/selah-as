@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "আৰু এইসকল মানুহৰ নাম: য়েহুদা গোষ্ঠীৰ — য়েফুন্নেহৰ পুতেক কালেভ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আৰু এইসকল"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "গোষ্ঠীৰ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "য়েহুদা"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "কালেভ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "য়েফুন্নেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:47:54.001743156Z",
+  "model": "glm-5.3"
+}

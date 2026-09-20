@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "সেয়েহে হে বেশ্যা, ইয়াহৱেহৰ বাক্য শুনা।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "সেয়েহে"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "হে বেশ্যা"
+    },
+    {
+      "surface": "শмעי שמעי",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:38:30.722760490Z",
+  "model": "glm-5.3"
+}

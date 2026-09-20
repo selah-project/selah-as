@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁ মোৰ বিপৰীতে নিৰ্মাণ কৰিলে আৰু মোক বিষ আৰু কষ্টেৰে বেৰি ধৰিলে।",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "নিৰ্মাণ কৰিলে"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মোৰ বিপৰীতে"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "বেৰি ধৰিলে"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "বিষ"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "আৰু কষ্ট"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:54.221741521Z",
+  "model": "glm-5.3"
+}

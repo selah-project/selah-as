@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "“কোনেই সৰল? সি ইয়ালৈ ওলোকাই আহক”; হৃদয়ৰ অভাৱী জনক সেই কয়,",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোনেই"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "সৰল"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ওলোকাই আহক"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ইয়ালৈ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "অভাৱী"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ৰ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "কয়"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:04.637326028Z",
+  "model": "glm-5.3"
+}

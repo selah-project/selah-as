@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আজাৰ্যাহে ⟨את⟩ হেলেৎক জন্ম দিলে, আৰু হেলেৎে ⟨את⟩ এল'আচাক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "আজাৰ্যাহে"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "হেলেৎক"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "হেলেৎ"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "হেলেৎে"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এল'আচাক"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "এল'আচা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:20.390909649Z",
+  "model": "glm-5.3"
+}

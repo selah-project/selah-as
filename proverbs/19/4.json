@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "ধনে বহুত বন্ধু বঢ়ায়, কিন্তু দুখীয়া তাৰ বন্ধুৰ পৰা বিচ্ছিন্ন হয়।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ধনে"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "বঢ়ায়"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "বন্ধু"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহুত"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "কিন্তু দুখীয়া"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "তাৰ বন্ধুৰ পৰা"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "বিচ্ছিন্ন হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:19.331824682Z",
+  "model": "glm-5.3"
+}

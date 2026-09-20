@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "ধাৰ্মিকতাৰ পথত মই খোজ কাঢ়োঁ, ন্যায়ৰ পথসমূহৰ মাজত।",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "পথত"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ধাৰ্মিকতাৰ"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "মই খোজ কাঢ়োঁ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "נתি঑ות",
+      "gloss": "পথসমূহৰ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ন্যায়ৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:53.792921564Z",
+  "model": "glm-5.3"
+}

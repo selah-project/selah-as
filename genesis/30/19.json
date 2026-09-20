@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "লেয়াহে পুনৰ গৰ্ভৱতী হ'ল আৰু ইয়াকোভৰ বাবে ষষ্ঠ পুতেক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "গৰ্ভৱতী হ'ল"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "পুনৰ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লেয়াহে"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ষষ্ঠ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ইয়াকোভৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T21:40:09.835975425Z",
+  "model": "glm-5.3"
+}

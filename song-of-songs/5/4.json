@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "মোৰ প্ৰিয়জনে খোলাটোৰ মাজৰ পৰা নিজৰ হাত সোমালে, আৰু মোৰ অন্তৰ তাৰ বাবে কঁপি উঠিল।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "মোৰ প্ৰিয়জনে"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "সোমালে"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "নিজৰ হাত"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "החר",
+      "gloss": "খোলাটোৰ"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "আৰু মোৰ অন্তৰ"
+    },
+    {
+      "surface": "המו",
+      "gloss": "কঁপি উঠিল"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তাৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:53.093128099Z",
+  "model": "glm-5.3"
+}

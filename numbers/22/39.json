@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "বিল্‌আম বালাকৰ লগত গ'ল, আৰু তেওঁলোক কিৰ্য়ত-হুচোথলৈ আহিল।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "বিল্‌আম"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "বালাকৰ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "কিৰ্য়ত"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "হুচোথ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:41:20.137374359Z",
+  "model": "glm-5.3"
+}

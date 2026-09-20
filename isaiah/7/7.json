@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আদোনাই ইয়াহৱেহে এই কথা কৈছে: “সি দাঙি নুঠিব, আৰু হৈ নুঠিব।”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "দাঙি নুঠিব"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হৈ নুঠিব"
+    }
+  ],
+  "timestamp": "2026-09-20T00:33:55.185900503Z",
+  "model": "glm-5.3"
+}

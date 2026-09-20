@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "অসৎৰ দূত বিপদত পৰে; কিন্তু বিশ্বস্ত দূত ⟨হয়⟩ আৰোগ্য।",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "দূত"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "অসৎৰ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "পৰে"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "বিপদত"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "কিন্তু দূত"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "বিশ্বস্ত"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "আৰোগ্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:18:49.543807459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰোদৰ — আৰোদীয়া কুল; আৰেলীৰ — আৰেলীয়া কুল।",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "আৰোদৰ"
+    },
+    {
+      "surface": "মשפחת",
+      "gloss": "কুল"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "আৰোদীয়া"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "আৰেলীৰ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "কুল"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "আৰেলীয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T22:41:39.608154720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 14:15",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু তেনেদৰে হ'ব ⟨the⟩ ঘোঁৰা, ⟨the⟩ খচ্চৰ, ⟨the⟩ উট আৰু ⟨the⟩ গধূৰৰ মাৰি, আৰু সেই শিবিৰবোৰত থকা সকলো পশুৰ — এই মাৰিৰ দৰে।",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "আৰু তেনেদৰে"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "מגפת",
+      "gloss": "মাৰি"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ঘোঁৰা"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "খচ্চৰ"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "উট"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "গধূৰ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "পশুৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থকা"
+    },
+    {
+      "surface": "במחנות",
+      "gloss": "শিবিৰবোৰত"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "כמגפה",
+      "gloss": "মাৰিৰ দৰে"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-20T02:25:59.997261100Z",
+  "model": "glm-5.3"
+}

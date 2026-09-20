@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 51,
+  "translation": "কিয়নো মোৰ পাপসমূহ মই জানোঁ, আৰু মোৰ পাপ সদায় মোৰ সন্মুখত থাকে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "মোৰ পাপসমূহ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "জানোঁ"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "আৰু মোৰ পাপ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "মোৰ সন্মুখত"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "সদায়"
+    }
+  ],
+  "timestamp": "2026-09-20T02:43:46.753074401Z",
+  "model": "glm-5.3"
+}

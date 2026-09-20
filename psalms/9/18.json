@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "দুষ্টসকল শ্বেওললৈ ঘূৰি যাব, এলোহিমক পাহৰা সকলো জাতি ⟨ক⟩।",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ঘূৰি যাব"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকল"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "শ্বেওললৈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "পাহৰা"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমক"
+    }
+  ],
+  "timestamp": "2026-09-20T02:31:34.345609380Z",
+  "model": "glm-5.3"
+}

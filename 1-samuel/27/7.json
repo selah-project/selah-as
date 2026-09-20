@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 27:7",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "দাৱিদে পলিশ্তীসকলৰ মেঠনত বাস কৰা দিনবোৰৰ সংখ্যা ⟨was⟩ দিন আৰু চাৰিমহীয়া।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "সংখ্যা"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "দিনবোৰৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…যি"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "বাস কৰা"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "বשדה",
+      "gloss": "…ত মেঠন"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "পলিশ্তীসকলৰ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "আৰু চাৰি"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "মহীয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T23:46:34.062542433Z",
+  "model": "glm-5.3"
+}

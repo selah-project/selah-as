@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "এইবোৰ দিশানৰ সন্তানসকল: উৎচ আৰু আৰান।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "দিশানৰ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "উৎচ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "আৰু আৰান"
+    }
+  ],
+  "timestamp": "2026-09-19T21:42:46.987553530Z",
+  "model": "glm-5.3"
+}

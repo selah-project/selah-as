@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 5:1",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "ইয়াহৱেহে মোশ্বেলৈ কথা পাতিলে ⟨কৈ⟩।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T22:31:49.231445300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "তেনে নহয় মোৰ দাস মোশ্বে; মোৰ সমগ্ৰ গৃহত তেওঁ ⟨এজন⟩ বিশ্বস্ত।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেনে"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "মোৰ দাস"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সমগ্ৰ…ত"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "মোৰ গৃহ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "বিশ্বস্ত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:35:28.479465473Z",
+  "model": "glm-5.3"
+}

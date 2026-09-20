@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 89,
+  "translation": "যাৰ লগত মোৰ হাত ⟨থাকিব⟩; আকৌ মোৰ বাহুৱে তেওঁক দৃঢ় কৰিব।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যাৰ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "মোৰ হাত"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "স্থিৰ থাকিব"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "তেওঁৰ লগত"
+    },
+    {
+      "surface": "אף",
+      "gloss": "আকৌ"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "মোৰ বাহুৱে"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "তেওঁক দৃঢ় কৰিব"
+    }
+  ],
+  "timestamp": "2026-09-20T05:22:53.532108320Z",
+  "model": "glm-5.3"
+}

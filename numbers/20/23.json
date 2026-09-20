@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "ইয়াহৱেহে হোৰ পৰ্বতত — এদোম দেশৰ সীমাত — মোশ্বে আৰু আহৰোনক ক'লে, এই কথা কৈ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ক"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহৰোনক"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "পৰ্বতত"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "হোৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ ওপৰত"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমাত"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশৰ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই কথা কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:38:43.854119957Z",
+  "model": "glm-5.3"
+}

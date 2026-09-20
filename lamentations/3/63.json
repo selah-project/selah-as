@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁলোকৰ বহা আৰু তেওঁলোকৰ উঠা — চাওক; মই তেওঁলোকৰ বিদ্ৰূপ-গীত ⟨আছোঁ⟩।",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "তেওঁলোকৰ বহা"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "আৰু তেওঁলোকৰ উঠা"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "তেওঁলোকৰ বিদ্ৰূপ-গীত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:22.469152294Z",
+  "model": "glm-5.3"
+}

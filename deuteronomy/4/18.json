@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "মাটিত কঁহি ফুৰা যিকোনো জীৱৰ প্ৰতিমূৰ্তি, পৃথিৱীৰ তলত পানীত থকা যিকোনো মাছৰ প্ৰতিমূৰ্তি —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "প্ৰতিমূৰ্তি"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "কঁহি ফুৰা জীৱ"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "মাটিত"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "প্ৰতিমূৰ্তি"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "মাছ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "במים",
+      "gloss": "পানীত"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "পৃথিৱীৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:52:49.477814738Z",
+  "model": "glm-5.3"
+}

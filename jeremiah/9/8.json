@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "এইসকলৰ বাবে মই সিহঁতক দেখা নকৰোঁনে? ইয়াহৱেহৰ বাণী; এনে জাতিৰ ওপৰত মোৰ প্ৰাণে প্ৰতিশোধ নল'বনে?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "...ৰ বাবে কি"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইসকল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "দেখা কৰোঁনে"
+    },
+    {
+      "surface": "בם",
+      "gloss": "সিহঁতক"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "বাণী"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "জাতিৰ ওপৰত"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "এনে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "প্ৰতিশোধ ল'বনে"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "মোৰ প্ৰাণে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:02:58.610951250Z",
+  "model": "glm-5.3"
+}

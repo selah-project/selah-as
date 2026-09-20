@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "ইয়াহৱেহে দুষ্টসকলৰ লাখুটি, শাসকসকলৰ ৰাজদণ্ড ভাঙিলে।",
+  "tokens": [
+    {
+      "surface": "שָׁבַר",
+      "gloss": "ভাঙিলে"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "লাখুটি"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ৰাজদণ্ড"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "শাসকসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:37:02.768575848Z",
+  "model": "glm-5.3"
+}

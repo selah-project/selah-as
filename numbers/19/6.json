@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 19:6",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু পুৰোহিতে দেৱদাৰু কাঠ, যোপা আৰু ৰঙা কৃমি-সূতা লৈ গাইটো জ্বলোতে জুইৰ মাজত পেলাব।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতে"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "কাঠ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "দেৱদাৰু"
+    },
+    {
+      "surface": "ואזוב",
+      "gloss": "যোপা"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ৰঙা"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "কৃমি-সূতা"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "পেলাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ত"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "মাজত"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "জ্বলোতে"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "গাই"
+    }
+  ],
+  "timestamp": "2026-09-19T22:39:26.727851098Z",
+  "model": "glm-5.3"
+}

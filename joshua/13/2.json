@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "এইটোৱেই ⟨the⟩ দেশ যি ৰৈ আছে: পলিশ্তীসকলৰ সকলো অঞ্চল আৰু সকলো গেশ্বুৰী।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এইটোৱেই"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ দেশ"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "যি ৰৈ আছে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "অঞ্চল"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "পলিশ্তীসকলৰ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "গেশ্বুৰী"
+    }
+  ],
+  "timestamp": "2026-09-19T23:13:13.041274048Z",
+  "model": "glm-5.3"
+}

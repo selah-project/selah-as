@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "নিম্নভূমিত ⟨আছিল⟩ এশ্তাওল, চৰ'আহ আৰু আশ্বনাহ।",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "নিম্নভূমিত"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "এশ্তাওল"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "আৰু চৰ'আহ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "আৰু আশ্বনাহ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:56.474678746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 36,
+  "translation": "আৰু লোতানৰ পুতেকসকল হ'ল হোৰি আৰু হেমাম; আৰু লোতানৰ ভনী তিমনা।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "লোতানৰ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "হোৰি"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "আৰু হেমাম"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "আৰু ভনী"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "লোতানৰ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "তিমনা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:48.061083272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "“তোমালোকৰ বাবে যথেষ্ট হ'ল — তোমালোকে ⟨את⟩ এই পৰ্বত প্ৰদক্ষিণ কৰা; তোমালোকে নিজৰ বাবে উত্তৰ ফালে ঘূৰা।",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "যথেষ্ট"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকৰ বাবে"
+    },
+    {
+      "surface": "סב",
+      "gloss": "প্ৰদক্ষিণ কৰা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই পৰ্বত"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "পৰ্বত"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ঘূৰা"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "নিজৰ বাবে"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "উত্তৰ ফালে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:50:04.915083327Z",
+  "model": "glm-5.3"
+}

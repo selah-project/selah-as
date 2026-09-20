@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোৰ ওচৰলৈ আহিল, ⟨কৈ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু ... আহিল হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-20T01:33:51.533201969Z",
+  "model": "glm-5.3"
+}

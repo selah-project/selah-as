@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "ৰজাই তেওঁক ক'লে, “শান্তিৰে যোৱা।” তেওঁ উঠি খেভ্ৰোনলৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "לך",
+      "gloss": "যোৱা"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "শান্তিৰে"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "উঠিলে"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "খেভ্ৰোনলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:54:36.467589239Z",
+  "model": "glm-5.3"
+}

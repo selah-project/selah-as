@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ভাল এয়া যে তুমি এইটো ধৰি ৰাখা, আৰু সেইটোৰ পৰাও ⟨את⟩ তোমাৰ হাত নেৰিবা; কিয়নো এলোহিমক ভয় কৰাজনে ⟨את⟩ সকলোৰে পৰা ওলাই আহিব।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ধৰি ৰাখা"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "এইটোত"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "আৰুো"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "সেইটোৰ পৰা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নেৰিবা"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "এৰি দিবা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তোমাৰ হাত"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "তোমাৰ হাত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ভয় কৰাজন"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমক"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ওলাই আহিব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "সকলোৰে পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:07.365957838Z",
+  "model": "glm-5.3"
+}

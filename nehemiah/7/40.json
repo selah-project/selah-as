@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ইম্মেৰৰ পুত্ৰসকল — এহেজাৰ, পঞ্চাশ আৰু দুজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ইম্মেৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:09.859555295Z",
+  "model": "glm-5.3"
+}

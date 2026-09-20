@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "তুমি ভিতৰলৈ অহাত ধন্য, আৰু তুমি বাহিৰলৈ ওলাওঁতে ধন্য।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ভিতৰলৈ অহাত"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "আৰু ধন্য"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "বাহিৰলৈ ওলাওঁতে"
+    }
+  ],
+  "timestamp": "2026-09-20T05:05:29.766735464Z",
+  "model": "glm-5.3"
+}

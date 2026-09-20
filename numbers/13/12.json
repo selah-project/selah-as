@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "দানৰ শাখাৰ পৰা আম্মিএল, গমল্লিৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "শাখাৰ পৰা"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "আম্মিএল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "গমল্লি"
+    }
+  ],
+  "timestamp": "2026-09-19T22:34:13.103583693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু মাংসত, যেতিয়া তাৰ ছালত এটা ফোঁহা হয় আৰু সি আৰোগ্য হয়,",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "আৰু মাংসত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হয়"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাৰ ভিতৰত"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "তাৰ ছালত"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ফোঁহা"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "আৰু আৰোগ্য হয়"
+    }
+  ],
+  "timestamp": "2026-09-19T22:20:14.831972819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "ইয়াহৱেহে চিনাই মৰুভূমিত মোশ্বেৰ ওচৰত কথা পাতিলে, এইদৰে কৈ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ ওচৰত"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "মৰুভূমিত"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "চিনাই"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এইদৰে কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:29:38.173007039Z",
+  "model": "glm-5.3"
+}

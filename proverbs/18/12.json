@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "ভাঙোনাৰ আগত মানুহৰ হৃদয় অহংকাৰী হয়, আৰু মহিমাৰ আগত ⟨আহে⟩ বিনয়।",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ভাঙোনাৰ"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "অহংকাৰী হয়"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "আৰু আগত"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "মহিমাৰ"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "বিনয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:29.851475250Z",
+  "model": "glm-5.3"
+}

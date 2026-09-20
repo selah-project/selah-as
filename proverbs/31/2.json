@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "কি, মোৰ পুতেক? আৰু কি, মোৰ গৰ্ভৰ পুতেক? আৰু কি, মোৰ প্ৰতিজ্ঞাসমূহৰ পুতেক?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "মোৰ পুতেক"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "আৰু কি"
+    },
+    {
+      "surface": "בר",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "মোৰ গৰ্ভৰ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "আৰু কি"
+    },
+    {
+      "surface": "בר",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "মোৰ প্ৰতিজ্ঞাসমূহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:29:16.498878050Z",
+  "model": "glm-5.3"
+}

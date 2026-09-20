@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "গাদৰ; এলয়াচাফ, দেউএলৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "গাদৰ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "এলয়াচাফ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "দেউএলৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:19.210448952Z",
+  "model": "glm-5.3"
+}

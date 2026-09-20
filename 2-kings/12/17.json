@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "দোষৰ ধন আৰু পাপৰ ধন ইয়াহৱেহৰ ঘৰত ভৰোৱা নহ'ল; সেই ⟨এ⟩ পুৰোহিতসকলৰ হ'ব।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ধন"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "দোষৰ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "আৰু ধন"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "পাপৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহ'ল"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "ভৰোৱা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "পুৰোহিতসকলৰ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-20T00:24:02.752272343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "তেৰাহৰ দিনবোৰ হ'ল দুশ পাঁচ বছৰ; আৰু তেৰাহৰ মৃত্যু হ'ল হাৰানত।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনবোৰ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "তেৰাহৰ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "আৰু দুশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "মৃত্যু হ'ল"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "তেৰাহৰ"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "হাৰানত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:30:43.680597752Z",
+  "model": "glm-5.3"
+}

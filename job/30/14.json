@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 30:14",
+  "book": "job",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "বহল ফাটৰ দৰে সিহঁত আহে; ধ্বংসৰ তলত ⟨মোৰ ওপৰত⟩ গড়ি যায়।",
+  "tokens": [
+    {
+      "surface": "כפרץ",
+      "gloss": "ফাটৰ দৰে"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "বহল"
+    },
+    {
+      "surface": "יאתיו",
+      "gloss": "আহে"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলত"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "ধ্বংস"
+    },
+    {
+      "surface": "התגלגלו",
+      "gloss": "গড়ি যায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:41:22.523866152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "সকলো কথাই ক্লান্তিকৰ; মানুহে ⟨সেইবোৰ⟩ ক'ব নোৱাৰে; চকুৱে চাই তৃপ্ত নহয়, আৰু কাণে শুনি পূৰ্ণ নহয়।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথাই"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ক্লান্তিকৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নোৱাৰে"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "সক্ষম"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহে"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ক'ব"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "তৃপ্ত"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চকুৱে"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "চাই"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "পূৰ্ণ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "কাণে"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "শুনি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:21.349352293Z",
+  "model": "glm-5.3"
+}

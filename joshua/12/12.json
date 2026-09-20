@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "এগলোনৰ ৰজা এজন; গেজেৰৰ ৰজা এজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "এগলোনৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "গেজেৰৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T23:12:20.981246176Z",
+  "model": "glm-5.3"
+}

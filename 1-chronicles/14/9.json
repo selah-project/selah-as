@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "পলিশ্তীসকল আহিল আৰু ৰেফাইম উপত্যকাত ⟨সিঁচৰতিকৈ⟩ বিয়পি পৰিল।",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "পলিশ্তীসকল"
+    },
+    {
+      "surface": "באו",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "বিয়পি পৰিল"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "উপত্যকাত"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ৰেফাইম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:21.306719694Z",
+  "model": "glm-5.3"
+}

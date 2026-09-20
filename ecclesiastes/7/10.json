@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "নকবা, “পূৰ্বৰ দিনবোৰ এইবোৰতকৈ ভাল কিয় আছিল?” কিয়নো এই বিষয়ে সোধাটো জ্ঞানৰ পৰা নহয়।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নকবা"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ক'বা"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "যে দিনবোৰ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "পূৰ্বৰ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "এইবোৰতকৈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "জ্ঞানৰ পৰা"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "সোধাটো"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিষয়ে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:18.905851278Z",
+  "model": "glm-5.3"
+}

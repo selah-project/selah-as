@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "মই কিমান ⟨ভাল পাওঁ⟩ তোমাৰ তোৰা! গোটেই দিনটো ⟨সি⟩ মোৰ ধ্যান।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কিমান"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ভাল পাওঁ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "তোমাৰ তোৰা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "গোটেই"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিনটো"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "মোৰ ধ্যান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:06:07.296263372Z",
+  "model": "glm-5.3"
+}

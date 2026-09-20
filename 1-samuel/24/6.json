@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "সেই কথাৰ পাছত দাৱিদৰ হৃদয়ে তেওঁক খোচিলে, কিয়নো তেওঁ শ্বাউলৰ জামাৰ ⟨את⟩ কাষৰ অংশ কাটিছিল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পাছত"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেই কথাৰ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "খোচিলে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "তেওঁক"
+    },
+    {
+      "surface": "על",
+      "gloss": "কাৰণ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "কাটিছিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কাষৰ অংশ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "কাষৰ অংশ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "শ্বাউলৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:43:36.849875605Z",
+  "model": "glm-5.3"
+}

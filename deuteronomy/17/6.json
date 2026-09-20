@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "দুজন সাক্ষীৰ মুখেৰে বা তিনিজন সাক্ষীৰ মুখেৰে মৰণৰ যোগ্য জনক মাৰিব; এজন সাক্ষীৰ মুখেৰে মাৰিব নালাগে।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ৰ ওপৰত\/ৰ ভিত্তিত"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখেৰে"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুজন"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "সাক্ষী"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিনিজন"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "সাক্ষী"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "মাৰিব"
+    },
+    {
+      "surface": "המת",
+      "gloss": "মৰণৰ যোগ্য জনক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নালাগে"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "মাৰিব"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ ভিত্তিত"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখেৰে"
+    },
+    {
+      "surface": "עד",
+      "gloss": "সাক্ষী"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজন"
+    }
+  ],
+  "timestamp": "2026-09-19T22:58:51.675876782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "তাৰ পাছত আভ্ৰাহামে দেশৰ লোকসকলৰ আগত প্ৰণিপাত কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "প্ৰণিপাত কৰিলে"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্ৰাহামে"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "আগত"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লোকসকলৰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:35:09.975726663Z",
+  "model": "glm-5.3"
+}

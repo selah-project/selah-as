@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "আৰু প্ৰচুৰতাৰ সাতোতা বছৰত দেশে মুঠিৰ মুঠি ধান উৎপন্ন কৰিলে।",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "উৎপন্ন কৰিলে"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "সাতোতা…ত"
+    },
+    {
+      "surface": "שני",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "প্ৰচুৰতাৰ"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "মুঠিৰ মুঠি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:47:42.092931364Z",
+  "model": "glm-5.3"
+}

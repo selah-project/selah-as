@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "মোৰ পৰামৰ্শ আৰু ⟨মোৰ⟩ দৃঢ় প্ৰজ্ঞা; মই ⟨এয়া⟩ বোধ, মোৰ ⟨আছে⟩ শক্তি।",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "পৰামর্মশ"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "আৰু দৃঢ় প্ৰজ্ঞা"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোধ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "শক্তি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:22.590357774Z",
+  "model": "glm-5.3"
+}

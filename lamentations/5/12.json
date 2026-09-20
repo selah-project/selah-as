@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "নৃপতিসকলক তেওঁলোকৰ হাতে ওলমাই থোৱা হ'ল; বৃদ্ধসকলৰ মুখৰ সন্মান কৰা নহ'ল।",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "নৃপতিসকলক"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "তেওঁলোকৰ হাতে"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "ওলমাই থোৱা হ'ল"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখৰ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "বৃদ্ধসকলৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "সন্মান কৰা নহ'ল"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:43.834435498Z",
+  "model": "glm-5.3"
+}

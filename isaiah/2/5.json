@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "হে য়াকোভৰ ঘৰ, আহা, আৰু আমি ইয়াহৱেহৰ পোহৰত খোজ কাঢ়োঁ।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভৰ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "আহা"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "আৰু আমি খোজ কাঢ়োঁ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "পোহৰত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:14:10.542314129Z",
+  "model": "glm-5.3"
+}

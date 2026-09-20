@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বেইত-এল আৰু আইৰ মানুহ — এশ বিশ তিনি জন।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "আৰু আই"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "আৰু তিনি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:10.450363804Z",
+  "model": "glm-5.3"
+}

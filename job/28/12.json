@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "কিন্তু জ্ঞান ক'ৰ পৰা পোৱা যাব? আৰু বোধৰ ঠাই সেইটো ক'ত?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "কিন্তু জ্ঞান"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ক'ৰ পৰা"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "পোৱা যাব"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "আৰু ক'ত"
+    },
+    {
+      "surface": "זה",
+      "gloss": "সেইটো"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ঠাই"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোধৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:39:15.135415863Z",
+  "model": "glm-5.3"
+}

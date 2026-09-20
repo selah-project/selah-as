@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "আৰু এই ঘটনাৰ পাছত য়োৱাশৰ মনত উঠিল ইয়াহৱেহৰ ⟨את⟩ ঘৰ ⟨অৱস্থা⟩ নতুন কৰাৰ ইচ্ছা।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু ঘটিল"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পাছত"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এই"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "মনত"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "য়োৱাশৰ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "নতুন কৰাৰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াহৱেহৰ ঘৰ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:48:12.587164185Z",
+  "model": "glm-5.3"
+}

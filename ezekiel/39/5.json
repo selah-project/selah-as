@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 39,
+  "translation": "মৈদানৰ মুখত তুমি পৰিবা; কিয়নো মই ⟨কথা পাতিছোঁ⟩, আদোনাই ইয়াহৱেহৰ ঘোষণা।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "প্ৰতি"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখত"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "মৈদানৰ"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "তুমি পৰিবা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "কথা পাতিছোঁ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ঘোষণা"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:53:04.165963354Z",
+  "model": "glm-5.3"
+}

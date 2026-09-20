@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "মখলীৰ ⟨পৰা⟩ এলাজাৰ; আৰু তেওঁৰ পুতেক নাছিল।",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "মখলীৰ পৰা"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "এলাজাৰ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নাছিল"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨আছিল⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:48.151555306Z",
+  "model": "glm-5.3"
+}

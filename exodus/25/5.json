@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "আৰু ৰঙা কৰা মেৰ-ছাল, আৰু তখচ-ছাল, আৰু শ্বিত্তিম কাঠ।",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "আৰু ছাল"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "মেৰ-ছালৰ (ভেড়া)"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ৰঙা কৰা"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "আৰু ছাল"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "তখচ"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "আৰু কাঠ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "শ্বিত্তিম"
+    }
+  ],
+  "timestamp": "2026-09-20T05:01:01.844162827Z",
+  "model": "glm-5.3"
+}

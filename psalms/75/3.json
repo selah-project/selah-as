@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 75,
+  "translation": "যেতিয়া মই নিৰ্ধাৰিত সময় লওঁ, মই নিজেই সৰলতাৰে বিচাৰ কৰোঁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "মই লওঁ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "নিৰ্ধাৰিত সময়"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই নিজেই"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "সৰলতাৰে"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "বিচাৰ কৰোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:51:27.049441844Z",
+  "model": "glm-5.3"
+}

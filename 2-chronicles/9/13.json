@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু শ্বেলোমোৰ ওচৰলৈ এটা বছৰত অহা সোণৰ ওজন আছিল ছশা ষাঠি ছটা সোণৰ কিক্কৰ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ওজন"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহিছিল"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "শ্বেলোমোৰ ওচৰলৈ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "বছৰত"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "আৰু ষাঠি"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "আৰু ছ"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "কিক্কৰ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:42:20.279199197Z",
+  "model": "glm-5.3"
+}

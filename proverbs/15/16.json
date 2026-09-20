@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "ইয়াহৱেহৰ ভয়ৰ সৈতে অলপ ⟨থকাটো⟩ বহু ভঁৰাল আৰু তাৰ লগত বিশৃংখলতাকৈ উত্তম।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ভয়ৰ সৈতে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "ভঁৰাল-ক"
+    },
+    {
+      "surface": "רב",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "আৰু বিশৃংখলতা"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:16.750238148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "বা ভঙা ভৰি থকা মানুহ, বা ভঙা হাত থকা।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তেওঁৰ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ভঙা"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ভৰি"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ভঙা"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:23:36.482369749Z",
+  "model": "glm-5.3"
+}

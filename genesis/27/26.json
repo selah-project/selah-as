@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "আৰু তেওঁৰ পিতৃ ইৎচহাকে তেওঁক ক'লে, “মোৰ পুতেক, এতিয়া ⟨please⟩ ওচৰ আহা আৰু মোক চুমা দিয়া।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ইৎচহাকে"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "তেওঁৰ পিতৃ"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "ওচৰ আহা"
+    },
+    {
+      "surface": "נא",
+      "gloss": "অনুগ্ৰহ কৰি"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "আৰু চুমা দিয়া"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "בני",
+      "gloss": "মোৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-19T21:40:17.700294800Z",
+  "model": "glm-5.3"
+}

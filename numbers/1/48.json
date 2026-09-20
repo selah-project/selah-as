@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "কিয়নো ইয়াহৱেহে মোশ্বেৰ সৈতে কথা পাতিছিল, কৈছিল ⟨এনেদৰে⟩ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিছিল"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈছিল"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:19.784353577Z",
+  "model": "glm-5.3"
+}

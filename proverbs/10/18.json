@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মিছা ওঁঠেৰে ঘৃণা ঢাকি ৰখাজন, আৰু নিন্দা ওলিয়াই দিয়াজন — ⟨সি⟩ নিৰ্বোধ।",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "ঢাকি ৰখাজন"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ঘৃণা"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিছা"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "আৰু ওলিয়াই দিয়াজন"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "নিন্দা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সি⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "নিৰ্বোধ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:50.359222411Z",
+  "model": "glm-5.3"
+}

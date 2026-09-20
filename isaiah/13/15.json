@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "যি ধৰা পৰে সি ছেদা হ'ব, আৰু যি ⟨লগ লাগে⟩ সি তৰোৱালেৰে পৰিব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ধৰা পৰা"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "ছেদা হ'ব"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "লগ লগোৱা"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "পৰিব"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "তৰোৱালেৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T00:36:29.182414735Z",
+  "model": "glm-5.3"
+}

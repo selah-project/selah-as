@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "আৰু ইৰা য়াইৰীয়াও দাৱিদৰ ⟨বাবে⟩ পুৰোহিত আছিল।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "আৰু …ও"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ইৰা"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "য়াইৰীয়া"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "পুৰোহিত"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ ⟨বাবে⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T23:57:26.092392298Z",
+  "model": "glm-5.3"
+}

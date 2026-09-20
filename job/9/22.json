@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "একেই কথা; সেয়ে মই ক'লোঁ — নিষ্পাপক আৰু দুষ্টক ⟨তেওঁ⟩ নিধন কৰে।",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "על",
+      "gloss": "সেই কাৰণে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "মই ক'লোঁ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "নিষ্পাপক"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "আৰু দুষ্টক"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "নিধন কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:32:50.454992701Z",
+  "model": "glm-5.3"
+}

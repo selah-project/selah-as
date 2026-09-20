@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "ধন্য ইয়াহৱেহ, কিয়নো তেওঁ মোৰ প্ৰাৰ্থনাৰ কণ্ঠ ⟨শুনিলে⟩।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "শুনিলে"
+    },
+    {
+      "surface": "קול",
+      "gloss": "কণ্ঠ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "মোৰ প্ৰাৰ্থনাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:35:57.831030176Z",
+  "model": "glm-5.3"
+}

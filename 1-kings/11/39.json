@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু মই এই কাৰণে ⟨את⟩ দাৱিদৰ বীজক দুখ দিম; কিন্তু সকলো দিনলৈ নহয়।",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "মই দুখ দিম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দাৱিদৰ বীজ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "বীজ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "কাৰণে"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אך",
+      "gloss": "কিন্তু কেৱল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-20T00:10:21.322979053Z",
+  "model": "glm-5.3"
+}

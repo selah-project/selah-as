@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "বহুত মানুহে নিজৰ হেচেদ ঘোষণা কৰে; কিন্তু বিশ্বাসযোগ্য মানুহ কোনে ⟨পাব⟩?",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "বহুত"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ঘোষণা কৰে"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨নিজৰ⟩"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "হেচেদ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "আৰু মানুহ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "বিশ্বাসযোগ্য"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "পাব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:51.766979089Z",
+  "model": "glm-5.3"
+}

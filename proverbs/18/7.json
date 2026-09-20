@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "মূৰ্খৰ মুখ তাৰ বিনাশ, আৰু তাৰ ওঁঠ তাৰ প্ৰাণৰ ফান্দ।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "মূৰ্খৰ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "বিনাশ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "আৰু তাৰ ওঁঠ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ফান্দ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "তাৰ প্ৰাণৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:12.518463721Z",
+  "model": "glm-5.3"
+}

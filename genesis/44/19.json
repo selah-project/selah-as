@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 44,
+  "translation": "মোৰ প্ৰভুৱে ⟨את⟩ নিজৰ দাসসকলক সুধিলে, “তোমালোকৰ পিতৃ আছে নে ভাতৃ?”",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "মোৰ প্ৰভুৱে"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "সুধিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিজৰ দাসসকলক"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "নিজৰ দাসসকলক"
+    },
+    {
+      "surface": "লאמר",
+      "gloss": "বুলি"
+    },
+    {
+      "surface": "היש",
+      "gloss": "আছে নে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকৰ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "পিতৃ"
+    },
+    {
+      "surface": "או",
+      "gloss": "নে"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ভাতৃ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:49:23.308168162Z",
+  "model": "glm-5.3"
+}

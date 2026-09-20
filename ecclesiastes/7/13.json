@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এলোহিমৰ কাৰ্য্য ⟨את⟩ চোৱা; কিয়নো তেওঁ বাঁকা কৰা সেই ⟨আৰু⟩ কোনে পোন কৰিব পাৰে?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "চোৱা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কাৰ্য্য"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কাৰ্য্য"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "পাৰিব"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "পোন কৰিবলৈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אত⟩",
+      "marks": "সেইটো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিটো"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "তেওঁ বাঁকা কৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:26:12.334330353Z",
+  "model": "glm-5.3"
+}

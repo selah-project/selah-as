@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু এতিয়া আমাৰ প্ৰাণ ⟨শুকাই⟩ গৈছে; এই মন বাদ দি আমাৰ চকুৰ আগত ⟨আন⟩ একোৱেই নাই।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "আৰু এতিয়া"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "আমাৰ প্ৰাণ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "শুকাই গৈছে"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "כל",
+      "gloss": "একো"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "বাদ দি"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ৰ বাহিৰে"
+    },
+    {
+      "surface": "המן",
+      "gloss": "এই মন"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "আমাৰ চকু"
+    }
+  ],
+  "timestamp": "2026-09-19T22:33:59.803947880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "কিয়নো এই কামবোৰ কৰা সকলোৱে, অন্যায় কৰা সকলোৱে, ইয়াহৱেহ তোমাৰ এলোহিমৰ ওচৰত ঘৃণিত।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ঘৃণিত বস্তু"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "তোমাৰ এলোহিমৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰা"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই কামবোৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰা"
+    },
+    {
+      "surface": "עול",
+      "gloss": "অন্যায়"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:20.914067174Z",
+  "model": "glm-5.3"
+}

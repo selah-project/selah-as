@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু তেওঁৰ ভাতৃ হেলেমৰ পুতেকসকল আছিল চোপখ, য়িমনা, শ্বেলেচ আৰু আমাল।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "আৰু পুতেকসকল"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "হেলেমৰ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "তেওঁৰ ভাতৃ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "চোপখ"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "আৰু য়িমনা"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "আৰু শ্বেলেচ"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "আৰু আমাল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:18.338711866Z",
+  "model": "glm-5.3"
+}

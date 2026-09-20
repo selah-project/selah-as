@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "দিল'আন, হা-মিট্চপেহ আৰু য়োকত'এল,",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "আৰু দিল'আন"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "আৰু হা-মিট্চপেহ"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "আৰু য়োকত'এল"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:35.568129626Z",
+  "model": "glm-5.3"
+}

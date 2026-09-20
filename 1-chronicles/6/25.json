@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "মিখাএলৰ পুতেক, বাৰচেয়াৰ পুতেক, মালকিয়াৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "মিখাএলৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "বাৰচেয়াৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "মালকিয়াৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:01.650039948Z",
+  "model": "glm-5.3"
+}

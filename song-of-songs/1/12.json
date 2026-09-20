@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "ৰজা তেওঁৰ আসনত বহি থাকোঁতে মোৰ নাৰ্দে ⟨নিজৰ⟩ সুবাস বিলাইছিল।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "তেতিয়ালৈকে"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "তেওঁৰ আসনত"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "মোৰ নাৰ্দে"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "বিলাইছিল"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "সুবাস"
+    }
+  ],
+  "timestamp": "2026-09-20T03:46:25.580393977Z",
+  "model": "glm-5.3"
+}

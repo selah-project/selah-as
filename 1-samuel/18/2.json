@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু সেই দিনা শ্বাউলে তেওঁক ল'লে, আৰু তেওঁক নিজ পিতৃৰ ঘৰলৈ উভতি যাবলৈ দিলে নাই।",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "তেওঁক ল'লে"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বাউলে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "উভতি যাবলৈ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "পিতৃৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:42:01.180784309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "আৰু পাৰ'অই য়োচেফক ক'লে, “চাওঁক, মই ⟨את⟩ তোমাক সমগ্ৰ মিৎচৰায়িম দেশৰ ওপৰত থিছোঁ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "পাৰ'অই"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...লৈ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "য়োচেফক"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "মই থিছোঁ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "তোমাক"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশৰ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "মিৎচৰায়িম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:47:33.180433575Z",
+  "model": "glm-5.3"
+}

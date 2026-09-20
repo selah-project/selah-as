@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "চেনান, হাদাশাহ আৰু মিগদল-গাদ,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "চেনান"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "আৰু হাদাশাহ"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "আৰু মিগদল-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:35.567911913Z",
+  "model": "glm-5.3"
+}

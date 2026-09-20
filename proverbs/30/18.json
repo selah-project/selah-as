@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "তিনিটা বস্তু মোৰ বাবে আশ্চৰ্য্যজনক; আৰু চাৰিটা মই নাজানোঁ।",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "তিনিটা"
+    },
+    {
+      "surface": "המה",
+      "gloss": "সেইবোৰ"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "আশ্চৰ্য্যজনক"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোৰ বাবে"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "আৰু চাৰিটা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "জানোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:50.432617299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 44,
+  "translation": "তুমি ইয়াহৱেহৰ নামত আমাক কোৱা সেই কথা আমি তোমাক শুনি নাথাকোঁ।",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "সেই কথা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "তুমি কোৱা"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "আমাক"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "নামত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "শুনি থকাসকল"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাক"
+    }
+  ],
+  "timestamp": "2026-09-20T01:22:45.817981666Z",
+  "model": "glm-5.3"
+}

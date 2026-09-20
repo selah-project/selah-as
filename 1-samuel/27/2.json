@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "তাৰ পাছত দাৱিদে উঠিল, আৰু তেওঁ আৰু তেওঁৰ সৈতে থকা ছশ জন মানুহ আখিছৰ — মাওকৰ পুতেক, গতৰ ৰজা — ওচৰলৈ পাৰ হৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "পাৰ হৈ গ'ল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তেওঁ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "আৰু ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "জন মানুহ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "তেওঁৰ সৈতে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…লৈ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "আখিছ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "মাওক"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "גת",
+      "gloss": "গত"
+    }
+  ],
+  "timestamp": "2026-09-19T23:47:11.271167577Z",
+  "model": "glm-5.3"
+}

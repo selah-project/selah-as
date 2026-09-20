@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 121,
+  "translation": "চাওক, তেওঁ টোপনি নাযায় আৰু নিদ্ৰাও নাযায় — ইস্ৰায়েলৰ ৰক্ষক।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাযায়"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "টোপনি"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নাযায়"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "নিদ্ৰা"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ৰক্ষক"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:06:25.540222947Z",
+  "model": "glm-5.3"
+}

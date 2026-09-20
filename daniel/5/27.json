@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "টেকেল — তুমি তৰাজুত জোখা হ'লা, আৰু ⟨তুমি⟩ ঘটি পোৱা গ'লা।",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "টেকেল"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "তুমি জোখা হ'লা"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "তৰাজুত"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "আৰু পোৱা গ'লা"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "ঘটি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:05:25.639692433Z",
+  "model": "glm-5.3"
+}

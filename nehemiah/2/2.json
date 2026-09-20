@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "ৰজাই মোক ক'লে, “তোমাৰ মুখখন কিয় মলীন, যদিও তুমি ৰোগী নহয়? এইটো মনৰ দুখৰ বাহিৰে আন একো নহয়।” তেতিয়া মই অতি বৰ ভয় খালোঁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "তোমাৰ মুখ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "মলীন"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "আৰু তুমি"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "ৰোগী"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אם",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "רע",
+      "gloss": "দুখ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "মনৰ"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "ভয় খালোঁ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "বৰ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:18:03.004345309Z",
+  "model": "glm-5.3"
+}

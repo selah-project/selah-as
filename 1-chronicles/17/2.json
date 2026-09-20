@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "নাতানে দাৱিদক ক'লে, “তোমাৰ মনত যি আছে সেই সকলো কৰা, কিয়নো এলোহিম তোমাৰ সৈতে আছে।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতানে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ক"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাৱিদক"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "בלבবך",
+      "gloss": "তোমাৰ মনত"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "האলהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "তোমাৰ সৈতে আছে"
+    }
+  ],
+  "timestamp": "2026-09-20T04:34:18.261566100Z",
+  "model": "glm-5.3"
+}

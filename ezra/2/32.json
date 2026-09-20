@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "হাৰিমৰ সন্তানসকল তিনশ বিশ জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "হাৰিমৰ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "আৰু বিশ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:13.525286873Z",
+  "model": "glm-5.3"
+}

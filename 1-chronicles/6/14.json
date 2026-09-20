@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "মেৰাৰীৰ পুতেকসকল: মাহ্লি; তাৰ পুতেক লিব্বনি, তাৰ পুতেক শ্বিমি, তাৰ পুতেক উজ্জা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "মেৰাৰীৰ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "মাহ্লি"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "লিব্বনি"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাৰ পুতেক"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শ্বিমি"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাৰ পুতেক"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "উজ্জা"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:52.983646264Z",
+  "model": "glm-5.3"
+}

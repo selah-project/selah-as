@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "আৰু লাবানৰ দুগৰাকী জীয়েক আছিল; ডাঙৰজনীৰ নাম লেআহ, আৰু সৰুজনীৰ নাম ৰাখেল।",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "আৰু লাবানৰ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "দুগৰাকী"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "জীয়েক"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ডাঙৰজনীৰ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লেআহ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "আৰু নাম"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "সৰুজনীৰ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ৰাখেল"
+    }
+  ],
+  "timestamp": "2026-09-19T21:39:35.408036955Z",
+  "model": "glm-5.3"
+}

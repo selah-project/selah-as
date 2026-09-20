@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 6:20",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "তাৰ পাছত পুৱাৰ পোহৰত ৰজা উঠিল, আৰু খৰষতে সিংহৰ গৰ্তলৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "তাৰ পাছত"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "בשפרפרא",
+      "gloss": "পুৱাৰ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "בנגהא",
+      "gloss": "পোহৰত"
+    },
+    {
+      "surface": "ובהתבהלה",
+      "gloss": "খৰষতে"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "গৰ্তলৈ"
+    },
+    {
+      "surface": "די",
+      "gloss": "যি"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "সিংহৰ"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "গ'ল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:09:56.378000340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 27,
+  "translation": "প্ৰকাশিত তিৰস্কাৰ ভাল, লুকুৱাই ৰখা প্ৰেমতকৈ।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "তিৰস্কাৰ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "প্ৰকাশিত"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "প্ৰেমতকৈ"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "লুকুৱাই ৰখা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:26:26.774335901Z",
+  "model": "glm-5.3"
+}

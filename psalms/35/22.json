@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "তুমি দেখিছা, ইয়াহৱেহে; নিমাত নাথাকিব, আদোনাই; মোৰ পৰা আঁতৰি নাযাব।",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "দেখিছা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নাথাকিব"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "নিমাত"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নাযাব"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "আঁতৰি"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:37:16.997676049Z",
+  "model": "glm-5.3"
+}

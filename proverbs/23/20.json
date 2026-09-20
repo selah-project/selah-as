@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "মদ পান কৰাসকলৰ মাজত, মাংস ⟨অতিকৈ⟩ খোৱাসকলৰ মাজত নথাকিব।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "থাকিব"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "পান কৰাসকলৰ মাজত"
+    },
+    {
+      "surface": "יין",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "খোৱাসকলৰ মাজত"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "למו",
+      "gloss": "তেওঁলোকৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:24:30.107831853Z",
+  "model": "glm-5.3"
+}

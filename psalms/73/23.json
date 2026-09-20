@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 73,
+  "translation": "কিন্তু মই সদায় তোমাৰ লগত আছোঁ; তুমি মোৰ সোঁহাত ধৰি আছা।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "কিন্তু মই"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "সদায়"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "তোমাৰ লগত"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ধৰি আছা"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "...হাত"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "মোৰ সোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:50:07.799517997Z",
+  "model": "glm-5.3"
+}

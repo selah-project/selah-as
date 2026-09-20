@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "যি জনে নিখুঁতভাৱে চলে, ধাৰ্মিকতা কৰে, আৰু নিজৰ মনত সত্য কয়।",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "চলে"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "নিখুঁতভাৱে"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "আৰু কৰে"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ধাৰ্মিকতা"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "আৰু কয়"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "সত্য"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "নিজৰ মনত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:32:56.864531334Z",
+  "model": "glm-5.3"
+}

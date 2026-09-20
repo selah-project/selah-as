@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আৰু জানোহ়, এন-গানিম, তাপ্পুৱাহ আৰু এনাম।",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "আৰু জানোহ়"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "আৰু এন"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "গানিম"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "তাপ্পুৱাহ"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "আৰু এনাম"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:56.474909031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু আহিতুবে ⟨את⟩ চাদোকক জন্ম দিলে, আৰু চাদোকে ⟨את⟩ চাল্লুমক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "আৰু আহিতুবে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চাদোকক"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "চাদোকক"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "আৰু চাদোকে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চাল্লুমক"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "চাল্লুমক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:17.898185306Z",
+  "model": "glm-5.3"
+}

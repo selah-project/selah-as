@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "অথবা যদি জীৱন্ত মাংস পুনৰ ঘূৰি আহে আৰু বগা হৈ পৰে, তেতিয়া তেওঁ পুৰোহিতৰ ওচৰলৈ আহিব।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "অথবা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "পুনৰ ঘূৰি আহে"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "החי",
+      "gloss": "জীৱন্ত"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "আৰু হৈ পৰে"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "বগা"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "আহিব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ ওচৰলৈ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:19:09.568799801Z",
+  "model": "glm-5.3"
+}

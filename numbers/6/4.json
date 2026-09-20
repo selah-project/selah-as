@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "তাৰ পৃথকতাৰ সকলো দিনত মদৰ মাকত পৰা তৈয়াৰ হোৱা একো নাখাব — বীজৰ পৰা লৈ বাকলিলৈকে।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "তাৰ পৃথকতাৰ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "একো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…যি"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "তৈয়াৰ হোৱা"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "মাকত পৰা"
+    },
+    {
+      "surface": "היין",
+      "gloss": "মদৰ"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "বীজৰ পৰা"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "זג",
+      "gloss": "বাকলি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাখাব"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "নাখাব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:31:49.581819996Z",
+  "model": "glm-5.3"
+}

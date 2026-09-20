@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 46,
+  "translation": "ইয়াহৱেহ চেভাওত আমাৰ লগত ⟨আছে⟩; য়াকোভৰ এলোহিম ⟨আছে⟩ আমাৰ দুৰ্গ — চেলা।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "চেভাওত"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "আমাৰ লগত"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "দুৰ্গ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাৰ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…ৰ এলোহিম"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোৱ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "চেলা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:42:43.020034566Z",
+  "model": "glm-5.3"
+}

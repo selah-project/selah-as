@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "তেতিয়া সকলো গছে জোংালতাক ⟨কাঁইটীয়া গছ⟩ ক'লে, “আহা তুমি আমাৰ ওপৰত ৰাজত্ব কৰা।”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "গছে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "জোংালতাক"
+    },
+    {
+      "surface": "לך",
+      "gloss": "আহা"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰাজত্ব কৰা"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "আমাৰ ওপৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T05:07:51.038504441Z",
+  "model": "glm-5.3"
+}

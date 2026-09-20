@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "এফ্ৰায়িম গোষ্ঠীৰ পৰা হোশেয়া, নুনৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোষ্ঠীৰ পৰা"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "এফ্ৰায়িম"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "হোশেয়া"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "נון",
+      "gloss": "নুনৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:34:15.269127256Z",
+  "model": "glm-5.3"
+}

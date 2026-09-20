@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু য়েশূৱাত, মোলাদাত আৰু বেইত-পালেতত।",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "য়েশূৱাত"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "মোলাদাত"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "বেইত-…ত"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "পালেত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:40.665400154Z",
+  "model": "glm-5.3"
+}

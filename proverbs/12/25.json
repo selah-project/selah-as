@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "মানুহৰ হৃদয়ত চিন্তাই তাক ভাঙে, আৰু ভাল কথাই তাক আনন্দিত কৰে।",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "চিন্তাই"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "হৃদয়ত"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "ভাঙে"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "আৰু কথাই"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "আনন্দিত কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:11.132265082Z",
+  "model": "glm-5.3"
+}

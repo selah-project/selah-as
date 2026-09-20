@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "গাজ্জামৰ পুতেকসকল, উজ্জাৰ পুতেকসকল, পাচেয়াহৰ পুতেকসকল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "গাজ্জামৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "উজ্জাৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "পাচেয়াহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:51.335164713Z",
+  "model": "glm-5.3"
+}

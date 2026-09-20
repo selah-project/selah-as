@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু পাৰ'অে ⟨את⟩ নিজৰ ৰথ সাজু কৰিলে আৰু ⟨ואת⟩ নিজৰ জাতিক লগত লৈ ল'লে।",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "ৰথ সাজু কৰিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিজৰ ৰথ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "নিজৰ ৰথ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "নিজৰ জাতিক"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "নিজৰ জাতিক"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "লৈ ল'লে"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "লগত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:58:15.756179022Z",
+  "model": "glm-5.3"
+}

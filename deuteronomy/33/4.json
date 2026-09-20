@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "মোশ্বেই আমাক তোৰা আজ্ঞা দিলে — য়াকোভৰ সমাজৰ এক উত্তৰাধিকাৰ ⟨হিচাপে⟩।",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "তোৰা"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "আজ্ঞা দিলে"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাক"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেই"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "উত্তৰাধিকাৰ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "সমাজৰ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোভৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:05:53.439264389Z",
+  "model": "glm-5.3"
+}

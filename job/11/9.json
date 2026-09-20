@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "তাৰ মাপ পৃথিৱীতকৈ দীঘল, আৰু সাগৰতকৈ বহল।",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "দীঘল"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "পৃথিৱীতকৈ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "মাপ"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "আৰু বহল"
+    },
+    {
+      "surface": "מני",
+      "gloss": "তকৈ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সাগৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:33:18.346451959Z",
+  "model": "glm-5.3"
+}

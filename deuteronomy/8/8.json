@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "গহুঁ আৰু য়ৱাৰৰ দেশ, আঙুৰলতা আৰু ডিম্বুগছ আৰু ডালিগছৰ দেশ; জলফাই তেল আৰু মৌৰ দেশ।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "গহুঁ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "আৰু য়ৱাৰ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "আৰু আঙুৰলতা"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "আৰু ডিম্বুগছ"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "আৰু ডালিগছ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "জলফাই"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "তেল"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "আৰু মৌ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:54:10.845197226Z",
+  "model": "glm-5.3"
+}

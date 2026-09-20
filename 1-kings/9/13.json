@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 9:13",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "তেওঁ ক'লে, “ভাই, মোক দিলা এই চহৰবোৰ কি?” আৰু সেইবোৰক তেওঁ কাবুল দেশ বুলি মাতিলে, আজিৰ ⟨এই⟩ দিনলৈকে।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "চহৰবোৰ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিবোৰ"
+    },
+    {
+      "surface": "নתתה",
+      "gloss": "দিলা"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ভাই"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "মাতিলে"
+    },
+    {
+      "surface": "להם",
+      "gloss": "সেইবোৰক"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "כבול",
+      "gloss": "কাবুল"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজিৰ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-09-20T00:09:00.329098422Z",
+  "model": "glm-5.3"
+}

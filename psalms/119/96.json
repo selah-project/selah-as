@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "সকলো পূৰ্ণতাৰ অন্ত মই দেখিছোঁ; কিন্তু তোমাৰ আজ্ঞা অতি বহল।",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "সকলোৰ"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "পূৰ্ণতাৰ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "মই দেখিছোঁ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "অন্ত"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "বহল"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "তোমাৰ আজ্ঞা"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:05:13.779697918Z",
+  "model": "glm-5.3"
+}

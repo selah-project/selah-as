@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আমাৰ এজনী সৰু ভনী আছে, আৰু তাইৰ স্তন নাই; আমাৰ ভনীৰ বাবে কি কৰিম, যিদিনা তাইৰ বিষয়ে কোৱা হ'ব?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "ভনী"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাৰ"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "সৰু"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "আৰু স্তন"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাইৰ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "কৰিম"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "আমাৰ ভনীৰ বাবে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "যিদিনা"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "কোৱা হ'ব"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাইৰ বিষয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:24.550544709Z",
+  "model": "glm-5.3"
+}

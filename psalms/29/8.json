@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "ইয়াহৱেহৰ কণ্ঠই মৰুভূমি কঁপাই; ইয়াহৱেহে কাদেশৰ মৰুভূমি কঁপায়।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "কণ্ঠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "কঁপাই"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "মৰুভূমি"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "কঁপায়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "মৰুভূমি"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "কাদেশৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:35:23.288881865Z",
+  "model": "glm-5.3"
+}

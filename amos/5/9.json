@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "যিয়ে বলৱানৰ ওপৰত ধ্বংস উজলাই দিয়ে, আৰু দুৰ্গৰ ওপৰত ধ্বংস আহে।",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "উজলাই দিয়ে যিয়ে"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ধ্বংস"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "עז",
+      "gloss": "বলৱানৰ"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "আৰু ধ্বংস"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "দুৰ্গৰ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "আহে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:10:15.826962734Z",
+  "model": "glm-5.3"
+}

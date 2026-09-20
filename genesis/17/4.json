@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "“মই তো, চাওঁ, মোৰ চুক্তি তোমাৰ লগত ⟨את⟩, আৰু তুমি বহু জাতিৰ পিতৃ হ'বা।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "মই তো"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওঁ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "মোৰ চুক্তি"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ তোমাৰ লগত",
+      "marks": "তোমাৰ লগত"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "আৰু হ'বা"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "পিতৃ হৈ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতিৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:34:24.735951453Z",
+  "model": "glm-5.3"
+}

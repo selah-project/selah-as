@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু উৰুৱা জীৱ-জন্তুৰ সকলো পলু ⟨is⟩ তোমালোকৰ বাবে অশুদ্ধ; সেইবোৰ খোৱা নহ'ব।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আৰু সকলো"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "পলু"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "উৰুৱা জীৱ-জন্তুৰ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "অশুদ্ধ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩ সেইটো"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমালোকৰ বাবে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহ'ব"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "খোৱা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:55:45.004493906Z",
+  "model": "glm-5.3"
+}

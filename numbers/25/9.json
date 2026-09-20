@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "মহামাৰীত মৰা লোকসকল হ'ল চাৰি আৰু বিশ হাজাৰ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "মৰা লোকসকল"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "মহামাৰীত"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "আৰু বিশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:41:35.706146463Z",
+  "model": "glm-5.3"
+}

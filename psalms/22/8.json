@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "মোক দেখা সকলোৱে মোৰ উপহাস কৰে; ওঁঠ ⟨মেলি⟩ ঠাট্টি কৰে, মূৰ দোলায়।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলোৱে"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "মোক দেখা"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "উপহাস কৰে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "יפטিনו",
+      "gloss": "ওঁঠ মেলি ঠাট্টি কৰে"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ওঁঠেৰে"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "দোলায়"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "মূৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:33:57.551098963Z",
+  "model": "glm-5.3"
+}

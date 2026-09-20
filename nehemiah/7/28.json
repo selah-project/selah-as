@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বেইত আজমাৱেতৰ মানুহসকল — চল্লিশ আৰু দুই।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহসকল"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "আজমাৱেতৰ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:49.618321553Z",
+  "model": "glm-5.3"
+}

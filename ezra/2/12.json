@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আজগদৰ সন্তানসকল — এহেজাৰ দুশ বিশ আৰু দুজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "আজগদৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুশ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "আৰু দুই"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:18.445938328Z",
+  "model": "glm-5.3"
+}

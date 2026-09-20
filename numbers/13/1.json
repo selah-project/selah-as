@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেক ক'লে ⟨কৈ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ক"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨কৈ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T22:34:23.570103086Z",
+  "model": "glm-5.3"
+}

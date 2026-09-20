@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "গীত, সুৰবদ্ধ গীত, কোৰহৰ পুত্ৰসকলৰ।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "সুৰবদ্ধ গীত"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্ৰসকলৰ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোৰহ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:43:12.132948098Z",
+  "model": "glm-5.3"
+}

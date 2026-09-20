@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "চাওঁক, সাত বছৰ আহিছে — সমগ্ৰ মিৎচৰায়িম দেশত মহান প্ৰাচুৰ্য্যৰ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছৰ"
+    },
+    {
+      "surface": "באות",
+      "gloss": "আহিছে"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "প্ৰাচুৰ্য্য"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "মিৎচৰায়িম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:46:22.120448321Z",
+  "model": "glm-5.3"
+}

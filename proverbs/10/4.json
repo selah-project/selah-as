@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ছলনাময় হাতে কাম কৰাই দুখীয়া কৰে, কিন্তু পৰিশ্ৰমীসকলৰ হাতে ধনী কৰে।",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "দুখীয়া"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কাম কৰে"
+    },
+    {
+      "surface": "כף",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ছলনাময়"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "আৰু হাতে"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "পৰিশ্ৰমীসকলৰ"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ধনী কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T05:23:55.178162027Z",
+  "model": "glm-5.3"
+}

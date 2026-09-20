@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেৰ প্ৰতি কথা পাতিলে, কৈ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়אহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ প্ৰতি"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:26:21.410246887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "তোমাৰ বাক্য মোৰ ভৰিলৈ প্ৰদীপ, আৰু মোৰ পথলৈ পোহৰ।",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "প্ৰদীপ"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "মোৰ ভৰিলৈ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "তোমাৰ বাক্য"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "আৰু পোহৰ"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "মোৰ পথলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:04:54.423390039Z",
+  "model": "glm-5.3"
+}

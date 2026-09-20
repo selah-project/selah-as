@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "চাল্লুমৰ পুতেক, চাদোকৰ পুতেক, আহিতুৱৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "চাল্লুমৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "চাদোকৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "আহিতুৱৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:14:55.310743400Z",
+  "model": "glm-5.3"
+}

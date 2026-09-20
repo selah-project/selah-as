@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "ধাৰ্মিকসকলৰ কামনা কেৱল মঙ্গল; দুষ্টসকলৰ আশা তীব্ৰ ক্ৰোধ।",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "কামনা"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ধাৰ্মিকসকলৰ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "মঙ্গল"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "আশা"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টসকলৰ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "তীব্ৰ ক্ৰোধ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:18:01.819417072Z",
+  "model": "glm-5.3"
+}

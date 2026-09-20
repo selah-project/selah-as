@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "মিঠাপদাৰ্থ ভালপোৱা মানুহজন অভাৱত পৰে; সুৰা আৰু তেল ভালপোৱাজন ধনী নহয়।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "অভাৱ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ভাল পায়"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "মিঠাপদাৰ্থ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ভাল পায়"
+    },
+    {
+      "surface": "יין",
+      "gloss": "সুৰা"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "আৰু তেল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "ধনী হয়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:22:14.170708183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "তোমাৰ বাক্যত মই আনন্দিত ⟨আছোঁ⟩, বৃহৎ লুটৰ সন্ধান পোৱা জনৰ দৰে।",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "আনন্দিত"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ত"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "তোমাৰ বাক্য"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "সন্ধান পোৱা জনৰ দৰে"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "লুট"
+    },
+    {
+      "surface": "רב",
+      "gloss": "বৃহৎ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:05:17.036133095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "লেৱীয়াসকলৰ পৰা চাৰিহেজাৰ ছশ।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকলৰ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "লেৱীয়াসকলৰ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হেজাৰ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "আৰু ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:19.588569443Z",
+  "model": "glm-5.3"
+}

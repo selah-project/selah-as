@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আভ্ৰাহামৰ পুতেকসকল: ইৎচহাক আৰু য়িচমাএল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্ৰাহামৰ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ইৎচহাক"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "আৰু য়িচমাএল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:24:55.606511233Z",
+  "model": "glm-5.3"
+}

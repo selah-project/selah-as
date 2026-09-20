@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আৰু পুৰোহিতে এই অভিশাপবোৰ পুথিত ⟨את⟩ লিখিব, আৰু তিতা পানীৰ লগত মচি পেলাব।",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "আৰু লিখিব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "অভিশাপবোৰ"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "অভিশাপবোৰ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতে"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "পুথিত"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "আৰু মচি পেলাব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "מי",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "তিতাবোৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:31:23.260456888Z",
+  "model": "glm-5.3"
+}

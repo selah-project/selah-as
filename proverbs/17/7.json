@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "মূৰ্খৰ বাবে উচ্চ বাক্য মানানসই নহয়; শ্ৰেষ্ঠজনৰ বাবে মিছা ওঁঠ তাৰো অধিক ⟨অনুচিত⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "মানানসই"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "মূৰ্খৰ বাবে"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "উচ্চ বাক্য"
+    },
+    {
+      "surface": "אף",
+      "gloss": "তাৰো"
+    },
+    {
+      "surface": "כי",
+      "gloss": "অধিক কি"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "শ্ৰেষ্ঠজনৰ বাবে"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ওঁঠ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিছা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:42.820611569Z",
+  "model": "glm-5.3"
+}

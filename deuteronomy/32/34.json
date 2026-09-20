@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "এইটো মোৰ লগত জমা ৰখা হোৱা নহয়নে, মোৰ ভঁৰালসমূহত মোহৰ দিয়া হোৱা নহয়নে?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "নহয়নে"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "כמוס",
+      "gloss": "জমা ৰখা"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "মোৰ লগত"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "মোহৰ দিয়া"
+    },
+    {
+      "surface": "באוצרותי",
+      "gloss": "মোৰ ভঁৰালসমূহত"
+    }
+  ],
+  "timestamp": "2026-09-19T23:04:43.454622270Z",
+  "model": "glm-5.3"
+}

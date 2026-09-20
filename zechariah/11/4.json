@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "এইদৰে মোৰ এলোহিম ইয়াহৱেহে ক'লে, ⟨তুমি⟩ ⟨את⟩ বধ্য মেৰ-গোট পালন কৰা।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "মোৰ এলোহিম"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "পালন কৰা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বধ্য মেৰ-গোট"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "মেৰ-গোট"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "বধ্য"
+    }
+  ],
+  "timestamp": "2026-09-20T02:25:57.497697062Z",
+  "model": "glm-5.3"
+}

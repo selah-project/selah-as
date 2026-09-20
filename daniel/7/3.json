@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু ডাঙৰ ডাঙৰ চাৰিটা জন্তু সাগৰৰ পৰা উঠি আহিল, এইটো সেইটোৰ পৰা বেলেগ।",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "আৰু চাৰিটা"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "জন্তু"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "ডাঙৰ ডাঙৰ"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "উঠি আহিল"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "সাগৰৰ"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "বেলেগ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "דא",
+      "gloss": "সেইটোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:10:21.154632240Z",
+  "model": "glm-5.3"
+}

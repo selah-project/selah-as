@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "কাঠ নাথাকিলে জুই নুমায়, আৰু পিঠনিকাৰজন নথাকিলে কলহ শান্ত হয়।",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "নাথাকিলে"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "কাঠ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "নুমায়"
+    },
+    {
+      "surface": "אש",
+      "gloss": "জুই"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "আৰু … নথাকিলে"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "পিঠনিকাৰজন"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "শান্ত হয়"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "কলহ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:54.160439053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "জাক্কাইৰ সন্তানসকল — সাতশ ষাঠিজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "জাক্কাইৰ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "আৰু ষাঠি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:18.445413009Z",
+  "model": "glm-5.3"
+}

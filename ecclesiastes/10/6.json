@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "মূৰ্খক বহু উচ্চ স্থানত পতা হয়, আৰু ধনীসকল নিম্ন স্থানত বহে।",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "পতা হয়"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "মূৰ্খক"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "উচ্চ স্থানত"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "আৰু ধনীসকল"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "নিম্ন স্থানত"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "বহে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:08.548149349Z",
+  "model": "glm-5.3"
+}

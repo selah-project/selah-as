@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "পেৰেচৰ সন্তানসকলৰ সকলো, যিৰূচালেমত বাস কৰাসকল, চাৰিশ আঠষষ্ঠি জন সাহসী পুৰুষ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকলৰ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "পেৰেচৰ"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "বাস কৰাসকল"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "যিৰূচালেমত"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ষষ্ঠি"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "আঠ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "জন পুৰুষ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "সাহসী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:54.892827576Z",
+  "model": "glm-5.3"
+}

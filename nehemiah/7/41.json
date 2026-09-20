@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "পাশ্বচুৰৰ পুতেকসকল — এহেজাৰ দুশ চল্লিশ আৰু সাতজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "পাশ্বচুৰৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুশ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "আৰু সাতজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:50.430450446Z",
+  "model": "glm-5.3"
+}

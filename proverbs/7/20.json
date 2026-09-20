@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "“ৰূপৰ পুঁজি এটা হাতত লৈ লৈছে; পূৰ্ণিমাৰ দিনা তেওঁ নিজৰ ঘৰলৈ ঘূৰি আহিব।”",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "পুঁজি এটা"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ৰূপৰ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "লৈ লৈছে"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "হাতত"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "পূৰ্ণিমাৰ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ঘূৰি আহিব"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "নিজৰ ঘৰলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:34.721978447Z",
+  "model": "glm-5.3"
+}

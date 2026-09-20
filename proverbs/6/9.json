@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আলসী, তুমি কিমান দিনলৈ শুবা? কিমান দিনলৈ তুমি নিদৰ পৰা উঠিবা?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "কিমান দিন"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "আলসী"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "তুমি শুবা"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "কিমান দিন"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "তুমি উঠিবা"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "তোমাৰ নিদৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:56.498005193Z",
+  "model": "glm-5.3"
+}

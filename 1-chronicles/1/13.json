@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আৰু কনানে ⟨את⟩ নিজৰ জ্যেষ্ঠ পুত্ৰ চিদোনক আৰু ⟨את⟩ হেতক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "আৰু কনানে"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চিদোনক"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "চিদোনক"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "নিজৰ জ্যেষ্ঠ পুত্ৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "হেতক"
+    },
+    {
+      "surface": "חת",
+      "gloss": "হেতক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:34.373800299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "গছবোৰে আঙুৰৰ লতাক ক'লে, “আহা, তুমি আমাৰ ওপৰত ৰাজত্ব কৰা।”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "গছবোৰে"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "আঙুৰৰ লতাক"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "আহা"
+    },
+    {
+      "surface": "את",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "ৰাজত্ব কৰা"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "আমাৰ ওপৰত"
+    }
+  ],
+  "timestamp": "2026-09-19T23:24:20.505198572Z",
+  "model": "glm-5.3"
+}

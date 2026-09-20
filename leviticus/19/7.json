@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু যদি তৃতীয় দিনা সেইটো সঁচাকৈ খোৱা হয়, সেয়া ঘৃণিত বস্তু; গ্ৰহণ কৰা নহ'ব।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আৰু যদি"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "খোৱা"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খোৱা হয়"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনা"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "তৃতীয়"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ঘৃণিত বস্তু"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেয়া"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহ'ব"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "গ্ৰহণ কৰা"
+    }
+  ],
+  "timestamp": "2026-09-19T22:22:23.441618644Z",
+  "model": "glm-5.3"
+}

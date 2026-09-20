@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 76,
+  "translation": "তুমি পোহৰময়, চিকাৰৰ পাহাৰসমূহতকৈ অধিক মহিমাময়।",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "পোহৰময়"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "মহিমাময়"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "পাহাৰসমূহতকৈ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "চিকাৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:22:38.884085010Z",
+  "model": "glm-5.3"
+}

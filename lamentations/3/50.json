@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "যেতিয়ালৈকে ইয়াহৱেহে আকাশমণ্ডলৰ পৰা মুখ দাঙি চাই নেদেখে।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "যেতিয়ালৈকে"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "মুখ দাঙি চায়"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "আৰু দেখে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "আকাশমণ্ডলৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:51:51.090977472Z",
+  "model": "glm-5.3"
+}

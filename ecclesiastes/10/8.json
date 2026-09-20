@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "গাঁত খান্দাজনে তাতে পৰে, আৰু বেৰ ভাঙাজনক সাপে দংশন কৰে।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "খান্দাজনে"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "গাঁত"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "পৰে"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "আৰু ভাঙাজন"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "বেৰ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "দংশন কৰে"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "সাপ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:08.548491460Z",
+  "model": "glm-5.3"
+}

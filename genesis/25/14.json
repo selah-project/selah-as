@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "আৰু মিশ্মা, আৰু দুমাহ, আৰু মাশ্বা।",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "আৰু মিশ্মা"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "আৰু দুমাহ"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "আৰু মাশ্বা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:37:27.716493108Z",
+  "model": "glm-5.3"
+}

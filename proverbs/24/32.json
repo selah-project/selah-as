@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "মই চালোঁ, মই ⟨এয়া⟩ মনত ৰাখিলোঁ; মই দেখিলোঁ, আৰু শিক্ষা ল'লোঁ।",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "মই চালোঁ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ৰাখিলোঁ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "মনত"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "মই দেখিলোঁ"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ল'লোঁ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শিক্ষা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:40.417245764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "এইবোৰ ⟨হল⟩ শ্বিম'অনীসকলৰ বংশসমূহ — বাইশ হাজাৰ আৰু দুশ ⟨জন⟩।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশসমূহ"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "শ্বিম'অনীসকলৰ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বাইশ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "(আৰু বিশ)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "আৰু দুশ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:40:49.081174538Z",
+  "model": "glm-5.3"
+}

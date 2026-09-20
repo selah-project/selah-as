@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "চাৰিমৰ পুতেকসকল — এহেজাৰ সতেৰোজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "চাৰিমৰ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এহেজাৰ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:50.430685132Z",
+  "model": "glm-5.3"
+}

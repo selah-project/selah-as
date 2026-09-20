@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 29,
+  "translation": "মানুহৰ ভৰি তাতেদি নাযাব, আৰু জন্তুৰ ভৰিও তাতেদি নাযাব; আৰু চল্লিশ বছৰ ধৰি সেই ঠাই বসতিহীন থাকিব।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "যাব"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাতেদি"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ভৰি"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "আৰু ভৰি"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "জন্তুৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "যাব"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাতেদি"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "বসতিহীন থাকিব"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:47:44.837843321Z",
+  "model": "glm-5.3"
+}

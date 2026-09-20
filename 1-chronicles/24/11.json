@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "নৱম য়েশুৱাক, দশম শ্বেখানিয়াহুক।",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "য়েশুৱাক"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "নৱম"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "শ্বেখানিয়াহুক"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "দশম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:17.325095173Z",
+  "model": "glm-5.3"
+}

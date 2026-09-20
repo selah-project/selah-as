@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বে আৰু আহৰোনক ক’লে, “পাচৰ বিধি এইয়া: কোনো পৰদেশীয়ে তাত নাখাব।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক’লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "আৰু আহৰোনক"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এইয়া"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "বিধি"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "পাচৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "পৰদেশী"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খাব"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:58:17.872247953Z",
+  "model": "glm-5.3"
+}

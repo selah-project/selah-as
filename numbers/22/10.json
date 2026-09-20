@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "বিলামে এলোহিমক ক'লে, “মোৱাবৰ ৰজা চিপ্পোৰৰ পুতেক বালকে মোৰ ওচৰলৈ পঠাইছে,”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "বিলামে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমক"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "বালকে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "চিপ্পোৰ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোৱাব"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "পঠাইছে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:40:28.505836256Z",
+  "model": "glm-5.3"
+}

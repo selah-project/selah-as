@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 44,
+  "translation": "কিয়নো মোৰ ধনুকত মই ভৰষা নকৰোঁ, আৰু মোৰ তৰোৱালে মোক উদ্ধাৰ নকৰে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "মোৰ ধনুকত"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ভৰষা কৰোঁ"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "আৰু মোৰ তৰোৱালে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "মোক উদ্ধাৰ কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:40:55.835807748Z",
+  "model": "glm-5.3"
+}

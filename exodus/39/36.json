@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 39,
+  "translation": "⟨את⟩ টেবুলটো, ⟨את⟩ তাৰ সকলো পাত্ৰ, আৰু ⟨ואת⟩ সান্নিধ্যৰ ভাত।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "টেবুল"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "টেবুল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো পাত্ৰ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "তাৰ পাত্ৰ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "সান্নিধ্যৰ ভাত"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ভাত"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "সান্নিধ্যৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:12:55.764599122Z",
+  "model": "glm-5.3"
+}

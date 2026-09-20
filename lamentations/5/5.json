@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "আমাৰ ডিঙিৰ ওপৰত আমাক খেদি অনা হ'ল; আমি ক্লান্ত হ'লোঁ, আমাক জিৰণি দিয়া নহ'ল।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "আমাৰ ডিঙিৰ"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "আমাক খেদি অনা হ'ল"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "আমি ক্লান্ত হ'লোঁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহ'ল"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "জিৰণি দিয়া"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:32.758317548Z",
+  "model": "glm-5.3"
+}

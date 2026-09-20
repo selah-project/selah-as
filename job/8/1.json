@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "তেতিয়া বিলদদ শূহীয়ে উত্তৰ দিলে আৰু ক'লে:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "উত্তৰ দিলে"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "বিলদদ"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "শূহী"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:32:02.135390560Z",
+  "model": "glm-5.3"
+}

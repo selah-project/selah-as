@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "মাগবিশৰ সন্তানসকল একশ ছাপ্পন জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "মাগবিশৰ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "আৰু ছয়"
+    }
+  ],
+  "timestamp": "2026-09-20T04:12:13.525074119Z",
+  "model": "glm-5.3"
+}

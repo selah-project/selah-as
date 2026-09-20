@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু চাৰাই ক'লে, “এলোহিমে মোৰ বাবে হাঁহি কৰাইছে; যি কোনে শুনিব, সি মোৰ লগত হাঁহিব।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "চাৰাই"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "হাঁহি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰিছে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ বাবে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলোৱে"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "হাঁহিব"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ লগত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:58:32.885800092Z",
+  "model": "glm-5.3"
+}

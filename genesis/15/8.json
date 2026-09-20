@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "তেওঁ ক'লে, “হে আদোনাই ইয়াহৱেহ, মই কেনেকৈ জানিম যে মই ইয়াক অধিকাৰ কৰিম?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "তেওঁ ক'লে"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "কেনেকৈ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "জানিম"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "অধিকাৰ কৰিম"
+    }
+  ],
+  "timestamp": "2026-09-19T21:30:22.882844822Z",
+  "model": "glm-5.3"
+}

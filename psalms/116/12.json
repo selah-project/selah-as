@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 116,
+  "translation": "মই ইয়াহৱেহক কি ঘূৰাই দিম তেওঁৰ মোৰ ওপৰত কৰা সকলো উপকাৰৰ বাবে?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ঘূৰাই দিম"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহক"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "উপকাৰৰ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মোৰ ওপৰত কৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:03:40.944548663Z",
+  "model": "glm-5.3"
+}

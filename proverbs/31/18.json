@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "তাই জাতৰে জানিলে ⟨যে⟩ তাইৰ বেহা-বেপাৰ ভাল ⟨আছে⟩; ৰাতি তাইৰ প্ৰদীপ নুলাগে।",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "জাতৰে জানিলে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨যে⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "তাইৰ বেহা-বেপাৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "নুলাগে"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "তাইৰ প্ৰদীপ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:35.839329446Z",
+  "model": "glm-5.3"
+}

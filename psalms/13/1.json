@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "সংগীত-পৰিচালকৰ বাবে; মাজমোৰ, দাৱিদৰ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সংগীত-পৰিচালকৰ বাবে"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মাজমোৰ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাৱিদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:32:26.352767447Z",
+  "model": "glm-5.3"
+}

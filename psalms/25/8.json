@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "ভাল আৰু সৰল ⟨এলোহিম নহয় —⟩ ইয়াহৱেহ ⟨সেয়েহে⟩ পাপীসকলক পথত শিকাই দিয়ে।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "আৰু সৰল"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "על",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "כן",
+      "gloss": "কাৰণে"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "শিকাই দিয়ে"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "পাপীসকলক"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথত"
+    }
+  ],
+  "timestamp": "2026-09-20T02:35:44.360726401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "আৰু তোমালোকে ⟨את⟩ পৰদেশীক ভাল পাবা, কিয়নি তোমালোক মিৎচৰায়িম দেশত পৰদেশী আছিলা।",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "আৰু ভাল পাবা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পৰদেশীক"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "পৰদেশীক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নি"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "পৰদেশী"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "আছিলা"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশত"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "মিৎচৰায়িম"
+    }
+  ],
+  "timestamp": "2026-09-19T22:53:56.383308721Z",
+  "model": "glm-5.3"
+}

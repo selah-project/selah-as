@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "ছয়টা কথা ইয়াহৱেহে ঘৃণা কৰে, আৰু সাতটা ⟨কথা⟩ তেওঁৰ প্ৰাণৰ কাষে অসহ্যকৰ।",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ছয়টা"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨কথা⟩"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ঘৃণা কৰে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "আৰু সাতটা"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "অসহ্যকৰ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "তেওঁৰ প্ৰাণৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:32.991021378Z",
+  "model": "glm-5.3"
+}

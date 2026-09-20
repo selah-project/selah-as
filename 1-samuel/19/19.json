@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "আৰু শ্বাউলক জনোৱা হ'ল, কৈ যে “চাওক, দাৱিদ নায়োতত, ৰামাত ⟨আছে⟩।”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "জনোৱা হ'ল"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "শ্বাউলক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ যে"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদ"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "নায়োতত"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "ৰামাত"
+    }
+  ],
+  "timestamp": "2026-09-20T05:09:34.697249558Z",
+  "model": "glm-5.3"
+}

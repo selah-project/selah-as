@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "সেয়েহে ইয়াহৱেহ চেভাওতে এইদৰে কৈছে: যিহেতু তোমালোকে ⟨את⟩ মোৰ বাক্যবোৰ নাশুনিলা,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "সেয়েহে"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "চেভাওত"
+    },
+    {
+      "surface": "יען",
+      "gloss": "যিহেতু"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "শুনিলা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মোৰ বাক্যবোৰ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "মোৰ বাক্যবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:10:22.902818941Z",
+  "model": "glm-5.3"
+}

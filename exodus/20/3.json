@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 20,
+  "translation": "“মোৰ সন্মুখত তোমাৰ বাবে আন এলোহিম ⟨নাথাকিব⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকিব"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ বাবে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "আন"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ ওপৰত"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মোৰ সন্মুখত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:01:03.476559804Z",
+  "model": "glm-5.3"
+}

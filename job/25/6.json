@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "তেন্তে মানুহ ⟨তো⟩ কিমা কৃমি, আৰু মানৱপুত্ৰ এটা পতঙ্গকৃমি কিমা!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "তেন্তে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিমা"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "মানুহ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "কৃমি"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "আৰু পুত্ৰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানৱ"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "পতঙ্গকৃমি"
+    }
+  ],
+  "timestamp": "2026-09-20T03:38:44.988070838Z",
+  "model": "glm-5.3"
+}

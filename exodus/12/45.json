@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "পৰবাসী আৰু বেতনভোগী লোকে সেইত নাখাব।",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "পৰবাসী"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "আৰু বেতনভোগী"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "নাখাব"
+    },
+    {
+      "surface": "בו",
+      "gloss": "সেইত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:58:21.427507729Z",
+  "model": "glm-5.3"
+}

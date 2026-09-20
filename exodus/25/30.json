@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "আৰু তুমি টেবুলৰ ওপৰত উপস্থিতিৰ ৰুটি থওঁক, সদায় মোৰ সন্মুখত।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "আৰু তুমি থওঁক"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "টেবুলৰ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ৰুটি"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "উপস্থিতিৰ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "সদায়"
+    }
+  ],
+  "timestamp": "2026-09-19T22:05:32.564297162Z",
+  "model": "glm-5.3"
+}

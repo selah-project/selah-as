@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "তেতিয়া ইয়াহৱেহৰ বাক্য তেওঁৰ ওচৰত আহিল, কৈ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "তেতিয়া"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁৰ ওচৰত"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:11:53.097719864Z",
+  "model": "glm-5.3"
+}

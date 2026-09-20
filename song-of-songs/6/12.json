@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "মই গমেই নাপালোঁ; মোৰ প্ৰাণে মোক ৰাখিলে মোৰ জাতিৰ মহান জনৰ ৰথবোৰৰ মাজত।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "গমেই নাপালোঁ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "মোৰ প্ৰাণে"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "মোক ৰাখিলে"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "ৰথবোৰৰ মাজত"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "মোৰ জাতিৰ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "মহান জনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:47:03.389471461Z",
+  "model": "glm-5.3"
+}

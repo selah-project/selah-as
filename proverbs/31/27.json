@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "তাই নিজৰ ঘৰৰ কাৰ্যবোৰ চাই থাকে, আৰু আলস্যৰ ভাত নাখায়।",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "তাই চাই থাকে"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "কাৰ্যবোৰ (চলাচলবোৰ)"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "নিজৰ ঘৰৰ"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "আৰু … ভাত"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "আলস্যৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "খায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:31.263425900Z",
+  "model": "glm-5.3"
+}

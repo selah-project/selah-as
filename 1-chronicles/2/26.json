@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু য়েৰাহ্মেএলৰ আন এগৰাকী পত্নী আছিল; তাইৰ নাম আটাৰা — তাই ওনামৰ মাতৃ আছিল।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "পত্নী"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "আন এগৰাকী"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "য়েৰাহ্মেএলৰ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "তাইৰ নাম"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "আটাৰা"
+    },
+    {
+      "surface": "היא",
+      "gloss": "তাই"
+    },
+    {
+      "surface": "אם",
+      "gloss": "মাতৃ"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ওনামৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:59.666998375Z",
+  "model": "glm-5.3"
+}

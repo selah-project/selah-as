@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "কিন্তু মই জীয়াই ⟨আছোঁ⟩, আৰু ইয়াহৱেহৰ মহিমাই ⟨את⟩ সকলো পৃথিৱী পূৰ কৰিব।",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "কিন্তু"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীয়াই"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "পূৰ কৰিব"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "মহিমাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো পৃথিৱী"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱী"
+    }
+  ],
+  "timestamp": "2026-09-19T22:35:59.494399392Z",
+  "model": "glm-5.3"
+}

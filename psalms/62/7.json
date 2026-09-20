@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 62,
+  "translation": "কেৱল ⟨তেওঁৱেই⟩ মোৰ শিল আৰু মোৰ উদ্ধাৰ, মোৰ উচ্চ দুৰ্গ; মই নকঁপোঁ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "কেৱল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨তেওঁৱেই⟩"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "মোৰ শিল"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "আৰু মোৰ উদ্ধাৰ"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "মোৰ উচ্চ দুৰ্গ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "কঁপোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:46:29.414973905Z",
+  "model": "glm-5.3"
+}

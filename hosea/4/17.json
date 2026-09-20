@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "এফ্ৰায়িম মূৰ্তিসমূহৰ লগত লাগি গৈছে; তাক এৰি দিয়া।",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "লাগি গৈছে"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "মূৰ্তিসমূহৰ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "এফ্ৰায়িম"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "এৰি দিয়া"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাক"
+    }
+  ],
+  "timestamp": "2026-09-20T05:19:14.988971182Z",
+  "model": "glm-5.3"
+}

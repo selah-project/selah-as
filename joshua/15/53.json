@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "য়ানিম, বেইত-তাপ্পুৱাখ আৰু আফেকাহ।",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "য়ানিম"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "বেইত-"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "তাপ্পুৱাখ"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "আৰু আফেকাহ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:43.891296894Z",
+  "model": "glm-5.3"
+}

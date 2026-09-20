@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "সকলোৱে আঁতৰি গ'ল, একেলগে দুষ্ট হ'ল; ভাল কৰোঁতা কোনো নাই, এজনো নহয়।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "সকলোৱে"
+    },
+    {
+      "surface": "סר",
+      "gloss": "আঁতৰি গ'ল"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "একেলগে"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "দুষ্ট হ'ল"
+    },
+    {
+      "surface": "אין",
+      "gloss": "কোনো নাই"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰোঁতা"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-ও"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এজনো"
+    }
+  ],
+  "timestamp": "2026-09-20T02:32:11.002539186Z",
+  "model": "glm-5.3"
+}

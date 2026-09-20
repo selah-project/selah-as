@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 49,
+  "translation": "কেনেকৈ এৰি দিয়া নহ'ল প্ৰশংসাৰ নগৰখন, মোৰ আনন্দৰ নগৰখন!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "কেনেকৈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহ'ল"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "এৰি দিয়া"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগৰখন"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "প্ৰশংসাৰ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "নগৰখন"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "মোৰ আনন্দৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:25:48.240067931Z",
+  "model": "glm-5.3"
+}

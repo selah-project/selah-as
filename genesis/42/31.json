@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 42,
+  "translation": "আৰু আমি তেওঁক ক'লোঁ, আমি সৎ লোক, আমি গুপ্তচৰ নহয়।",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ক'লোঁ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "সৎ লোক"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "নাছিলোঁ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "গুপ্তচৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:48:55.812361357Z",
+  "model": "glm-5.3"
+}

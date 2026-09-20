@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু ইয়াহৱেহে মোক ক'বলৈ ক'লে, “মই ⟨את⟩ এই জাতিটোক দেখিছোঁ; আৰু চাওঁ, ই এটা কঠিন-ডিঙিৰ জাতি।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "দেখিছোঁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই জাতিটোক"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জাতিটো"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আৰু চাওঁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "কঠিন"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ডিঙি"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ই"
+    }
+  ],
+  "timestamp": "2026-09-19T22:54:27.759000903Z",
+  "model": "glm-5.3"
+}

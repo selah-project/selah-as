@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু আমি সেই সময়ত ⟨את⟩ দেশখন দুই আমোৰী ৰজাৰ হাতৰ পৰা ল'লোঁ — যি য়ৰ্দনৰ সেইপাৰে আছিল — আৰ্নোন নদীৰ পৰা হেৰমোন পৰ্বতলৈকে।",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "আৰু আমি ল'লোঁ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "সময়ত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দেশখন"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশখন"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "হাতৰ পৰা"
+    },
+    {
+      "surface": "שני",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "আমোৰী"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "সেইপাৰে"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "য়ৰ্দনৰ"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "নদীৰ পৰা"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "আৰ্নোন"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পৰ্বত"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "হেৰমোন"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:39.912908472Z",
+  "model": "glm-5.3"
+}

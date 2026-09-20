@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "অসাৰ, অসাৰসমূহৰ অসাৰ, কোহেলেতে কʼলে; সকলো অসাৰ।",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "অসাৰ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "অসাৰসমূহ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কʼলে"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "কোহেলেতে"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "অসাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:00:11.203938120Z",
+  "model": "glm-5.3"
+}

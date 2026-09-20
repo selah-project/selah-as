@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 1:13",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "আশ্বেৰৰ; পগিএল, ওকৰানৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "আশ্বেৰৰ"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "পগিএল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ওকৰানৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:27:19.208965125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "নেৎচিয়াহৰ সন্তানসকল, হাতিফাৰ সন্তানসকল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "নেৎচিয়াহ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "হাতিফা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:13:00.105764795Z",
+  "model": "glm-5.3"
+}

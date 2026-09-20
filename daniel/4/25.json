@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "সকলো কথা নবুখাদনেচৰ ৰজাৰ ওপৰত সংঘটিত হ'ল।",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "সকলো কথা"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "সংঘটিত হ'ল"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ ওপৰত"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "নবুখাদনেচৰ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ৰজা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:06:38.909819774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ছাগলীৰ মতা পোৱালি এটা পাপ-উৎসৰ্গৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ছাগলীৰ মতা পোৱালি"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ছাগলীৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "পাপ-উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:32:14.302730430Z",
+  "model": "glm-5.3"
+}

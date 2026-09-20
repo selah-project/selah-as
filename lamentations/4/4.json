@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "তৃষ্ণাত কেঁচুলাৰ জিভা তাৰ তালুত লাগি ধৰিলে; সৰু ল'ৰাবোৰে ভাত বিচাৰিলে, কিন্তু ভাঙি দিয়াৰ ⟨কোনো নাই⟩।",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "লাগি ধৰিলে"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভা"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "কেঁচুলাৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "তাৰ তালুত"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "তৃষ্ণাত"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "সৰু ল'ৰাবোৰে"
+    },
+    {
+      "surface": "שאলו",
+      "gloss": "বিচাৰিলে"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ভাত"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ভাঙি দিয়াৰ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তেওঁলোকৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:53:08.044041977Z",
+  "model": "glm-5.3"
+}

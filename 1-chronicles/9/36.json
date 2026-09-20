@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু তেওঁৰ পুতেক — জ্যেষ্ঠ ⟨আছিল⟩ অব্দোন, তাৰ পাছত চুৰ, কিচ, বাল, নেৰ আৰু নদব।",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "আৰু তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "জ্যেষ্ঠ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "অব্দোন"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "আৰু চুৰ"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "আৰু কিচ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "আৰু বাল"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "আৰু নেৰ"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "আৰু নদব"
+    }
+  ],
+  "timestamp": "2026-09-20T04:30:04.590331183Z",
+  "model": "glm-5.3"
+}

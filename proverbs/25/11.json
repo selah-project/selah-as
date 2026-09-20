@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "ৰূপৰ খচৰাত বছা সোণৰ আপেলৰ দৰে, তেনেই ⟨হয়⟩ নিজৰ সময়ত কোৱা কথা।",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "আপেল"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "খচৰাত বছা"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ৰূপৰ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কোৱা"
+    },
+    {
+      "surface": "על",
+      "gloss": "নিজৰ সময়ত"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "নিজৰ সময়ত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:03.862251181Z",
+  "model": "glm-5.3"
+}

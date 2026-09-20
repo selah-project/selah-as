@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "দুৱাৰখন নিজৰ কব্জাত ঘূৰে, আৰু আলসী নিজৰ বিছনাত ⟨ঘূৰে⟩।",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "দুৱাৰখন"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "ঘূৰে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "নিজৰ কব্জা"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "আৰু আলসী"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "নিজৰ বিছনা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:37.575643330Z",
+  "model": "glm-5.3"
+}

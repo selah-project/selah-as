@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "একৰোন, তাৰ নগৰবোৰ আৰু তাৰ গাঁওবোৰ।",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "একৰোন"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "আৰু তাৰ নগৰবোৰ"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "আৰু তাৰ গাঁওবোর"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:47.368180768Z",
+  "model": "glm-5.3"
+}

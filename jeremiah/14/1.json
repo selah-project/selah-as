@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "যি হ’ল, খৰাং দিনবোৰৰ বিষয়ে ইয়াহৱেহৰ পৰা য়িৰ্মিয়াহুলৈ অহা ⟨সেই⟩ বাক্য।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হ’ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ পৰা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "প্ৰতি"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "য়িৰ্মিয়াহুলৈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিষয়ে"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "খৰাং দিনবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:06:44.154753247Z",
+  "model": "glm-5.3"
+}

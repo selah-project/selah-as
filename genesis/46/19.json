@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 46,
+  "translation": "য়াকোৱৰ পত্নী ৰাখেলৰ পুতেকসকল: য়োচেফ আৰু বিন্যামিন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ৰাখেলৰ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "পত্নী"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোৱৰ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "য়োচেফ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "আৰু বিন্যামিন"
+    }
+  ],
+  "timestamp": "2026-09-19T21:49:40.399256454Z",
+  "model": "glm-5.3"
+}

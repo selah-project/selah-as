@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "ইয়াহৱেহৰ ভয় জীৱনৰ উৎস, মৃত্যুৰ ফান্দবোৰৰ পৰা ⟨আঁতৰি⟩ থাকিবলৈ।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "উৎস"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীৱনৰ"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "আঁতৰি থাকিবলৈ"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ফান্দবোৰৰ পৰা"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যুৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:53.962000929Z",
+  "model": "glm-5.3"
+}

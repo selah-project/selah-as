@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 83,
+  "translation": "আচূৰো তেওঁলোকৰ লগত লগ হ'ল; তেওঁলোক লোটৰ সন্তানসকলৰ বাবে বাহু হ'ল। চেলা।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "আচূৰ"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "লগ হ'ল"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "তেওঁলোকৰ লগত"
+    },
+    {
+      "surface": "היו",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "বাহু"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "সন্তানসকলৰ বাবে"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "লোটৰ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "চেলা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:53:08.993027072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু য়েহোশ্বুৱা অশুচি কাপোৰ পিন্ধি দূতজনৰ সন্মুখত থিয় হৈ আছিল।",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "আৰু য়েহোশ্বুৱা"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "পিন্ধি"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "কাপোৰ"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "অশুচি"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "আৰু থিয় হৈ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "দূতজনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:24:01.571827934Z",
+  "model": "glm-5.3"
+}

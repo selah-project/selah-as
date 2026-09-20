@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আহাজে ক'লে, “মই বিচাৰা নকৰোঁ, আৰু ⟨את⟩ ইয়াহৱেহক ⟨মই⟩ পৰীক্ষা নকৰোঁ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "আহাজে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "বিচাৰা কৰোঁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু ন"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "পৰীক্ষা কৰোঁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াহৱেহক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহক"
+    }
+  ],
+  "timestamp": "2026-09-20T00:33:47.927204230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 40,
+  "translation": "তেওঁ ⟨את⟩ টেবুল ⟨the⟩ মিলনোত্সৱৰ তম্বুত ৰাখিলে, আবাসৰ উত্তৰ কাষত, পৰ্দাৰ বাহিৰত।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ৰাখিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "টেবুল"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "টেবুল"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "তম্বুত"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "মিলনোত্সৱৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ৰ কাষত"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "কাষ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "আবাসৰ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "উত্তৰ দিশে"
+    },
+    {
+      "surface": "মחוץ",
+      "gloss": "বাহিৰত"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "পৰ্দাৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:13:01.915591263Z",
+  "model": "glm-5.3"
+}

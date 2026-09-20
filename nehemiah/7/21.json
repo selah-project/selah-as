@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "হিজকিয়াৰ আতেৰৰ ⟨সন্তানসকল⟩ — নিৰানব্বৈ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "আতেৰৰ"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "হিজকিয়াৰ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "নিৰানব্বৈ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:40.641139269Z",
+  "model": "glm-5.3"
+}

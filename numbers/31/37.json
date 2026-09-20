@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "আৰু ভেড়াৰ পৰা ইয়াহৱেহৰ মাচুল আছিল ছশ পঁচাত্তৰ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "মাচুল"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ভেড়াৰ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "আৰু সত্তৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:45:17.755718277Z",
+  "model": "glm-5.3"
+}

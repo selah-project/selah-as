@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু পোহৰ মিঠা, আৰু চকুৰ বাবে ভাল ⟨is⟩ ⟨את⟩ সূৰ্য দেখা।",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "আৰু মিঠা"
+    },
+    {
+      "surface": "האור",
+      "gloss": "পোহৰ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "আৰু ভাল"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "চকুৰ বাবে"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "দেখা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সূৰ্য"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূৰ্য"
+    }
+  ],
+  "timestamp": "2026-09-20T03:59:04.656898018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "ৰাহেলৰ পুত্ৰসকল: যোচেফ আৰু বিনিয়ামিন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ৰাহেলৰ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোচেফ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "আৰু বিনিয়ামিন"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:04.303284443Z",
+  "model": "glm-5.3"
+}

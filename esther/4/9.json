@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "আৰু হাতাখে ⟨את⟩ মৰ্দখয়ৰ কথাবোৰ এস্তেৰক জনালে।",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "התך",
+      "gloss": "হাতাখ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "জনালে"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "এস্তেৰক"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মৰ্দখয়ৰ কথাবোৰ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথাবোৰ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "মৰ্দখয়ৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:59:45.819224424Z",
+  "model": "glm-5.3"
+}

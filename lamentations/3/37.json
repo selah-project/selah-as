@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "কোনে ক'লে আৰু ⟨সেয়া⟩ হ'ল, যদি আদোনাইে আদেশ নিদিয়ে?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "আদেশ দিয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T05:25:28.710938368Z",
+  "model": "glm-5.3"
+}

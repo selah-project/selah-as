@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বেৎচেৰ, আৰু হোদ, আৰু শ্বাম্মা, আৰু শিলশ্বাহ, আৰু ইৎৰান, আৰু বে'ৰা।",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "বেৎচেৰ"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "আৰু হোদ"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "আৰু শ্বাম্মা"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "আৰু শিলশ্বাহ"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "আৰু ইৎৰান"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "আৰু বে'ৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:24.628467459Z",
+  "model": "glm-5.3"
+}

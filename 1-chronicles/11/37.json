@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "হেৎৰো ⟨the⟩ কাৰ্মেলী, নাৰাই ইৎচবাইৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "হেৎৰো"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "⟨the⟩ কাৰ্মেলী"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "নাৰাই"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "ইৎচবাইৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:29:14.853685757Z",
+  "model": "glm-5.3"
+}

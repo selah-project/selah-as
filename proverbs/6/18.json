@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "অকল্যাণৰ কল্পনা আঁচৰি উলিয়াৱা হৃদয়, বেয়ালৈ দৌৰিবলৈ খৰধৰ ভৰি।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "আঁচৰি উলিয়াৱা"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "কল্পনা"
+    },
+    {
+      "surface": "און",
+      "gloss": "অকল্যাণৰ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ভৰি"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "খৰধৰ"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "দৌৰিবলৈ"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "বেয়ালৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:16:16.723785186Z",
+  "model": "glm-5.3"
+}

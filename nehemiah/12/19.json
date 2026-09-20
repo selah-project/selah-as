@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "আৰু য়োয়াৰিবৰ ⟨ঘৰৰ⟩ মাত্তেনাই; য়েদায়াহৰ ⟨ঘৰৰ⟩ উজ্জি।",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "আৰু য়োয়াৰিবৰ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "মাত্তেনাই"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "য়েদায়াহৰ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "উজ্জি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:23:13.639177800Z",
+  "model": "glm-5.3"
+}

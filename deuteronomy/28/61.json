@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "deuteronomy 28:61",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "আৰু প্ৰতিটো ৰোগ আৰু প্ৰতিটো মাৰ, যি এই তোৰা পুথিত লিখা নহয়, সেইবোৰ ইয়াহৱেহে তোমাক ভোগাব, তোমাক নিধন নোহোৱা লৈকে।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "আৰু"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্ৰতিটো"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "ৰোগ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু প্ৰতিটো"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "মাৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "লিখা"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "পুথিত"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "তোৰাৰ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "ভোগাব"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "তোমাৰ ওপৰত"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "তোমাক নিধন নোহোৱা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:04:24.043313497Z",
+  "model": "glm-5.3"
+}

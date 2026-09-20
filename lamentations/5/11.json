@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "তেওঁলোকে চিয়োনত নাৰীসকলক অপমান কৰিলে, য়েহুদাৰ নগৰসমূহত কুমাৰীসকলক।",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "নাৰীসকলক"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "চিয়োনত"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "অপমান কৰিলে"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "কুমাৰীসকলক"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "নগৰসমূহত"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "য়েহুদাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:43.834282533Z",
+  "model": "glm-5.3"
+}

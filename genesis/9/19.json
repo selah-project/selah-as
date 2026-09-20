@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "এই তিনিটা নোৱাৰ পুতেক ⟨আছিল⟩, আৰু এইসকলৰ পৰাই গোটেই পৃথিৱী ছড়াই পৰিল।",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "তিনিটা"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোৱাৰ"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "আৰু এইসকলৰ পৰা"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "ছড়াই পৰিল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "গোটেই"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱী"
+    }
+  ],
+  "timestamp": "2026-09-19T21:27:56.537863546Z",
+  "model": "glm-5.3"
+}

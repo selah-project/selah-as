@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "উম্মাহ, আফেক আৰু ৰেহোব — বাইশখন নগৰ আৰু সিহঁতৰ গাঁওবোৰ।",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "উম্মাহ"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "আফেক"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ৰেহোব"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "আৰু দুই"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "আৰু সিহঁতৰ গাঁওবোৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:16:14.605702168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "তোমাৰ পিতৃৰ পত্নীৰ নগ্নতা তুমি উন্মোচন নকৰিবা; সেয়া তোমাৰ পিতৃৰ নগ্নতা।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "নগ্নতা"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "পত্নীৰ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "তোমাৰ পিতৃৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নকৰিবা"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "উন্মোচন"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "নগ্নতা"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "তোমাৰ পিতৃৰ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেয়া"
+    }
+  ],
+  "timestamp": "2026-09-19T22:21:20.512648124Z",
+  "model": "glm-5.3"
+}

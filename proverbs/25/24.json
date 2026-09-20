@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "কলহপ্ৰিয় নাৰীৰ লগত আৰু অংশীদাৰী ঘৰত থকাতকৈ গাৰ চালিৰ কোণত বহি থকাই ভাল।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "বহি থকাই"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ত"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "কোণত"
+    },
+    {
+      "surface": "גג",
+      "gloss": "গাৰ চালিৰ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "নাৰীৰ লগত তকৈ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "কলহপ্ৰিয়"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "আৰু ঘৰত"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "অংশীদাৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:33.544116370Z",
+  "model": "glm-5.3"
+}

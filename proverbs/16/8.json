@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "ধাৰ্মিকতাৰ সৈতে অলপ ⟨থকা⟩ ভাল, অন্যায়েৰে প্ৰচুৰ আয়তকৈ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ধাৰ্মিকতাৰ সৈতে"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "প্ৰচুৰ"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "আয়"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "অন্যায়েৰে"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "…নথকা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:40.441828723Z",
+  "model": "glm-5.3"
+}

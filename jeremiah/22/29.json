@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "হে মাটি, মাটি, মাটি, ইয়াহৱেহৰ বাক্য শুনা।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "মাটি"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "মাটি"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "মাটি"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:07:15.842307688Z",
+  "model": "glm-5.3"
+}

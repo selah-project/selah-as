@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "য়িজ্ৰেএল, য়োকদেআম আৰু জানোৱাহ।",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "য়িজ্ৰেএল"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "আৰু য়োকদেআম"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "আৰু জানোৱাহ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:43.891967006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 16,
+  "translation": "আৰু মোশ্বেয়ে কোৰাহক ক'লে, “শুনা এতিয়া, হে লেৱীৰ পুতেকসকল।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কোৰাহ...লৈ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোৰাহ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "נא",
+      "gloss": "এতিয়া"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লেৱীৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:36:52.374113992Z",
+  "model": "glm-5.3"
+}

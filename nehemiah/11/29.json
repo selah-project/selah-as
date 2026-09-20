@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "আৰু এন-ৰিমোনত, আৰু চৰ'হত, আৰু ইয়াৰমুথত ⟨বাস কৰিলে⟩।",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "আৰু এন-ৰিমোনত"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ৰিমোন"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "আৰু চৰ'হত"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "আৰু ইয়াৰমুথত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:23:15.981661170Z",
+  "model": "glm-5.3"
+}

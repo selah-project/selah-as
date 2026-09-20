@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 52,
+  "translation": "ধাৰ্মিকসকলে দেখিব আৰু ভয় খাব, আৰু তেওঁৰ ওপৰত হাঁহিব।",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "দেখিব"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ধাৰ্মিকসকলে"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ভয় খাব"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "তেওঁৰ ওপৰত"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "হাঁহিব"
+    }
+  ],
+  "timestamp": "2026-09-20T02:44:45.579911765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু এইতানৰ পুত্ৰ: আজাৰিয়া।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুত্ৰ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "এইতানৰ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "আজাৰিয়া"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:13.369093534Z",
+  "model": "glm-5.3"
+}

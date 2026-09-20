@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 56,
+  "translation": "যি দিন মই ভয় খোৱাম, মই তোমাৰ ওপৰত ভৰষা কৰোঁ।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ভয় খোৱাম"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাৰ ওপৰত"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ভৰষা কৰোঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:45:32.467085347Z",
+  "model": "glm-5.3"
+}

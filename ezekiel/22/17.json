@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য মোৰ ওচৰলৈ আহিল, কৈছিল,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু … হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈছিল"
+    }
+  ],
+  "timestamp": "2026-09-20T01:43:08.016514665Z",
+  "model": "glm-5.3"
+}

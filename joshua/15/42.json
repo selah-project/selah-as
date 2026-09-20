@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "লিবনাহ, এটেৰ আৰু আশান।",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "লিবনাহ"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "এটেৰ"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "আশান"
+    }
+  ],
+  "timestamp": "2026-09-19T23:14:31.569900436Z",
+  "model": "glm-5.3"
+}

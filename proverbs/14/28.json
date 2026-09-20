@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "প্ৰজাৰ ভিৰত ⟨আছে⟩ ৰজাৰ মহিমা, আৰু প্ৰজা নথকাত অধীশ্বৰৰ বিনাশ।",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ভিৰত"
+    },
+    {
+      "surface": "עם",
+      "gloss": "প্ৰজাৰ"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "মহিমা"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজাৰ"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "আৰু নাথকাত"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "বিনাশ"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "অধীশ্বৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:19:53.963894761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "তথাপি দাৱিদে ⟨את⟩ চিয়োনৰ দুৰ্গ দখল কৰিলে — সেইটোৱেই দাৱিদৰ নগৰ।",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "দখল কৰিলে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চিয়োনৰ দুৰ্গ"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "দুৰ্গ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "চিয়োনৰ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সেইটোৱেই"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগৰ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:50:56.365917141Z",
+  "model": "glm-5.3"
+}

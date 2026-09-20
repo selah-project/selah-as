@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "সোণৰ এটা পাত্ৰ দহ শ্বেকেলৰ, ধূপেৰে ভৰ্তি;",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "পাত্ৰ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ভৰ্তি"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ধূপ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:30:17.731337470Z",
+  "model": "glm-5.3"
+}

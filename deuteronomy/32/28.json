@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 32,
+  "translation": "কিয়নো তেওঁলোক পৰামৰ্শহীন জাতি, আৰু সিহঁতৰ মাজত কোনো বুদ্ধি নাই।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "হীন"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "পৰামৰ্শ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "তেওঁলোক"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "নাই আৰু"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "সিহঁতৰ মাজত"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "বুদ্ধি"
+    }
+  ],
+  "timestamp": "2026-09-19T23:05:06.404392897Z",
+  "model": "glm-5.3"
+}

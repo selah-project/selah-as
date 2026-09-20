@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আৰু শিবিৰৰ বাহিৰে তোমাৰ বাবে এটা ⟨ঠাই⟩ থাকিব, আৰু তুমি তালৈ বাহিৰলৈ ওলাই যাবা।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "আৰু থাকিব"
+    },
+    {
+      "surface": "יד",
+      "gloss": "এটা ⟨ঠাই⟩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ বাবে"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "বাহিৰে"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "শিবিৰৰ"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "তুমি উলাই যাবা"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "তালৈ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "বাহিৰলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:00:47.443742583Z",
+  "model": "glm-5.3"
+}

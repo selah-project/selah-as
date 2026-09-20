@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "যিসকলে আনন্দত আনন্দিত হয়, আৰু কবৰ পোৱাত উল্লাস কৰে।",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "আনন্দিত সকল"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "আনন্দ"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "উল্লাস কৰে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "পায়"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "কবৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:29:17.551115990Z",
+  "model": "glm-5.3"
+}

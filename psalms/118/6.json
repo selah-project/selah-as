@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 118,
+  "translation": "ইয়াহৱেহ ⟨আছে⟩ মোৰ পক্ষত; মই ভয় নকৰোঁ — মানুহে মোৰ কি কৰিব পাৰে?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ পক্ষত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ভয় কৰোঁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "কৰিব পাৰে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুহে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:04:01.911401672Z",
+  "model": "glm-5.3"
+}

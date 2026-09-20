@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 48:40",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "কিয়নো ইয়াহৱেহে এইদৰে ক'লে: চাওঁক, সি ঈগলৰ দৰে উৰি আহিব, আৰু মোৱাবৰ ওপৰত ডেউকা মেলিব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "ঈগলৰ দৰে"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "উৰি আহিব"
+    },
+    {
+      "surface": "ופרש",
+      "gloss": "আৰু মেলিব"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ডেউকা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰ ওপৰত"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোৱাব"
+    }
+  ],
+  "timestamp": "2026-09-20T01:25:35.779772709Z",
+  "model": "glm-5.3"
+}

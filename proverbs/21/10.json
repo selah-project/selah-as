@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "দুষ্টৰ প্ৰাণে অকল্যাণ কামনা কৰে; তাৰ চকুত তাৰ বন্ধুৱে ⟨কৃপা⟩ নাপায়।",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণে"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্টৰ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "কামনা কৰে"
+    },
+    {
+      "surface": "רע",
+      "gloss": "অকল্যাণ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "কৃপা পায়"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "তাৰ চকুত"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "তাৰ বন্ধুৱে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:22:01.737776737Z",
+  "model": "glm-5.3"
+}

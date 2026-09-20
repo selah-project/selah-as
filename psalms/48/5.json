@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "কিয়নো চাওক, ৰজাসকলে গোট খালে, তেওঁলোকে একলগে পাৰ হ'ল।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ৰজাসকলে"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "গোট খালে"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "পাৰ হ'ল"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "একলগে"
+    }
+  ],
+  "timestamp": "2026-09-20T02:42:27.616917842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "পিতৃক আৰু মাতৃক লুট কৰি কোৱাজন 'অপৰাধ নহয়' — সি ধ্বংসকাৰী মানুহৰ সঙ্গী।",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "লুট কৰি"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "তেওঁৰ পিতৃক"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "আৰু মাতৃক"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আৰু কয়"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "অপৰাধ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "সঙ্গী"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সি"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "মানুহৰ"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ধ্বংসকাৰী"
+    }
+  ],
+  "timestamp": "2026-09-20T03:27:16.353301665Z",
+  "model": "glm-5.3"
+}

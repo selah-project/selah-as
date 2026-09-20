@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "বুদ্ধিমানৰ হৃদয়ে জ্ঞান আহৰণ কৰে, আৰু জ্ঞানীসকলৰ কাণে জ্ঞান বিচাৰে।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ে"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "বুদ্ধিমানৰ"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "আহৰণ কৰে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "আৰু কাণে"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "জ্ঞানীসকলৰ"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "বিচাৰে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:33.317390350Z",
+  "model": "glm-5.3"
+}

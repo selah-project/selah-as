@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "হাঁহিৰ বিষয়ে মই ক'লোঁ, ই উন্মাদনা; আৰু আনন্দৰ বিষয়ে, ই কি কৰে?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "হাঁহিৰ বিষয়ে"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "মই ক'লোঁ"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "ই উন্মাদনা"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "আৰু আনন্দৰ বিষয়ে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ই"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:56:15.189047202Z",
+  "model": "glm-5.3"
+}

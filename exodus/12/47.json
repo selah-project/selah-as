@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "ইয়িচ্ৰাএলৰ সমগ্ৰ সমাজে ⟨את⟩ সেইটো পালন কৰিব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "সমাজ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইয়িচ্ৰাএলৰ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "পালন কৰিব"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "সেইটো (পেসহ)"
+    }
+  ],
+  "timestamp": "2026-09-19T21:58:21.427963552Z",
+  "model": "glm-5.3"
+}

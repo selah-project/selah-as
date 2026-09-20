@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "কিয় ⟨এই⟩ — মূৰ্খৰ হাতত জ্ঞান কিনিবলৈ মূল্য ⟨আছে⟩, অথচ হৃদয় নাই?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "মূল্য"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতত"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "মূৰ্খৰ"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "কিনিবলৈ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "আৰু হৃদয়"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    }
+  ],
+  "timestamp": "2026-09-20T03:21:11.550248707Z",
+  "model": "glm-5.3"
+}

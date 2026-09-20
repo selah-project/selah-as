@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "তেওঁৰ পুতেক অমৎচিয়াহু, তেওঁৰ পুতেক অজৰিয়া, তেওঁৰ পুতেক য়োতাম।",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "অমৎচিয়াহু"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "অজৰিয়া"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "য়োতাম"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:10.751118376Z",
+  "model": "glm-5.3"
+}

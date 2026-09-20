@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 17:16",
+  "book": "job",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "শ্বেওলৰ দুৱাৰবোৰলৈ সেইবোৰ নামিব; যদি একেলগে ধূলিৰ ওপৰত বিশ্ৰাম হয়।",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "দুৱাৰবোৰ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "শ্বেওলৰ"
+    },
+    {
+      "surface": "תרדנה",
+      "gloss": "নামিব"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "একেলগে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ধূলিৰ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "বিশ্ৰাম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:35:31.479674Z",
+  "model": "glm-5.3"
+}

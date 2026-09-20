@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "চেনাহৰ পুত্ৰসকল — তিনি হাজাৰ, ন শ আৰু ত্ৰিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকল"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "চেনাহ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "আৰু ত্ৰিশ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:09.859213185Z",
+  "model": "glm-5.3"
+}

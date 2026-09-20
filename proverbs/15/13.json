@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "আনন্দিত হৃদয়ে চেহেৰা ⟨উজ্জ্বল⟩ কৰে, আৰু হৃদয়ৰ দুখত ৰুৱাখ ভাঙি যায়।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "আনন্দিত"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "উজ্জ্বল কৰে"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "চেহেৰা"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "আৰু দুখত"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ৰ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ৰুৱাখ"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ভাঙি যায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:20:16.744294586Z",
+  "model": "glm-5.3"
+}

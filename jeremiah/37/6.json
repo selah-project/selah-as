@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য ভাববাদী য়িৰ্মিয়াহুৰ ওচৰলৈ আহিল, ক'বলৈ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ৰ ওচৰলৈ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "য়িৰ্মিয়াহু"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ভাববাদী"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:16:40.079388476Z",
+  "model": "glm-5.3"
+}

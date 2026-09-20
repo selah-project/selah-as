@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "য়োহানান অষ্টম, এলজাবাদ নৱম।",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "য়োহানান"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "অষ্টম"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "এলজাবাদ"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "নৱম"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:58.118922814Z",
+  "model": "glm-5.3"
+}

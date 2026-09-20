@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু মিখায়েল, আৰু ইশ্বপাহ, আৰু য়োহা — বৰিয়াহৰ পুতেকসকল।",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "আৰু মিখায়েল"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "আৰু ইশ্বপাহ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "আৰু য়োহা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকল"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "বৰিয়াহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:28:50.950032896Z",
+  "model": "glm-5.3"
+}

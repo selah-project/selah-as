@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "যি বোজা হাবাক্কুক ভাববাদীয়ে দেখিলে।",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "বোজা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "দেখিলে"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "হাবাক্কুক"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ভাববাদী"
+    }
+  ],
+  "timestamp": "2026-09-20T02:18:26.028169318Z",
+  "model": "glm-5.3"
+}

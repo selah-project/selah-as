@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "ঊৰিয়া ⟨হিত্তীয়া⟩ — ⟨মুঠ>> তৈঁতিশ ⟨আৰু>> সাতজন।",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ঊৰিয়া"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "হিত্তীয়া"
+    },
+    {
+      "surface": "כל",
+      "gloss": "মুঠ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "তৈঁতিশ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "আৰু সাতজন"
+    }
+  ],
+  "timestamp": "2026-09-20T00:00:26.821340530Z",
+  "model": "glm-5.3"
+}

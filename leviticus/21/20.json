@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "বা কুঁজি, বা বেওজানা, বা চকুত শুৱলা থকা, বা খজুৱত-গ্ৰস্ত, বা ঘাঁ-চন্থলযুক্ত, বা খোহোৰা অণ্ডকোষযুক্ত।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "কুঁজি"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "דק",
+      "gloss": "বেওজানা"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "শুৱলা"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "চকুত"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "খজুৱত-গ্ৰস্ত"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "ঘাঁ-চন্থলযুক্ত"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "খোহোৰা"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "অণ্ডকোষ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:23:36.482535845Z",
+  "model": "glm-5.3"
+}

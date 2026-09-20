@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "ৰেউবেন, শ্বিম'অন, লেৱি আৰু য়েহুদা।",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ৰেউবেন"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "শ্বিম'অন"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লেৱি"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "আৰু য়েহুদা"
+    }
+  ],
+  "timestamp": "2026-09-19T21:52:37.631727182Z",
+  "model": "glm-5.3"
+}

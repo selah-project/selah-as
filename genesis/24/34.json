@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "তেওঁ ক’লে, “মই আভ্ৰাহামৰ দাস।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক’লে"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্ৰাহামৰ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "মই"
+    }
+  ],
+  "timestamp": "2026-09-19T21:37:07.556747108Z",
+  "model": "glm-5.3"
+}

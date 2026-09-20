@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "কিয়নো যদিও তেওঁ দুখ দিয়ে, তথাপিও তেওঁ নিজৰ হেচেদৰ প্ৰাচুৰ্য অনুসাৰি দয়া কৰিব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যদিও"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "দুখ দিয়ে"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "দয়া কৰিব"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "প্ৰাচুৰ্য অনুসাৰি"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "নিজৰ হেচেদৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:52:32.782256931Z",
+  "model": "glm-5.3"
+}

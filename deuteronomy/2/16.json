@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু এনে হ'ল, যেতিয়া যুদ্ধৰ মানুহবোৰ সকলোৱে জনগোষ্ঠীৰ মাজৰ পৰা মৰি শেষ হ'ল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু এনে হ'ল"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "যেতিয়া"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "শেষ হ'ল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলোৱে"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহবোৰ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "যুদ্ধৰ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "মৰি"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "মাজৰ পৰা"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনগোষ্ঠীৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:49:20.140694776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 37,
+  "translation": "তাৰ পাছত তেওঁৰ ভাইসকলে শ্বেখেমত দেউতাকৰ ⟨את⟩ জাক চৰাবলৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ভাইসকলে"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "চৰাবলৈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "জাক"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "জাক"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "দেউতাকৰ"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "শ্বেখেমত"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:46.533812543Z",
+  "model": "glm-5.3"
+}

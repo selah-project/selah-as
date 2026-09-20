@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু হূৰে ⟨את⟩ ঊৰীক জন্ম দিলে, আৰু ঊৰীয়ে ⟨את⟩ বেৎচালেলক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "আৰু হূৰে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ঊৰীক"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ঊৰীক"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "আৰু ঊৰীয়ে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বেৎচালেলক"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "বেৎচালেলক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:05.024939649Z",
+  "model": "glm-5.3"
+}

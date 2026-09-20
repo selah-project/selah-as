@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 33,
+  "translation": "তেওঁ ক'লে, “মোৰ উপস্থিতি যাব, আৰু মই তোমাক জিৰণি দিম।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "তেওঁ ক'লে"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মোৰ উপস্থিতি"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "যাব"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "আৰু মই জিৰণি দিম"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাক"
+    }
+  ],
+  "timestamp": "2026-09-19T22:10:09.521523075Z",
+  "model": "glm-5.3"
+}

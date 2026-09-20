@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "আৰু মহামাৰীত মৃতসকল হ'ল চৈধ্য হাজাৰ আৰু সাতশ, কোৰহৰ বিষয়ত ⟨মৃত⟩ হোৱাসকলৰ বাহিৰে।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "মৃতসকল"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "মহামাৰীত"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজাৰ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "আৰু সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "বাহিৰে"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "মৃতসকলৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বিষয়"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোৰহৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:37:01.366962139Z",
+  "model": "glm-5.3"
+}

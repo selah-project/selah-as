@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "judges 9:47",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু আভিমেলেখক জনোৱা হ'ল যে শ্বেখেমৰ দুৰ্গৰ সকলো মালিক গোট খাইছে।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "আৰু জনোৱা হ'ল"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "আভিমেলেখক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "গোট খাইছে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "মালিক"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "দুৰ্গ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "শ্বেখেমৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:25:34.903788200Z",
+  "model": "glm-5.3"
+}

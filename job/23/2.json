@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 23:2",
+  "book": "job",
+  "lang": "as",
+  "chapter": 23,
+  "translation": "আজিও মোৰ কথা তিতা; মোৰ হাত মোৰ দীৰ্ঘশ্বাসৰ বাবে গধুৰ হৈ পৰিছে।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজি"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "তিতা"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "মোৰ কথা"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "মোৰ হাত"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "গধুৰ হৈছে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ৰ বাবে"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "মোৰ দীৰ্ঘশ্বাস"
+    }
+  ],
+  "timestamp": "2026-09-20T03:38:22.972124476Z",
+  "model": "glm-5.3"
+}

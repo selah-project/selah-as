@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 41:19",
+  "book": "job",
+  "lang": "as",
+  "chapter": 41,
+  "translation": "তেওঁ লোক পুহিৰ ⟨দৰে⟩ গণ্য কৰে, আৰু তাম পচা কাঠৰ দৰে।",
+  "tokens": [
+    {
+      "surface": "יחשב",
+      "gloss": "গণ্য কৰে"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "পুহিৰ দৰে"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "লোক"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "কাঠৰ দৰে"
+    },
+    {
+      "surface": "רקבון",
+      "gloss": "পচা"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "তাম"
+    }
+  ],
+  "timestamp": "2026-09-20T03:46:49.507404408Z",
+  "model": "glm-5.3"
+}

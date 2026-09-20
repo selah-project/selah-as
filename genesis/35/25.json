@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 35,
+  "translation": "আৰু বিল্‌হাৰ পুত্ৰসকল — ৰাহেলৰ দাসী বিল্‌হাৰ — দান আৰু নফতালি।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আৰু পুত্ৰসকল"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "বিল্‌হাৰ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "দাসী"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ৰাহেলৰ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "আৰু নফতালি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:43:57.633612436Z",
+  "model": "glm-5.3"
+}

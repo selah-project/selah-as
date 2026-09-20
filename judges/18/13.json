@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "তাৰ পৰা তেওঁলোকে এফ্ৰায়িমৰ পাহাৰ পাৰ হৈ মিখাৰ ঘৰলৈ আহিল।",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "পাৰ হৈ গ'ল"
+    },
+    {
+      "surface": "משם",
+      "gloss": "তাৰ পৰা"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পাহাৰ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "এফ্ৰায়িম"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "মিখা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:29:39.395368217Z",
+  "model": "glm-5.3"
+}

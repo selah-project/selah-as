@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "ইয়াহৱেহ চেভাওতে এইদৰে কৈছে: এতিয়াও হ'ব যে জাতিসমূহ আহিব, আৰু বহু নগৰৰ বাসিন্দাসকল ⟨আহিব⟩ —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কৈছে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "চেভাওত"
+    },
+    {
+      "surface": "עד",
+      "gloss": "এতিয়াও"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "আহিব"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "জাতিসমূহ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "আৰু বাসিন্দাসকল"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগৰৰ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "বহু"
+    }
+  ],
+  "timestamp": "2026-09-20T02:24:09.844890612Z",
+  "model": "glm-5.3"
+}

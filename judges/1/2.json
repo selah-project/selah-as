@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 1,
+  "translation": "ইয়াহৱেহে ক'লে, “যিহূদাই উঠিব; চাওঁক, মই ⟨את⟩ দেশখন তেওঁৰ হাতত দিছোঁ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদাই"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "উঠিব"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "দিছোঁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দেশখন"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশখন"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "তেওঁৰ হাতত"
+    }
+  ],
+  "timestamp": "2026-09-20T05:07:26.424853728Z",
+  "model": "glm-5.3"
+}

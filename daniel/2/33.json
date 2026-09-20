@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "তাৰ ভৰি দুখন লোৰ, ইহঁতৰ কিছু অংশ লোৰ আৰু কিছু অংশ মাটিৰ।",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "ভৰি দুখন"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ৰ⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "লো"
+    },
+    {
+      "surface": "רגলוהי",
+      "gloss": "ইহঁতৰ পতাবোৰ"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "কিছু অংশ"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ৰ⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "লো"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "আৰু কিছু অংশ"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ৰ⟩"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "মাটি"
+    }
+  ],
+  "timestamp": "2026-09-20T04:07:12.381526077Z",
+  "model": "glm-5.3"
+}

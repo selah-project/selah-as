@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "থকা প্ৰাণৰ ওপৰত থণ্ডা পানীৰ দৰে ⟨সেয়ে⟩ দূৰৰ দেশৰ পৰা অহা ভাল সংবাদ।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "পানী"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "থণ্ডা"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্ৰাণ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "থকা"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "আৰু সংবাদ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "দেশৰ পৰা"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "দূৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:25:40.242096946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "তেতিয়া ইস্ৰায়েলৰ ৰজা আৰু যিহূদাৰ ৰজা যিহোশাফট ৰামোৎ-গিলিয়দলৈ গ'ল।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "গ'ল"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "আৰু যিহোশাফট"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদাৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ৰামোৎ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "গিলিয়দ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:46:31.476069458Z",
+  "model": "glm-5.3"
+}

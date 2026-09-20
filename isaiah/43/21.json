@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 43,
+  "translation": "এই জাতিটোক মই মোৰ বাবে গঢ়িছোঁ; মোৰ প্ৰশংসা তেওঁলোকে বৰ্ণনা কৰিব।",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "זו",
+      "gloss": "এই"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "গঢ়িছোঁ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোৰ বাবে"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "মোৰ প্ৰশংসা"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "বৰ্ণনা কৰিব"
+    }
+  ],
+  "timestamp": "2026-09-20T00:47:48.657036957Z",
+  "model": "glm-5.3"
+}

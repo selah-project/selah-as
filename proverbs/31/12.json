@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 31,
+  "translation": "তেওঁ তেওঁৰ জীৱনৰ সকলো দিনত তেওঁক মঙ্গল কৰে, অমঙ্গল নহয়।",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "তেওঁ তেওঁক কৰে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "মঙ্গল"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আৰু নহয়"
+    },
+    {
+      "surface": "רע",
+      "gloss": "অমঙ্গল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "তেওঁৰ জীৱনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:28:39.179890408Z",
+  "model": "glm-5.3"
+}

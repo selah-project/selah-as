@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু লগতে মই ⟨את⟩ দাসীৰ পুতেকক এটা জাতি কৰিম, কিয়নো সি তোমাৰ বংশ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "আৰু লগতে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দাসীৰ পুতেকক"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেকক"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "দাসীৰ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "এটা জাতি হিচাপে"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "মই তেওঁক কৰিম"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "তোমাৰ বংশ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেই"
+    }
+  ],
+  "timestamp": "2026-09-19T21:36:17.512866434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "কিয় চিৰকাললৈ আমাক পাহৰিব? দীৰ্ঘ দিনলৈ আমাক এৰি দিব?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "চিৰকাললৈ"
+    },
+    {
+      "surface": "תשכחנু",
+      "gloss": "আমাক পাহৰিব"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "আমাক এৰি দিব"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "দীৰ্ঘ দিনলৈ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:54:30.845538151Z",
+  "model": "glm-5.3"
+}

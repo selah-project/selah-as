@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু যেতিয়া তুমি তোমাৰ হৃদয়ত ক'বা, “কেনেকৈ জানিম ⟨আত⟩ ⟨את⟩ সেই কথা, যিটো ইয়াহৱেহে কোৱা নাই?”",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "আৰু যেতিয়া"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ক'বা"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "তোমাৰ হৃদয়ত"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "কেনেকৈ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "জানিম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সেই কথা"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "সেই কথা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিটো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "কোৱা নাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:58:09.836316380Z",
+  "model": "glm-5.3"
+}

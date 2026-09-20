@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 14,
+  "translation": "আৰু পুৰোহিতে তেলৰ ল'গ ল'ব আৰু পুৰোহিতজনৰ বাওঁ হাতৰ তলুত ঢালিব।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ল'ব"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতে"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "ল'গ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "তেলৰ"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ঢালিব"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ত"
+    },
+    {
+      "surface": "כף",
+      "gloss": "তলু"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "পুৰোহিতজনৰ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "বাওঁ-হাতৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T05:02:07.878295872Z",
+  "model": "glm-5.3"
+}

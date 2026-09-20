@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "ইস্ৰায়েলত সকলো খেৰেম ⟨সমৰ্পিত বস্তু⟩ তোমাৰ হ'ব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "খেৰেম ⟨সমৰ্পিত বস্তু⟩"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ইস্ৰায়েলত"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:37:55.869746682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "দাৱিদে পুৱাতি উঠিল, আৰু ইয়াহৱেহৰ বাক্য দাৱিদৰ দৰ্শক ভাববাদী গদৰ ওচৰলৈ আহিল, কৈ—",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদে"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "পুৱাতি"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গদ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ভাববাদী"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "দৰ্শক"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাৱিদৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "কৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T00:01:24.221976143Z",
+  "model": "glm-5.3"
+}

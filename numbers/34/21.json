@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "বিন্যামিনৰ শাখাৰ ⟨বাবে⟩ এলিদাদ, কিচলনৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "শাখাৰ বাবে"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "বিন্যামিনৰ"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "এলিদাদ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "কিচলনৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:47:21.418403266Z",
+  "model": "glm-5.3"
+}

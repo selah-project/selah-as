@@ -1,0 +1,170 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 40:4",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 40,
+  "translation": "And now, behold, I release you today from the chains that are on your hand. If it is good in your eyes to come with ⟨את⟩ me to Bavel, come, and I will set ⟨את⟩ my eye upon you; and if it is evil in your eyes to come with ⟨את⟩ me to Bavel, refrain; see, the whole land is before you — where it is good and where it is right in your eyes to go, go there.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "and now"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "behold"
+    },
+    {
+      "surface": "פתחתיך",
+      "gloss": "I release you"
+    },
+    {
+      "surface": "היום",
+      "gloss": "today"
+    },
+    {
+      "surface": "מן",
+      "gloss": "from"
+    },
+    {
+      "surface": "האזקים",
+      "gloss": "the chains"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "that"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "your hand"
+    },
+    {
+      "surface": "אם",
+      "gloss": "if"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "it is good"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in your eyes"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "to come"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "with ⟨את⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "to Bavel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "come"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "and I will set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my eye"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my eye"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "upon you"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "and if"
+    },
+    {
+      "surface": "רע",
+      "gloss": "it is evil"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in your eyes"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "to come"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "with ⟨את⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "to Bavel"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "refrain"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "see"
+    },
+    {
+      "surface": "כל",
+      "gloss": "the whole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "before you"
+    },
+    {
+      "surface": "אל",
+      "gloss": "where"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "it is good"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and where"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "it is right"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in your eyes"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "to go"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "there"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    }
+  ],
+  "timestamp": "2026-09-20T01:20:55.817949342Z",
+  "model": "glm-5.3"
+}

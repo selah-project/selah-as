@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 21,
+  "translation": "আৰু এই কথাটো এলোহিমৰ চকুত বেয়া লাগিল, আৰু তেওঁ ⟨את⟩ ইস্ৰাএলক আঘাত কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "বেয়া লাগিল"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চকুত"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমৰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ত"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথাটো"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "আঘাত কৰিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইস্ৰাএল"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰাএলক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:34:26.842585669Z",
+  "model": "glm-5.3"
+}

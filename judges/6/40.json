@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু এলোহিমে সেই নিশাত সেইদৰে কৰিলে; আৰু গোলাটোত অকলে শুকানতা হ'ল, আৰু সমগ্ৰ মাটিত শিশিৰ হ'ল।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "আৰু কৰিলে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেইদৰে"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "নিশাত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "শুকানতা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ত"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "গোলাটোত"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "অকলে"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আৰু ওপৰত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্ৰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "মাটি"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হ'ল"
+    },
+    {
+      "surface": "טל",
+      "gloss": "শিশিৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:22:43.063803755Z",
+  "model": "glm-5.3"
+}

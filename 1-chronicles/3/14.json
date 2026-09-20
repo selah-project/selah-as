@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আমোন তেওঁৰ পুতেক, য়োশিয়াহু তেওঁৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "আমোন"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "য়োশিয়াহু"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তেওঁৰ পুতেক"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:24.765943657Z",
+  "model": "glm-5.3"
+}

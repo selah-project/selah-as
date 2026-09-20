@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "পাচহুৰ, আমাৰিয়াহ, মালকিয়াহ,",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "পাচহুৰ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "আমাৰিয়াহ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "মালকিয়াহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:22:17.432505296Z",
+  "model": "glm-5.3"
+}

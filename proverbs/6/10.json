@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "অলপ টোপনি, অলপ তন্দ্ৰা, অলপ হাত দুখন সাৱটি ⟨শুৱাৰ বাবে⟩।",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "টোপনি"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "তন্দ্ৰা"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "অলপ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "সাৱটি লোৱা"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "হাত দুখন"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "শুৱাৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:15:56.498500967Z",
+  "model": "glm-5.3"
+}

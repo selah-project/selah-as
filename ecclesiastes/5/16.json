@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "ইয়াৰো লগত তেওঁৰ সকলো দিন অন্ধকাৰতে খায়, আৰু বহু ক্ষোভ, আৰু তেওঁৰ ৰোগ আৰু ক্ৰোধ ⟨সহাৰে⟩।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ইয়াৰো লগত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "তেওঁৰ দিন"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "অন্ধকাৰতে"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খায়"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "আৰু ক্ষোভ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "আৰু তেওঁৰ ৰোগ"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "আৰু ক্ৰোধ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:19.622563297Z",
+  "model": "glm-5.3"
+}

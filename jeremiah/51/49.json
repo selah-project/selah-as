@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "jeremiah 51:49",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 51,
+  "translation": "বাবিলো ইস্ৰায়েলৰ নিহতসকলৰ হেতু পৰিব; লগতে বাবিলত সকলো পৃথিৱীৰ নিহতসকলো পৰিল।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "লগতে"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাবিল"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "পৰিব"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "নিহতসকল"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "লগতে"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "বাবিলত"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "পৰিল"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "নিহতসকল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিৱীৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:27:49.105278855Z",
+  "model": "glm-5.3"
+}

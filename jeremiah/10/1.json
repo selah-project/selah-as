@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ইস্ৰায়েলৰ ঘৰৰ লোকসকল, ইয়াহৱেহে তোমালোকৰ ওচৰত কোৱা ⟨আת⟩ ⟨את⟩ বাক্যটো শুনা।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বাক্যটো"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "বাক্যটো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিটো"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কোৱা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "তোমালোকৰ ওচৰত"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘৰৰ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েল"
+    }
+  ],
+  "timestamp": "2026-09-20T01:03:05.317906502Z",
+  "model": "glm-5.3"
+}

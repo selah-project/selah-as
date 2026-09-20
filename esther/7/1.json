@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "তেতিয়া ৰজা আৰু হামান ৰাণী এস্তেৰৰ সৈতে মদ্যপান কৰিবলৈ ভিতৰলৈ সোমাল।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "সোমাল"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "আৰু হামান"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "মদ্যপান কৰিবলৈ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "এস্তেৰ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ৰাণী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:02:57.371103273Z",
+  "model": "glm-5.3"
+}

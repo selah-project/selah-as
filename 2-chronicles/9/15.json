@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "আৰু ৰজা শ্বেলোমোৱে পিটোৱা সোণৰ দুশখন ডাঙৰ ঢাল সাজিলে; এখন ডাঙৰ ঢালত পিটোৱা সোণৰ ছশা শ্বেকেল উঠিছিল।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "সাজিলে"
+    },
+    {
+      "surface": "হМЛך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্বেলোমোৱে"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুশ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ডাঙৰ ঢাল"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "পিটোৱা"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "পিটোৱা"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "উঠিছিল"
+    },
+    {
+      "surface": "על",
+      "gloss": "ত"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ডাঙৰ ঢালখন"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এখন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:42:20.279674715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "সেয়ে শ্বাউল মৰিল, তেওঁৰ তিনিটা পুতেকো মৰিল, আৰু তেওঁৰ গোটা ঘৰীয়া একেলগে মৰিল।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "মৰিল"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শ্বাউল"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "আৰু তিনিটা"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তেওঁৰ পুতেক"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আৰু গোটা"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "তেওঁৰ ঘৰীয়া"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "একেলগে"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "মৰিল"
+    }
+  ],
+  "timestamp": "2026-09-20T04:30:25.069175710Z",
+  "model": "glm-5.3"
+}

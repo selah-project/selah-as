@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 48,
+  "translation": "মোৱাবৰ বিপদ অহাৰ সময় ওচৰ চাপিছে, আৰু তাৰ দুৰ্যোগ অতি খৰধৰে আহিছে।",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ওচৰ চাপিছে"
+    },
+    {
+      "surface": "איד",
+      "gloss": "বিপদ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোৱাবৰ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "অহাৰ সময়"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "আৰু তাৰ দুৰ্যোগ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "খৰধৰে আহিছে"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অতি"
+    }
+  ],
+  "timestamp": "2026-09-20T01:23:49.205014541Z",
+  "model": "glm-5.3"
+}

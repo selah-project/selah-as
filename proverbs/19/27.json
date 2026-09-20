@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 19,
+  "translation": "মোৰ পুতেক, তাক শুনা বন্ধ কৰা যিয়ে জ্ঞানৰ কথাবোৰৰ পৰা পথভ্ৰষ্ট কৰে।",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "বন্ধ কৰা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "মোৰ পুতেক"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "অনুশাসন"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "পথভ্ৰষ্ট কৰে"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "কথাবোৰৰ পৰা"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    }
+  ],
+  "timestamp": "2026-09-20T03:23:22.985451950Z",
+  "model": "glm-5.3"
+}

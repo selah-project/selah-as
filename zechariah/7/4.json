@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু ইয়াহৱেহ চেভাওতৰ বাক্য মোলৈ আহিল, ক'বলৈ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ'ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "চেভাওতৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোলৈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:24:05.572553961Z",
+  "model": "glm-5.3"
+}

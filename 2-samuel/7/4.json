@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "সেই ৰাতিয়েই ইয়াহৱেহৰ বাক্য নাতানৰ ওচৰলৈ আহিল, এই দৰে কৈ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু এনেকৈ হ'ল"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ৰাতি"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "আহিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ৰ ওচৰলৈ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতান"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই দৰে কৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:50:49.866405016Z",
+  "model": "glm-5.3"
+}

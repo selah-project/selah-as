@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "সতৰা নম্বৰ হেজিৰলৈ, আঠাৰ নম্বৰ হাপ্পিচেচলৈ।",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "হেজিৰলৈ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "সতৰা"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "হাপ্পিচেচলৈ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "আঠ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "আঠাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:35:41.334039451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "তেওঁ তেওঁক ক'লে, “লগতে খুৰা আছে, লগতে দানা-পথিনি পৰ্যাপ্ত, লগতে ৰাতি কটাবলৈ ঠাই আছে।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "גם",
+      "gloss": "লগতে"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "খুৰা"
+    },
+    {
+      "surface": "גם",
+      "gloss": "লগতে"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "দানা-পথিনি"
+    },
+    {
+      "surface": "רב",
+      "gloss": "পৰ্যাপ্ত"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "আমাৰ ওচৰত"
+    },
+    {
+      "surface": "גם",
+      "gloss": "লগতে"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ঠাই"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "ৰাতি কটাবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T21:36:57.744108655Z",
+  "model": "glm-5.3"
+}

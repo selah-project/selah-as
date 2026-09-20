@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "মই বৃথ্য লোকসকলৰ লগত বহা নাই, আৰু গোপন কপটসকলৰ লগত মই সোমাওঁ নাই।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "বহা"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লগত"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "লোকসকল"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "বৃথ্য"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "আৰু লগত"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "গোপন কপটসকল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "সোমাওঁ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:36:31.117349725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 28,
+  "translation": "আৰু তুমি সোণৰ খাপ নিৰ্মাণ কৰিবা।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "নিৰ্মাণ কৰিবা"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "খাপ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোণৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:05:56.435717603Z",
+  "model": "glm-5.3"
+}

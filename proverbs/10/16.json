@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "ধাৰ্মিকৰ শ্ৰম জীৱনলৈ ⟨আগবঢ়ে⟩, দুষ্টৰ উৎপন্ন পাপলৈ ⟨আগবঢ়ে⟩।",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "শ্ৰম"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিকৰ"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "জীৱনলৈ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "উৎপন্ন"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্টৰ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "পাপলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:17:45.687574717Z",
+  "model": "glm-5.3"
+}

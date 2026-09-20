@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "ইস্ৰায়েলে ভাল ⟨বস্তু⟩ ত্যাগ কৰিলে; শত্ৰুৱে তাক খেদি যাব।",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "ত্যাগ কৰিলে"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "শত্ৰুৱে"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "খেদি যাব"
+    }
+  ],
+  "timestamp": "2026-09-20T02:05:21.770312801Z",
+  "model": "glm-5.3"
+}

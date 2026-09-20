@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "আৰু উৎসৰ্গৰ মাংসৰ যি অৱশিষ্ট তৃতীয় দিনলৈ থাকে, সেয়া অগ্নিত দাহ কৰা হ'ব।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "আৰু অৱশিষ্ট"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "মাংসৰ পৰা"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "উৎসৰ্গৰ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনত"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "তৃতীয়"
+    },
+    {
+      "surface": "באש",
+      "gloss": "অগ্নিত"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "দাহ কৰা হ'ব"
+    }
+  ],
+  "timestamp": "2026-09-19T22:15:18.927590756Z",
+  "model": "glm-5.3"
+}

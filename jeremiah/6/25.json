@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "মাঠলৈ নাযাবা, আৰু পথেদি নখোজাবা, কিয়নো শত্ৰুৰ তৰোৱাল ⟨আছে⟩ — চাৰিওফালে ভয়।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নাযাবা"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "ওলাই নাযাবা"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "মাঠলৈ"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "আৰু পথেদি"
+    },
+    {
+      "surface": "אל",
+      "gloss": "নখোজাবা"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "খোজ নকৰিবা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "তৰোৱাল"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "শত্ৰুৰ"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "চাৰিওফালে"
+    }
+  ],
+  "timestamp": "2026-09-20T00:59:44.331446477Z",
+  "model": "glm-5.3"
+}

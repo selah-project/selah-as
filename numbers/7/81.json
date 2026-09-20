@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এটা পাৰ, গৰু-পালৰ পোৱালি; এটা ভেড়া; এটা মেৰনি, এবছৰীয়া পোৱালি — দাহ-উৎসৰ্গৰ বাবে।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "পাৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পোৱালি"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "গৰু-পালৰ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ভেড়া"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "মেৰনি"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পোৱালি"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "এবছৰীয়া"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "দাহ-উৎসৰ্গৰ বাবে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:32:57.550970450Z",
+  "model": "glm-5.3"
+}

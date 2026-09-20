@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "যদি সাপে ⟨মন্ত্ৰ≫ অবিহনে দংশন কৰে, তেন্তে জিভাৰ গৰাকীৰ কোনো লাভ নাই।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "দংশন কৰে"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "সাপ"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "অবিহনে"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "মন্ত্ৰ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "তেন্তে নাই"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "গৰাকীৰ"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "জিভাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:22.698627014Z",
+  "model": "glm-5.3"
+}

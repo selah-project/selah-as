@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "এই সকলোবোৰ মই প্ৰজ্ঞাৰে পৰীক্ষা কৰিলোঁ; মই ক'লোঁ, “মই জ্ঞানী হ'ম”; কিন্তু সি মোৰ পৰা বহু দূৰ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলোবোৰ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "পৰীক্ষা কৰিলোঁ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "প্ৰজ্ঞাৰে"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ক'লোঁ"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "জ্ঞানী হ'ম"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "কিন্তু সি"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "দূৰ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "মোৰ পৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:24.483621415Z",
+  "model": "glm-5.3"
+}

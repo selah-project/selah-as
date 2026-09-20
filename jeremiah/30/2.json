@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "এইদৰে ইয়াহৱেহে, ইস্ৰায়েলৰ এলোহিমে ক'লে, “মই তোমাক যি সকলো কথা কৈছোঁ, সেই সকলো ⟨את⟩ এখন পুথিত লিকা।”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "এইদৰে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্ৰায়েলৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "লিকা"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাৰ বাবে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সকলো কথা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলো"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "কৈছোঁ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "পুথিত"
+    }
+  ],
+  "timestamp": "2026-09-20T05:16:54.071638158Z",
+  "model": "glm-5.3"
+}

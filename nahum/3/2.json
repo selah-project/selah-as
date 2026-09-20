@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "চাবুকৰ শব্দ আৰু চকাৰ কোলাহল, দৌৰি থকা ঘোঁৰা আৰু নাচি ফুৰা ৰথ।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "শব্দ"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "চাবুক"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "আৰু শব্দ"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "কোলাহল"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "চকা"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "আৰু ঘোঁৰা"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "দৌৰি থকা"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "আৰু ৰথ"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "নাচি ফুৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:17:11.475274137Z",
+  "model": "glm-5.3"
+}

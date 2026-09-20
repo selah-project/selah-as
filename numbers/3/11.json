@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 3:11",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "আৰু ইয়াহৱেহে মোশ্বেৰ সৈতে কথা পাতিলে, ক'বলৈ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সৈতে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:28:40.398538944Z",
+  "model": "glm-5.3"
+}

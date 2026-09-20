@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 15:9",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "হেভ্ৰোনৰ পুত্ৰসকলৰ মাজত এলিয়েল সৰদাৰ, আৰু তেওঁৰ ভাতৃসকল আশীজন।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "পুত্ৰসকলৰ মাজত"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "হেভ্ৰোন"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "এলিয়েল"
+    },
+    {
+      "surface": "השר",
+      "gloss": "সৰদাৰ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "আৰু তেওঁৰ ভাতৃসকল"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "আশীজন"
+    }
+  ],
+  "timestamp": "2026-09-20T04:31:54.975228807Z",
+  "model": "glm-5.3"
+}

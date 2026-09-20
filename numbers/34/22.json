@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "আৰু দানৰ পুতেকসকলৰ শাখাৰ ⟨বাবে⟩ নেতা বুক্কি, য়োগ্লিৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "আৰু শাখাৰ বাবে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুতেকসকলৰ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দানৰ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নেতা"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "বুক্কি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "য়োগ্লিৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:47:21.418740906Z",
+  "model": "glm-5.3"
+}

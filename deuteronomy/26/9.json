@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু আমাক এই ঠাইলৈ আনিলে; আৰু আমাক এই দেশ দিলে — গাখীৰ আৰু মৌ-জাঁৰে বৈ থকা দেশ।",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "আনিলে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-লৈ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "এই ঠাই"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "দিলে"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাক"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই দেশ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "বৈ থকা"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "গাখীৰ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "আৰু মৌ-জাঁ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:01:02.263067754Z",
+  "model": "glm-5.3"
+}

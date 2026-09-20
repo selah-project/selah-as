@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "পঞ্চম শ্বেফাতিয়াহ, অবিতালৰ; ষষ্ঠ যিত্ৰেৱাম, তেওঁৰ পত্নী এগ্লাৰ।",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "পঞ্চম"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "শ্বেফাতিয়াহ"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "অবিতালৰ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ষষ্ঠ"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "যিত্ৰেৱাম"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "এগ্লাৰ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "তেওঁৰ পত্নী"
+    }
+  ],
+  "timestamp": "2026-09-20T04:26:40.842863698Z",
+  "model": "glm-5.3"
+}

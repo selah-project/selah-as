@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 25,
+  "translation": "সেয়ে ⟨তেওঁক⟩ কোৱা: চোৱা, মই তেওঁক মোৰ শান্তিৰ চুক্তি ⟨את⟩ দিছোঁ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "সেয়ে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "কোৱা"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "চোৱা, মই"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "দিছোঁ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তেওঁক"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মোৰ চুক্তি"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "মোৰ চুক্তি"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তিৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:41:35.706839625Z",
+  "model": "glm-5.3"
+}

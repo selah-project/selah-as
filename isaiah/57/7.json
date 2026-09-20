@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "as",
+  "chapter": 57,
+  "translation": "ওখ আৰু উন্নত পাহাৰৰ ওপৰত তুমি নিজৰ শয্যা পাতিলা; তাতো তুমি উঠি গ'লা বলি দিবলৈ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পাহাৰৰ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ওখ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "আৰু উন্নত"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "পাতিলা"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "তোমাৰ শয্যা"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "שם",
+      "gloss": "তাত"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "তুমি উঠি গ'লা"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "বলি দিবলৈ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "বলি"
+    }
+  ],
+  "timestamp": "2026-09-20T00:53:34.014413991Z",
+  "model": "glm-5.3"
+}

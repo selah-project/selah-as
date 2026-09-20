@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "মই কি সাগৰ, নে ⟨সাগৰ-দানৱ⟩, যে তুমি মোৰ ওপৰত পাহাৰা ৰাখিছা?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "কি সাগৰ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নে"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "⟨সাগৰ-দানৱ⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ৰাখিছা"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "মোৰ ওপৰত"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "পাহাৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:30:52.288254455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 119,
+  "translation": "মোৰ প্ৰাণ ⟨is⟩ সদায় মোৰ হাতত, কিন্তু তোমাৰ তোৰা মই পাহৰা নাই।",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "মোৰ প্ৰাণ"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "মোৰ হাতত"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "সদায়"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "আৰু তোমাৰ তোৰা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "পাহৰা"
+    }
+  ],
+  "timestamp": "2026-09-20T03:05:51.044836783Z",
+  "model": "glm-5.3"
+}

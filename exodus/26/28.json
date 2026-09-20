@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "as",
+  "chapter": 26,
+  "translation": "আৰু মাজৰ দণ্ডডাল ফলিবোৰৰ মাজতেদি এই মূৰৰ পৰা সেই মূৰলৈকে সোমাই যাব।",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "আৰু দণ্ডডাল"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "মাজৰ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "মাজতেদি"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ফলিবোৰৰ"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "সোমাই যাব"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "মূৰৰ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "মূৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:04:16.310189171Z",
+  "model": "glm-5.3"
+}

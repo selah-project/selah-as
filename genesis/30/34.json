@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "as",
+  "chapter": 30,
+  "translation": "আৰু লবনে ক'লে, “চাওক, হওক তোমাৰ কথা অনুসৰি।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আৰু ক'লে"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "লবনে"
+    },
+    {
+      "surface": "הן",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "לו",
+      "gloss": "হওক"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "তোমাৰ কথা অনুসৰি"
+    }
+  ],
+  "timestamp": "2026-09-19T21:40:57.781861062Z",
+  "model": "glm-5.3"
+}

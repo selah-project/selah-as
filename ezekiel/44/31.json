@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 44,
+  "translation": "চৰাই আৰু পশুৰ কোনো মৃতক আৰু চিকাৰত পৰা জীৱ পুৰোহিতসকলে নাখাব।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "মৃতক"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "আৰু চিকাৰত পৰা জীৱ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...ৰ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "চৰাই"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "আৰু ...ৰ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "পশু"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "খাব"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "পুৰোহিতসকলে"
+    }
+  ],
+  "timestamp": "2026-09-20T01:58:18.030615523Z",
+  "model": "glm-5.3"
+}

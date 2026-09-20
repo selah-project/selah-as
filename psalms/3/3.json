@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 3,
+  "translation": "বহুতে মোৰ প্ৰাণলৈ কয়, “তাৰ বাবে এলোহিমত ⟨উদ্ধাৰ⟩ নাই।” চেলা।",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "বহুতে"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "কয়"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "মোৰ প্ৰাণলৈ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "উদ্ধাৰ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাৰ বাবে"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "এলোহিমত"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "চেলা"
+    }
+  ],
+  "timestamp": "2026-09-20T02:29:32.300026187Z",
+  "model": "glm-5.3"
+}

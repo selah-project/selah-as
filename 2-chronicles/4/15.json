@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "as",
+  "chapter": 4,
+  "translation": "⟨את⟩ এটা সাগৰ, আৰু ⟨את⟩ বাৰটা গৰু তাৰ তলত।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সাগৰ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সাগৰ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "গৰুবোৰ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "গৰু"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "তাৰ তলত"
+    }
+  ],
+  "timestamp": "2026-09-20T04:39:52.940250210Z",
+  "model": "glm-5.3"
+}

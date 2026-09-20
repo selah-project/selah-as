@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "as",
+  "chapter": 5,
+  "translation": "সেই নিশাই কাশ্দীসকলৰ ৰজা বেলশ্বাৎচাৰ নিহত হ'ল।",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "בליײיא",
+      "gloss": "নিশাই"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "নিহত হ'ল"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "বেলশ্বাৎচাৰ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "কাশ্দীসকলৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:05:01.991841983Z",
+  "model": "glm-5.3"
+}

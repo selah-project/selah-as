@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 47,
+  "translation": "আৰু পশ্চিম দিশ — ডাঙৰ সাগৰ, সীমাৰ পৰা হামাতলৈ প্ৰৱেশৰ সন্মুখলৈকে; এইয়া পশ্চিম দিশ।",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "আৰু দিশ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "পশ্চিম"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সাগৰ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ডাঙৰ"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "সীমাৰ পৰা"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "সন্মুখত"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "প্ৰৱেশ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "হামাত"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এইয়া"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "দিশ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "পশ্চিম"
+    }
+  ],
+  "timestamp": "2026-09-20T01:59:39.387290440Z",
+  "model": "glm-5.3"
+}

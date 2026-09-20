@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "সংকট আহিছে; আৰু তেওঁলোকে শান্তি বিচাৰিব, আৰু তাক পোৱা ন'গ'ল।",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "সংকট"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহিছে"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "বিচাৰিব"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "নাই"
+    }
+  ],
+  "timestamp": "2026-09-20T01:30:34.739813208Z",
+  "model": "glm-5.3"
+}

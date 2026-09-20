@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 15,
+  "translation": "তেওঁ ⟨নিজৰ⟩ কেইপইচা সূদত নিদিয়ে, আৰু নিৰ্দোষজনৰ বিৰুদ্ধে ঘুষ নলয়; এইবোৰ কৰাজন চিৰকাল লৰচৰ নকৰে।",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "নিজৰ কেইপইচা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "দিয়ে"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "সূদত"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "আৰু ঘুষ"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিৰুদ্ধে"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "নিৰ্দোষজনৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "লয়"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কৰাজন"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইবোৰ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "লৰচৰ কৰে"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিৰকাল"
+    }
+  ],
+  "timestamp": "2026-09-20T02:30:51.274456292Z",
+  "model": "glm-5.3"
+}

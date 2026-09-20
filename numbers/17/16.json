@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 17,
+  "translation": "আৰু ইয়াהৱেহে মোশ্বেৰ ওচৰলৈ ক'বলৈ কথা পাতিলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা পাতিলে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ওচৰলৈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশ্বেৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক'বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-19T22:37:01.367202552Z",
+  "model": "glm-5.3"
+}

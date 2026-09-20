@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 81,
+  "translation": "নতুন চন্দ্ৰত শফাৰ বজাওক, পূৰ্ণিমাত, আমাৰ উৎসৱৰ দিনা।",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "বজাওক"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "নতুন চন্দ্ৰত ⟨মাহত⟩"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "শফাৰ"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "পূৰ্ণিমাত"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "…ৰ দিনা"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "আমাৰ উৎসৱ"
+    }
+  ],
+  "timestamp": "2026-09-20T02:53:27.597139700Z",
+  "model": "glm-5.3"
+}

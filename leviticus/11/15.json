@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "as",
+  "chapter": 11,
+  "translation": "⟨את⟩ প্ৰতিটো কাউৰী, তাৰ প্ৰকাৰ অনুসাৰে।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "প্ৰতিটো কাউৰী"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্ৰতিটো"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "কাউৰী"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "তাৰ প্ৰকাৰ অনুসাৰে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:16:55.618464599Z",
+  "model": "glm-5.3"
+}

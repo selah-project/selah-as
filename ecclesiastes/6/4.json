@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "কিয়নো সি হেবেলত ⟨আহে⟩, আৰু অন্ধকাৰত যায়, আৰু অন্ধকাৰতেই তাৰ নাম ঢাক খায়।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "হেবেলত"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আহে"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "আৰু অন্ধকাৰত"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "যায়"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "আৰু অন্ধকাৰত"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তাৰ নাম"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ঢাক খায়"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:56.622922196Z",
+  "model": "glm-5.3"
+}

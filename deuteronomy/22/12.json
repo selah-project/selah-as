@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "তুমি নিজৰ বাবে গোঁজ-সূতা বনাবা, তোমাৰ কাপোৰৰ চাৰিওটা কাষত, যি কাপোৰেৰে তুমি নিজক ঢাকি।",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "গোঁজ-সূতা"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "তুমি বনাবা"
+    },
+    {
+      "surface": "לך",
+      "gloss": "নিজৰ বাবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপৰত"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চাৰি"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "কাষ"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "তোমাৰ কাপোৰৰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "তুমি ঢাকি"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাৰে"
+    }
+  ],
+  "timestamp": "2026-09-19T22:58:16.276600059Z",
+  "model": "glm-5.3"
+}

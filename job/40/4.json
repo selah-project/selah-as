@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "as",
+  "chapter": 40,
+  "translation": "চাওক, মই তুচ্ছ; মই আপোনাক কি উত্তৰ দিম? মোৰ হাত মোৰ মুখত ৰাখিলোঁ।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "চাওক"
+    },
+    {
+      "surface": "קלতי",
+      "gloss": "মই তুচ্ছ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কি"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "আপোনাক উত্তৰ দিম"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "মোৰ হাত"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ৰাখিলোঁ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ত"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মোৰ মুখ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:45:47.053709820Z",
+  "model": "glm-5.3"
+}

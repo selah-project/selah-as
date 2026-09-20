@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 112,
+  "translation": "কিয়নো ⟨he⟩ চিৰকাল নকোৰাব — ধাৰ্মিকজন চিৰন্তন স্মৃতিত থাকিব।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিৰকাল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নহয়"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "নকোৰাব"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "স্মৃতিত"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "চিৰন্তন"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকিব"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিকজন"
+    }
+  ],
+  "timestamp": "2026-09-20T03:02:24.514720267Z",
+  "model": "glm-5.3"
+}

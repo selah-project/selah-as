@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "প্ৰজ্ঞাই জ্ঞানীজনক দহজন শাসকতকৈও অধিক বল দিয়ে — ⟨সেই শাসকসকল⟩ যিসকল নগৰত আছিল।",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "প্ৰজ্ঞাই"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "বল দিয়ে"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "জ্ঞানীজনক"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "দহজনতকৈও অধিক"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "শাসক"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিসকল"
+    },
+    {
+      "surface": "היו",
+      "gloss": "আছিল"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "নগৰত"
+    }
+  ],
+  "timestamp": "2026-09-20T03:58:07.366152082Z",
+  "model": "glm-5.3"
+}

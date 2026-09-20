@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "অতি ধাৰ্মিক নোহোৱাঁ, আৰু অতি জ্ঞানী নোহোৱাঁ — কিয় নিজকে ধ্বংস কৰিবা?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "নোহোৱাঁ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "হ'ব"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিক"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "অতি"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আৰু নোহোৱাঁ"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "জ্ঞানী হ'ব"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "অতি"
+    },
+    {
+      "surface": "למה",
+      "gloss": "কিয়"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "নিজকে ধ্বংস কৰিবা"
+    }
+  ],
+  "timestamp": "2026-09-20T05:25:46.339060454Z",
+  "model": "glm-5.3"
+}

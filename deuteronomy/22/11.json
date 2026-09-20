@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "as",
+  "chapter": 22,
+  "translation": "মিহলি কাপোৰ ⟨শ্বাʿatনেজ⟩ — উল আৰু শণ লগত — তুমি নপিন্ধিবা।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ন"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "নপিন্ধিবা"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "শ্বাʿতনেজ ⟨মিহলি কাপোৰ⟩"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "উল"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "আৰু শণ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "লগত"
+    }
+  ],
+  "timestamp": "2026-09-19T22:58:16.276456663Z",
+  "model": "glm-5.3"
+}

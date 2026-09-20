@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 147,
+  "translation": "তেওঁ বস্ত্ৰৰ দৰে বৰফ দিয়ে, ছাইৰ দৰে পালেমাখি সিঁচি দিয়ে।",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "দিয়ে"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "বৰফ"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "বস্ত্ৰৰ দৰে"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "পালেমাখি"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "ছাইৰ দৰে"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "সিঁচি দিয়ে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:11:52.413005071Z",
+  "model": "glm-5.3"
+}

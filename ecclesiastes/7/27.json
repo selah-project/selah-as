@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "চাওঁক, এইটো মই পাইছোঁ — ক'হালেতে ক'লে — এটাৰ পাছত এটা ধৰি হিচাব উলিয়াবলৈ।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "চাওঁক"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এইটো"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "মই পাইছোঁ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ক'হালেতে"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এটাৰ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "পাছত এটা"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "উলিয়াবলৈ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "হিচাব"
+    }
+  ],
+  "timestamp": "2026-09-20T03:57:56.345639746Z",
+  "model": "glm-5.3"
+}

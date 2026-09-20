@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "আৰু ইয়াহৱেহৰ দাস য়েহোশ্বুৱা — নূনৰ পুতেক — এশ দহ বছৰ বয়সত মৃত্যুবৰণ কৰিলে।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "মৃত্যুবৰণ কৰিলে"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "য়েহোশ্বুৱা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "נון",
+      "gloss": "নূনৰ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বয়সত"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এশ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "দহ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছৰ"
+    }
+  ],
+  "timestamp": "2026-09-19T23:19:06.742554547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "as",
+  "chapter": 13,
+  "translation": "আৰু ইয়াহৱেহৰ বাক্য ⟨মোৰ ওচৰত⟩ দ্বিতীয়বাৰ আহিল, ⟨ক’বলৈ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আৰু হ’ল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "মোৰ ওচৰত"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "দ্বিতীয়বাৰ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ক’বলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:06:07.004590805Z",
+  "model": "glm-5.3"
+}

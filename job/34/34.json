@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 34:34",
+  "book": "job",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "হৃদয়ৰ মানুহসকলে মোক ক'ব, আৰু জ্ঞানী পুৰুষে মোক শুনি ⟨ক'ব⟩।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "মানুহসকলে"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "হৃদয়ৰ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ক'ব"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "আৰু পুৰুষ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "শুনি"
+    },
+    {
+      "surface": "לי",
+      "gloss": "মোক"
+    }
+  ],
+  "timestamp": "2026-09-20T03:43:27.628454552Z",
+  "model": "glm-5.3"
+}

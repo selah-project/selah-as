@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু হামানে ৰজাক ক'লে, “যি মানুহক ৰজাই সন্মান কৰিবলৈ ইচ্ছা কৰে, তেওঁৰ বাবে —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ক'লে"
+    },
+    {
+      "surface": "המן",
+      "gloss": "হামানে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ৰজাক"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজা"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুহক"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যি"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ৰজাই"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ইচ্ছা কৰে"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "সন্মান কৰিবলৈ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:00:54.156952244Z",
+  "model": "glm-5.3"
+}

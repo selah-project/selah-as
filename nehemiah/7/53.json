@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "বাকবুকৰ সন্তানসকল, চাকুফাৰ সন্তানসকল, চৰচুৰৰ সন্তানসকল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "বাকবুকৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "চাকুফাৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "চৰচুৰৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:21:05.172240515Z",
+  "model": "glm-5.3"
+}

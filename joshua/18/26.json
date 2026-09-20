@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "as",
+  "chapter": 18,
+  "translation": "আৰু মিচপেহ, আৰু কফিৰা, আৰু মোচা।",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "আৰু মিচপেহ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "আৰু কফিৰা"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "আৰু মোচা"
+    }
+  ],
+  "timestamp": "2026-09-19T23:15:34.955185365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "as",
+  "chapter": 10,
+  "translation": "বিন্যামিন, মাল্লুখ, চেমাৰায়াহ।",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "বিন্যামিন"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "মাল্লুখ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "চেমাৰায়াহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:16:48.092591329Z",
+  "model": "glm-5.3"
+}

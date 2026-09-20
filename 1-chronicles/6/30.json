@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "হচবিয়াৰ পুতেক, আমাত্চিয়াৰ পুতেক, হিলকিয়াৰ পুতেক।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "হচবিয়াৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "আমাত্চিয়াৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুতেক"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "হিলকিয়াৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:27:59.333735413Z",
+  "model": "glm-5.3"
+}

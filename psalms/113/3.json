@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "as",
+  "chapter": 113,
+  "translation": "সূৰ্যৰ উদয়ৰ পৰা তাৰ অস্তৰ লৈকে ইয়াহৱেহৰ নাম স্তুতিয়া।",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "উদয়ৰ পৰা"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "সূৰ্যৰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "লৈকে"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "অস্তৰ"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "স্তুতিয়া"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T03:02:41.559235088Z",
+  "model": "glm-5.3"
+}

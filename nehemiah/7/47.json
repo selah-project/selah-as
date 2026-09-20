@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "কেৰোচৰ সন্তানসকল, চিয়াৰ সন্তানসকল, পাদোনৰ সন্তানসকল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "কেৰোচৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "চিয়াৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানসকল"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "পাদোনৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:20:55.167031372Z",
+  "model": "glm-5.3"
+}

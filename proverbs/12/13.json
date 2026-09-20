@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 12,
+  "translation": "ওঁঠৰ অপৰাধত দুষ্টৰ ফান্দ ⟨আছে⟩, আৰু ধাৰ্মিকজনে বিপদৰ পৰা ওলাই আহে।",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "অপৰাধত"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ওঁঠৰ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ফান্দ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "দুষ্টৰ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ওলাই আহে"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "বিপদৰ পৰা"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধাৰ্মিকজনে"
+    }
+  ],
+  "timestamp": "2026-09-20T03:18:40.425194185Z",
+  "model": "glm-5.3"
+}

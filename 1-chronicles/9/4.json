@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 9,
+  "translation": "উথাই — আম্মিহূদৰ পুত্ৰ, ওম্ৰিৰ পুত্ৰ, ইম্ৰিৰ পুত্ৰ, বানিৰ পুত্ৰ — পেৰেচৰ পুত্ৰসকলৰ, যিহূদাৰ পুত্ৰৰ।",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "উথাই"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "আম্মিহূদৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ওম্ৰিৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ইম্ৰিৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "বানিৰ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ৰসকলৰ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "পেৰেচৰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্ৰ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদাৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:30:25.063198344Z",
+  "model": "glm-5.3"
+}

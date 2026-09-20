@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 2,
+  "translation": "অভেদে ⟨את⟩ য়েহুক জন্ম দিলে, আৰু য়েহুৱে ⟨את⟩ আজাৰ্যাহক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "অভেদে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "য়েহুক"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "য়েহু"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "য়েহুৱে"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আজাৰ্যাহক"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "আজাৰ্যাহ"
+    }
+  ],
+  "timestamp": "2026-09-20T04:25:20.390759897Z",
+  "model": "glm-5.3"
+}

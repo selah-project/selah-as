@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 34,
+  "translation": "সেয়েহে হে পালকসকল, ইয়াহৱেহৰ বাক্য ⟨את⟩ শুনা।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "সেয়েহে"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "হে পালকসকল"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শুনা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বাক্য"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহৰ"
+    }
+  ],
+  "timestamp": "2026-09-20T01:48:41.580380176Z",
+  "model": "glm-5.3"
+}
