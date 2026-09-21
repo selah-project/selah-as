@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "as",
+  "chapter": 7,
+  "translation": "ten ⟨shekels⟩ of gold, one ladle, full of incense.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ladle"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "one"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "of gold"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "full"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "of incense"
+    }
+  ],
+  "timestamp": "2026-09-21T15:20:41.589210048Z",
+  "model": "glm-5.3"
+}

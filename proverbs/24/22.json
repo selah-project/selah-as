@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 24,
+  "translation": "কিয়নো হঠাৎ তেওঁলোকৰ বিপদ উঠিব, আৰু সিহঁত দুয়োটাৰ বিনাশ কোনে জানে?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কিয়নো"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "হঠাৎ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "উঠিব"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "বিপদ"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "আৰু বিনাশ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "দুয়োটাৰ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কোনে"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জানে"
+    }
+  ],
+  "timestamp": "2026-09-21T15:22:01.198734351Z",
+  "model": "glm-5.3"
+}

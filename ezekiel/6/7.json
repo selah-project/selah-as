@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "as",
+  "chapter": 6,
+  "translation": "আৰু নিহতসকল তোমালোকৰ মাজত পৰিব, আৰু তোমালোকে জানিব যে মই ইয়াহৱেহ।",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "আৰু পৰিব"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "নিহত"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "তোমালোকৰ মাজত"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "আৰু তোমালোকে জানিব"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אני",
+      "gloss": "মই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহৱেহ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:21:36.137344489Z",
+  "model": "glm-5.3"
+}

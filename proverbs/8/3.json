@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "দুৱাৰবোৰৰ কাষত, নগৰৰ মুখত, প্ৰৱেশপথবোৰৰ প্ৰৱেশত তেওঁ জয়ধ্বনি কৰে।",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "কাষত"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "দুৱাৰবোৰৰ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "মুখত"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "নগৰৰ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "প্ৰৱেশত"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "প্ৰৱেশপথবোৰৰ"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "জয়ধ্বনি কৰে"
+    }
+  ],
+  "timestamp": "2026-09-21T15:22:18.079503229Z",
+  "model": "glm-5.3"
+}

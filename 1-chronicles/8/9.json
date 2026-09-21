@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "as",
+  "chapter": 8,
+  "translation": "আৰু তেওঁ নিজৰ পত্নী হোদেচৰ পৰা ⟨את⟩ যোবাব, ⟨ואת⟩ চিব্যা, ⟨ואת⟩ মেইচা আৰু ⟨ואת⟩ মলকামক জন্ম দিলে।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলে"
+    },
+    {
+      "surface": "מן",
+      "gloss": "পৰা"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "হোদেচ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "নিজৰ পত্নী"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "যোবাব"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "যোবাব"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "চিব্যা"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "চিব্যা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "মেইচা"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "মেইচা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "মলকাম"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "মলকাম"
+    }
+  ],
+  "timestamp": "2026-09-21T15:21:52.324402021Z",
+  "model": "glm-5.3"
+}
