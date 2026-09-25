@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "as",
   "chapter": 40,
-  "translation": "The word that came to Yirmeiahu from ⟨את⟩ Yahweh, after Nevuzaradan, chief of the guardsmen, had sent him ⟨את⟩ from Ramah, when he took him ⟨את⟩ — and he was bound in chains — in the midst of the whole exile of Yerushalaim and Yehudah, who were being exiled to Bavel.",
+  "translation": "The word that came to Yirmeiahu from ⟨את⟩ ইয়াহৱেহ, after Nevuzaradan, chief of the guardsmen, had sent him ⟨את⟩ from Ramah, when he took him ⟨את⟩ — and he was bound in chains — in the midst of the whole exile of Yerushalaim and Yehudah, who were being exiled to Bavel.",
   "tokens": [
     {
       "surface": "הדבר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ইয়াহৱেহ"
     },
     {
       "surface": "אחר",

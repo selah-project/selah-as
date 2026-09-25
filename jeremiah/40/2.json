@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "as",
   "chapter": 40,
-  "translation": "And the chief of the guardsmen took Yirmeiahu and said to him, “Yahweh, your Elohim, spoke ⟨את⟩ this disaster upon this place —”",
+  "translation": "And the chief of the guardsmen took Yirmeiahu and said to him, “ইয়াহৱেহ, your Elohim, spoke ⟨את⟩ this disaster upon this place —”",
   "tokens": [
     {
       "surface": "ויקח",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ইয়াহৱেহ"
     },
     {
       "surface": "אלהיך",
