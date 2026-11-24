@@ -11,7 +11,7 @@
 - ভুল আৰু তাৰ শুধৰণি দুয়োটা স্পষ্ট হ'লে — এটা **Pull request**
   খোলক।
 - ছফ্টৱেৰ বা সুৰক্ষাৰ প্ৰশ্ন —
-  [Selah Support](https://selahproject.com/support)।
+  [Selah Support](https://s33k3r.com/learn/support)।
 
 ## যি সলনি কৰা নহয়
 
